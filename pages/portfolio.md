@@ -1,10 +1,10 @@
 --- 
 layout: page
-title : Portfolio 
-permalink: /portfolio/
-subtitle: "Projects I am working on" 
-feature-img: "assets/img/pexels/computer.jpeg"
-tags: [Archive]
+title : Resources 
+permalink: /resources/
+subtitle: "AGU Data & Software Sharing Resources" 
+feature-img: "assets/img/pexels/AGU-Stock-College-Education-Students.jpg"
+tags: [Resources]
 ---
 
-{% include portfolio.html %}
+{% include resources.html %}
