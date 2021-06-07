@@ -13,8 +13,8 @@ layout: page
     {% endif %}
     {% endfor %}
 
-    <!-- cycles through portfolio collection to get tags -->
-    {% assign portfolio = site.resources | map: 'tags' | join: ',' | split: ',' | uniq %}
+    <!-- cycles through resources collection to get tags -->
+    {% assign resources = site.resources | map: 'tags' | join: ',' | split: ',' | uniq %}
     {% for tag in resources %}
     {% assign resources_tags = tag | join: '|' | append: '|' %}
     {% assign rawtags = rawtags | append: resources_tags %}
