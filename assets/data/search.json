@@ -12,8 +12,8 @@
   "content"  : {{ post.content | strip_html | escape | jsonify }}
 } {% unless forloop.last %},{% endunless %}
   {% endfor %}
-  {% if site.portfolio.size > 0 %},{% endif %}
-  {% for page in site.portfolio %}
+  {% if site.resources.size > 0 %},{% endif %}
+  {% for page in site.resources %}
   {
   {% if page.title != nil %}
   "title"    : "{{ page.title | strip_newlines | escape }}",
