@@ -14,10 +14,10 @@ layout: page
     {% endfor %}
 
     <!-- cycles through portfolio collection to get tags -->
-    {% assign portfolio = site.portfolio | map: 'tags' | join: ',' | split: ',' | uniq %}
-    {% for tag in portfolio %}
-    {% assign portfolio_tags = tag | join: '|' | append: '|' %}
-    {% assign rawtags = rawtags | append: portfolio_tags %}
+    {% assign portfolio = site.resources | map: 'tags' | join: ',' | split: ',' | uniq %}
+    {% for tag in resources %}
+    {% assign resources_tags = tag | join: '|' | append: '|' %}
+    {% assign rawtags = rawtags | append: resources_tags %}
     {% endfor %}
 
     <!-- cycles through pages to get tags -->
@@ -71,7 +71,7 @@ layout: page
             {% endfor %}
 
             <!-- Portfolio -->
-            {% for note in site.portfolio %}
+            {% for note in site.resources %}
             {% if note.tags contains tag %}
             <h5 class="tag-title">
                 <a href="{{ note.url | relative_url }}">
