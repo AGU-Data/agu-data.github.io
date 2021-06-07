@@ -4,7 +4,7 @@ title: Cake
 feature-img: "assets/img/resources/cake.png"
 img: "assets/img/resources/cake.png"
 date: 27 September 2015
-tags: [Lorem, Ipsum, Portfolio]
+tags: [Lorem, Ipsum, Resources]
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
