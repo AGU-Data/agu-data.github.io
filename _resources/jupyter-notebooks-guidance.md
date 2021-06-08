@@ -2,7 +2,7 @@
 layout: post
 title: Guidance for AGU Authors - Jupyter Notebooks
 feature-img: "assets/img/resources/jupyter-logo.png"
-img: "assets/img/pexels/AGU-stars-silhouette-night-1314x400.jpg"
+img: "assets/img/resources/jupyter-logo.png"
 date: 14 June 2021
 tags: [Jupyter, Resources]
 ---
