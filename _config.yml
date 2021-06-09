@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/agu-data-leadership"
+baseurl: 
 url: "https://agu-data.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
