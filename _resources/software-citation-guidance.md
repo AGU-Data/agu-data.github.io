@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Software Citation - 5 Tips   
-feature-img: "assets/img/resources/ORCIDiD_icon128x128.png"
+feature-img: "assets/img/pexels/AGU-Stock-Underwater-Rocks-Sunlight-1314x400.jpg"
 img: "assets/img/resources/ORCIDiD_icon128x128.png"
 date: 14 June 2021
 tags: [PARSEC, Resources]
