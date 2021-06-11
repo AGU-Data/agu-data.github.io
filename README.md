@@ -23,6 +23,10 @@ Contribute via:
 
 [AGU Meetings Code of Conduct](https://www.agu.org/Plan-for-a-Meeting/AGUMeetings/Meetings-Resources/Meetings-code-of-conduct)
 
+## Theme  
+
+The AGU Data Leadership Program website uses the [Type on Strap](https://github.com/sylhare/Type-on-Strap) theme.
+
 ## Authors
 
 AGU Data Leadership Program website is authored and maintained by the AGU Data Leadership team and through issues, commits, and pull requests from the community.
