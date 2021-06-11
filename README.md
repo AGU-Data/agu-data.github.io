@@ -16,8 +16,8 @@ license](https://creativecommons.org/licenses/by/4.0/).
 
 Contribute via:
 
-- Issues
-- Pull Requests
+- [Issues](https://github.com/AGU-Data/agu-data.github.io/issues)
+- [Pull Requests](https://github.com/AGU-Data/agu-data.github.io/pulls)
 
 ## Code of Conduct
 
