@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Presence Checklist and Tutorial to better connect your research, data, software and institution 
+title: Digital Presence - Connect your research for better discovery 
 feature-img: "assets/img/resources/ORCIDiD_icon128x128.png"
 img: "assets/img/resources/ORCIDiD_icon128x128.png"
 date: 14 June 2021
