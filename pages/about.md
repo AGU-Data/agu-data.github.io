@@ -22,11 +22,9 @@ Email: [DataHelp@agu.org](mailto:DataHelp@agu.org)
  
 The AGU Data Leadership team is supported through the **Building New Tools for Data Sharing and Re-use through a Transnational Investigation of the Socioeconomic Impacts of Protected Areas (PARSEC)** project with funding provided by the Belmont Forum through the National Science Foundation, Grant 1929464 as well as the **Accelerating Open and FAIR Data Practices Across the Earth, Space, and Environmental Sciences: A Pilot with the NSF to Support Public Access to Research Data** project funded by the National Science Foundation, Grant 2025364.  
 
-<style> table.logos, td.logos td { border: 0px ;} </style> <table class="logos"> 
-  <tr>
-    <td> ![PARSEC logo](/assets/img/about/parsec-logo.png "PARSEC logo") </td><td> [PARSEC Project website](http://parsecproject.org) <br> [PARSEC Materials](https://zenodo.org/communities/parsec/) </td>
-  </tr>
- </table>
-  
+![PARSEC logo](/assets/img/about/parsec-logo.png "PARSEC logo")  
+[PARSEC Project website](http://parsecproject.org)  
+[PARSEC Materials](https://zenodo.org/communities/parsec/)  
+
 The PARSEC project team is also funded by [UNESCO/IGCP, Project 697](http://www.unesco.org/new/en/natural-sciences/environment/earth-sciences/international-geoscience-programme/igcp-projects/earth-resources/igcp-project-697/).  
 
