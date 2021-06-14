@@ -2,7 +2,7 @@
 layout: post
 title: Manage your Digital Objects – Research Team Member Checklist 
 feature-img: "assets/img/pexels/AGU-Stock-Underwater-Rocks-Sunlight-1314x400.jpg"
-img: "assets/img/resources/check-mark.png"
+img: "assets/img/resources/green-checkk.png"
 date: 14 June 2021
 tags: [PARSEC, Resources]
 ---
