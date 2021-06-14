@@ -20,9 +20,9 @@ Asst. Director
   
 Email: [DataHelp@agu.org](mailto:DataHelp@agu.org) 
  
-This work is part of the **Building New Tools for Data Sharing and Re-use through a Transnational Investigation of the Socioeconomic Impacts of Protected Areas (PARSEC)** project with funding provided by the Belmont Forum through the National Science Foundation, Grant 1929464 as well as the **Accelerating Open and FAIR Data Practices Across the Earth, Space, and Environmental Sciences: A Pilot with the NSF to Support Public Access to Research Data** project funded by the National Science Foundation, Grant 2025364.
+The AGU Data Leadership team is supported through the **Building New Tools for Data Sharing and Re-use through a Transnational Investigation of the Socioeconomic Impacts of Protected Areas (PARSEC)** project with funding provided by the Belmont Forum through the National Science Foundation, Grant 1929464 as well as the **Accelerating Open and FAIR Data Practices Across the Earth, Space, and Environmental Sciences: A Pilot with the NSF to Support Public Access to Research Data** project funded by the National Science Foundation, Grant 2025364.
 
-The PARSEC project team is also funded by [UNESCO/IGCP, Project 697] (http://www.unesco.org/new/en/natural-sciences/environment/earth-sciences/international-geoscience-programme/igcp-projects/earth-resources/igcp-project-697/).  
+The PARSEC project team is also funded by [UNESCO/IGCP, Project 697](http://www.unesco.org/new/en/natural-sciences/environment/earth-sciences/international-geoscience-programme/igcp-projects/earth-resources/igcp-project-697/).  
 
-[PARSEC Project website] (http://parsecproject.org) 
-[PARSEC Materials] (https://zenodo.org/communities/parsec/)
+[PARSEC Project website](http://parsecproject.org) 
+[PARSEC Materials](https://zenodo.org/communities/parsec/)
