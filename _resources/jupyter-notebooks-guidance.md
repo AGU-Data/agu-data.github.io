@@ -32,5 +32,5 @@ Fenner, M. (2019).Jupyter Notebook FREYA PID GraphKey Performance Indicators(KPI
 
 **Fifth**, render (optional). Consider rendering your Notebook using the [Executable Book Project](https://executablebooks.org/en/latest/) and [Jupyter Book](https://jupyterbook.org/intro.html). An example [project gallery](https://executablebooks.org/en/latest/gallery.html) of Jupyter Books is available. The [Neuro Libre Project](https://www.neurolibre.com/) features additional Jupyter Book examples.
 
-Erdmann, Christopher, Stall, Shelley, Gentemann, Chelle, Holdgraf, Chris, Fernandes, Filipe P. A., & Gehlen, Karsten Peters-von. (2021, May 20). Guidance for AGU Authors - Jupyter Notebooks. Zenodo. [http://doi.org/10.5281/zenodo.4910038](http://doi.org/10.5281/zenodo.4910038)
+Erdmann, Christopher, Stall, Shelley, Gentemann, Chelle, Holdgraf, Chris, Fernandes, Filipe P. A., & Gehlen, Karsten Peters-von. (2021, May 20). Guidance for AGU Authors - Jupyter Notebooks. Zenodo. [http://doi.org/10.5281/zenodo.4910038](http://doi.org/10.5281/zenodo.4910038)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4910038.svg)](https://doi.org/10.5281/zenodo.4910038)
