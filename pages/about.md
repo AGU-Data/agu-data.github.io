@@ -26,5 +26,7 @@ The AGU Data Leadership team is supported through the **Building New Tools for D
 [PARSEC Project website](http://parsecproject.org)  
 [PARSEC Materials](https://zenodo.org/communities/parsec/)  
 
-The PARSEC project team is also funded by [UNESCO/IGCP, Project 697](http://www.unesco.org/new/en/natural-sciences/environment/earth-sciences/international-geoscience-programme/igcp-projects/earth-resources/igcp-project-697/).  
+The PARSEC project team is also funded by [UNESCO/IGCP, Project 697](http://www.unesco.org/new/en/natural-sciences/environment/earth-sciences/international-geoscience-programme/igcp-projects/earth-resources/igcp-project-697/). 
+![UNESCO logo](/assets/img/about/808px-UNESCO_logo.svg.png "UNESCO logo")  
+
 
