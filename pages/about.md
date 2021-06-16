@@ -21,13 +21,12 @@ Asst. Director
 Email: [DataHelp@agu.org](mailto:DataHelp@agu.org) 
  
 
-The AGU Data Leadership team is supported through the **Building New Tools for Data Sharing and Re-use through a Transnational Investigation of the Socioeconomic Impacts of Protected Areas (PARSEC)** project with funding provided by the Belmont Forum through the National Science Foundation, Grant 1929464   
+![PARSEC logo](/assets/img/about/parsec-logo-150pxWide.png "PARSEC logo") The AGU Data Leadership team is supported through the **Building New Tools for Data Sharing and Re-use through a Transnational Investigation of the Socioeconomic Impacts of Protected Areas (PARSEC)** project with funding provided by the Belmont Forum through the National Science Foundation, Grant 1929464   
 
-![PARSEC logo](/assets/img/about/parsec-logo-150pxWide.png "PARSEC logo")  
 [PARSEC Project website](http://parsecproject.org)  
 [PARSEC Materials](https://zenodo.org/communities/parsec/)  
 
 ![UNESCO logo](/assets/img/about/808px-UNESCO_logo-150pxWide.png "UNESCO logo") The PARSEC project team is also funded by [UNESCO/IGCP, Project 697](http://www.unesco.org/new/en/natural-sciences/environment/earth-sciences/international-geoscience-programme/igcp-projects/earth-resources/igcp-project-697/). 
  
-![NSF logo](/assets/img/about/NSF_4-Color_bitmap_Logo-150pxWide.png "NSF logo") Our work connecting data and software citation in our journals through to the NSF Public Access Repository is funded through the **Accelerating Open and FAIR Data Practices Across the Earth, Space, and Environmental Sciences: A Pilot with the NSF to Support Public Access to Research Data** project, National Science Foundation, Grant 2025364.
+![NSF logo](/assets/img/about/NSF_4-Color_bitmap_Logo-150pxWide.png "NSF logo") AGU's Data Leadership work connecting data and software citation in our journals through to the NSF Public Access Repository is funded through the **Accelerating Open and FAIR Data Practices Across the Earth, Space, and Environmental Sciences: A Pilot with the NSF to Support Public Access to Research Data** project, National Science Foundation, Grant 2025364.
 
