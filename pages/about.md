@@ -8,15 +8,17 @@ tags: [About]
 
 AGU’s Data Leadership Program website provides the Earth, space, and environmental science community with information on the latest work within AGU’s Data Leadership Program as well as highlights and links from other community work around best practices that support management, preservation, sharing, and citation of data and software. 
 
+[AGU's Data Leadership Webpage](https://www.agu.org/Learn-About-AGU/About-AGU/Data-Leadership) 
+[AGU Data and Software Author Guidance](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors)
+[AGU Data Leadership Community on Zenodo](https://zenodo.org/communities/agu-data-leadership)
+
 <u>AGU’s Data Leadership Team:</u>
   
 **Shelley Stall**  
-Sr. Director  
-[0000-0003-2926-8353](https://orcid.org/0000-0003-2926-8353)  
+Sr. Director, [0000-0003-2926-8353](https://orcid.org/0000-0003-2926-8353)  
   
 **Chris Erdmann**  
-Asst. Director  
-[0000-0003-2554-180X](https://orcid.org/0000-0003-2554-180X)  
+Asst. Director, [0000-0003-2554-180X](https://orcid.org/0000-0003-2554-180X)  
   
 Email: [DataHelp@agu.org](mailto:DataHelp@agu.org) 
  
