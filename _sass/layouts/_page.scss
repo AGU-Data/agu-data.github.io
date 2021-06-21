@@ -39,3 +39,15 @@ h1.title {
     display: block;
   }
 }
+
+.flex-row {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 2.5% 2.5% 0 2.5%;
+}
+
+.flex-col {
+  display: flex;
+  flex: 1 1 0px;
+  flex-direction: column;
+  margin: 2.5% 2.5% 2.5% 2.5%;
