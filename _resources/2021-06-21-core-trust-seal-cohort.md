@@ -13,9 +13,9 @@ A cohort of data repositories is being assembled to apply for [CoreTrustSeal](ht
 
 * No Risk to Join the Cohort
 * Repositories specific to the Earth, space, and environmental science community
-* The initial cost of CoreTrustSeal certification application is covered for the first 25 repositories that submit packages
+* The initial cost of CoreTrustSeal certification application is covered for the first 25 repositories that submit packages  
 
-<u>Resoources:</u>   
+<u>Resources:</u>   
 
 * Stall, Shelley. (2021, April). Enabling FAIR Data – The Importance of our Scientific Repositories (Chinese National Science Data Centers). Zenodo. http://doi.org/10.5281/zenodo.4687769
 * [1st Core Trust Seal Certification Cohort Webinar - 30 October 2018](https://www.youtube.com/watch?v=gs9HTzxbx0s)
