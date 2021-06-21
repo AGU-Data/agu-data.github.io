@@ -14,6 +14,19 @@ h1.title {
   text-shadow: 1px 1px 2px $text-shadow;
 }
 
+.flex-row {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 2.5% 2.5% 0 2.5%;
+}
+
+.flex-col {
+  display: flex;
+  flex: 1 1 0px;
+  flex-direction: column;
+  margin: 2.5% 2.5% 2.5% 2.5%;
+}
+
 //Shared css in _post.scss
 
 
@@ -40,14 +53,4 @@ h1.title {
   }
 }
 
-.flex-row {
-  display: flex;
-  justify-content: space-evenly;
-  margin: 2.5% 2.5% 0 2.5%;
-}
 
-.flex-col {
-  display: flex;
-  flex: 1 1 0px;
-  flex-direction: column;
-  margin: 2.5% 2.5% 2.5% 2.5%;
