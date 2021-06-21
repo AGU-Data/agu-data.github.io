@@ -1,9 +1,9 @@
 --- 
 layout: page
-title : Posts-Resources 
-permalink: /combo/
+title : Post 
+permalink: /post/
 feature-img: "assets/img/pexels/AGU-Stock-Underwater-Rocks-Sunlight-1314x400.jpg"
-tags: 
+tags: [Post]
 ---
 
    
