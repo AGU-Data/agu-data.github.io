@@ -12,7 +12,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 header_text: AGU Data Leadership   # Change Blog header text
 header_feature_image: assets/img/pexels/AGU-Stock-Nasa-Satellite-water-1314x400.jpg
 footer_text: >
-  A community resource powered by <a href="https://www.agu.org/Learn-About-AGU/About-AGU/Data-Leadership">AGU Data Leadership</a>.
+  This work is licensed under a <a href='https://creativecommons.org/licenses/by/4.0/' alt='Creative Commons Attribution 4.0 International License'>Creative Commons Attribution 4.0 International License</a>.
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
