@@ -17,10 +17,10 @@ A cohort of data repositories is being assembled to apply for [CoreTrustSeal](ht
 
 <u>Resources:</u>   
 
-* Stall, Shelley. (2021, April). Enabling FAIR Data – The Importance of our Scientific Repositories (Chinese National Science Data Centers). Zenodo. http://doi.org/10.5281/zenodo.4687769
+* Stall, Shelley. (2021, April). Enabling FAIR Data – The Importance of our Scientific Repositories (Chinese National Science Data Centers). Zenodo. [http://doi.org/10.5281/zenodo.4687769](http://doi.org/10.5281/zenodo.4687769)
 * [1st Core Trust Seal Certification Cohort Webinar - 30 October 2018](https://www.youtube.com/watch?v=gs9HTzxbx0s)
 * [2nd Core Trust Seal Certification Cohort Webinar - 26 November 2018](https://youtu.be/vV_3ZcDsagA)  
-  
+  
 <u>Cohort Repositories that have been certified:</u>  
 
 * Research Data Archive at the National Center for Atmospheric Research
@@ -29,5 +29,5 @@ A cohort of data repositories is being assembled to apply for [CoreTrustSeal](ht
 * BCO-DMO
 * IRIS DMC
 
-If you are interested in becoming a member of this cohort, please send an email to [Shelley Stall](mailto:sstall@agu.org) and Rebecca Koskela ([rkoskela@unm.edu](mailto:rkoskela@unm.edu)).
+If you are interested in becoming a member of this cohort, please send an email to [Shelley Stall](mailto:sstall@agu.org) and [Rebecca Koskela](mailto:rkoskela@unm.edu).
 
