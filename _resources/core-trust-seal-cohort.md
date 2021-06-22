@@ -19,6 +19,9 @@ AGU is hosting a cohort of data repositories to apply for [CoreTrustSeal](https:
 
 * [1st Core Trust Seal Certification Cohort Webinar - 30 October 2018](https://www.youtube.com/watch?v=gs9HTzxbx0s)
 * [2nd Core Trust Seal Certification Cohort Webinar - 26 November 2018](https://youtu.be/vV_3ZcDsagA)  
+* [CoreTrustSeal Cohort Update at the Council of Data Facilities General Assembly - 14 January 2019](https://youtu.be/kF7tCIjXqDQ)
+* [3rd CoreTrustSeal Certification Cohort Webinar - 12 June 2020 - Experience of IRIS](https://youtu.be/Y8t8fJ0_piw)
+* [4th CoreTrustSeal Certification Cohort Webinar - 10 July 2020 - Experience of NCAR and BCO-DMO](https://youtu.be/-qGr_IjkAhg)
   
 <u>Cohort Repositories that have been certified:</u>  
 
