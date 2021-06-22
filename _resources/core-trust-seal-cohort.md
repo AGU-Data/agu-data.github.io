@@ -7,17 +7,16 @@ date: 21 June 2021
 tags: [CoreTrustSeal, Resources]
 ---
 
-A cohort of data repositories is being assembled to apply for [CoreTrustSeal](https://www.coretrustseal.org/) certification as part of the American Geophysical Union Coalition [Enabling FAIR Data Project](https://eos.org/agu-news/enabling-fair-data-across-the-earth-and-space-sciences). CoreTrustSeal certification demonstrates to a repository’s users and funders that they have been evaluated by an independent authority and endorsed for their trustworthiness.  
+AGU is hosting a cohort of data repositories to apply for [CoreTrustSeal](https://www.coretrustseal.org/) certification as part of the [Enabling FAIR Data Project](https://eos.org/agu-news/enabling-fair-data-across-the-earth-and-space-sciences). CoreTrustSeal certification demonstrates to a repository’s users and funders that they have been evaluated by an independent authority and endorsed for their compliance with the CoreTrustSeal criteria.   
 
 <u>Conditions:</u>
 
 * No Risk to Join the Cohort
 * Repositories specific to the Earth, space, and environmental science community
-* The initial cost of CoreTrustSeal certification application is covered for the first 25 repositories that submit packages  
+* The initial cost of CoreTrustSeal certification application is covered for the first 25 repositories that submit packages and reduced for the remaining cohort members  
 
 <u>Resources:</u>   
 
-* Stall, Shelley. (2021, April). Enabling FAIR Data – The Importance of our Scientific Repositories (Chinese National Science Data Centers). Zenodo. [http://doi.org/10.5281/zenodo.4687769](http://doi.org/10.5281/zenodo.4687769)
 * [1st Core Trust Seal Certification Cohort Webinar - 30 October 2018](https://www.youtube.com/watch?v=gs9HTzxbx0s)
 * [2nd Core Trust Seal Certification Cohort Webinar - 26 November 2018](https://youtu.be/vV_3ZcDsagA)  
   
