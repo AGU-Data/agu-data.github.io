@@ -24,10 +24,12 @@ No matter which execution environment you choose,make sure you obtain a publicly
 
 **Fourth**, cite and describe. Establish the connectionbetween your notebook and paper usingthese two steps.
 
-1. Cite your notebook, using your DOI, in the References Section of your paper. Example citation below:
+1. Cite your notebook, using your DOI, in the References Section of your paper. Example citation below:  
+  
 Fenner, M. (2019).Jupyter Notebook FREYA PID GraphKey Performance Indicators(KPIs)(Version 1.1.0). DataCite. [https://doi.org/10.14454/3BPW-W3812](https://doi.org/10.14454/3BPW-W3812)
 
-1. Describe the availability of your notebook by including the DOI of the preserved releaseused by your paper and the execution link in the Availability Statement of your paper. For AGU, the Availability Statement is located in the Open Research section. Statement template is below:
+1. Describe the availability of your notebook by including the DOI of the preserved releaseused by your paper and the execution link in the Availability Statement of your paper. For AGU, the Availability Statement is located in the Open Research section. Statement template is below:  
+  
 “The Jupyter Notebook to execute the analysis in thepaper can be found at <include linkto rerunnable notebook link in the cloud> and is preservedat <include link to hostednotebook DOI, version, and license>”
 
 **Fifth**, render (optional). Consider rendering your Notebook using the [Executable Book Project](https://executablebooks.org/en/latest/) and [Jupyter Book](https://jupyterbook.org/intro.html). An example [project gallery](https://executablebooks.org/en/latest/gallery.html) of Jupyter Books is available. The [Neuro Libre Project](https://www.neurolibre.com/) features additional Jupyter Book examples.
