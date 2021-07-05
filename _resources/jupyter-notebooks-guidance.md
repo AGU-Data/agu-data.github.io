@@ -16,7 +16,7 @@ Jupyter Notebooks are increasingly being used for documenting data science workf
 **Second**, store and preserve. Upload your notebook ina public repository that gives you a Digital Object Identifier (DOI), so that your notebook is preserved in the scholarly record and can be cited. We recommend using one of the following solutions:
 * *GitHub with documentation* (e.g., README),[(open source) license](https://choosealicense.com/), [citation file](https://citation-file-format.github.io/#/what-is-a-citation-cff-file) (e.g., CFF), [CodeMeta](https://codemeta.github.io/codemeta-generator/)/JSON-LD file. Manage dependencies (with [conda-lock](https://pythonspeed.com/articles/conda-dependency-management/)). Use the GitHub release bridge with [Zenodo](https://zenodo.org/) to get a DOI ([Making your code citable](https://guides.github.com/activities/citable-code/)).
 
-**Third**, execute. Facilitate the rerunning of your notebook by readers through a zero-install environment in the cloud. We recommend [these instructions](https://the-turing-way.netlify.app/reproducible-research/renv/renv-binder.html) using one of the following solutions:
+**Third**, execute. Facilitate the rerunning of your notebook by readers through a zero-install environment in the cloud. We recommend [these instructions](https://the-turing-way.netlify.app/reproducible-research/renv/renv-binder.html) and the following solution:
 
 * [Binder](https://mybinder.org/) or [Pangeo](https://binder.pangeo.io/), upload your notebook and an environment.ymlfile, run it, and share it via link
 
@@ -28,7 +28,7 @@ No matter which execution environment you choose,make sure you obtain a publicly
   
 Fenner, M. (2019).Jupyter Notebook FREYA PID GraphKey Performance Indicators(KPIs)(Version 1.1.0). DataCite. [https://doi.org/10.14454/3BPW-W3812](https://doi.org/10.14454/3BPW-W3812)
 
-1. Describe the availability of your notebook by including the DOI of the preserved releaseused by your paper and the execution link in the Availability Statement of your paper. For AGU, the Availability Statement is located in the Open Research section. Statement template is below:  
+2. Describe the availability of your notebook by including the DOI of the preserved releaseused by your paper and the execution link in the Availability Statement of your paper. For AGU, the Availability Statement is located in the Open Research section. Statement template is below:  
   
 “The Jupyter Notebook to execute the analysis in thepaper can be found at <include linkto rerunnable notebook link in the cloud> and is preservedat <include link to hostednotebook DOI, version, and license>”
 
