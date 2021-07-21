@@ -99,17 +99,17 @@ For publishing, you need to locate a repository that provides preservation servi
 
 Once published in an appropriate **_preservation_** repository, your data cannot be modified. We recommend you be in contact with the repository to understand their preservation practices and how they support the community and journal requirements.
 
-    **Discipline-Specific Repositories:** These are specialized repositories which typically provide support and information on required standards for metadata and more.
+Discipline-Specific Repositories:** These are specialized repositories which typically provide support and information on required standards for metadata and more.
 
-    AGU editors and staff have compiled a list of discipline-specific repositories and services to help authors find the repository that is right for your data. We are open to suggestions and additions to this list [See Appendix A for the list of commonly used repositories by journal](#bookmark=id.ewy6ukgegh1a).
+AGU editors and staff have compiled a list of discipline-specific repositories and services to help authors find the repository that is right for your data. We are open to suggestions and additions to this list [See Appendix A for the list of commonly used repositories by journal](#bookmark=id.ewy6ukgegh1a).
 
-    **Institutional Repository: **Many universities are supporting research data and software management and compliance requirements for their researchers, and such services are often provided through the library. Librarians can be an excellent source of research data management support, including repository selection, and can help you comply with funder, publisher, and university requirements. 
+**Institutional Repository:** Many universities are supporting research data and software management and compliance requirements for their researchers, and such services are often provided through the library. Librarians can be an excellent source of research data management support, including repository selection, and can help you comply with funder, publisher, and university requirements. 
 
-    **General Repository:** When using a general repository, make sure you provide documentation about your data that is in line with your community standards. Please refer to the[ Generalist Repository Comparison Chart](https://www.agu.org/-/media/Files/Publications/Generalist-Data-Repository-Grid.pdf) for additional repositories and guidance. Common repositories are:[ Zenodo](https://zenodo.org/), [Dryad](https://datadryad.org/), or[ Figshare](https://datadryad.org/). Dryad charges a fee that is [waived for U.S.NSF-funded authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/AGU-Partners-with-Dryad).
+**General Repository:** When using a general repository, make sure you provide documentation about your data that is in line with your community standards. Please refer to the[ Generalist Repository Comparison Chart](https://www.agu.org/-/media/Files/Publications/Generalist-Data-Repository-Grid.pdf) for additional repositories and guidance. Common repositories are:[ Zenodo](https://zenodo.org/), [Dryad](https://datadryad.org/), or[ Figshare](https://datadryad.org/). Dryad charges a fee that is [waived for U.S.NSF-funded authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/AGU-Partners-with-Dryad).
 
-    **Computing Center: **High-Performance Computers (HPC) have the infrastructure to support research using models and simulations, which may be involved in generating and/or analyzing high volumes of data. The operations team at the center may have recommendations for data management, storage, and preservation.
+**Computing Center:** High-Performance Computers (HPC) have the infrastructure to support research using models and simulations, which may be involved in generating and/or analyzing high volumes of data. The operations team at the center may have recommendations for data management, storage, and preservation.
 
-    **National Repositories:** Some countries require authors to use their National Repositories for data and/or software preservation. 
+**National Repositories:** Some countries require authors to use their National Repositories for data and/or software preservation. 
 
 
 **During Peer Review**
