@@ -8,9 +8,7 @@ tags: [Data Sharing, Software Sharing, Author Guidance, AGU]
 ---
 
 
-**Data and Software Sharing Guidance **
-
-**for Authors Submitting to AGU journals**
+**Data and Software Sharing Guidance for Authors Submitting to AGU journals**
 
  
 
@@ -161,68 +159,40 @@ Peer reviewers, with support from AGU staff, will ensure the link to the data an
 
 **Paper Acceptance**
 
-
-
 1. <span style="text-decoration:underline;">Data</span>: Relevant data and model results should be accessible at the time your paper is accepted. Note the possibility that in unusual cases the repository policy may not allow your data to be published until your paper is published. If that is the case, AGU will accept that your data will be made available after your paper is published. Please coordinate with the repository to ensure the availability of your data. \
-
 2. <span style="text-decoration:underline;">Software</span>: For papers where software is central to your research, your software should be accessible at the time your paper is accepted.
 
- 
 
 **Availability Statements and Template Examples **
 
 The Availability Statement is a narrative that indicates to the reader where and how to directly access your data and software and provides any information on licenses and restrictions. An Availability Statement should contain an in-text citation, licensing information (e.g., CC-BY 4.0, MIT) and access restrictions (e.g., authentication required) (here is an [example from JAMES](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS001726#jame20966-sec-0068-title)). Statements to the effect of "data available from authors" are not acceptable. Also, statements to the effect of “data available from[ http://nasa.gov](http://nasa.gov)” are not acceptable since high-level website references do not meet the [AGU’s Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors) requirements. Provide details of the specific locations, data product names, variable names, time ranges, spatial locations, and any other search criteria needed to Find and Access the data used/ generated in the paper (including those represented in figures and tables).
 
- 
-
 <span style="text-decoration:underline;">Data Availability Statement:</span>
 
+1. **Data archived in a repository:** Datasets for this research are available in these in-text data citation references: Smith et al. (2019), [with this license, and these access restrictions if any], Jones et al. (2017) [with this license, and these access restrictions if any]. Such datasets must be findable and accessible (e.g. via URLs).
+2. **Data published in the literature:** Datasets for this research are included in this paper (and its supplementary information files): [citation for paper] or point to where the references are compiled. Such datasets _must be findable and accessible_ (e.g. via URLs). For example:
 
+Cline, D., R. Armstrong, R. Davis, K. Elder, and G. Liston. 2003. CLPX-Ground: ISA snow depth transects and related measurements ver. 2.0. Edited by M. A. Parsons and M. J. Brodzik. NASA National Snow and Ice Data Center Distributed Active Archive Center.[ https://doi.org/10.5060/D4MW2F23](https://nsidc.org/data/nsidc-0175). Accessed 2008-05-14. *Reproduced from[ ESIP](https://esip.figshare.com/articles/Data_Citation_Guidelines_for_Earth_Science_Data_Version_2/8441816)
 
-1. **Data archived in a repository:** Datasets for this research are available in these in-text data citation references: Smith et al. (2019), [with this license, and these access restrictions if any], Jones et al. (2017) [with this license, and these access restrictions if any]. Such datasets must be findable and accessible (e.g. via URLs). \
+Citations for data in regular publications where data is not findable or accessible, i.e. not available are NOT acceptable. For a made-up example:
 
-2. **Data published in the literature:** Datasets for this research are included in this paper (and its supplementary information files): [citation for paper] or point to where the references are compiled. Such datasets _must be findable and accessible_ (e.g. via URLs). For example: \
+Cline, D., R. Armstrong, R. Davis, K. Elder, and G. Liston. 2002. CLPX-Ground: ISA snow depth transects and related measurements, J. Ice., vol 1 (2), pp. 3-9. (journal is subscription only, and data is not available in the article or supplement information or is in a proprietary format that is no longer readable).
 
-
-        Cline, D., R. Armstrong, R. Davis, K. Elder, and G. Liston. 2003. CLPX-Ground: ISA snow depth transects and related measurements ver. 2.0. Edited by M. A. Parsons and M. J. Brodzik. NASA National Snow and Ice Data Center Distributed Active Archive Center.[ https://doi.org/10.5060/D4MW2F23](https://nsidc.org/data/nsidc-0175). Accessed 2008-05-14. *Reproduced from[ ESIP](https://esip.figshare.com/articles/Data_Citation_Guidelines_for_Earth_Science_Data_Version_2/8441816) \
-
-
-
-    Citations for data in regular publications where data is not findable or accessible, i.e. not available are NOT acceptable. For a made-up example: \
-
-
-
-        Cline, D., R. Armstrong, R. Davis, K. Elder, and G. Liston. 2002. CLPX-Ground: ISA snow depth transects and related measurements, J. Ice., vol 1 (2), pp. 3-9. (journal is subscription only, and data is not available in the article or supplement information or is in a proprietary format that is no longer readable). \
-
-
-3. **Technical reports publishing the description of a dataset and its preparation, e.g., a data paper:** Datasets for this research are described in this paper: [citation for paper, with this license, and these access restrictions if any]. Such datasets must be findable and accessible (e.g. via URLs). \
-
-4. **Theoretical papers, or most review papers:** Data were not used, nor created for this research. \
-
-5. **Data not publicly available, but available to researchers with appropriate credentials:** Data for this research are not publicly available due to [Fill in reasons]. Data are stored in this in-text data citation reference: Smith et al. (2019), [with this license, and these access restrictions if any]. \
-
+3. **Technical reports publishing the description of a dataset and its preparation, e.g., a data paper:** Datasets for this research are described in this paper: [citation for paper, with this license, and these access restrictions if any]. Such datasets must be findable and accessible (e.g. via URLs).
+4. **Theoretical papers, or most review papers:** Data were not used, nor created for this research.
+5. **Data not publicly available, but available to researchers with appropriate credentials:** Data for this research are not publicly available due to [Fill in reasons]. Data are stored in this in-text data citation reference: Smith et al. (2019), [with this license, and these access restrictions if any].
 6. **Data that are restricted by commercial, industry, patent, government policies, regulations or laws:** Data supporting this research are available in [cite in-text data citation reference from third party source], with [these restrictions that include information concerning required NDA, licensing, agreements], and are not accessible to the public or research community. [Provide a process for how other researchers can gain access.] NOTE: If your data are in this category, the editors will determine if this statement meets the AGU data guidelines sufficiently.
-
- 
 
 <span style="text-decoration:underline;">Software Availability Statement:</span>
 
-The availability statement should contain a citation, licensing information, access restrictions, and a link to the development platform (e.g. GitHub). Note that “git/GitHub/GitLab” are not acceptable software repositories because they are not archival (see [AGU’s Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors)). \
+The Availability Statement should contain a citation, licensing information, access restrictions, and a link to the development platform (e.g. GitHub). Note that “git/GitHub/GitLab” are not acceptable software repositories because they are not archival (see [AGU’s Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors)).
 
-
-
-
-1. **Software archived in a repository:** Software for this research is available in these in-text data citation references: Smith et al. (2019), [with this license, and these access restrictions if any], Jones et al. (2017) [with this license, and these access restrictions if any]. Such software must be findable and accessible (e.g. via URLs). \
-
-2. **Software published in the literature as supplementary information:** Software for this research is included in this paper (and its supplementary information files): [citation for paper] or point to where the references are compiled. Such software must be findable and accessible (e.g. via URLs). \
-
-3. **Software not publicly available, but available to researchers with appropriate credentials:** Software for this research is not publicly available due to [Fill in reasons]. Software is stored in this in-text citation reference: Smith et al. (2019), [with this license, and these access restrictions if any]. \
-
+1. **Software archived in a repository:** Software for this research is available in these in-text data citation references: Smith et al. (2019), [with this license, and these access restrictions if any], Jones et al. (2017) [with this license, and these access restrictions if any]. Such software must be findable and accessible (e.g. via URLs).
+2. **Software published in the literature as supplementary information:** Software for this research is included in this paper (and its supplementary information files): [citation for paper] or point to where the references are compiled. Such software must be findable and accessible (e.g. via URLs).
+3. **Software not publicly available, but available to researchers with appropriate credentials:** Software for this research is not publicly available due to [Fill in reasons]. Software is stored in this in-text citation reference: Smith et al. (2019), [with this license, and these access restrictions if any].
 4. **Software that are restricted by commercial, industry, patent, government policies, regulations or laws:** Software supporting this research are available in [cite in-text citation reference from third-party source], with [these restrictions that include information concerning required NDA, licensing, agreements], and is not accessible to the public or research community. [Provide a process for how other researchers can gain access.] NOTE: If your software is in this category, the editors will determine if this statement meets the AGU guidelines sufficiently.
-5. **Theoretical papers, or most review papers:** Software (other than for typesetting) was not used for this research. \
+5. **Theoretical papers, or most review papers:** Software (other than for typesetting) was not used for this research.
 
-
- 
 
 **Appendix A: List of Commonly Used Discipline-Specific Repositories by Journal**
 
@@ -230,51 +200,37 @@ The data that supports the research reported in your paper must be deposited in 
 
 **ESS Commonly Used Repositories**
 
-
-    The following is a list of commonly used, FAIR aligned, open and generally accessible, data and software repositories used by ESS authors (based on 2020 articles):
-
-
+The following is a list of commonly used, FAIR aligned, open and generally accessible, data and software repositories used by ESS authors (based on 2020 articles):
 
 1. [Zenodo](https://zenodo.org/)
 2. [Figshare](https://figshare.com/)
 3. [Dataverse](https://dataverse.harvard.edu/)
 4. [Mendeley](https://data.mendeley.com/)
 
-    Also, the following is a list of organizational, funding aligned data and software sources that are commonly used by ESS authors (based on 2020 articles):
+Also, the following is a list of organizational, funding aligned data and software sources that are commonly used by ESS authors (based on 2020 articles):
 
-
-     \
 1.) [NASA](https://data.nasa.gov/); 2.) [NOAA](https://data.noaa.gov/); 3.) [ECMWF](https://www.ecmwf.int/); 4.) [NCAR](https://dashrepo.ucar.edu/); 5.) [China Meteorological Data Network](http://data.cma.cn/); 6.) [LLNL](https://www.llnl.gov/); 7.) [CloudSat Data Processing Center](http://www.cloudsat.cira.colostate.edu/); 8.) [USGS](https://www.usgs.gov/); 9.) [ESA](https://www.esa.int/); 10.) [GFZ](https://www.gfz-potsdam.de/en). 
-
 
 **JAMES Commonly Used Repositories**
 
-
-    The following is a list of commonly used, FAIR aligned, open and generally accessible, data and software repositories used by JAMES authors (based on 2020 articles):
-
-
+The following is a list of commonly used, FAIR aligned, open and generally accessible, data and software repositories used by JAMES authors (based on 2020 articles):
 
 1. [Zenodo](https://zenodo.org/)
 2. [Figshare](https://figshare.com/)
 3. [PANGAEA](https://www.pangaea.de/)
 
-    Also, the following is a list of organizational, funding aligned data and software sources that are commonly used by JAMES authors (based on 2020 articles):
+Also, the following is a list of organizational, funding aligned data and software sources that are commonly used by JAMES authors (based on 2020 articles):
 
-
-     \
 1.) [NCAR](https://dashrepo.ucar.edu/); 2.) [NASA](https://data.nasa.gov/); 3.) [NOAA](https://data.noaa.gov/); 4.) [ESGF](https://esgf.llnl.gov/); 5.) [DKRZ](https://www.dkrz.de/?set_language=en&cl=en); 6.) [ECMWF](https://www.ecmwf.int/); 7.) [IPSL](https://www.ipsl.fr/en/home-en/); 8.) [Copernicus](https://www.copernicus.eu/en/access-data); 9.) [Max Planck](https://www.mpg.de/en); 10.) [E3SM](https://e3sm.org/).
 
+**JGR Oceans Commonly Used Repositories**
 
-    **JGR Oceans Commonly Used Repositories**
-
-
-    The following is a list of commonly used, FAIR aligned, open and generally accessible, data and software repositories used by JGR Oceans authors (based on 2020 articles):
+The following is a list of commonly used, FAIR aligned, open and generally accessible, data and software repositories used by JGR Oceans authors (based on 2020 articles):
 
 1. [Zenodo](https://zenodo.org/)
 2. [Figshare](https://figshare.com/)
 3. [PANGAEA](https://www.pangaea.de/)** **
 
-    Also, the following is a list of organizational, funding aligned data and software sources that are commonly used by JGR Oceans authors (based on 2020 articles):
+Also, the following is a list of organizational, funding aligned data and software sources that are commonly used by JGR Oceans authors (based on 2020 articles):
 
-
-    1.) [NOAA](https://data.noaa.gov/); 2.) [NASA](https://data.nasa.gov/); 3.) [Copernicus](https://www.copernicus.eu/en/access-data); 4.) [ECMWF](https://www.ecmwf.int/); 5.) [SOEST](https://www.soest.hawaii.edu/); 6.) [AVISO+](https://www.aviso.altimetry.fr/); 7.) [Remote Sensing Systems](https://remss.com/); 8.) [SEANOE](https://www.seanoe.org/); 9.) [WHOI](https://www.whoi.edu/)**;** 10.) [Met Office](https://www.metoffice.gov.uk/).
+1.) [NOAA](https://data.noaa.gov/); 2.) [NASA](https://data.nasa.gov/); 3.) [Copernicus](https://www.copernicus.eu/en/access-data); 4.) [ECMWF](https://www.ecmwf.int/); 5.) [SOEST](https://www.soest.hawaii.edu/); 6.) [AVISO+](https://www.aviso.altimetry.fr/); 7.) [Remote Sensing Systems](https://remss.com/); 8.) [SEANOE](https://www.seanoe.org/); 9.) [WHOI](https://www.whoi.edu/)**;** 10.) [Met Office](https://www.metoffice.gov.uk/).
