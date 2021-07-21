@@ -60,20 +60,16 @@ When the primary data for the research comes from numerical model simulations, f
 1. **Citation of the model software**
     1. BEST OPTION (model in repository): Cite the model using a repository that registers the version used for the paper with a persistent identifier (e.g., Digital Object Identifier) and metadata that describes the model using community standards. For example, Github provides a [connection to Zenodo](https://guides.github.com/activities/citable-code/) for this purpose. If a published paper has the complete description, there should be a link in the repository to the published paper. Your citation should accurately capture the authors/creators of the model. In the Ocean modeling community it is common to use numerical models that are open access and well documented (e.g., GFDL-MOM, NEMO, ROMS, ADCIRC, FESOM, SHYFEM, SURF).
     2. GOOD OPTION (model described in paper): Cite the publication where the numerical model is described with information about the version used for this paper.
-1. **Description of the numerical model.**
+2. **Description of the numerical model.**
     1. Include a description of the model in the text of the paper that is adequate to support replicability. If a publication describes the model thoroughly, cite that paper.
-2. **Information about the configuration/parameters used to run the model.**
-1. This information should be included in the paper text as well as providing any script/workflow used. The script/workflow should be preserved in a repository and cited. Any boundary and/or initial condition datasets used should be described and cited. The goal is to provide sufficient information and resources so that an interested user, with sufficient computer resources, can replicate your simulation.
-1. **Data and analysis software that supports the Summary Results, Tables and Figures.**
+3. **Information about the configuration/parameters used to run the model.**
+    1. This information should be included in the paper text as well as providing any script/workflow used. The script/workflow should be preserved in a repository and cited. Any boundary and/or initial condition datasets used should be described and cited. The goal is to provide sufficient information and resources so that an interested user, with sufficient computer resources, can replicate your simulation.
+4. **Data and analysis software that supports the Summary Results, Tables and Figures.**
     1. BEST OPTION: Cite a package in an appropriate repository that includes scripts/workflows, provenance information, and summary files that support the research, figures, and tables, consistent with archives maintained for transparency and traceability by assessments such as the IPCC.
-
     2. GOOD OPTION: Cite files (e.g., scripts, descriptive detail) in an appropriate repository that support evaluating the research and provide the details behind the tables and figures.
-
     3. ACCEPTABLE OPTION: Provide the necessary information for transparency and traceability of the analysis using your community standards or guidance.
-
-2. **Model Output Data.**
-
-1. If model output is instrumental to evaluating the research, particularly with respect to producing manuscript figures or tables, then deposit the necessary model output in a community accepted, trusted repository (See [Commonly Used Repositories](#bookmark=id.ewy6ukgegh1a) for examples). There are currently limited resources for preserving files of very large size. However, selecting adequate output to produce manuscript figures and tables is generally much more manageable and is sufficient to meet the needs of replicability. 
+5. **Model Output Data.**
+    1. If model output is instrumental to evaluating the research, particularly with respect to producing manuscript figures or tables, then deposit the necessary model output in a community accepted, trusted repository (See [Commonly Used Repositories](#appendix) for examples). There are currently limited resources for preserving files of very large size. However, selecting adequate output to produce manuscript figures and tables is generally much more manageable and is sufficient to meet the needs of replicability. 
 
 AGU journals strongly prefer the publication of free and open-source software to ensure the replicability of results by readers.  
 
