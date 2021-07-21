@@ -201,3 +201,6 @@ The following is a list of commonly used, FAIR aligned, open and generally acces
 Also, the following is a list of organizational, funding aligned data and software sources that are commonly used by JGR Oceans authors (based on 2020 articles):
 
 1.) [NOAA](https://data.noaa.gov/); 2.) [NASA](https://data.nasa.gov/); 3.) [Copernicus](https://www.copernicus.eu/en/access-data); 4.) [ECMWF](https://www.ecmwf.int/); 5.) [SOEST](https://www.soest.hawaii.edu/); 6.) [AVISO+](https://www.aviso.altimetry.fr/); 7.) [Remote Sensing Systems](https://remss.com/); 8.) [SEANOE](https://www.seanoe.org/); 9.) [WHOI](https://www.whoi.edu/)**;** 10.) [Met Office](https://www.metoffice.gov.uk/).
+    
+    
+ _We are thankful to Dr. Peter Fox and his initial draft contribution to this guidance document while also saddened by his recent passing. Peter's contributions to the community continue to have great impact as represented in this document. Thank you Peter, you are missed._
