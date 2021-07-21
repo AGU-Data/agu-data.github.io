@@ -36,25 +36,18 @@ At the time your paper is <span style="text-decoration:underline;">submitted</sp
     1. <span style="text-decoration:underline;">Data Availability Statement (required):</span>  A Data Availability Statement is required in the Open Research section of your paper describing where and how your data are available, including an online means to access your data. Check links and files before submitting your paper to the journal so as to ensure the data are accessible for peer review. Many data repositories provide confidential data access for this purpose. [For data that are not publicly available, sensitive, or restricted,](#bookmark=id.xof1t7eupufg) <span style="text-decoration:underline;">e[xamples, templates, and specific guidance are provided in this document.](#bookmark=id.xof1t7eupufg)</span>  
     2. <span style="text-decoration:underline;">Software Availability Statement (required):</span> A Software Availability Statement is required in the Open Research section of your paper for software that is central to your research such as for model simulations, data analysis, data visualization, and model output analysis.
 
-        The Availability Statement should contain a citation, licensing information, access restrictions, and a link to the development platform (e.g. GitHub). Note that “git/GitHub/GitLab” are not acceptable software repositories because they are not archival. [For software that are not publicly available, sensitive, or restricted, examples, templates, and specific guidance, are provided in this document.](#bookmark=id.xof1t7eupufg)   \
-
-
+        The Availability Statement should contain a citation, licensing information, access restrictions, and a link to the development platform (e.g. GitHub). Note that “git/GitHub/GitLab” are not acceptable software repositories because they are not archival. [For software that are not publicly available, sensitive, or restricted, examples, templates, and specific guidance, are provided in this document.](#bookmark=id.xof1t7eupufg)
 3. **Data Citation (required)**
-
-Include data citations for the primary and processed research data in the References section of your paper. Doing so ensures proper credit is given for the data. Note, English-language (or English translation) for any cited sources is required. The [AGU’s Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors) guide provides information on how to cite your data. \
-
+Include data citations for the primary and processed research data in the References section of your paper. Doing so ensures proper credit is given for the data. Note, English-language (or English translation) for any cited sources is required. The [AGU’s Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors) guide provides information on how to cite your data.
     3. Primary Data and Processed Data: Some repositories “reserve a DOI” before publishing your data. Use this DOI in your data citation. Once your data are published, the DOI will resolve properly. Some repositories use other persistent identifiers or URLs which are permissible (e.g, GenBank). Some repositories will only provide a DOI close to or at the time of paper acceptance; in this case the DOI will need to be added during the final revision.
     4. Simulated Data / Model Output Data: [See the guidance for Numerical Models.](#bookmark=id.ashsx2axvar2) 
-    5. Large Data (>1TB): Preservation of large data may be possible in some repositories for a fee. Authors should account for this in their research budget and Data Management Plan. Also, check with your university or institution and their repository. \
-
+    5. Large Data (>1TB): Preservation of large data may be possible in some repositories for a fee. Authors should account for this in their research budget and Data Management Plan. Also, check with your university or institution and their repository.
     6. Data Used from Another Source (e.g., data created by others): Cite the specific source to ensure proper credit and allow readers to access the same version of the data. If the data are also associated with a publication, especially a data publication, cite both the paper and the repository. 
 4. **Software Citation (required)**
-
-    If software is used to analyze or produce the data, including for model output, then include a software citation in the References section of your paper. The [AGU’s Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors) guide provides information on how to cite your software.
-
-    7. Software you or your team have written: see the section below on preserving software.  
-    8. Software already preserved: simply cite it. 
-    9. Software created by others, but not preserved: work with the author on how they want it to be cited.
+If software is used to analyze or produce the data, including for model output, then include a software citation in the References section of your paper. The [AGU’s Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors) guide provides information on how to cite your software.
+    4. Software you or your team have written: see the section below on preserving software.  
+    5. Software already preserved: simply cite it. 
+    6. Software created by others, but not preserved: work with the author on how they want it to be cited.
 
 **Guidelines for Research Primarily Based on Numerical Models or Theory**
 
