@@ -10,11 +10,7 @@ tags: [Data Sharing, Software Sharing, Author Guidance, AGU]
 
 **Data and Software Sharing Guidance for Authors Submitting to AGU journals**
 
- 
-
 Data and software are the building blocks of the research published in the AGU journals. These digital objects need to be accessible, understandable, and open as possible for reuse to support transparency and replicability. These digital objects include:
-
-
 
 1. Data from observations collected in the field;
 2. Data from satellites (primarily level 2 or 3);
@@ -31,16 +27,11 @@ AGU recognizes that not all data or software can be fully open.  Data or softwar
 
 For questions or feedback regarding AGU’s Data and Software Sharing Guidance, contact [DataHelp@agu.org](mailto:DataHelp@agu.org). 
 
- 
 
 **Considerations for publication related to data and software**
 
-** **
-
-
-
-1. **When to Make Your Data and Software Available \
-**At the time your paper is <span style="text-decoration:underline;">submitted</span>, your data and software must be available to the editors and reviewers.** **At the time your paper is <span style="text-decoration:underline;">accepted</span>, your data and software availability statements must be clearly stated. A few repositories require the paper to be published before the data being registered and available, such that the persistent identifier resolves. These repositories are known, community-accepted repositories, and acceptable for use. Authors must still provide preliminary access to reviewers at the time of submission. Please ensure that your data and software are available with details of the online access location(s), data product names, variable names, time ranges, spatial locations, or any other search criteria to allow a reader and reviewer to Find and Access the data used and/or generated for the paper (including those represented in figures and tables). In summary, any data and software utilized in the work contained in the manuscript must be documented for free and open availability. Data or software that are sensitive and require restrictions on access (e.g., personal data, medical information, fossil locations, strategic models) must be preserved in a repository with appropriate access controls. 
+1. **When to Make Your Data and Software Available**
+At the time your paper is <span style="text-decoration:underline;">submitted</span>, your data and software must be available to the editors and reviewers. At the time your paper is <span style="text-decoration:underline;">accepted</span>, your data and software availability statements must be clearly stated. A few repositories require the paper to be published before the data being registered and available, such that the persistent identifier resolves. These repositories are known, community-accepted repositories, and acceptable for use. Authors must still provide preliminary access to reviewers at the time of submission. Please ensure that your data and software are available with details of the online access location(s), data product names, variable names, time ranges, spatial locations, or any other search criteria to allow a reader and reviewer to Find and Access the data used and/or generated for the paper (including those represented in figures and tables). In summary, any data and software utilized in the work contained in the manuscript must be documented for free and open availability. Data or software that are sensitive and require restrictions on access (e.g., personal data, medical information, fossil locations, strategic models) must be preserved in a repository with appropriate access controls. 
 2. **Availability Statement in Open Research Section (required)**
     1. <span style="text-decoration:underline;">Data Availability Statement (required):</span>  A Data Availability Statement is required in the Open Research section of your paper describing where and how your data are available, including an online means to access your data. Check links and files before submitting your paper to the journal so as to ensure the data are accessible for peer review. Many data repositories provide confidential data access for this purpose. [For data that are not publicly available, sensitive, or restricted,](#bookmark=id.xof1t7eupufg) <span style="text-decoration:underline;">e[xamples, templates, and specific guidance are provided in this document.](#bookmark=id.xof1t7eupufg)</span>  
     2. <span style="text-decoration:underline;">Software Availability Statement (required):</span> A Software Availability Statement is required in the Open Research section of your paper for software that is central to your research such as for model simulations, data analysis, data visualization, and model output analysis.
@@ -50,8 +41,7 @@ For questions or feedback regarding AGU’s Data and Software Sharing Guidance, 
 
 3. **Data Citation (required)**
 
-    Include data citations for the primary and processed research data in the References section of your paper. Doing so ensures proper credit is given for the data. Note, English-language (or English translation) for any cited sources is required. The [AGU’s Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors) guide provides information on how to cite your data. \
-
+Include data citations for the primary and processed research data in the References section of your paper. Doing so ensures proper credit is given for the data. Note, English-language (or English translation) for any cited sources is required. The [AGU’s Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors) guide provides information on how to cite your data. \
 
     3. Primary Data and Processed Data: Some repositories “reserve a DOI” before publishing your data. Use this DOI in your data citation. Once your data are published, the DOI will resolve properly. Some repositories use other persistent identifiers or URLs which are permissible (e.g, GenBank). Some repositories will only provide a DOI close to or at the time of paper acceptance; in this case the DOI will need to be added during the final revision.
     4. Simulated Data / Model Output Data: [See the guidance for Numerical Models.](#bookmark=id.ashsx2axvar2) 
@@ -72,8 +62,6 @@ While numerical models or theoretical work may not utilize (input) data, often �
 
 When the primary data for the research comes from numerical model simulations, follow these guidelines: 
 
-
-
 1. **Citation of the model software**
     1. BEST OPTION (model in repository): Cite the model using a repository that registers the version used for the paper with a persistent identifier (e.g., Digital Object Identifier) and metadata that describes the model using community standards. For example, Github provides a [connection to Zenodo](https://guides.github.com/activities/citable-code/) for this purpose. If a published paper has the complete description, there should be a link in the repository to the published paper. Your citation should accurately capture the authors/creators of the model. In the Ocean modeling community it is common to use numerical models that are open access and well documented (e.g., GFDL-MOM, NEMO, ROMS, ADCIRC, FESOM, SHYFEM, SURF).
     2. GOOD OPTION (model described in paper): Cite the publication where the numerical model is described with information about the version used for this paper.
@@ -82,24 +70,21 @@ When the primary data for the research comes from numerical model simulations, f
 2. **Information about the configuration/parameters used to run the model.**
 1. This information should be included in the paper text as well as providing any script/workflow used. The script/workflow should be preserved in a repository and cited. Any boundary and/or initial condition datasets used should be described and cited. The goal is to provide sufficient information and resources so that an interested user, with sufficient computer resources, can replicate your simulation.
 1. **Data and analysis software that supports the Summary Results, Tables and Figures.**
-    1. BEST OPTION: Cite a package in an appropriate repository that includes scripts/workflows, provenance information, and summary files that support the research, figures, and tables, consistent with archives maintained for transparency and traceability by assessments such as the IPCC. \
+    1. BEST OPTION: Cite a package in an appropriate repository that includes scripts/workflows, provenance information, and summary files that support the research, figures, and tables, consistent with archives maintained for transparency and traceability by assessments such as the IPCC.
 
-    2. GOOD OPTION: Cite files (e.g., scripts, descriptive detail) in an appropriate repository that support evaluating the research and provide the details behind the tables and figures.  \
+    2. GOOD OPTION: Cite files (e.g., scripts, descriptive detail) in an appropriate repository that support evaluating the research and provide the details behind the tables and figures.
 
-    3. ACCEPTABLE OPTION: Provide the necessary information for transparency and traceability of the analysis using your community standards or guidance.  \
+    3. ACCEPTABLE OPTION: Provide the necessary information for transparency and traceability of the analysis using your community standards or guidance.
 
-2. **Model Output Data.** \
+2. **Model Output Data.**
 
 1. If model output is instrumental to evaluating the research, particularly with respect to producing manuscript figures or tables, then deposit the necessary model output in a community accepted, trusted repository (See [Commonly Used Repositories](#bookmark=id.ewy6ukgegh1a) for examples). There are currently limited resources for preserving files of very large size. However, selecting adequate output to produce manuscript figures and tables is generally much more manageable and is sufficient to meet the needs of replicability. 
 
+AGU journals strongly prefer the publication of free and open-source software to ensure the replicability of results by readers.  
 
-# AGU journals strongly prefer the publication of free and open-source software to ensure the replicability of results by readers.  
+Proprietary or not "freely" available software can be used and cited provided that readers are able to access the software through standard and reasonable means (e.g., a software package associated with an instrument, or an available visualization script). Standard graphics, spreadsheet, or word processing programs do not need to be cited.
 
-
-# Proprietary or not "freely" available software can be used and cited provided that readers are able to access the software through standard and reasonable means (e.g., a software package associated with an instrument, or an available visualization script). Standard graphics, spreadsheet, or word processing programs do not need to be cited.
-
-
-# Software that can not be made available during peer review may result in the paper not being accepted.  The editor must be consulted in this case. 
+Software that can not be made available during peer review may result in the paper not being accepted.  The editor must be consulted in this case. 
 
 **Highlight:** When deciding on what model data (e.g., simulation workflow outputs), simulation workflow configuration and code components to include with your paper, refer to the rubric and guidance developed by the [EarthCube Research Coordination Network (RCN)](https://modeldatarcn.github.io/) on model data management best practices.
 
@@ -109,45 +94,34 @@ Selecting a repository and determining data and software management best practic
 
 For publishing, you need to locate a repository that provides preservation services, such that:
 
-
-
 1. The repository registers your data with a persistent identifier that is globally unique such as a Digital Object Identifier (DOI).  \
-
 2. The data are freely accessible from a landing page that provides information (e.g., metadata) about your data, and preferably version controlled. 
 
 Once published in an appropriate **_preservation_** repository, your data cannot be modified. We recommend you be in contact with the repository to understand their preservation practices and how they support the community and journal requirements.
 
-
     **Discipline-Specific Repositories:** These are specialized repositories which typically provide support and information on required standards for metadata and more.
-
 
     AGU editors and staff have compiled a list of discipline-specific repositories and services to help authors find the repository that is right for your data. We are open to suggestions and additions to this list [See Appendix A for the list of commonly used repositories by journal](#bookmark=id.ewy6ukgegh1a).
 
-
     **Institutional Repository: **Many universities are supporting research data and software management and compliance requirements for their researchers, and such services are often provided through the library. Librarians can be an excellent source of research data management support, including repository selection, and can help you comply with funder, publisher, and university requirements. 
-
 
     **General Repository:** When using a general repository, make sure you provide documentation about your data that is in line with your community standards. Please refer to the[ Generalist Repository Comparison Chart](https://www.agu.org/-/media/Files/Publications/Generalist-Data-Repository-Grid.pdf) for additional repositories and guidance. Common repositories are:[ Zenodo](https://zenodo.org/), [Dryad](https://datadryad.org/), or[ Figshare](https://datadryad.org/). Dryad charges a fee that is [waived for U.S.NSF-funded authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/AGU-Partners-with-Dryad).
 
- 
-
-
     **Computing Center: **High-Performance Computers (HPC) have the infrastructure to support research using models and simulations, which may be involved in generating and/or analyzing high volumes of data. The operations team at the center may have recommendations for data management, storage, and preservation.
 
-
     **National Repositories:** Some countries require authors to use their National Repositories for data and/or software preservation. 
+
 
 **During Peer Review**
 
 <span style="text-decoration:underline;">Data</span>: Your data must be available for peer review of your manuscript. Here are options to ensure confidential access to your data.
 
 
+1. Preserve your data in a repository and make it available for peer review. Depending on the repository, this process can be done in a couple of ways:
 
-1. Preserve your data in a repository and make it available for peer review. Depending on the repository, this process can be done in a couple of ways: \
+    1. Provide a temporary private link (“share link”) in the last sentence of the Open Research section of your paper. This link will not be present in your published paper as it is not a persistent link. This approach allows your data to remain private until acceptance of the manuscript for publication.
 
-    1. Provide a temporary private link (“share link”) in the last sentence of the Open Research section of your paper. This link will not be present in your published paper as it is not a persistent link. This approach allows your data to remain private until acceptance of the manuscript for publication. \
-
-    2. Provide the persistent identifier (e.g., DOI) for your data; i.e., when your dataset has completed the repository submission process and is now publicly available. \
+    2. Provide the persistent identifier (e.g., DOI) for your data; i.e., when your dataset has completed the repository submission process and is now publicly available.
 
 2. Include your data in the supplementary information of your paper, only <span style="text-decoration:underline;">for the purpose of peer review</span>.  The supplement is not a repository and can only be used to support the peer review process. You must still submit your data to a repository prior to paper acceptance.
 
