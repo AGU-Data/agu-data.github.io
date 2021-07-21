@@ -89,18 +89,18 @@ Selecting a repository and determining data and software management best practic
 
 For publishing, you need to locate a repository that provides preservation services, such that:
 
-1. The repository registers your data with a persistent identifier that is globally unique such as a Digital Object Identifier (DOI).  \
+1. The repository registers your data with a persistent identifier that is globally unique such as a Digital Object Identifier (DOI). 
 2. The data are freely accessible from a landing page that provides information (e.g., metadata) about your data, and preferably version controlled. 
 
 Once published in an appropriate **_preservation_** repository, your data cannot be modified. We recommend you be in contact with the repository to understand their preservation practices and how they support the community and journal requirements.
 
-Discipline-Specific Repositories:** These are specialized repositories which typically provide support and information on required standards for metadata and more.
+**Discipline-Specific Repositories:** These are specialized repositories which typically provide support and information on required standards for metadata and more.
 
-AGU editors and staff have compiled a list of discipline-specific repositories and services to help authors find the repository that is right for your data. We are open to suggestions and additions to this list [See Appendix A for the list of commonly used repositories by journal](#bookmark=id.ewy6ukgegh1a).
+AGU editors and staff have compiled a list of discipline-specific repositories and services to help authors find the repository that is right for your data. We are open to suggestions and additions to this list [See Appendix A for the list of commonly used repositories by journal](#appendix).
 
 **Institutional Repository:** Many universities are supporting research data and software management and compliance requirements for their researchers, and such services are often provided through the library. Librarians can be an excellent source of research data management support, including repository selection, and can help you comply with funder, publisher, and university requirements. 
 
-**General Repository:** When using a general repository, make sure you provide documentation about your data that is in line with your community standards. Please refer to the[ Generalist Repository Comparison Chart](https://www.agu.org/-/media/Files/Publications/Generalist-Data-Repository-Grid.pdf) for additional repositories and guidance. Common repositories are:[ Zenodo](https://zenodo.org/), [Dryad](https://datadryad.org/), or[ Figshare](https://datadryad.org/). Dryad charges a fee that is [waived for U.S.NSF-funded authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/AGU-Partners-with-Dryad).
+**General Repository:** When using a general repository, make sure you provide documentation about your data that is in line with your community standards. Please refer to the[ Generalist Repository Comparison Chart](https://www.agu.org/-/media/Files/Publications/Generalist-Data-Repository-Grid.pdf) for additional repositories and guidance. Common repositories are: [Zenodo](https://zenodo.org/), [Dryad](https://datadryad.org/), or [Figshare](https://datadryad.org/). Dryad charges a fee that is [waived for U.S.NSF-funded authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/AGU-Partners-with-Dryad).
 
 **Computing Center:** High-Performance Computers (HPC) have the infrastructure to support research using models and simulations, which may be involved in generating and/or analyzing high volumes of data. The operations team at the center may have recommendations for data management, storage, and preservation.
 
@@ -124,15 +124,12 @@ AGU editors and staff have compiled a list of discipline-specific repositories a
 
 Peer reviewers, with support from AGU staff, will ensure the link to the data and software resolves properly to a community-accepted, trusted repository and includes the data and software necessary to evaluate your research. 
 
- 
-
 **Paper Acceptance**
 
-1. <span style="text-decoration:underline;">Data</span>: Relevant data and model results should be accessible at the time your paper is accepted. Note the possibility that in unusual cases the repository policy may not allow your data to be published until your paper is published. If that is the case, AGU will accept that your data will be made available after your paper is published. Please coordinate with the repository to ensure the availability of your data. \
+1. <span style="text-decoration:underline;">Data</span>: Relevant data and model results should be accessible at the time your paper is accepted. Note the possibility that in unusual cases the repository policy may not allow your data to be published until your paper is published. If that is the case, AGU will accept that your data will be made available after your paper is published. Please coordinate with the repository to ensure the availability of your data.
 2. <span style="text-decoration:underline;">Software</span>: For papers where software is central to your research, your software should be accessible at the time your paper is accepted.
 
-
-**Availability Statements and Template Examples **
+**Availability Statements and Template Examples**
 
 The Availability Statement is a narrative that indicates to the reader where and how to directly access your data and software and provides any information on licenses and restrictions. An Availability Statement should contain an in-text citation, licensing information (e.g., CC-BY 4.0, MIT) and access restrictions (e.g., authentication required) (here is an [example from JAMES](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS001726#jame20966-sec-0068-title)). Statements to the effect of "data available from authors" are not acceptable. Also, statements to the effect of “data available from[ http://nasa.gov](http://nasa.gov)” are not acceptable since high-level website references do not meet the [AGU’s Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors) requirements. Provide details of the specific locations, data product names, variable names, time ranges, spatial locations, and any other search criteria needed to Find and Access the data used/ generated in the paper (including those represented in figures and tables).
 
@@ -167,7 +164,7 @@ The Availability Statement should contain a citation, licensing information, acc
 
 5. **Theoretical papers, or most review papers:** Software (other than for typesetting) was not used for this research.
 
-
+<a name="appendix">
 **Appendix A: List of Commonly Used Discipline-Specific Repositories by Journal**
 
 The data that supports the research reported in your paper must be deposited in a trusted repository. When identifying the most appropriate repositories for your data, first, refer to the AGU’s [journal-specific data guidance](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors). We recommend a repository that specializes in the data for your scientific discipline as this will maximize the probability that the deposited data will be findable, accessible, interoperable and reusable (FAIR). Otherwise, look to your [institutional repository](https://deepblue.lib.umich.edu/handle/2027.42/163716), your computing center, or a [general repository](https://www.agu.org/-/media/Files/Publications/Generalist-Data-Repository-Grid.pdf) (e.g.[ Zenodo](https://zenodo.org/),[ Dryad](https://datadryad.org/), [Figshare](https://figshare.com/)).
