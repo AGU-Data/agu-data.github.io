@@ -198,7 +198,7 @@ The following is a list of commonly used, FAIR aligned, open and generally acces
 
 1. [Zenodo](https://zenodo.org/)
 2. [Figshare](https://figshare.com/)
-3. [PANGAEA](https://www.pangaea.de/)** **
+3. [PANGAEA](https://www.pangaea.de/)
 
 Also, the following is a list of organizational, funding aligned data and software sources that are commonly used by JGR Oceans authors (based on 2020 articles):
 
