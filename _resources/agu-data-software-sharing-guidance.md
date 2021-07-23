@@ -158,4 +158,7 @@ The Availability Statement should contain a citation, licensing information, acc
 
 5. **Theoretical papers, or most review papers:** Software (other than for typesetting) was not used for this research.
 
-_We are thankful to Dr. Peter Fox and his initial draft contribution to this guidance document while also saddened by his recent passing. Peter's contributions to the community continue to have a great impact as represented in this document. Thank you, Peter, you are missed._
+_We are thankful to Dr. Peter Fox and his initial draft contribution to this guidance document while also saddened by his recent passing. Peter's contributions to the community continue to have a great impact as represented in this document. Thank you, Peter, you are missed._  
+  
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5124741.svg)](https://doi.org/10.5281/zenodo.5124741)
+
