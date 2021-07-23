@@ -157,3 +157,5 @@ The Availability Statement should contain a citation, licensing information, acc
 4. **Software that is restricted by commercial, industry, patent, government policies, regulations or laws:** Software supporting this research is available in [cite in-text citation reference from third-party source], with [these restrictions that include information concerning required NDA, licensing, agreements], and is not accessible to the public or research community. [Provide a process for how other researchers can gain access.] NOTE: If your software is in this category, the editors will determine if this statement meets the AGU guidelines sufficiently.  
 
 5. **Theoretical papers, or most review papers:** Software (other than for typesetting) was not used for this research.
+
+_We are thankful to Dr. Peter Fox and his initial draft contribution to this guidance document while also saddened by his recent passing. Peter's contributions to the community continue to have a great impact as represented in this document. Thank you, Peter, you are missed._
