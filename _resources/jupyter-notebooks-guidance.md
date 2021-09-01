@@ -27,7 +27,7 @@ No matter which execution environment you choose, make sure you obtain a publicl
 
 * Cite your notebook, using your DOI, in the References section of your paper. Example citation below:  
   
-Fenner, M. (2019).Jupyter Notebook FREYA PID GraphKey Performance Indicators(KPIs)(Version 1.1.0). DataCite. [https://doi.org/10.14454/3BPW-W3812](https://doi.org/10.14454/3BPW-W3812)
+Fenner, M. (2019). Jupyter Notebook FREYA PID Graph Key Performance Indicators (KPIs) (Version 1.1.0). DataCite. [https://doi.org/10.14454/3BPW-W381](https://doi.org/10.14454/3BPW-W381)  
 
 * Describe the availability of your notebook by including the DOI of the preserved release used by your paper and the execution link in the Availability Statement of your paper. For AGU, the Availability Statement is located in the Open Research section. Statement template is below:  
   
