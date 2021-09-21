@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Your Digital Presence: Taking advantage of the auto-update feature for your ORCID 
+title: Your Digital Presence - Taking advantage of the auto-update feature for your ORCID 
 feature-img: assets/img/pexels/AGU-stars-silhouette-night-1314x400.jpg
 author: Shelley Stall, Chris Erdmann
-tags: [Posts]
+tags: [Posts, PARSEC]
 ---
 
 Your Digital Presence is how other researchers and the international scholarly community discover your research online with commonly used open search tools. It is also an important element of Open Science. By making discovery easy for others you help to:
