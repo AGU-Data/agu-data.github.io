@@ -3,7 +3,7 @@ layout: post
 title: Your Digital Presence: Taking advantage of the auto-update feature for your ORCID 
 feature-img: assets/img/pexels/AGU-stars-silhouette-night-1314x400.jpg
 author: Shelley Stall
-tags: [Posts, PARSEC]
+tags: [Posts]
 ---
 
 
