@@ -6,7 +6,6 @@ author: Shelley Stall
 tags: [Posts]
 ---
 
-
 Your Digital Presence is how other researchers and the international scholarly community discover your research online with commonly used open search tools. It is also an important element of Open Science. By making discovery easy for others you help to:
 
 - Increase **Citations** of your work  
