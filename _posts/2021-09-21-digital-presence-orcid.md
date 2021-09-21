@@ -10,7 +10,7 @@ Your Digital Presence is how other researchers and the international scholarly c
 
 - Increase **Citations** of your work  
 - Build your network to explore possible future **Collaborators**  
-- Improve your Open Science practices by linking to your research  
+- Improve your **Open Science** practices by linking to your research  
 
 What can you do?
 
