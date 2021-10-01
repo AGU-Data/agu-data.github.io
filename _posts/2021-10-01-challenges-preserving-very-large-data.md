@@ -6,7 +6,7 @@ author: Shelley Stall, Chris Erdmann
 tags: [Posts]
 ---
 
-When it comes to large datasets, we are often asked by authors and editors how they should preserve the data. These questions come via [datahelp@agu.org](mailto:datahelp@agu.org) and our [data and software guidance](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors) discussions. Spoilers, there are no easy answers, yet.  Here we offer our experience, share the current limitations, and the approaches we recommend with what is possible right now.
+When it comes to large datasets, we are often asked by authors and editors how they should preserve the data. These questions come via [datahelp@agu.org](mailto:datahelp@agu.org) and our [data and software guidance](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors) discussions. Spoilers, there are no easy answers, yet!  Here we offer our experience, share the current limitations, and the approaches we recommend with what is possible right now.
 
 AGU requires that primary and processed data used for your research should be preserved and made available. This can range from observational data to the data used to generate your figures. The raw data may be needed, but usually, the processed or refined data that support and lead to the described results and allow other readers to assess your conclusions and build off your work should be preserved. 
 
