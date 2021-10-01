@@ -33,7 +33,7 @@ Some research computing facilities and institutions provide sharing and access m
 * The platform needs to support confidential access for the paper peer-review process. 
 * Contact the selected platform to plan the deposit and establish a budget.  
 * Include with your data the necessary documentation (e.g. README), licensing (e.g. CC-BY), recommended citation, and other information that will be helpful for understanding it.
-* This option allows your data to be cited using a URL, but **will not **result in automated attribution or credit. 
+* This option allows your data to be cited using a URL, but **will not** result in automated attribution or credit. 
 
 Possible institutional sharing platforms for very large datasets include: FTP site, DropBox, Box, OneDrive, and Google Drive. It is important to repeat that sharing your data in these platforms is only allowed when no other preservation repository can be used. The author is expected to plan and budget for preserving their data and make every attempt to identify a preservation repository. 
 
