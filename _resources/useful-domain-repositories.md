@@ -13,6 +13,10 @@ The data that supports the research reported in your paper must be deposited in 
 
 The following is a list of useful repositories by journal:
 
+- [JGR-Atmospheres](https://data.agu.org/resources/useful-domain-repositories#atmos)
+- [JGR-Biogeosciences](https://data.agu.org/resources/useful-domain-repositories#biogeo)
+
+
 <a name="atmos"></a>  
 ### JGR-Atmospheres
 
