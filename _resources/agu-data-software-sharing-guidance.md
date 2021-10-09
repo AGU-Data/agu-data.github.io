@@ -9,6 +9,7 @@ tags: [Data Sharing, Software Sharing, Author Guidance, AGU]
 
 
 **Data and Software Sharing Guidance for Authors Submitting to AGU journals**
+_Fox, Peter, Erdmann, Chris, Stall, Shelley, Griffies, Stephen M., Beal, Lisa M., Pinardi, Nadia, Hanson, Brooks, Friedrichs, Marjorie A. M., Feakins, Sarah, Bracco, Annalisa, Pirenne, Benoî, & Legg, Sonya_
 
 Data and software are the building blocks of the research published in the AGU journals. These digital objects need to be accessible, understandable, and open as possible for reuse to support transparency and replicability. These digital objects include:
 
@@ -159,6 +160,8 @@ The Availability Statement should contain a citation, licensing information, acc
 5. **Theoretical papers, or most review papers:** Software (other than for typesetting) was not used for this research.
 
 _We are thankful to Dr. Peter Fox and his initial draft contribution to this guidance document while also saddened by his recent passing. Peter's contributions to the community continue to have a great impact as represented in this document. Thank you, Peter, you are missed._  
-  
- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5124741.svg)](https://doi.org/10.5281/zenodo.5124741)
+
+Fox, Peter, Erdmann, Chris, Stall, Shelley, Griffies, Stephen M., Beal, Lisa M., Pinardi, Nadia, Hanson, Brooks, Friedrichs, Marjorie A. M., Feakins, Sarah, Bracco, Annalisa, Pirenne, Benoî, & Legg, Sonya. (2021). Data and Software Sharing Guidance for Authors Submitting to AGU Journals. Zenodo. https://doi.org/10.5281/zenodo.5124741  
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5124741.svg)](https://doi.org/10.5281/zenodo.5124741)
 
