@@ -17,6 +17,7 @@ The following is a list of useful repositories by journal:
 - [JAMES](https://data.agu.org/resources/useful-domain-repositories#james)
 - [JGR-Atmospheres](https://data.agu.org/resources/useful-domain-repositories#atmos)
 - [JGR-Biogeosciences](https://data.agu.org/resources/useful-domain-repositories#biogeo)
+- [Water Resources Research](https://data.agu.org/resources/useful-domain-repositories#wrr)  
 
 <a name="geohealth"></a>  
 ### GeoHealth
@@ -116,3 +117,25 @@ The **[Biological and Chemical Oceanography Data Management Office (BCO-DMO)](ht
 - Data accepted by BCO-DMO include all project output (observational data,  derived and statistical products, analysis code, software and models, and  supporting documentation such as reports and calibration information). The  office accepts a wide variety of data types and formats, and works to publish a  non-proprietary, research-ready, data package available to new research. To  contribute data to BCO-DMO, please see the "_[How to Get Started Contributing >Data](https://www.bco-dmo.org/how-get-started)_" page, located under the Resources tab of the BCO-DMO website. **[Water / Hydrologic data]**
 
 
+<a name="wrr"></a>  
+### Water Resources Research
+
+**[PANGAEA](https://www.pangaea.de/)** - Accepts any data from earth, environmental and life sciences. When you start the data submission process, you will be redirected to the PANGAEA issue tracker that will assist you in providing metadata and uploading data files. Any communication with PANGAEA’s editors will go through this issue tracker. For more details about the submission workflow see the PANGAEA [tutorial](https://www.pangaea.de/submit/#tutorial). **[Earth and Environmental Data]**
+
+**[EarthChem Library](http://earthchem.org/)** - an open-access repository for geochemical datasets (analytical data, experimental data, synthesis databases) and other digital resources relevant to the field of geochemistry.  The EarthChem Library offers data preservation and access, including long-term archiving and registration of data with Digital Object Identifiers (DOIs).  [Text taken from [EarthChem Library](https://earthchem.org/) website] **[Geochemistry Data]**
+
+[EarthChem Library Data Submission Guidelines](https://earthchem.org/help/guidelines) - Data can be contributed to the EarthChem Library in any format, but needs to be documented with relevant information regarding the analytical data quality and sample provenance. Before submission, please confirm that your dataset follows the requirements and suggestions documented in the guidelines. Incomplete datasets will take longer to process and publish.
+
+EarthChem Library [citation](https://earthchem.org/data/cite)<span style="text-decoration:underline;"> guidelines.
+
+**[Geochron](https://www.geochron.org/)** – a global database hosting geochronologic and thermochronologic information from detrital minerals. Accepts data from a variety of [data reduction](https://www.geochron.org/submitdata.php) programs that are used widely in the various geochronology and thermochronology communities. These programs have features to seamlessly upload data to Geochron, but do require a unique sample or aliquot identifier. You can access these programs under the[ Data Reduction Software](https://www.geochron.org/submitdata.php) part of the website. Many of these will accommodate legacy data or data not reduced by those programs. Text taken from [GeoChron website](https://www.geochron.org/submittingdata) about submitting data. **[Geochronologic and Thermochronologic Data]**
+
+Geochron works with the Earthchem Library to publish data with Digital Object Identifiers (DOIs). 
+
+**[HydroShare](https://www.hydroshare.org)** - HydroShare is a system operated by The Consortium of Universities for the Advancement of Hydrologic Science Inc. (CUAHSI) that enables users to share and publish data and models in a variety of flexible formats, and to make this information available in a citable, shareable and discoverable manner. HydroShare includes a repository for data and models, and tools (web apps) that can act on content in HydroShare providing users with a gateway to high performance computing and computing in the cloud. With HydroShare you can: share data and models with colleagues; manage access to shared content; share, access, visualize, and manipulate a broad set of hydrologic data types and models; publish data and models and obtain a citable digital object identifier (DOI); aggregate resources into collections; discover and access data and models published by others; use the web services application programming interface (API) to programmatically access resources; and use integrated web applications to visualize, analyze and run models with data in HydroShare. **[Hydrology]**
+
+**[OpenTopography](https://opentopography.org/) **– Hosts Earth science related, research-grade, topography and bathymetry data. It is available to support NSF funded PIs and projects that have previously acquired or are in the planning phases of acquiring lidar topography data. Email [info@opentopography.org](mailto:info@opentopography.org) for information on submitting data.
+
+* [OpenTopography data submission guidelines](https://opentopography.org/about/services).
+* [OpenTopography citation guidelines](https://opentopography.org/citations).
+**[Topographic and bathymetric Data]** 
