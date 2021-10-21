@@ -50,5 +50,7 @@ Examples:
 * Part of the software (version 1.0.0) associated with this manuscript for the calculation and storage of PSDs is licensed under MIT and published on GitHub [https://github.com/Jollyfant/psd-module/](https://github.com/Jollyfant/psd-module/) (Jollyfant, 2021).
     3. **Author, Project Name(s)** instead of username(s) (e.g., username123)
     4. **Additional Context/Description** beyond acronym or code name (e.g., Longhorn pipeline scripts for reducing data vs Longhorn)
-Examples used from:  
+
+
+**Examples used from:**  
 Koymans, M. R., Domingo Ballesta, J., Ruigrok, E., Sleeman, R., Trani, L., & Evers, L. G. (2021, September). Performance Assessment of Geophysical Instrumentation Through the Automated Analysis of Power Spectral Density Estimates. Earth and Space Science. American Geophysical Union (AGU). [https://doi.org/10.1029/2021ea001675](https://doi.org/10.1029/2021ea001675) 
