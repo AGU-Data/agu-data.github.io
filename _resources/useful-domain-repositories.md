@@ -17,6 +17,7 @@ The following is a list of useful repositories by journal:
 - [JAMES](https://data.agu.org/resources/useful-domain-repositories#james)
 - [JGR-Atmospheres](https://data.agu.org/resources/useful-domain-repositories#atmos)
 - [JGR-Biogeosciences](https://data.agu.org/resources/useful-domain-repositories#biogeo)
+- [JGR-Earth Surface](https://data.agu.org/resources/useful-domain-repositories#earthsurface)
 - [Water Resources Research](https://data.agu.org/resources/useful-domain-repositories#wrr)  
 
 <a name="geohealth"></a>  
@@ -116,17 +117,36 @@ The **[Biological and Chemical Oceanography Data Management Office (BCO-DMO)](ht
 - BCO-DMO works closely with individual investigators and data originators  throughout the data life cycle, from data management planning support, quality  control and metadata assembly, to DOI creation and archive with appropriate  national facilities. The office ensures all contributed project data and metadata  are in compliance with current funder policies (i.e., NSF OCE Sample and Data  Policy, NSF 17-037) and offers investigators the option to embargo data (in  accordance with funder policies) until publication. Dataset DOIs are obtained and  available once investigators review final curated data packages for publishing.  Dataset DOIs, once generated, may be used for scholarly publication and/or  funder reporting. BCO-DMO accepts scholarly publication DOIs and can link  these to their respective datasets.  
 - Data accepted by BCO-DMO include all project output (observational data,  derived and statistical products, analysis code, software and models, and  supporting documentation such as reports and calibration information). The  office accepts a wide variety of data types and formats, and works to publish a  non-proprietary, research-ready, data package available to new research. To  contribute data to BCO-DMO, please see the "_[How to Get Started Contributing >Data](https://www.bco-dmo.org/how-get-started)_" page, located under the Resources tab of the BCO-DMO website. **[Water / Hydrologic data]**
 
+<a name="earthsurface"></a>  
+### JGR-Earth Surface
+
+**Zenodo** - [Zenodo](https://zenodo.org/) builds and operates a simple and innovative service that enables researchers, scientists, EU projects and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of the existing institutional or subject-based repositories of the research communities. ZENODO enables researchers, scientists, EU projects and institutions to: easily share the long tail of small research results in a wide variety of formats including text, spreadsheets, audio, video, and images across all fields of science. display their research results and get credited by making the research results citable and integrate them into existing reporting lines to funding agencies like the European Commission. easily access and reuse shared research results. Text description from [re3data](https://www.re3data.org/search?query=zenodo). Note: JAMES authors have increasingly used the [GitHub-Zenodo integration](https://guides.github.com/activities/citable-code/) to preserve, describe, and cite their software. [Earth and Environmental Data]
+
+**PANGAEA** - [PANGAEA](https://www.pangaea.de/) is operated as an Open Access library aimed at archiving, publishing and distributing georeferenced data from the earth and life sciences. The system guarantees long-term availability of its content through a commitment of the operating institutions. Each dataset can be identified, shared, published and cited by using a Digital Object Identifier (DOI). PANGAEA also allows data to be published as supplements to science articles or as citable data collections in combination with data journals like ESSD, Geoscience Data Journal, Scientific Data, or others. Additional information about PANGAEA can be found at their [about](https://www.pangaea.de/about/), [help](https://wiki.pangaea.de/wiki/Main_Page), and [submit](https://www.pangaea.de/submit/) pages and their [contact](https://www.pangaea.de/contact/) page is available for further questions you may have. [Earth and Environmental Data]
+
+**figshare** - [figshare](https://figshare.com/) allows researchers to publish all of their research outputs in an easily citable, sharable and discoverable manner. All file formats can be published, including videos and datasets. Optional peer review process. figshare uses creative commons licensing. Text description from [re3data](https://www.re3data.org/repository/r3d100010066). [Earth and Environmental Data]
+
+**[EarthChem Library](http://earthchem.org/)** - An open-access repository for geochemical datasets (analytical data, experimental data, synthesis databases) and other digital resources relevant to the field of geochemistry. The EarthChem Library offers data preservation and access, including long-term archiving and registration of data with Digital Object Identifiers (DOIs). Text taken from [EarthChem Library](https://earthchem.org/) website. **[Geochemical Data]**
+
+**[OpenTopography](https://opentopography.org/)** – Hosts Earth science related, research-grade, topography and bathymetry data. It is available to support NSF funded PIs and projects that have previously acquired or are in the planning phases of acquiring lidar topography data. Email [info@opentopography.org](mailto:info@opentopography.org) for information on submitting data.
+
+* [OpenTopography data submission guidelines](https://opentopography.org/about/services).
+* [OpenTopography citation guidelines](https://opentopography.org/citations).  
+**[Topographic and Bathymetric Data]** 
+
+Repositories of earth-science data hosted by government agencies, such as (e.g., from the United States) the National Snow and Ice Data Center (**[NSIDC](https://nsidc.org/)**), the National Centers for Environmental Information (**[NCEI](https://www.ncei.noaa.gov/)**), or U.S. Geological Survey data series and data releases hosted by **[ScienceBase.gov](https://www.sciencebase.gov/)**.
+
 
 <a name="wrr"></a>  
 ### Water Resources Research
 
 **[PANGAEA](https://www.pangaea.de/)** - Accepts any data from earth, environmental and life sciences. When you start the data submission process, you will be redirected to the PANGAEA issue tracker that will assist you in providing metadata and uploading data files. Any communication with PANGAEA’s editors will go through this issue tracker. For more details about the submission workflow see the PANGAEA [tutorial](https://www.pangaea.de/submit/#tutorial). **[Earth and Environmental Data]**
 
-**[EarthChem Library](http://earthchem.org/)** - An open-access repository for geochemical datasets (analytical data, experimental data, synthesis databases) and other digital resources relevant to the field of geochemistry. The EarthChem Library offers data preservation and access, including long-term archiving and registration of data with Digital Object Identifiers (DOIs). Text taken from [EarthChem Library](https://earthchem.org/) website. **[Geochemistry Data]**
+**[EarthChem Library](http://earthchem.org/)** - An open-access repository for geochemical datasets (analytical data, experimental data, synthesis databases) and other digital resources relevant to the field of geochemistry. The EarthChem Library offers data preservation and access, including long-term archiving and registration of data with Digital Object Identifiers (DOIs). Text taken from [EarthChem Library](https://earthchem.org/) website.
 
 [EarthChem Library Data Submission Guidelines](https://earthchem.org/help/guidelines) - Data can be contributed to the EarthChem Library in any format, but needs to be documented with relevant information regarding the analytical data quality and sample provenance. Before submission, please confirm that your dataset follows the requirements and suggestions documented in the guidelines. Incomplete datasets will take longer to process and publish.
 
-EarthChem Library [citation](https://earthchem.org/data/cite)<span style="text-decoration:underline;"> guidelines.
+EarthChem Library [citation](https://earthchem.org/data/cite)<span style="text-decoration:underline;"> guidelines. **[Geochemistry Data]**
 
 **[Geochron](https://www.geochron.org/)** – A global database hosting geochronologic and thermochronologic information from detrital minerals. Accepts data from a variety of [data reduction](https://www.geochron.org/submitdata.php) programs that are used widely in the various geochronology and thermochronology communities. These programs have features to seamlessly upload data to Geochron, but do require a unique sample or aliquot identifier. You can access these programs under the[ Data Reduction Software](https://www.geochron.org/submitdata.php) part of the website. Many of these will accommodate legacy data or data not reduced by those programs. Text taken from [GeoChron website](https://www.geochron.org/submittingdata) about submitting data. **[Geochronologic and Thermochronologic Data]**
 
