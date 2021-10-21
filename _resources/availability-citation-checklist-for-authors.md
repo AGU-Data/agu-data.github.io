@@ -25,7 +25,7 @@ Examples:
     Examples:  
 * Software - [https://doi.org/10.5281/zenodo.3714460](https://doi.org/10.5281/zenodo.3714460) 
 * Data - [https://doi.org/10.7283/633E-1497](https://doi.org/10.7283/633E-1497)
-    * If a share link, make sure the link is now a URL/persistent identifier, that it is open accessible
+    If a share link, make sure the link is now a URL/persistent identifier, that it is open accessible
 4. **Access Conditions** - **[Best Practice]**
     Examples:  
 * Registration/fee required
