@@ -14,14 +14,14 @@ tags: [AGU, Resources]
 Use the following checklist to understand what is required and what is considered best practice in following AGU’s [Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors) Guidance. Refer to the Guidance also for [Availability Statement templates](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors#availability) and [Citation examples](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors#citation). 
 
 
-1. **Description of the Type(s) **of data and/or software - **[Required]** \
+1. **Description of the Type(s)** of data and/or software - **[Required]**  
 Examples:  
 * Data - Waveforms
 * Software - Figures
-2. **Repository Name(s)** where the data/software are deposited - **[Best Practice]** \
+2. **Repository Name(s)** where the data/software are deposited - **[Best Practice]**  
 Examples:  
-* Repositories section of website
-3. **URL/link** directly to the data/software, preferably **Persistent Identifier **(e.g., DOI) and resolves - **[Required]***
+* [Domain-Discipline Repositories Useful to AGU Journals](https://data.agu.org/resources/useful-domain-repositories)
+3. **URL/link** directly to the data/software, preferably **Persistent Identifier** (e.g., DOI) and resolves - **[Required]**  
     Examples:  
 * Software - [https://doi.org/10.5281/zenodo.3714460](https://doi.org/10.5281/zenodo.3714460) 
 * Data - [https://doi.org/10.7283/633E-1497](https://doi.org/10.7283/633E-1497)
