@@ -1,3 +1,12 @@
+---
+layout: post
+title: Data and Software Availability and Citation Checklist for Authors, Reviewers, Editors, and AGU Publications
+feature-img: "assets/img/pexels/AGU-Stock-Underwater-Rocks-Sunlight-1314x400.jpg"
+img: "assets/img/resources/green-check.png"
+date: 14 June 2021
+tags: [AGU, Resources]
+---
+
 
 **Data and Software Availability and Citation Checklist**
 **for Authors, Reviewers, Editors, and AGU Publications**
