@@ -1,0 +1,15 @@
+repositories:
+- name: Zenodo
+  re3data-url: https://www.re3data.org/repository/r3d100010468
+  url: 
+  notes: AGU authors frequently use the [GitHub-Zenodo integration](https://guides.github.com/activities/citable-code) to preserve, describe, and cite their software.
+  category: Earth and Environmental Data
+  journal: multiple
+  journal-list: 
+- name: PANGAEA
+  re3data-url: https://www.re3data.org/repository/r3d100010134
+  url: 
+  notes: 
+  category: Earth and Environmental Data
+  journal: multiple
+  journal-list: 
