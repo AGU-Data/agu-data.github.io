@@ -13,12 +13,64 @@ The data that supports the research reported in your paper must be deposited in 
 
 The following is a list of useful repositories by journal:
 
+- [Geochemistry, Ggeophysics, Geosystems](useful-domain-repositories#geochem)
 - [GeoHealth](https://data.agu.org/resources/useful-domain-repositories#geohealth)
 - [JAMES](https://data.agu.org/resources/useful-domain-repositories#james)
 - [JGR-Atmospheres](https://data.agu.org/resources/useful-domain-repositories#atmos)
 - [JGR-Biogeosciences](https://data.agu.org/resources/useful-domain-repositories#biogeo)
 - [JGR-Earth Surface](https://data.agu.org/resources/useful-domain-repositories#earthsurface)
 - [Water Resources Research](https://data.agu.org/resources/useful-domain-repositories#wrr)  
+
+
+<a name="geochem"></a>  
+### Geochemistry, Ggeophysics, Geosystems
+
+**[Pangaea](https://www.pangaea.de/)** - Accepts any data from earth, environmental and life sciences. When you 
+start the data submission process, you will be redirected to the PANGAEA issue 
+tracker that will assist you in providing metadata and uploading data files. Any 
+communication with Pangaea’s editors will go through this issue tracker. For more 
+details about the submission workflow see the Pangaea [tutorial](https://www.pangaea.de/submit/#tutorial). **[Earth and Environmental Data]**
+
+**[EarthChem Library](https://earthchem.org/)** - An open-access repository for geochemical datasets (analytical data, experimental data, synthesis databases) and other digital resources relevant to the field of geochemistry. The EarthChem Library offers data preservation and access, including long-term archiving and registration of data with Digital Object Identifiers (DOIs). [Text taken from EarthChem Library website]
+
+[EarthChem Library Data Submission Guidelines](https://earthchem.org/ecl/submission-guidelines/) - Data can be contributed to the EarthChem Library in any format, but needs to be documented with relevant information regarding the analytical data quality and sample provenance. Before submission, please confirm that your dataset follows the requirements and suggestions documented in the guidelines. Incomplete datasets will take longer to process and publish.
+
+EarthChem Library [citation guidelines](https://earthchem.org/resources/researchers/#cite).  **[Geochemistry Data]**
+
+**[Geochron](https://www.geochron.org/)** – A global database hosting geochronologic and thermochronologic information from detrital minerals. Accepts data from a variety o[f data reduction](https://www.geochron.org/submitdata.php) programs that are used widely in the various geochronology and thermochronology communities. These programs have features to seamlessly upload data to Geochron, but do require a unique sample or aliquot identifier. You can access these programs under the[ Data Reduction Software](https://www.geochron.org/submitdata.php) part of the website. Many of these will accommodate legacy data or data not reduced by those programs. [Text taken from[ GeoChron website](https://www.geochron.org/submittingdata) about submitting data.]
+
+Geochron works with the Earthchem Library to publish data with Digital Object Identifiers (DOIs).  **[Geochronologic and Thermochronologic Data]**
+
+**[Magnetics Information Consortium (MagIC)](https://www.earthref.org/MagIC)** - digital data archive for rock magnetic, geomagnetic, archeomagnetic (archaeomagnetic) and paleomagnetic (palaeomagnetic) dat[a.  ](https://www.earthref.org/MagIC)
+
+1. 	MagIC ([www.earthref.org/MagIC)](http://www.earthref.org/MagIC) works closely with researchers to help them prepare their data for uploading. We highly recommend consulting with MagIC to improve the workflow of data acquisition and analysis (<span style="text-decoration:underline;">data.curator@earthref.org</span>) so that uploading data to MagIC is less cumbersome and time consuming. The team at MagIC have already written many scripts to translate other data formats into the MagIC format and can write one for your lab, if they do not have one that is already compatible with your data. 
+
+2. 	If you have not uploaded data to MagIC before, it will likely take a few months to work out all the details for your workflow and get your data uploaded, but following this initial effort, data uploading should be fairly straightforward. If you are only uploading summary data (as found in tables in a paper), the process is much quicker, but we highly recommend uploading measurement data to comply with AGU’s data publishing guidelines.  
+
+3.	Once your data have been uploaded to your private workspace in MagIC and is ready for publication, MagIC will require a DOI for your paper. Your data will not be made public until the paper has been published. This sequence of events, ensures the data are linked to your paper accurately by both AGU and MagIC. In your private workspace, you will see what the data DOI will be and this DOI is what you should put in your paper’s reference list for the data citation and in the availability statement. 
+
+4.	Your data should be uploaded in its final form before the paper is sent to reviewers; they need to access the data along with your paper. MagIC has a “share link” feature which allows you to share the data from one of your private data sets with colleagues, editors and reviewers. People accessing your data via the private “share link” are anonymous. MagIC does not store the identities of who accesses the data via shared links and keeps any IP addresses associated with accessing private data confidential.
+
+5.	The data DOI link from MagIC should be activated by the author at the time the paper is published. Depending on the journal, there may be some delay between when the paper is published and when MagIC is alerted. The paper metadata must be available to MagIC before the author can activate the data DOI. In the event that an author fails to make their data public, MagIC will make reasonable efforts to encourage the author to do so, but reserves the right to make public the data associated with the published paper. Authors are encouraged to correct any errors or mistakes in the dataset after publishing. Datasets are versioned and the original dataset that was published with the paper will still be available by others.  **[Rock magnetic, Geomagnetic, Archeomagnetic and Paleomagnetic data]**
+
+**Seismic Data** 
+
+Papers that rely on seismic data must document the availability of both the raw waveform data and processed data products (for example, receiver functions, shear wave splitting measurements, surface wave dispersion curves, tomographic models, etc.). It is the expectation that raw waveform data underlying papers in G-cubed will be made publicly available via the IRIS Data Management system (described below) or another similar repository. If the data are not available in such a repository, then the authors should make the waveforms used in the study available via a general repository such as Zenodo. 
+
+In cases where the waveform data are under embargo (that is, in a period of proprietary use), the data must be made available for the peer review process and the embargo must be removed with the data fully available at the time the paper is accepted. In cases in which there are governmental or other restrictions that do not allow for sharing of the raw waveform data, editors will work with authors to decide on a case by case basis whether the paper can meet the AGU data availability requirements. Papers for which some or all of the raw waveform data are not available must explicitly state that the data are not publicly available in the Data Availability statement. In this case, the editors will determine if the paper meets AGU data availability requirements and can be accepted.
+
+**[IRIS Data Management System](http://ds.iris.edu/ds/)** – archives  seismic data from many sources including continuous, passive-source seismic data collected by broadband instruments as well as active-source (man-made explosion) data, and data from nonseismic instruments, commonly referred to as environmental, gravimetric, magnetotelluric, state-of-health, or historical record digital scanning projects, and others.
+
+[IRIS data submission guidelines.](https://ds.iris.edu/ds/nodes/dmc/data/)
+
+[IRIS network citation guidelines](http://www.fdsn.org/citations/)
+
+**[LDEO Seismic Reflection Field Data Center](https://www.ldeo.columbia.edu/research/marine-geology-geophysics/seismic-reflection-field-data-center)** - Provides access to marine seismic reflection images, navigation, acquisition parameters and field data. [LDEO data contribution guidelines.](http://www.marine-geo.org/submit/)  **[Seismic Data]** 
+
+**[OpenTopography](https://opentopography.org/)** – Hosts Earth science related, research-grade, topography and bathymetry data. It is available to support NSF funded PIs and projects that have previously acquired or are in the planning phases of acquiring lidar topography data. Email [info@opentopography.org](mailto:info@opentopography.org) for information on submitting data.
+
+[OpenTopography data submission guidelines. OpenTopography citation guidelines.](https://opentopography.org/about/services)  **[Topographic and Bathymetric Data]** 
+
 
 <a name="geohealth"></a>  
 ### GeoHealth
