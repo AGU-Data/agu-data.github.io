@@ -16,8 +16,8 @@ Use the following checklist to understand what is required and what is considere
 
 1. **Description of the Type(s)** of data and/or software - **[Required]**  
 Examples:  
-* Data - Waveforms
-* Software - Figures
+* Data - The facilities of IRIS Data Services were used for access to waveforms and related metadata from the International Geodynamics and Earth Tide Service (Network Of Superconducting Gravimeters, 1997)
+* Software - Figures were made with Matplotlib version 3.2.1 (Caswell et al., 2020; Hunter, 2007)
 2. **Repository Name(s)** where the data/software are deposited - **[Best Practice]**  
 Examples:  
 * [Domain-Discipline Repositories Useful to AGU Journals](https://data.agu.org/resources/useful-domain-repositories)
