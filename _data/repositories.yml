@@ -103,6 +103,12 @@ repository-list:
         journal: JAMES
   - repository-group: Atmospheres
     repositories: 
+      - name: Atmospheric Science Data Center (ASDC)
+        re3data-url: https://www.re3data.org/repository/r3d100010061
+        url: https://eosweb.larc.nasa.gov/
+        notes: "The Atmospheric Science Data Center (ASDC) at NASA Langley Research Center is responsible for processing, archiving, and distribution of NASA Earth science data in the areas of radiation budget, clouds, aerosols, and tropospheric chemistry. The ASDC specializes in atmospheric data important to understanding the causes and processes of global climate change and the consequences of human activities on the climate"
+        category: Atmospheric Data
+        journal: Atmospheres    
       - name: Research Data Archive at NCAR
         re3data-url: https://www.re3data.org/repository/r3d100010050
         url: https://rda.ucar.edu/
