@@ -43,6 +43,12 @@ repository-list:
         notes: "IRIS offers free and open access to a comprehensive data store of raw geophysical time-series data collected from a large variety of sensors, courtesy of a vast array of US and International scientific networks, including seismometers (permanent and temporary), tilt and strain meters, infrasound, temperature, atmospheric pressure and gravimeters, to support basic research aimed at imaging the Earth's interior. IRIS provides management of, and access to, observed and derived data for the global earth science community. This includes ground motion, atmospheric, infrasonic, hydrological, and hydroacoustic data. Link(s): <a href='http://www.fdsn.org/citations/'>IRIS Network Citation Guidelines</a>, <a href='https://ds.iris.edu/ds/nodes/dmc/data/#submitting'>Data at IRIS (Submitting)</a>, <a href='http://ds.iris.edu/ds/'>Data Services (Data Management System)</a>"
         category: Geophysical Time-Series Data
         journal-list: JAMES, Geochemistry, Geophysics, Geosystems
+      - name: OpenTopography
+        re3data-url: https://www.re3data.org/repository/r3d100010655
+        url: https://opentopography.org/
+        notes: "Hosts Earth science related, research-grade, topography and bathymetry data. It is available to support NSF funded PIs and projects that have previously acquired or are in the planning phases of acquiring lidar topography data. Email <a href='mailto:info@opentopography.org'>info@opentopography.org</a> for information on submitting data. Link(s): <a href='https://opentopography.org/about/services'>Services/Data Submission Process</a>, <a href='https://opentopography.org/citations'>Acknowledgement/Citation</a>"
+        category: Topographic and Bathymetric Data
+        journal-list: Water Resources Research, Earth Surface, Geochemistry, Geophysics, Geosystems
   - repository-group: GeoHealth
     repositories: 
       - name: Gulf of Mexico Research Initiative Information and Data Cooperative (GRIIDC)
