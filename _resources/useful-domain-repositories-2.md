@@ -21,11 +21,18 @@ The following is a list of useful repositories by journal:
 </ul>
 
 {% for repository-list in site.data.repositories.repository-list %}
-    ####{{ repository-list.repository-group }}  
+
+    <h4>{{ repository-list.repository-group }}</h4>
 
         {% for repo in repository-list.repositories %}
+        
           <a href="{{ repo.url }}">{{ repo.name }}</a>
           <br> 
+          
         {% endfor %}
+        
+          <br>
       
   {% endfor %}
+     
+     <br>
