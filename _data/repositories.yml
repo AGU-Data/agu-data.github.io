@@ -4,7 +4,7 @@ repository-list:
       - name: Zenodo
         re3data-url: https://www.re3data.org/repository/r3d100010468
         url: https://zenodo.org/
-        notes: 
+        notes: "Zenodo builds and operates a simple and innovative service that enables researchers, scientists, EU projects and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of the existing institutional or subject-based repositories of the research communities. ZENODO enables researchers, scientists, EU projects and institutions to: easily share the long tail of small research results in a wide variety of formats including text, spreadsheets, audio, video, and images across all fields of science. display their research results and get credited by making the research results citable and integrate them into existing reporting lines to funding agencies like the European Commission. easily access and reuse shared research results. Link(s): <a href='https://guides.github.com/activities/citable-code/'>GitHub-Zenodo Integration (Make your code citable)</a>"
         category: Earth and Environmental Data
         journal-list: Earth Surface, JAMES
       - name: PANGAEA
@@ -31,6 +31,12 @@ repository-list:
         notes: "The U.S. Department of Energy’s (DOE) Environmental Systems Science Data Infrastructure for a Virtual Ecosystem (ESS-DIVE) data archive serves Earth and environmental science data. ESS-DIVE is funded by the Data Management program within the Climate and Environmental Science Division under the DOE’s Office of Biological and Environmental Research program (BER), and is maintained by the Lawrence Berkeley National Laboratory. ESS-DIVE will archive and publicly share data obtained from observational, experimental, and modeling research that is funded by the DOE’s Office of Science under its Subsurface Biogeochemical Research (SBR) and Terrestrial Ecosystem Science (TES) programs within the Environmental Systems Science (ESS) activity. ESS-DIVE was launched in July 2017, and is designed to provide long-term stewardship and use of data from observational, experimental and modeling activities in the DOE in the Subsurface Biogeochemical Research (SBR) and Terrestrial Ecosystem Science (TES) Programs in the Environmental System Science (ESS) activity."
         category: Earth and Environmental Data, U.S. Department of Energy – Funded Research
         journal-list: JAMES, Biogeosciences
+      - name: Incorporated Research Institutions for Seismology (IRIS)
+        re3data-url: https://www.re3data.org/repository/r3d100010268
+        url: https://www.iris.edu/hq/
+        notes: "IRIS offers free and open access to a comprehensive data store of raw geophysical time-series data collected from a large variety of sensors, courtesy of a vast array of US and International scientific networks, including seismometers (permanent and temporary), tilt and strain meters, infrasound, temperature, atmospheric pressure and gravimeters, to support basic research aimed at imaging the Earth's interior. IRIS provides management of, and access to, observed and derived data for the global earth science community. This includes ground motion, atmospheric, infrasonic, hydrological, and hydroacoustic data. Link(s): <a href='http://www.fdsn.org/citations/'>IRIS Network Citation Guidelines</a>, <a href='https://ds.iris.edu/ds/nodes/dmc/data/#submitting'>Data at IRIS (Submitting)</a>, <a href='http://ds.iris.edu/ds/'>Data Services (Data Management System)</a>"
+        category: Geophysical Time-Series Data
+        journal-list: JAMES, Geochemistry, Ggeophysics, Geosystems
   - repository-group: GeoHealth
     repositories: 
       - name: Gulf of Mexico Research Initiative Information and Data Cooperative (GRIIDC)
