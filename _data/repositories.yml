@@ -51,6 +51,12 @@ repository-list:
         journal-list: Water Resources Research, Earth Surface, Geochemistry, Geophysics, Geosystems
   - repository-group: GeoHealth
     repositories: 
+      - name: NIH Open Domain-Specific Data Sharing Repositories
+        re3data-url: https://www.re3data.org/search?query=NIH
+        url: https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html
+        notes: "This table lists NIH-supported domain-specific data repositories that make data accessible for reuse and are open for both submitting and accessing data. Submission is typically limited to data of a certain type or related to a certain discipline. The table provides links to information about submitting data to and accessing data from the listed repositories. Repositories in this list have current NIH funding, sustained support, open data submission and access, and open time frame for data deposit, based on information <a href='https://www.nlm.nih.gov/NIHbmic/query_criteria.html'>provided by the repository</a> about funding and data availability. This non-exhaustive list is also available in a <a href='https://www.nlm.nih.gov/NIHbmic/BMIC_open_repos_20210806.xlsx'>downloadable Excel version</a>. Link(s): <a href='mailto:custserv@nlm.nih.gov'>Contact Email</a>"
+        category: NIH – Funded Research
+        journal: GeoHealth
       - name: Gulf of Mexico Research Initiative Information and Data Cooperative (GRIIDC)
         re3data-url: https://www.re3data.org/repository/r3d100011571
         url: https://data.gulfresearchinitiative.org/
