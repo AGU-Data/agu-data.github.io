@@ -10,7 +10,7 @@ repository-list:
       - name: PANGAEA
         re3data-url: https://www.re3data.org/repository/r3d100010134
         url: https://pangaea.de/
-        notes: Notes/Links
+        notes: "Pangaea accepts any data from earth, environmental and life sciences. When you start the data submission process, you will be redirected to the PANGAEA issue tracker that will assist you in providing metadata and uploading data files. Any communication with our editors will go through this issue tracker. For more details about the submission workflow see our tutorial. Please note: All data and metadata are quality checked, harmonized, and processed for machine readability, which allows efficient and reliable re-usage of your data. Depending on the extent and complexity of your data submission the editorial process and minting of DOI names might therefore take up to 8 weeks. Link(s): <a href='https://www.pangaea.de/submit/'>Submit Data/Tutorial</a>"
         category: Earth and Environmental Data
         journal-list: Biogeosciences, Earth Surface, Water Resources Research, Geochemistry, Ggeophysics, Geosystems, JAMES, Atmospheres
       - name: figshare
@@ -67,5 +67,12 @@ repository-list:
         notes: 
         category: Meteorological, Oceanographic, Remote Sensing, Atmospheric, Geosciences, Topography/Bathymetry, Vegetation, Land Use Data
         journal: Atmospheres
+  - repository-group: Water Resources Research
+    repositories: 
+      - name: HydroShare
+        re3data-url: https://www.re3data.org/repository/r3d100012625
+        url: https://www.hydroshare.org/
+        notes: "HydroShare is a system operated by The Consortium of Universities for the Advancement of Hydrologic Science Inc. (CUAHSI) that enables users to share and publish data and models in a variety of flexible formats, and to make this information available in a citable, shareable and discoverable manner. HydroShare includes a repository for data and models, and tools (web apps) that can act on content in HydroShare providing users with a gateway to high performance computing and computing in the cloud. With HydroShare you can: share data and models with colleagues; manage access to shared content; share, access, visualize, and manipulate a broad set of hydrologic data types and models; publish data and models and obtain a citable digital object identifier (DOI); aggregate resources into collections; discover and access data and models published by others; use the web services application programming interface (API) to programmatically access resources; and use integrated web applications to visualize, analyze and run models with data in HydroShare."
+        category: Hydrology
+        journal: Water Resources Research
   
-
