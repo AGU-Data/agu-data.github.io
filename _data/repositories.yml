@@ -13,6 +13,12 @@ repository-list:
         notes: "Pangaea accepts any data from earth, environmental and life sciences. When you start the data submission process, you will be redirected to the PANGAEA issue tracker that will assist you in providing metadata and uploading data files. Any communication with our editors will go through this issue tracker. For more details about the submission workflow see our tutorial. Please note: All data and metadata are quality checked, harmonized, and processed for machine readability, which allows efficient and reliable re-usage of your data. Depending on the extent and complexity of your data submission the editorial process and minting of DOI names might therefore take up to 8 weeks. Link(s): <a href='https://www.pangaea.de/submit/'>Submit Data/Tutorial</a>"
         category: Earth and Environmental Data
         journal-list: Biogeosciences, Earth Surface, Water Resources Research, Geochemistry, Geophysics, Geosystems, JAMES, Atmospheres, GeoHealth, Tectonics
+      - name: Environmental Data Initiative (EDI)
+        re3data-url: https://www.re3data.org/repository/r3d100010272
+        url: https://environmentaldatainitiative.org/
+        notes: "EDI is an NSF-funded repository accepting environmental research data and relevant processing code. Trained curators assist researchers from field stations, individual laboratories, and research projects of all sizes and actively promote and enable curation and re-use of environmental data through outreach and training. EDI is committed to enable data that is Findable, Accessible, Interoperable, and Reusable through rich science metadata and assigning of DOIs. All data and metadata are quality checked and machine readable ensuring reliable reuse of data. Data submission is provided. Link(s): <a href='https://environmentaldatainitiative.org/submit-your-data/'>Submit Data</a>"
+        category: Earth and Environmental Data
+        journal-list: Biogeosciences, Oceans       
       - name: figshare
         re3data-url: https://www.re3data.org/repository/r3d100010066
         url: http://figshare.com/
@@ -30,13 +36,13 @@ repository-list:
         url: https://www.hydroshare.org/
         notes: "HydroShare is a system operated by The Consortium of Universities for the Advancement of Hydrologic Science Inc. (CUAHSI) that enables users to share and publish data and models in a variety of flexible formats, and to make this information available in a citable, shareable and discoverable manner. HydroShare includes a repository for data and models, and tools (web apps) that can act on content in HydroShare providing users with a gateway to high performance computing and computing in the cloud. With HydroShare you can: share data and models with colleagues; manage access to shared content; share, access, visualize, and manipulate a broad set of hydrologic data types and models; publish data and models and obtain a citable digital object identifier (DOI); aggregate resources into collections; discover and access data and models published by others; use the web services application programming interface (API) to programmatically access resources; and use integrated web applications to visualize, analyze and run models with data in HydroShare. Link(s): <a href='https://www.cuahsi.org/'>CUAHSI</a>, <a href='http://data.cuahsi.org/'>HydroClient</a>"
         category: Water, Hydrologic Data
-        journal-list: Water Resources Research, Biogeosciences
+        journal-list: Water Resources Research, Biogeosciences, Oceans
       - name: EarthChem Library
         re3data-url: https://www.re3data.org/repository/r3d100011538
         url: https://earthchem.org/ecl/
         notes: "An open-access repository for geochemical datasets (analytical data, experimental data, synthesis databases) and other digital resources relevant to the field of geochemistry. The EarthChem Library offers data preservation and access, including long-term archiving and registration of data with Digital Object Identifiers (DOIs). Text taken from EarthChem Library website. Link(s): <a href='https://earthchem.org/help/guidelines'>Data Submission Guidelines</a>, <a href='https://earthchem.org/data/cite'>Citation Guidelines</a>"
         category: Geochemical Data
-        journal-list: Geochemistry, Geophysics, Geosystems, JAMES, Water Resources Research, Earth Surface, Tectonics
+        journal-list: Geochemistry, Geophysics, Geosystems, JAMES, Water Resources Research, Earth Surface, Tectonics, Oceans
       - name: ESS-DIVE
         re3data-url: https://www.re3data.org/repository/r3d100000019
         url: https://ess-dive.lbl.gov/
@@ -48,7 +54,7 @@ repository-list:
         url: https://www.iris.edu/hq/
         notes: "IRIS offers free and open access to a comprehensive data store of raw geophysical time-series data collected from a large variety of sensors, courtesy of a vast array of US and International scientific networks, including seismometers (permanent and temporary), tilt and strain meters, infrasound, temperature, atmospheric pressure and gravimeters, to support basic research aimed at imaging the Earth's interior. IRIS provides management of, and access to, observed and derived data for the global earth science community. This includes ground motion, atmospheric, infrasonic, hydrological, and hydroacoustic data. Link(s): <a href='http://www.fdsn.org/citations/'>IRIS Network Citation Guidelines</a>, <a href='https://ds.iris.edu/ds/nodes/dmc/data/#submitting'>Data at IRIS (Submitting)</a>, <a href='http://ds.iris.edu/ds/'>Data Services (Data Management System)</a>"
         category: Geophysical Time-Series Data
-        journal-list: JAMES, Geochemistry, Geophysics, Geosystems, Tectonics
+        journal-list: JAMES, Geochemistry, Geophysics, Geosystems, Tectonics, Oceans
       - name: Marine Geoscience Data System (MGDS)
         re3data-url: https://www.re3data.org/repository/r3d100010273
         url: https://www.marine-geo.org/
@@ -66,13 +72,19 @@ repository-list:
         url: https://www.ncei.noaa.gov/
         notes: "Formerly National Climatic Data Center, the National Geophysical Data Center, and the National Oceanographic Data Center. NCEI is the United States’s facility established to acquire, process, store, and disseminate environmental data from the United States and other countries. NCEI operates as a component of the National Environmental Satellite, Data, and Information Service (NESDIS) of the National Oceanic and Atmospheric Administration (NOAA) of the U.S. Department of Commerce. NCEI's U.S. data holdings include unclassified data collected by Federal agencies including the Department of Defense (primarily the U.S. Navy); State and local government agencies; universities and research institutions; and private industry. NCEI does not conduct any data collection programs of its own; it serves solely as a repository, dissemination, and analysis facility for data collected by others. A very large portion of the data held by NCEI is of foreign origin. We acquire foreign data through direct bilateral exchanges with other countries and organizations, and through the facilities of World Data System for Oceanography, Silver Spring. WDS (Oceanography) is operated by NCEI under the auspices of the U.S. National Academy of Sciences. It is one of the discipline subcenters within the World Data Center System that fosters international exchange of scientific data under guidelines issued by the International Council of Scientific Unions (ICSU). Each year NCEI responds to thousands of requests from users in the United States and around the world. NCEI data support research and development in ocean resource development, marine environmental assessment, national defense, theoretical oceanography, ocean engineering, etc. As a service organization, NCEI welcomes inquiries from all potential users of marine data and data products. Link(s): <a href='https://www.ncei.noaa.gov/contact'>Contact</a>, <a href='https://www.ncei.noaa.gov/archive/'>Archive</a>."
         category: Marine Data, U.S. National Oceanic and Atmospheric Administration (NOAA) - Funded Research
-        journal-list: Biogeosciences, Earth Future, Atmospheres           
+        journal-list: Biogeosciences, Earth Future, Atmospheres, Oceans         
       - name: OpenTopography
         re3data-url: https://www.re3data.org/repository/r3d100010655
         url: https://opentopography.org/
         notes: "Hosts Earth science related, research-grade, topography and bathymetry data. It is available to support NSF funded PIs and projects that have previously acquired or are in the planning phases of acquiring lidar topography data. Email <a href='mailto:info@opentopography.org'>info@opentopography.org</a> for information on submitting data. Link(s): <a href='https://opentopography.org/about/services'>Services/Data Submission Process</a>, <a href='https://opentopography.org/citations'>Acknowledgement/Citation</a>"
         category: Topographic and Bathymetric Data
-        journal-list: Water Resources Research, Earth Surface, Geochemistry, Geophysics, Geosystems, Tectonics
+        journal-list: Water Resources Research, Earth Surface, Geochemistry, Geophysics, Geosystems, Tectonics, Oceans
+      - name: Research Data Archive at NCAR
+        re3data-url: https://www.re3data.org/repository/r3d100010050
+        url: https://rda.ucar.edu/
+        notes: "The Research Data Archive (RDA) at NCAR contains a large and diverse collection of meteorological and oceanographic observations, operational and reanalysis model outputs, and remote sensing datasets to support atmospheric and geosciences research, along with ancillary datasets, such as topography/bathymetry, vegetation, and land use."
+        category: Marine, Meteorological, Oceanographic, Remote Sensing, Atmospheric, Geosciences, Topography/Bathymetry, Vegetation, Land Use Data
+        journal-list: Atmospheres, Oceans
       - name: ScienceBase
         re3data-url: https://www.re3data.org/repository/r3d100011379
         url: http://www.sciencebase.gov/about
@@ -115,12 +127,6 @@ repository-list:
         notes: "The Atmospheric Science Data Center (ASDC) at NASA Langley Research Center is responsible for processing, archiving, and distribution of NASA Earth science data in the areas of radiation budget, clouds, aerosols, and tropospheric chemistry. The ASDC specializes in atmospheric data important to understanding the causes and processes of global climate change and the consequences of human activities on the climate"
         category: Atmospheric Data
         journal: Atmospheres    
-      - name: Research Data Archive at NCAR
-        re3data-url: https://www.re3data.org/repository/r3d100010050
-        url: https://rda.ucar.edu/
-        notes: "The Research Data Archive (RDA) at NCAR contains a large and diverse collection of meteorological and oceanographic observations, operational and reanalysis model outputs, and remote sensing datasets to support atmospheric and geosciences research, along with ancillary datasets, such as topography/bathymetry, vegetation, and land use."
-        category: Meteorological, Oceanographic, Remote Sensing, Atmospheric, Geosciences, Topography/Bathymetry, Vegetation, Land Use Data
-        journal: Atmospheres
       - name: The World Data Center for Remote Sensing of the Atmosphere
         re3data-url: https://www.re3data.org/repository/r3d100010156
         url: https://wdc.dlr.de/
