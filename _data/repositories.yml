@@ -50,7 +50,7 @@ repository-list:
       - name: UCAR/NCAR DASH Repository
         re3data-url: https://www.re3data.org/repository/r3d100013164
         url: https://dashrepo.ucar.edu/
-        notes: Notes/Links
+        notes: "The DASH Repository provides persistent data archiving and distribution for small-scale data collections from UCAR/NCAR researchers and projects. This data repository specifically focuses on providing long-term preservation and stewardship of NCAR's small-scale data collections. Complementing other NCAR-managed data repositories, the DASH Repository helps NCAR researchers to enable long term access, interoperability, and reuse of NCAR datasets."
         category: Earth and Environmental Data
         journal: JAMES
       - name: World Data Center for Climate (WDCC)
