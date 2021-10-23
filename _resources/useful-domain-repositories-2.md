@@ -27,7 +27,10 @@ The following is a list of useful repositories by journal:
           {{ repo.notes }}<br>
           <a href="{{ repo.re3data-url }}">More information at re3data.org</a><br>
           <i>{{ repo.category }}</i><br>
-          {{ repo.journal-list }}<br>  
+          {{ repo.journal-list }}<br>
+          {% if repo.journal-list %}
+          <br>
+          {% endif %}
         {% endfor %}     
           <br>     
   {% endfor %}
