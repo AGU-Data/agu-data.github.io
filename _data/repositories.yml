@@ -16,7 +16,7 @@ repository-list:
       - name: figshare
         re3data-url: https://www.re3data.org/repository/r3d100010066
         url: http://figshare.com/
-        notes: "figshare allows researchers to publish all of their research outputs in an easily citable, sharable and discoverable manner. All file formats can be published, including videos and datasets. Optional peer review process. figshare uses creative commons licensing. <a href="https://knowledge.figshare.com/plus">figshare+ - publish big datasets</a>"
+        notes: "figshare allows researchers to publish all of their research outputs in an easily citable, sharable and discoverable manner. All file formats can be published, including videos and datasets. Optional peer review process. figshare uses creative commons licensing. <a href='https://knowledge.figshare.com/plus'>figshare+ - publish big datasets</a>"
         category: Earth and Environmental Data
         journal-list: Earth Surface, JAMES
       - name: EarthChem Library
