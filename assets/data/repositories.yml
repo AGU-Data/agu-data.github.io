@@ -4,28 +4,28 @@ repositories:
   url: https://zenodo.org/
   notes: AGU authors frequently use the [GitHub-Zenodo integration](https://guides.github.com/activities/citable-code) to preserve, describe, and cite their software.
   category: Earth and Environmental Data
-  journal: multiple
+  journal: Multiple Journals
   journal-list: Earth Surface, JAMES
 - name: PANGAEA
   re3data-url: https://www.re3data.org/repository/r3d100010134
   url: https://pangaea.de/
   notes: All data and metadata are quality checked, harmonized, and processed for machine readability, which allows efficient and reliable re-usage of your data. Depending on the extent and complexity of your data submission the editorial process and minting of DOI names might therefore take up to 8 weeks. 
   category: Earth and Environmental Data
-  journal: multiple
+  journal: Multiple Journals
   journal-list: Biogeosciences, Earth Surface, Water Resources Research, Geochemistry, Ggeophysics, Geosystems, JAMES, Atmospheres
 - name: Gulf of Mexico Research Initiative Information and Data Cooperative (GRIIDC)
   re3data-url: https://www.re3data.org/repository/r3d100011571
   url: https://data.gulfresearchinitiative.org/
   notes: The GRIIDC along with a number of other DataONE member repositories, e.g. Environmental Data Initiative, are available for the community to consider. Review the DataONE member list to see if there is a relevant repository for your earth and life science research. 
   category: 
-  journal: multiple
+  journal: Multiple Journals
   journal-list: Biogeosciences, Earth Surface, Water Resources Research, Geochemistry, Ggeophysics, Geosystems, JAMES, Atmospheres
 - name: figshare
   re3data-url: https://www.re3data.org/repository/r3d100010066
   url: http://figshare.com/
   notes: Now offers https://knowledge.figshare.com/plus for very large data...
   category: Earth and Environmental Data
-  journal: multiple
+  journal: Multiple Journals
   journal-list: Earth Surface, JAMES
 - name: UCAR/NCAR DASH Repository 
   re3data-url: https://www.re3data.org/repository/r3d100013164
