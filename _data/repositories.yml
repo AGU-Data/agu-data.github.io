@@ -47,6 +47,12 @@ repository-list:
         notes: Notes/Links
         category: Earth and Environmental Data
         journal: JAMES
+      - name: World Data Center for Climate (WDCC)
+        re3data-url: https://www.re3data.org/repository/r3d100010299
+        url: https://cera-www.dkrz.de/WDCC/ui/cerasearch/
+        notes: "The German Climate Computing Center (DKRZ: Deutsches Klimarechenzentrum GmbH) dsaprovides a Long Term Archiving Service for large research data sets which are relevant for climate or Earth system research. This service includes archiving and retrieval capability of data for time periods of 10 years or longer. The long-term archive (LTA) of DKRZ is certified according to the criteria of the Core Trust Seal (CTS) and is, as World Data Centre for Climate (WDCC), accredited as regular member of the World Data System."
+        category: Climate or Earth System Data
+        journal: JAMES
   - repository-group: Atmospheres
     repositories: 
       - name: Research Data Archive at NCAR
