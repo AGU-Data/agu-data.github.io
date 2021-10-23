@@ -8,16 +8,16 @@ tags: [Useful Domain Repositories, Resources]
 ---
 
 {% for repository-list in site.data.repositories.repository-list %}
-    <h4>{{ repository-list.repository-group }}</h4>
-      <br>
+    ####{{ repository-list.repository-group }}  
+    
   {% endfor %}
 
 
 {% for repository-list in site.data.repositories.repository-list %}
-    <h4>{{ repository-list.repository-group }}</h4>
-      <br>
+    ####{{ repository-list.repository-group }}  
+
         {% for repo in repository-list.repositories %}
-          <a href="{{ repo.url }}">{{ repo.name }}</a>
+          [{{ repo.url }}]({{ repo.name }})  
         {% endfor %}
-      <br>
+      
   {% endfor %}
