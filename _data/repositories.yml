@@ -48,7 +48,7 @@ repository-list:
       - name: Gulf of Mexico Research Initiative Information and Data Cooperative (GRIIDC)
         re3data-url: https://www.re3data.org/repository/r3d100011571
         url: https://data.gulfresearchinitiative.org/
-        notes: Notes/Links
+        notes: "The Gulf of Mexico Research Initiative Information and Data Cooperative (GRIIDC) data management system provides researchers with a variety of tools to help manage data throughout the lifecycle of a project. For example, the GRIIDC Dataset Information Form (DIF) is a resource designed to assist researchers with data management planning. While the system assists researchers with multiple phases of data management, the main functions of the system are storing and sharing data. Researchers from diverse fields of study, including biology, chemistry, physical oceanography, sociology, political science and public health, are able to store their data in the GRIIDC system. Through the GRIIDC search page, researchers, policy makers, and the general public are able to search for and download this data. This shared data can be used to address innovative scientific research questions, assess policies and programs, and in educational initiatives. By providing a forum for both storing and sharing data the GRIIDC system increases the impact of scientific research in the Gulf of Mexico and beyond for the benefit of society."
         category: Gulf of Mexico Ecosystem and Beyond Data
         journal: GeoHealth
   - repository-group: JAMES
