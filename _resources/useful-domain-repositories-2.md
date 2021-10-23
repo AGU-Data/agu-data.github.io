@@ -15,24 +15,17 @@ The following is a list of useful repositories by journal:
 
 <ul>
 {% for repository-list in site.data.repositories.repository-list %}
-    <li>{{ repository-list.repository-group }}</li>
-    
+    <li>{{ repository-list.repository-group }}</li>  
   {% endfor %}
 </ul>
 
+<p>
 {% for repository-list in site.data.repositories.repository-list %}
-
     <h4>{{ repository-list.repository-group }}</h4>
-
         {% for repo in repository-list.repositories %}
-        
           <a href="{{ repo.url }}">{{ repo.name }}</a>
           <br> 
-          
-        {% endfor %}
-        
-          <br>
-      
+        {% endfor %}     
+          <br>     
   {% endfor %}
-     
-     <br>
+  </p>   
