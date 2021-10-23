@@ -76,8 +76,14 @@ repository-list:
       - name: Research Data Archive at NCAR
         re3data-url: https://www.re3data.org/repository/r3d100010050
         url: https://rda.ucar.edu/
-        notes: 
+        notes: "The Research Data Archive (RDA) at NCAR contains a large and diverse collection of meteorological and oceanographic observations, operational and reanalysis model outputs, and remote sensing datasets to support atmospheric and geosciences research, along with ancillary datasets, such as topography/bathymetry, vegetation, and land use."
         category: Meteorological, Oceanographic, Remote Sensing, Atmospheric, Geosciences, Topography/Bathymetry, Vegetation, Land Use Data
+        journal: Atmospheres
+      - name: The World Data Center for Remote Sensing of the Atmosphere
+        re3data-url: https://www.re3data.org/repository/r3d100010156
+        url: https://wdc.dlr.de/
+        notes: "The World Data Center for Remote Sensing of the Atmosphere, WDC-RSAT, offers scientists and the general public free access (in the sense of a “one-stop shop”) to a continuously growing collection of atmosphere-related satellite-based data sets (ranging from raw to value added data), information products and services. Focus is on atmospheric trace gases, aerosols, dynamics, radiation, and cloud physical parameters. Complementary information and data on surface parameters (e.g. vegetation index, surface temperatures) is also provided. This is achieved either by giving access to data stored at the data center or by acting as a portal containing links to other providers."
+        category: Atmosphere-Related, Satellite-Based Data 
         journal: Atmospheres
   - repository-group: Geochemistry, Geophysics, Geosystems
     repositories: 
