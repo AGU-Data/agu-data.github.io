@@ -132,4 +132,18 @@ repository-list:
         url: https://wdc.dlr.de/
         notes: "The World Data Center for Remote Sensing of the Atmosphere, WDC-RSAT, offers scientists and the general public free access (in the sense of a “one-stop shop”) to a continuously growing collection of atmosphere-related satellite-based data sets (ranging from raw to value added data), information products and services. Focus is on atmospheric trace gases, aerosols, dynamics, radiation, and cloud physical parameters. Complementary information and data on surface parameters (e.g. vegetation index, surface temperatures) is also provided. This is achieved either by giving access to data stored at the data center or by acting as a portal containing links to other providers."
         category: Atmosphere-Related, Satellite-Based Data 
-        journal: Atmospheres      
+        journal: Atmospheres         
+      - name: The World Data Center for Remote Sensing of the Atmosphere
+        re3data-url: https://www.re3data.org/repository/r3d100010156
+        url: https://wdc.dlr.de/
+        notes: "The World Data Center for Remote Sensing of the Atmosphere, WDC-RSAT, offers scientists and the general public free access (in the sense of a “one-stop shop”) to a continuously growing collection of atmosphere-related satellite-based data sets (ranging from raw to value added data), information products and services. Focus is on atmospheric trace gases, aerosols, dynamics, radiation, and cloud physical parameters. Complementary information and data on surface parameters (e.g. vegetation index, surface temperatures) is also provided. This is achieved either by giving access to data stored at the data center or by acting as a portal containing links to other providers."
+        category: Atmosphere-Related, Satellite-Based Data 
+        journal: Atmospheres
+  - repository-group: Oceans
+    repositories: 
+      - name: British Oceanographic Data Centre (BODC)
+        re3data-url: https://www.re3data.org/repository/r3d100010192
+        url: https://www.bodc.ac.uk/
+        notes: "The British Oceanographic Data Centre (BODC) is a national facility for looking after and distributing data concerning the marine environment. We deal with biological, chemical, physical and geophysical data, and our databases contain measurements of nearly 22,000 different variables. Many of our staff have direct experience of marine data collection and analysis. They work alongside information technology specialists to ensure that data are documented and stored for current and future use."
+        category: Marine Environmental Data - U.K. National Oceanography Centre
+        journal: Oceans
