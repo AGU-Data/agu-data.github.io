@@ -25,6 +25,12 @@ repository-list:
         notes: "A global database hosting geochronologic and thermochronologic information from detrital minerals. Accepts data from a variety of data reduction programs that are used widely in the various geochronology and thermochronology communities. These programs have features to seamlessly upload data to Geochron, but do require a unique sample or aliquot identifier. You can access these programs under the Data Reduction Software part of the website. Many of these will accommodate legacy data or data not reduced by those programs. Text taken from GeoChron website about submitting data. Geochron works with the Earthchem Library to publish data with Digital Object Identifiers (DOIs). Link(s): <a href='https://www.geochron.org/submitdata.php'>Data Reduction and Upload Software</a>, <a href='https://www.geochron.org/submittingdata'>Submitting Data</a>"
         category: Geochronologic and Thermochronologic Data
         journal-list: Water Resources Research, Geochemistry, Geophysics, Geosystems, Tectonics
+      - name: HydroShare
+        re3data-url: https://www.re3data.org/repository/r3d100012625
+        url: https://www.hydroshare.org/
+        notes: "HydroShare is a system operated by The Consortium of Universities for the Advancement of Hydrologic Science Inc. (CUAHSI) that enables users to share and publish data and models in a variety of flexible formats, and to make this information available in a citable, shareable and discoverable manner. HydroShare includes a repository for data and models, and tools (web apps) that can act on content in HydroShare providing users with a gateway to high performance computing and computing in the cloud. With HydroShare you can: share data and models with colleagues; manage access to shared content; share, access, visualize, and manipulate a broad set of hydrologic data types and models; publish data and models and obtain a citable digital object identifier (DOI); aggregate resources into collections; discover and access data and models published by others; use the web services application programming interface (API) to programmatically access resources; and use integrated web applications to visualize, analyze and run models with data in HydroShare. Link(s): <a href='https://www.cuahsi.org/'>CUAHSI</a>, <a href='http://data.cuahsi.org/'>HydroClient</a>"
+        category: Water, Hydrologic Data
+        journal-list: Water Resources Research, Biogeosciences
       - name: EarthChem Library
         re3data-url: https://www.re3data.org/repository/r3d100011538
         url: https://earthchem.org/ecl/
@@ -121,11 +127,3 @@ repository-list:
         notes: "The World Data Center for Remote Sensing of the Atmosphere, WDC-RSAT, offers scientists and the general public free access (in the sense of a “one-stop shop”) to a continuously growing collection of atmosphere-related satellite-based data sets (ranging from raw to value added data), information products and services. Focus is on atmospheric trace gases, aerosols, dynamics, radiation, and cloud physical parameters. Complementary information and data on surface parameters (e.g. vegetation index, surface temperatures) is also provided. This is achieved either by giving access to data stored at the data center or by acting as a portal containing links to other providers."
         category: Atmosphere-Related, Satellite-Based Data 
         journal: Atmospheres      
-  - repository-group: Water Resources Research
-    repositories: 
-      - name: HydroShare
-        re3data-url: https://www.re3data.org/repository/r3d100012625
-        url: https://www.hydroshare.org/
-        notes: "HydroShare is a system operated by The Consortium of Universities for the Advancement of Hydrologic Science Inc. (CUAHSI) that enables users to share and publish data and models in a variety of flexible formats, and to make this information available in a citable, shareable and discoverable manner. HydroShare includes a repository for data and models, and tools (web apps) that can act on content in HydroShare providing users with a gateway to high performance computing and computing in the cloud. With HydroShare you can: share data and models with colleagues; manage access to shared content; share, access, visualize, and manipulate a broad set of hydrologic data types and models; publish data and models and obtain a citable digital object identifier (DOI); aggregate resources into collections; discover and access data and models published by others; use the web services application programming interface (API) to programmatically access resources; and use integrated web applications to visualize, analyze and run models with data in HydroShare."
-        category: Hydrology
-        journal: Water Resources Research
