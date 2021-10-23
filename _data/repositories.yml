@@ -12,7 +12,7 @@ repository-list:
         url: https://pangaea.de/
         notes: "Pangaea accepts any data from earth, environmental and life sciences. When you start the data submission process, you will be redirected to the PANGAEA issue tracker that will assist you in providing metadata and uploading data files. Any communication with our editors will go through this issue tracker. For more details about the submission workflow see our tutorial. Please note: All data and metadata are quality checked, harmonized, and processed for machine readability, which allows efficient and reliable re-usage of your data. Depending on the extent and complexity of your data submission the editorial process and minting of DOI names might therefore take up to 8 weeks. Link(s): <a href='https://www.pangaea.de/submit/'>Submit Data/Tutorial</a>"
         category: Earth and Environmental Data
-        journal-list: Biogeosciences, Earth Surface, Water Resources Research, Geochemistry, Ggeophysics, Geosystems, JAMES, Atmospheres
+        journal-list: Biogeosciences, Earth Surface, Water Resources Research, Geochemistry, Geophysics, Geosystems, JAMES, Atmospheres, GeoHealth
       - name: figshare
         re3data-url: https://www.re3data.org/repository/r3d100010066
         url: http://figshare.com/
@@ -23,8 +23,8 @@ repository-list:
         re3data-url: https://www.re3data.org/repository/r3d100011538
         url: https://earthchem.org/ecl/
         notes: "An open-access repository for geochemical datasets (analytical data, experimental data, synthesis databases) and other digital resources relevant to the field of geochemistry. The EarthChem Library offers data preservation and access, including long-term archiving and registration of data with Digital Object Identifiers (DOIs). Text taken from EarthChem Library website. Link(s): <a href='https://earthchem.org/help/guidelines'>Data Submission Guidelines</a>, <a href='https://earthchem.org/data/cite'>Citation Guidelines</a>"
-        category: Geochemistry Data
-        journal-list: Geochemistry, Ggeophysics, Geosystems, JAMES, Water Resources Research, Earth Surface
+        category: Geochemical Data
+        journal-list: Geochemistry, Geophysics, Geosystems, JAMES, Water Resources Research, Earth Surface
       - name: ESS-DIVE
         re3data-url: https://www.re3data.org/repository/r3d100000019
         url: https://ess-dive.lbl.gov/
@@ -36,7 +36,7 @@ repository-list:
         url: https://www.iris.edu/hq/
         notes: "IRIS offers free and open access to a comprehensive data store of raw geophysical time-series data collected from a large variety of sensors, courtesy of a vast array of US and International scientific networks, including seismometers (permanent and temporary), tilt and strain meters, infrasound, temperature, atmospheric pressure and gravimeters, to support basic research aimed at imaging the Earth's interior. IRIS provides management of, and access to, observed and derived data for the global earth science community. This includes ground motion, atmospheric, infrasonic, hydrological, and hydroacoustic data. Link(s): <a href='http://www.fdsn.org/citations/'>IRIS Network Citation Guidelines</a>, <a href='https://ds.iris.edu/ds/nodes/dmc/data/#submitting'>Data at IRIS (Submitting)</a>, <a href='http://ds.iris.edu/ds/'>Data Services (Data Management System)</a>"
         category: Geophysical Time-Series Data
-        journal-list: JAMES, Geochemistry, Ggeophysics, Geosystems
+        journal-list: JAMES, Geochemistry, Geophysics, Geosystems
   - repository-group: GeoHealth
     repositories: 
       - name: Gulf of Mexico Research Initiative Information and Data Cooperative (GRIIDC)
@@ -57,7 +57,7 @@ repository-list:
         re3data-url: https://www.re3data.org/repository/r3d100010299
         url: https://cera-www.dkrz.de/WDCC/ui/cerasearch/
         notes: "The German Climate Computing Center (DKRZ: Deutsches Klimarechenzentrum GmbH) dsaprovides a Long Term Archiving Service for large research data sets which are relevant for climate or Earth system research. This service includes archiving and retrieval capability of data for time periods of 10 years or longer. The long-term archive (LTA) of DKRZ is certified according to the criteria of the Core Trust Seal (CTS) and is, as World Data Centre for Climate (WDCC), accredited as regular member of the World Data System."
-        category: Climate or Earth System Data
+        category: Climate and Earth System Data
         journal: JAMES
   - repository-group: Atmospheres
     repositories: 
