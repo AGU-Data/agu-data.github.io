@@ -1,60 +1,59 @@
-repositories:
-- name: Zenodo
-  re3data-url: https://www.re3data.org/repository/r3d100010468
-  url: https://zenodo.org/
-  notes: AGU authors frequently use the [GitHub-Zenodo integration](https://guides.github.com/activities/citable-code) to preserve, describe, and cite their software.
-  category: Earth and Environmental Data
-  journal: Multiple Journals
-  journal-list: Earth Surface, JAMES
-- name: PANGAEA
-  re3data-url: https://www.re3data.org/repository/r3d100010134
-  url: https://pangaea.de/
-  notes: All data and metadata are quality checked, harmonized, and processed for machine readability, which allows efficient and reliable re-usage of your data. Depending on the extent and complexity of your data submission the editorial process and minting of DOI names might therefore take up to 8 weeks. 
-  category: Earth and Environmental Data
-  journal: Multiple Journals
-  journal-list: Biogeosciences, Earth Surface, Water Resources Research, Geochemistry, Ggeophysics, Geosystems, JAMES, Atmospheres
-- name: Gulf of Mexico Research Initiative Information and Data Cooperative (GRIIDC)
-  re3data-url: https://www.re3data.org/repository/r3d100011571
-  url: https://data.gulfresearchinitiative.org/
-  notes: The GRIIDC along with a number of other DataONE member repositories, e.g. Environmental Data Initiative, are available for the community to consider. Review the DataONE member list to see if there is a relevant repository for your earth and life science research. 
-  category: 
-  journal: Multiple Journals
-  journal-list: Biogeosciences, Earth Surface, Water Resources Research, Geochemistry, Ggeophysics, Geosystems, JAMES, Atmospheres
-- name: figshare
-  re3data-url: https://www.re3data.org/repository/r3d100010066
-  url: http://figshare.com/
-  notes: Now offers https://knowledge.figshare.com/plus for very large data...
-  category: Earth and Environmental Data
-  journal: Multiple Journals
-  journal-list: Earth Surface, JAMES
-- name: UCAR/NCAR DASH Repository 
-  re3data-url: https://www.re3data.org/repository/r3d100013164
-  url: https://dashrepo.ucar.edu/
-  notes:  
-  category: Earth and Environmental Data
-  journal: Multiple Journals
-  journal-list: JAMES
-- name: Research Data Archive at NCAR
-  re3data-url: https://www.re3data.org/repository/r3d100010050
-  url: https://rda.ucar.edu/
-  notes: 
-  links: [Dataset Submissions](https://rda.ucar.edu/#!daas)
-  category: Meteorological, Oceanographic, Remote Sensing, Atmospheric, Geosciences, Topography/Bathymetry, Vegetation, Land Use Data
-  journal: Atmospheres
-  journal-list: 
-- name: EarthChem Library
-  re3data-url: https://www.re3data.org/repository/r3d100011538
-  url: https://earthchem.org/ecl/
-  notes: 
-  links: [Data Submission Guidelines](https://earthchem.org/ecl/submission-guidelines/), [Citation Guidelines](https://earthchem.org/resources/researchers/#cite)
-  category: Geochemistry Data
-  journal: Multiple Journals
-  journal-list: Geochemistry, Ggeophysics, Geosystems, JAMES, 
-- name: ESS-DIVE
-  re3data-url: https://www.re3data.org/repository/r3d100000019
-  url: https://ess-dive.lbl.gov/
-  notes: 
-  links: [Data Upload](https://docs.ess-dive.lbl.gov/)
-  category: Earth and Environmental Data, U.S. Department of Energy – Funded Research
-  journal: Multiple Journals
-  journal-list: JAMES, Biogeosciences
+repository-list:
+  - repository-group: Multiple Journals
+    repositories: 
+      - name: Zenodo
+        re3data-url: https://www.re3data.org/repository/r3d100010468
+        url: https://zenodo.org/
+        notes: 
+        category: Earth and Environmental Data
+        journal-list: Earth Surface, JAMES
+      - name: PANGAEA
+        re3data-url: https://www.re3data.org/repository/r3d100010134
+        url: https://pangaea.de/
+        notes: Notes/Links
+        category: Earth and Environmental Data
+        journal-list: Biogeosciences, Earth Surface, Water Resources Research, Geochemistry, Ggeophysics, Geosystems, JAMES, Atmospheres
+      - name: figshare
+        re3data-url: https://www.re3data.org/repository/r3d100010066
+        url: http://figshare.com/
+        notes: Notes/Links
+        category: Earth and Environmental Data
+        journal-list: Earth Surface, JAMES
+      - name: EarthChem Library
+        re3data-url: https://www.re3data.org/repository/r3d100011538
+        url: https://earthchem.org/ecl/
+        notes: Notes/Links
+        category: Geochemistry Data
+        journal-list: Geochemistry, Ggeophysics, Geosystems, JAMES, 
+      - name: ESS-DIVE
+        re3data-url: https://www.re3data.org/repository/r3d100000019
+        url: https://ess-dive.lbl.gov/
+        notes: Notes/Links
+        category: Earth and Environmental Data, U.S. Department of Energy – Funded Research
+        journal-list: JAMES, Biogeosciences
+  - repository-group: GeoHealth
+    repositories: 
+      - name: Gulf of Mexico Research Initiative Information and Data Cooperative (GRIIDC)
+        re3data-url: https://www.re3data.org/repository/r3d100011571
+        url: https://data.gulfresearchinitiative.org/
+        notes: Notes/Links
+        category: Gulf of Mexico Ecosystem and Beyond Data
+        journal: GeoHealth
+  - repository-group: JAMES
+    repositories: 
+      - name: UCAR/NCAR DASH Repository
+        re3data-url: https://www.re3data.org/repository/r3d100013164
+        url: https://dashrepo.ucar.edu/
+        notes: Notes/Links
+        category: Earth and Environmental Data
+        journal: JAMES
+  - repository-group: Atmospheres
+    repositories: 
+      - name: Research Data Archive at NCAR
+        re3data-url: https://www.re3data.org/repository/r3d100010050
+        url: https://rda.ucar.edu/
+        notes: 
+        category: Meteorological, Oceanographic, Remote Sensing, Atmospheric, Geosciences, Topography/Bathymetry, Vegetation, Land Use Data
+        journal: Atmospheres
+  
+
