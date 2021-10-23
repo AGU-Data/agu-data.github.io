@@ -16,15 +16,15 @@ repository-list:
       - name: figshare
         re3data-url: https://www.re3data.org/repository/r3d100010066
         url: http://figshare.com/
-        notes: "figshare allows researchers to publish all of their research outputs in an easily citable, sharable and discoverable manner. All file formats can be published, including videos and datasets. Optional peer review process. figshare uses creative commons licensing. <a href='https://knowledge.figshare.com/plus'>figshare+ - publish big datasets</a>"
+        notes: "figshare allows researchers to publish all of their research outputs in an easily citable, sharable and discoverable manner. All file formats can be published, including videos and datasets. Optional peer review process. figshare uses creative commons licensing. Link(s): <a href='https://knowledge.figshare.com/plus'>figshare+ - publish big datasets</a>."
         category: Earth and Environmental Data
         journal-list: Earth Surface, JAMES
       - name: EarthChem Library
         re3data-url: https://www.re3data.org/repository/r3d100011538
         url: https://earthchem.org/ecl/
-        notes: Notes/Links
+        notes: "An open-access repository for geochemical datasets (analytical data, experimental data, synthesis databases) and other digital resources relevant to the field of geochemistry. The EarthChem Library offers data preservation and access, including long-term archiving and registration of data with Digital Object Identifiers (DOIs). Text taken from EarthChem Library website. Link(s): <a href='https://earthchem.org/help/guidelines'>Data Submission Guidelines</a>, <a href='https://earthchem.org/data/cite'>Citation Guidelines</a>"
         category: Geochemistry Data
-        journal-list: Geochemistry, Ggeophysics, Geosystems, JAMES, 
+        journal-list: Geochemistry, Ggeophysics, Geosystems, JAMES, Water Resources Research, Earth Surface
       - name: ESS-DIVE
         re3data-url: https://www.re3data.org/repository/r3d100000019
         url: https://ess-dive.lbl.gov/
