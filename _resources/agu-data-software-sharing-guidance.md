@@ -28,6 +28,7 @@ AGU recognizes that not all data or software can be fully open.  Data or softwar
 
 For questions or feedback regarding AGU’s Data and Software Sharing Guidance, contact [DataHelp@agu.org](mailto:DataHelp@agu.org). 
 
+<a name="considerations">
 
 **Considerations for publication related to data and software**
 
