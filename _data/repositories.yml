@@ -161,7 +161,4 @@ repository-list:
         notes: "The British Oceanographic Data Centre (BODC) is a national facility for looking after and distributing data concerning the marine environment. We deal with biological, chemical, physical and geophysical data, and our databases contain measurements of nearly 22,000 different variables. Many of our staff have direct experience of marine data collection and analysis. They work alongside information technology specialists to ensure that data are documented and stored for current and future use."
         category: Marine Environmental Data - U.K. National Oceanography Centre
         journal: Oceans
-        
-        
-        
-        Ameriflux -The AmeriFlux Network ensures the availability of the continuous, long term ecosystem measurements necessary to build effective models and multisite syntheses, while maximizing insight through robust, site-specific, independent research programs. With these consistent, high-quality environmental measurements, AmeriFlux helps ensure that critical decisions are supported by the most complete understanding and data. Independent scientists measure the flows of carbon between land and atmosphere, using a technique called eddy covariance, and then contribute their data to the AmeriFlux Network. The AmeriFlux Network works with scientists to standardize, quality check, and process data into common forms that the scientific community can use to examine crucial linkages between ecosystem processes and climate responses. Description of AmeriFlux data and How to upload data. [Ecosystem CO2, Water, Energy Fluxes]
+ 
