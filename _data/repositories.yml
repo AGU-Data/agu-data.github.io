@@ -152,7 +152,15 @@ repository-list:
         url: https://ameriflux.lbl.gov/
         notes: "The AmeriFlux Network ensures the availability of the continuous, long term ecosystem measurements necessary to build effective models and multisite syntheses, while maximizing insight through robust, site-specific, independent research programs. With these consistent, high-quality environmental measurements, AmeriFlux helps ensure that critical decisions are supported by the most complete understanding and data. Independent scientists measure the flows of carbon between land and atmosphere, using a technique called eddy covariance, and then contribute their data to the AmeriFlux Network. The AmeriFlux Network works with scientists to standardize, quality check, and process data into common forms that the scientific community can use to examine crucial linkages between ecosystem processes and climate responses. Link(s); <a href='https://ameriflux.lbl.gov/data/aboutdata/'>About Data</a>, <a href='https://ameriflux.lbl.gov/data/how-to-uploaddownload-data/'>How to Upload/Download Data</a>."
         category: Ecosystem CO2, Water, Energy Fluxes
-        journal: Biogeosciences          
+        journal: Biogeosciences       
+  - repository-group: Earth Future
+    repositories: 
+      - name: National Snow and Ice Data Center (NSIDC)
+        re3data-url: https://www.re3data.org/repository/r3d100010110
+        url: https://nsidc.org/
+        notes: "NSIDC offers hundreds of scientific data sets for research, focusing on the cryosphere and its interactions. Data are from satellites and field observations. All data are free of charge."
+        category: Cryospheric Data
+        journal: Earth Future   
   - repository-group: Oceans
     repositories: 
       - name: British Oceanographic Data Centre (BODC)
