@@ -152,7 +152,50 @@ repository-list:
         url: https://ameriflux.lbl.gov/
         notes: "The AmeriFlux Network ensures the availability of the continuous, long term ecosystem measurements necessary to build effective models and multisite syntheses, while maximizing insight through robust, site-specific, independent research programs. With these consistent, high-quality environmental measurements, AmeriFlux helps ensure that critical decisions are supported by the most complete understanding and data. Independent scientists measure the flows of carbon between land and atmosphere, using a technique called eddy covariance, and then contribute their data to the AmeriFlux Network. The AmeriFlux Network works with scientists to standardize, quality check, and process data into common forms that the scientific community can use to examine crucial linkages between ecosystem processes and climate responses. Link(s); <a href='https://ameriflux.lbl.gov/data/aboutdata/'>About Data</a>, <a href='https://ameriflux.lbl.gov/data/how-to-uploaddownload-data/'>How to Upload/Download Data</a>."
         category: Ecosystem CO2, Water, Energy Fluxes
-        journal: Biogeosciences       
+        journal: Biogeosciences    
+    repositories: 
+      - name: Integrated Carbon Observation System (ICOS)
+        re3data-url: https://www.re3data.org/repository/r3d100012203
+        url: https://www.icos-cp.eu/
+        notes: "The Integrated Carbon Observation System (ICOS) is a distributed pan European research infrastructure producing high-quality data on greenhouse gas concentrations in the atmosphere, as well as on carbon fluxes between the atmosphere, the land surface and the oceans. Link(s): <a href='https://www.icos-cp.eu/data-services'>Data Service</a>s."
+        category: Ecosystem CO2, Water, Energy Fluxes
+        journal: Biogeosciences  
+      - name: Bolin Centre Database 
+        re3data-url: https://www.re3data.org/repository/r3d100011699
+        url: https://bolin.su.se/data/
+        notes: "The Bolin Centre Database is a storage and management facility for data collected and collated at the Bolin Centre for Climate Research. Most of the data are available with open access and can be used under the terms given in the data description. Our goal is to host all datasets produced within the Bolin Centre, to visualize the data and make the data publicly available. Link(s): <a href='mailto:bolindata@su.se.'>Contact</a>, <a href='https://bolin.su.se/data/contribute/'>Contribute</a>s."
+        category: Climate Data - Institutional/Project Repositories
+        journal: Biogeosciences  
+      - name: MEMENTO Database
+        re3data-url: https://www.re3data.org/repository/r3d100011549
+        url: https://memento.geomar.de/
+        notes: "MEMENTO database includes methane (CH4) and nitrous oxide (N2O) data from the global ocean (both open and coastal). The MEMENTO database is administered by the Kiel Data Management Team at GEOMAR Helmholtz Centre for Ocean Research and supported by the German BMBF project SOPRAN (Surface Ocean Processes in the Anthropocene). A login is required to access the data. Link(s): <a href='https://memento.geomar.de/contact'>Contact</a>, <a href='https://memento.geomar.de/n2o-data-contributors'>Contribute</a>s, <a href='https://memento.geomar.de/submit-your-data'>Data Access</a>."
+        category: Methane (CH4) and Nitrous Xxide (N2O)
+        journal: Biogeosciences
+      - name: Oak Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC)
+        re3data-url: https://www.re3data.org/repository/r3d100000037
+        url: https://daac.ornl.gov/
+        notes: "The Oak Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC) for Biogeochemical Dynamics is a NASA Earth Observing System Data and Information System (EOSDIS) data center managed by the Earth Science Data and Information System (ESDIS) Project. The ORNL DAAC is operated by Oak Ridge National Laboratory (ORNL) in Oak Ridge, Tennessee, and is a member of the Remote Sensing and Environmental Informatics Group of the Environmental Sciences Division (ESD). The ORNL DAAC is a CoreTrustSeal Certified Repository. Link(s): <a href='https://daac.ornl.gov/submit/'>Submit Data</a>."
+        category: National Aeronautics and Space Administration (NASA) – Funded Research
+        journal: Biogeosciences
+      - name: National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA)
+        re3data-url: https://www.re3data.org/repository/r3d100010775
+        url: https://www.ncbi.nlm.nih.gov/sra
+        notes: "The SRA is NIH's primary archive of high-throughput sequencing data and is part of the International Nucleotide Sequence Database Collaboration (INSDC) that includes at the NCBI Sequence Read Archive (SRA), the European Bioinformatics Institute (EBI), and the DNA Database of Japan (DDBJ). Data submitted to any of the three organizations are shared among them. SRA accepts data from all kinds of sequencing projects including clinically important studies that involve human subjects or their metagenomes, which may contain human sequences. These data often have controlled access via dbGaP (the database of Genotypes and Phenotypes). Link(s): <a href='https://www.ncbi.nlm.nih.gov/sra/docs/submit/'>Submission Quick Start</a>."
+        category: OMICS
+        journal: Biogeosciences
+      - name: Metagenomics Rapid Annotation using Subsystem Technology (MG-RAST)
+        re3data-url: https://www.re3data.org/repository/r3d100011031
+        url: https://www.mg-rast.org/
+        notes: "The MG-RAST server is an open source system for annotation and comparative analysis of metagenomes. Users can upload raw sequence data in fasta format; the sequences will be normalized and processed and summaries automatically generated. The server provides several methods to access the different data types, including phylogenetic and metabolic reconstructions, and the ability to compare the metabolism and annotations of one or more metagenomes and genomes. In addition, the server offers a comprehensive search capability. Access to the data is password protected, and all data generated by the automated pipeline is available for download in a variety of common formats. MG-RAST has become an unofficial repository for metagenomic data, providing a means to make your data public so that it is available for download and viewing of the analysis without registration, as well as a static link that you can use in publications. It also requires that you include experimental metadata about your sample when it is made public to increase the usefulness to the community. Link(s): <a href='https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-386'>About Services</a>."
+        category: OMICS
+        journal: Biogeosciences        
+      - name: USGS National Water Information System
+        re3data-url: https://www.re3data.org/repository/r3d100011035
+        url: https://waterdata.usgs.gov/nwis
+        notes: "Central data management of the USGS for water data that provides access to water-resources data collected at approximately 1.5 million sites in all 50 States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa and the Commonwealth of the Northern Mariana Islands. The USGS works with partners to monitor, assess, conduct targeted research, and deliver information on a wide range of water resources and conditions including streamflow, groundwater, water quality, and water use and availability. Link(s): <a href='https://help.waterdata.usgs.gov/faq'>Help/FAQ</a>."
+        category: Water Data, U.S. Geological Survey (USGS) – Funded Research
+        journal: Biogeosciences
   - repository-group: Earth Future
     repositories: 
       - name: National Snow and Ice Data Center (NSIDC)
