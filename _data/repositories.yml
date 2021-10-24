@@ -6,7 +6,7 @@ repository-list:
         url: https://zenodo.org/
         notes: "Zenodo builds and operates a simple and innovative service that enables researchers, scientists, EU projects and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of the existing institutional or subject-based repositories of the research communities. ZENODO enables researchers, scientists, EU projects and institutions to: easily share the long tail of small research results in a wide variety of formats including text, spreadsheets, audio, video, and images across all fields of science. display their research results and get credited by making the research results citable and integrate them into existing reporting lines to funding agencies like the European Commission. easily access and reuse shared research results. Link(s): <a href='https://guides.github.com/activities/citable-code/'>GitHub-Zenodo Integration (Make your code citable)</a>"
         category: Earth and Environmental Data
-        journal-list: Earth Surface, JAMES, Geochemistry, Geophysics, Geosystems
+        journal-list: Earth Surface, JAMES, Geochemistry, Geophysics, Geosystems, Earth and Space Science, Oceans
       - name: PANGAEA
         re3data-url: https://www.re3data.org/repository/r3d100010134
         url: https://pangaea.de/
@@ -30,7 +30,7 @@ repository-list:
         url: http://figshare.com/
         notes: "figshare allows researchers to publish all of their research outputs in an easily citable, sharable and discoverable manner. All file formats can be published, including videos and datasets. Optional peer review process. figshare uses creative commons licensing. Link(s): <a href='https://knowledge.figshare.com/plus'>figshare+ - publish big datasets</a>."
         category: Earth and Environmental Data
-        journal-list: Earth Surface, JAMES
+        journal-list: Earth Surface, JAMES, Earth and Space Science, Oceans
       - name: Geochron
         re3data-url: https://www.re3data.org/repository/r3d100011537
         url: https://www.geochron.org/
