@@ -8,7 +8,7 @@ tags: [Data Sharing, Software Sharing, Author Guidance, AGU]
 ---
 
 
-**Data and Software Sharing Guidance for Authors Submitting to AGU journals**  
+#Data and Software Sharing Guidance for Authors Submitting to AGU journals 
 _Peter Fox, Chris Erdmann, Shelley Stall, Stephen M. Griffies, Lisa M. Beal, Nadia Pinardi, Brooks Hanson, Marjorie A. M. Friedrichs, Sarah Feakins, Annalisa Bracco, Benoît Pirenne, Sonya Legg_
 
 Data and software are the building blocks of the research published in the AGU journals. These digital objects need to be accessible, understandable, and open as possible for reuse to support transparency and replicability. These digital objects include:
@@ -24,13 +24,13 @@ Data and Software Availability Statements and Citations must satisfy [AGU’s Da
 
 AGU recognizes that not all data or software can be fully open.  Data or software that are sensitive or restricted must be protected through appropriate access controls. Data or software should be as open as possible, as closed as necessary. For data concerning Indigenous Peoples, authors should consult the [CARE Principles for Indigenous Data Governance](http://doi.org/10.5334/dsj-2020-043). 
 
-**AGU Data Help Desk**
+##AGU Data Help Desk
 
 For questions or feedback regarding AGU’s Data and Software Sharing Guidance, contact [DataHelp@agu.org](mailto:DataHelp@agu.org). 
 
 <a name="considerations">
 
-**Considerations for publication related to data and software**
+##Considerations for publication related to data and software
 
 1. **When to Make Your Data and Software Available**  
 At the time your paper is <span style="text-decoration:underline;">submitted</span>, your data and software must be available to the editors and reviewers. At the time your paper is <span style="text-decoration:underline;">accepted</span>, your data and software availability statements must be clearly stated. A few repositories require the paper to be published before the data being registered and available, such that the persistent identifier resolves. These repositories are known, community-accepted repositories, and acceptable for use. Authors must still provide preliminary access to reviewers at the time of submission. Please ensure that your data and software are available with details of the online access location(s), data product names, variable names, time ranges, spatial locations, or any other search criteria to allow a reader and reviewer to Find and Access the data used and/or generated for the paper (including those represented in figures and tables). In summary, any data and software utilized in the work contained in the manuscript must be documented for free and open availability. Data or software that are sensitive and require restrictions on access (e.g., personal data, medical information, fossil locations, strategic models) must be preserved in a repository with appropriate access controls. 
@@ -53,7 +53,9 @@ If software is used to analyze or produce the data, including for model output, 
     5. Software already preserved: simply cite it. 
     6. Software created by others, but not preserved: work with the author on how they want it to be cited.
 
-**Guidelines for Research Primarily Based on Numerical Models or Theory**
+<a name="guidelines">
+
+##Guidelines for Research Primarily Based on Numerical Models or Theory**
 
 While numerical models or theoretical work may not utilize (input) data, often “output” such as figures or tables are considered data and should be made available in electronic form. Additionally, the software code (e.g. Python, Jupyter Notebooks, R, MATLAB) used to perform any data analysis and to produce the manuscript’s figures should be made available in a free and open platform (e.g., Github) and preserved in a repository (e.g., Zenodo). In the case where a manuscript makes no use of models, data, or analysis software (e.g., a purely theoretical paper or a review paper), then make note of this point in the Data and Software Availability Statements.
 
@@ -81,7 +83,9 @@ Software that can not be made available during peer review may result in the pap
 
 **Highlight:** When deciding on what model data (e.g., simulation workflow outputs), simulation workflow configuration and code components to include with your paper, refer to the rubric and guidance developed by the [EarthCube Research Coordination Network (RCN)](https://modeldatarcn.github.io/) on model data management best practices.
 
-**Selecting Your Repository**
+<a name="selecting">
+
+##Selecting Your Repository**
 
 Selecting a repository and determining data and software management best practices begins when you propose and fund your research project, through your Data (and Software) Management Plan. 
 
@@ -102,8 +106,9 @@ Once published in an appropriate **_preservation_** repository, your data cannot
 
 **National Repositories:** Some countries require authors to use their National Repositories for data and/or software preservation. 
 
-
-**During Peer Review**
+<a name="during">
+    
+##During Peer Review**
 
 <span style="text-decoration:underline;">Data</span>: Your data must be available for peer review of your manuscript. Here are options to ensure confidential access to your data.
 
@@ -120,12 +125,16 @@ Once published in an appropriate **_preservation_** repository, your data cannot
 
 Peer reviewers, with support from AGU staff, will ensure the link to the data and software resolves properly to a community-accepted, trusted repository and includes the data and software necessary to evaluate your research. 
 
-**Paper Acceptance**
+<a name="paper">
+    
+##Paper Acceptance**
 
 1. <span style="text-decoration:underline;">Data</span>: Relevant data and model results should be accessible at the time your paper is accepted. Note the possibility that in unusual cases the repository policy may not allow your data to be published until your paper is published. If that is the case, AGU will accept that your data will be made available after your paper is published. Please coordinate with the repository to ensure the availability of your data.
 2. <span style="text-decoration:underline;">Software</span>: For papers where software is central to your research, your software should be accessible at the time your paper is accepted.
+    
+<a name="availability">
 
-**Availability Statements and Template Examples**
+##Availability Statements and Template Examples
 
 The Availability Statement is a narrative that indicates to the reader where and how to directly access your data and software and provides any information on licenses and restrictions. An Availability Statement should contain an in-text citation, licensing information (e.g., CC-BY 4.0, MIT) and access restrictions (e.g., authentication required) (here is an [example from JAMES](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS001726#jame20966-sec-0068-title)). Statements to the effect of "data available from authors" are not acceptable. Also, statements to the effect of “data available from[ http://nasa.gov](http://nasa.gov)” are not acceptable since high-level website references do not meet the [AGU’s Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors) requirements. Provide details of the specific locations, data product names, variable names, time ranges, spatial locations, and any other search criteria needed to Find and Access the data used/ generated in the paper (including those represented in figures and tables).
 
