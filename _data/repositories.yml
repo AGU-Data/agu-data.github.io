@@ -230,4 +230,9 @@ repository-list:
         notes: "The U.S. Antarctic Program Data Center (USAP-DC) supports investigators funded by the National Science Foundation in documenting, preserving, and disseminating their research results. We register datasets in the Antarctic Master Directory (AMD) to comply with the Antarctic Treaty; facilitate submission of datasets to long-term archives; and represent the U.S. in Scientific Committee on Antarctic Research (SCAR) activities. USAP-DC is a member of the Interdisciplinary Earth Data Alliance (IEDA) and the Antarctic and Arctic Data Consortium (A2DC). Link(s): <a href='https://www.usap-dc.org/submit'>Contribute Data</a>"
         category: Antarctic Data
         journal: JGR Oceans        
-        
+      - name: Ocean Biodiversity Information System
+        re3data-url: https://www.re3data.org/repository/r3d100010088
+        url: https://obis.org/
+        notes: "Ocean Biogeographic/Biodiversity Ocean System (OBIS) builds and maintains a global alliance that collaborates with scientific communities to facilitate free and open access to, and application of, biodiversity and biogeographic data and information on marine life. OBIS accepts data from any organization, consortium, project or individual who wants to contribute data. OBIS Data Sources are the authors, editors, and/or organisations that have published one or more datasets through OBIS. They are the owners or custodians of the data, not OBIS! However, OBIS only harvests data from recognized OBIS nodes. Link(s): <a href='https://obis.org/manual/contribute/'>Contribute Data</a>"
+        category: Marine Life Biodiversity and Biogeographic Data
+        journal: JGR Oceans                
