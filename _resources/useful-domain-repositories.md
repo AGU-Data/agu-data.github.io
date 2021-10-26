@@ -35,4 +35,3 @@ The following is a list developed with AGU community members of useful repositor
           <br>     
   {% endfor %}
   
-  </p>   
