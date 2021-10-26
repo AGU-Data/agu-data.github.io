@@ -236,3 +236,49 @@ repository-list:
         notes: "Ocean Biogeographic/Biodiversity Ocean System (OBIS) builds and maintains a global alliance that collaborates with scientific communities to facilitate free and open access to, and application of, biodiversity and biogeographic data and information on marine life. OBIS accepts data from any organization, consortium, project or individual who wants to contribute data. OBIS Data Sources are the authors, editors, and/or organisations that have published one or more datasets through OBIS. They are the owners or custodians of the data, not OBIS! However, OBIS only harvests data from recognized OBIS nodes. Link(s): <a href='https://obis.org/manual/contribute/'>Contribute Data</a>"
         category: Marine Life Biodiversity and Biogeographic Data
         journal: JGR Oceans                
+  - repository-group: JGR Planets
+    repositories: 
+      - name: Data ARchives and Transmission System
+        re3data-url: https://www.re3data.org/repository/r3d100010463
+        url: https://www.darts.isas.jaxa.jp/index.html.en
+        notes: "Data ARchives and Transmission System (DARTS) - Data archives on a broad range of space sciences including astronomy, solar physics, and solar-terrestrial physics. Data is mainly acquired by Japanese scientific satellites. The data policy for JAXA is available via <a href='https://www.isas.jaxa.jp/en/researchers/data-policy/'>ISAS</a> and data citation guidance from DARTS is available via the following <a href='https://data.darts.isas.jaxa.jp/pub/'>pubs folder</a> where README/DOI files can be found by project."
+        category: JAXA Repositories
+        journal: JGR Planets
+      - name: ESA Planetary Science Archive (PSA)
+        re3data-url: https://www.re3data.org/repository/r3d100012465
+        url: https://archives.esac.esa.int/psa/
+        notes: "The European Space Agency's Planetary Science Archive (PSA) is the central repository for all scientific and engineering data returned by ESA's Solar System missions: currently including Giotto, Huygens, Mars Express, Venus Express, Rosetta, SMART-1 and ExoMars 16, as well as several ground-based cometary observations. Future missions hosted by the PSA will be Bepi Colombo, ExoMars Rover and Surface Platform and Juice. ESA Guest Storage Facility - for useful datasets that includes a DOI registration service. Link(s): <a href='https://www.cosmos.esa.int/web/psa/psa_gsf'>Guest Storage</a>."
+        category: Scientific and Engineering Data - ESA Solar System Missions
+        journal: JGR Planets       
+      - name: Lunar and Planetary Data Release System
+        re3data-url: https://www.re3data.org/
+        url: https://moon.bao.ac.cn/web/enmanager/home
+        notes: "The Data Release and Information Service System of China's Lunar Exploration Program via The National Observatory of the Chinese Academy of Sciences. Scientific data search and download from the Chang missions including lunar samples and map "
+        category: Lunar Exploration Program Data - National Observatory of the Chinese Academy of Sciences
+        journal: JGR Planets        
+      - name: Planetary Data System (PDS)
+        re3data-url: https://www.re3data.org/repository/r3d100010121
+        url: https://pds.nasa.gov/
+        notes: "The Planetary Data System (PDS) is a long-term archive of digital data products returned from NASA's planetary missions, and from other kinds of flight and ground-based data acquisitions, including laboratory experiments. Archive submissions are prepared by researchers under the guidance of PDS personnel. All products are peer-reviewed, well-documented, and easily accessible via a system of online catalogs that are organized by planetary disciplines.  The PDS is evolving to include improved support for researchers.  Current submissions receive persistent identifiers, DOIs, but older submissions might not have a registered DOI.  The team will register any dataset you need to cite for your paper. Send an email to Pds-operator@jpl.nasa.gov and/or visiting their page on citing data. Note, the data should be cited separately instead of the analyst notebook used for exploring and accessing the data. Link(s): <a href='Pds-operator@jpl.nasa.gov'>Contact</a>, <a href='https://pds.nasa.gov/datastandards/citing/'>Citing Data</a>. Nodes: <a href='https://pds-geosciences.wustl.edu/'>Geosciences</a> / <a href='https://pds-geosciences.wustl.edu/dataserv/doi.htm'>DOIs</a> / <a href='https://pds-imaging.jpl.nasa.gov/holdings/IMG_PDS3_initial_DOIs_Joined_Oct.2020.xlsx'>XLSX of DOIs</a>, <a href='https://naif.jpl.nasa.gov/naif/'>Navigational & Ancillary Information Facility</a>, <a href='https://pds-ppi.igpp.ucla.edu/'>Planetary Plasma Interactions</a>, <a href='https://pds-atmospheres.nmsu.edu/'>Atmospheres</a>, <a href='https://pds-rings.seti.org/'>Ring-Moon Systems</a>, <a href='https://pds-smallbodies.astro.umd.edu/'>Small Bodies</a>, <a href='https://pds-imaging.jpl.nasa.gov/'>Cartography and Imaging Sciences</a>. PDS DOIs: <a href='https://commons.datacite.org/doi.org?query=%22Planetary+Data+System%22&resource-type=dataset'>DataCite Search."
+        category: Planetary Data System Repositories
+        journal: JGR Planets
+      - name: NASA Exoplanet Archive
+        re3data-url: https://www.re3data.org/repository/r3d100010524
+        url: https://exoplanetarchive.ipac.caltech.edu/
+        notes: "The NASA Exoplanet Archive collects and serves public data to support the search for and characterization of extra-solar planets (exoplanets) and their host stars. The data include published light curves, images, spectra and parameters, and time-series data from surveys that aim to discover transiting exoplanets. Tools are provided to work with the data, particularly the display and analysis of transit data sets from Kepler and CoRoT. All data are validated by the Exoplanet Archive science staff and traced to their sources. The Exoplanet Archive is the U.S. data portal for the CoRoT mission."
+        category: Exoplanetary Data
+        journal: JGR Planets
+      - name: The Petrological Database (PetDB)
+        re3data-url: https://www.re3data.org/repository/r3d100011235
+        url: https://search.earthchem.org/
+        notes: "PetDB, the Petrological Database, is a web-based data management system that provides on-line access to geochemical and petrological data. PetDB is a global synthesis of chemical, isotopic, and mineralogical data for rocks, minerals, and melt inclusions. PetDB's current content focuses on data for igneous and metamorphic rocks from the ocean floor, specifically mid-ocean ridge basalts and abyssal peridotites and xenolith samples from the Earth's mantle and lower crust. PetDB is maintained and continuously updated as part of the EarthChem data collections."
+        category: Geochemical and Petrological Data
+        journal: JGR Planets
+      - name: 4TU.Centre for Research Data
+        re3data-url: https://www.re3data.org/repository/r3d100010216
+        url: https://data.4tu.nl/info/en/
+        notes: "4TU.ResearchData, previously known as 3TU.Datacentrum, is an archive for research data. It offers the knowledge, experience and the tools to share and safely store scientific research data in a standardized, secure and well-documented manner. 4TU.Centre for Research Data provides the research community with: Advice and support on data management; A long-term archive for scientific research data; Support for current research projects; Tools for reusing research data.
+4TU.ResearchData is certified with the Data Seal of Approval."
+        category: Science, Engineering, Design Data
+        journal: JGR Planets
+        
