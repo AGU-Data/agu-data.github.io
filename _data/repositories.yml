@@ -208,6 +208,20 @@ repository-list:
         notes: "Central data management of the USGS for water data that provides access to water-resources data collected at approximately 1.5 million sites in all 50 States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa and the Commonwealth of the Northern Mariana Islands. The USGS works with partners to monitor, assess, conduct targeted research, and deliver information on a wide range of water resources and conditions including streamflow, groundwater, water quality, and water use and availability. Link(s): <a href='https://help.waterdata.usgs.gov/faq'>Help/FAQ</a>."
         category: Water Data, U.S. Geological Survey (USGS) – Funded Research
         journal: JGR Biogeosciences
+  - repository-group: Earth's Future
+    repositories: 
+      - name: Centre for Environmental Data Analysis (CEDA)
+        re3data-url: https://www.re3data.org/repository/r3d100012305
+        url: https://www.ceda.ac.uk/
+        notes: "The Centre for Environmental Data Analysis (CEDA) serves the environmental science community through managing data centres, data analysis environments, and participation in a host of relevant research projects. We aim to support environmental science, further environmental data archival practices, and develop and deploy new technologies to enhance access to data. Additionally we provide services to aid large scale data analysis. The CEDA Archive operates the atmospheric and earth observation data centre functions on behalf of NERC for the UK atmospheric science and earth observation communities. It covers climate, composition, observations and NWP data as well as various earth observation datasets, including airborne and satellite data and imagery. Prior to November 2016 these functions were operted by CEDA under the titles of the British Atmospheric Data Centre (BADC) and the NERC Earth Observation Data Centre (NEODC). CEDA also operates the UK Solar System Data Centre (UKSSDC), which curates and provides access to archives of data from the upper atmosphere, ionosphere and Earth's solar environment."
+        category: Environmental Data
+        journal: Earth's Future
+      - name: NASA Socioeconomic Data and Applications Center
+        re3data-url: https://www.re3data.org/repository/r3d100010159
+        url: https://sedac.ciesin.columbia.edu/
+        notes: "SEDAC, the Socioeconomic Data and Applications Center, is one of the Distributed Active Archive Centers (DAACs) in the Earth Observing System Data and Information System (EOSDIS) of the U.S. National Aeronautics and Space Administration. SEDAC is a regular member of the World Data System and focuses on human interactions in the environment. Its mission is to develop and operate applications that support the integration of socioeconomic and Earth science data and to serve as an "Information Gateway" between the Earth and social sciences."
+        category: Socioeconomic, Earth Science Data
+        journal: Earth's Future
   - repository-group: JGR Earth Surface
     repositories: 
       - name: National Snow and Ice Data Center (NSIDC)
