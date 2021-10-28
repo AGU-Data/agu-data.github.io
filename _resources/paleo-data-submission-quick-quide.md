@@ -30,6 +30,7 @@ Non-Preferred option: Authors can still submit their data as a supplement upon i
 
 **Author checklist:**
 
+
 <table>
   <tr>
    <td><strong>Check</strong>
@@ -92,26 +93,30 @@ non-Preferred:Author submits data as supplement and indicates what repository th
 * [DataCite Repository Finder](https://repositoryfinder.datacite.org)
 * [Domain-Discipline Repositories Useful to AGU Journals](https://data.agu.org/resources/useful-domain-repositories)
 
-**Large climate model files.**  Please see AGU’s [common data sharing guidance](https://data.agu.org/resources/agu-data-software-sharing-guidance) document. Additional guidance is available from EarthCube RCN, ["What About Model Data?" Determining Best Practices for Preservation and Replicability](https://modeldatarcn.github.io/). See below for AGU _Paleoceanography and Paleoclimatology _data guide for <span style="text-decoration:underline;">climate model simulations</span>.
+**Large climate model files.**  Please see AGU’s [common data sharing guidance](https://data.agu.org/resources/agu-data-software-sharing-guidance) document. Additional guidance is available from EarthCube RCN, ["What About Model Data?" Determining Best Practices for Preservation and Replicability](https://modeldatarcn.github.io/). See below for AGU _Paleoceanography and Paleoclimatology_ data guide for [climate model simulations](#modeldata).
 
 **Additional considerations when choosing a repository?** Choices may be determined by funding agency, national or institutional mandates; they may develop through evolving community standards; journal recommendations or otherwise may be author choice. Authors are advised to consider benefits of platform familiarity, archival stability and search features - all of which contribute to data visibility and accessibility. Authors should ensure their data submission complies with the requirements of the repository and journal expectations (it may help to consult recent journal publications and data deposits and journal publications for relevant examples). Authors should note that the review process includes assessment of data, therefore access to data is essential for review.
 
+<a name="FAQs">
+
 ### FAQs
 
-**What needs to be archived? **At a minimum, the processed data, analytical code, spreadsheets, workflows necessary to reproduce the results shown in the paper. As a rule-of-thumb: the minimum requirement is whatever is necessary to reproduce the figures, tables, and interpretations in the paper. Archival of raw and intermediate data may not be necessary to meet this requirement and may not be feasible to provide which may set the minimal limit.  On the other hand the more data (including code, workflows) that can be archived the greater the long-term potential utility, so we encourage archiving more than the bare minimum.
+**What needs to be archived?** At a minimum, the processed data, analytical code, spreadsheets, workflows necessary to reproduce the results shown in the paper. As a rule-of-thumb: the minimum requirement is whatever is necessary to reproduce the figures, tables, and interpretations in the paper. Archival of raw and intermediate data may not be necessary to meet this requirement and may not be feasible to provide which may set the minimal limit.  On the other hand the more data (including code, workflows) that can be archived the greater the long-term potential utility, so we encourage archiving more than the bare minimum.
 
-**Is there any scope for expansion of archived data? **We recognize the value of archiving all components needed for scientific reproducibility and accessibility, including [very large files ](https://data.agu.org/2021/10/01/challenges-preserving-very-large-data.html )(e.g., raw instrument or model output), where checking and reuse may be helpful to the community. If repository infrastructure for handling and storage of such data types does not yet exist, researchers are advised to attend to evolving community standards and to make use of any available institutional data storage in the meanwhile, while repository capacity develops. 
+**Is there any scope for expansion of archived data?** We recognize the value of archiving all components needed for scientific reproducibility and accessibility, including [very large files ](https://data.agu.org/2021/10/01/challenges-preserving-very-large-data.html )(e.g., raw instrument or model output), where checking and reuse may be helpful to the community. If repository infrastructure for handling and storage of such data types does not yet exist, researchers are advised to attend to evolving community standards and to make use of any available institutional data storage in the meanwhile, while repository capacity develops. 
 
-**Are there any allowable exceptions to archiving? **Any exceptions sought to data publishing, (e.g., government or commercial data or software restricted by patent, policy or law), should be discussed with the editor and decisions will be handled on a case-by-case basis. 
+**Are there any allowable exceptions to archiving?** Any exceptions sought to data publishing, (e.g., government or commercial data or software restricted by patent, policy or law), should be discussed with the editor and decisions will be handled on a case-by-case basis. 
 
 **Are there costs associated with data publication?** Some repositories guarantee free deposition and storage in perpetuity, others may require fees to archive data now or in the future. These costs are not covered by the publisher except when using [Dryad for NSF funded research](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/AGU-Partners-with-Dryad). 
 
-**When data revisions are needed. **Authors are responsible for updating any archived datasets e.g., for errata, new data generated at request of reviewers. Commonly this results in a newly registered DOI.  Please ensure the availability statement and citation are also updated with the new DOI. 
+**When data revisions are needed.** Authors are responsible for updating any archived datasets e.g., for errata, new data generated at request of reviewers. Commonly this results in a newly registered DOI.  Please ensure the availability statement and citation are also updated with the new DOI. 
 
-**How is data peer-reviewed? **The evaluation of whether data "necessary to reproduce the results shown in the paper” are made available is part of the peer-review process and is adjudicated by the editor. We thank authors and reviewers for their attention and adherence to best-practice in data management and reporting. 
+**How is data peer-reviewed?** The evaluation of whether data "necessary to reproduce the results shown in the paper” are made available is part of the peer-review process and is adjudicated by the editor. We thank authors and reviewers for their attention and adherence to best-practice in data management and reporting. 
 
-**Still have questions? **Contact AGU _Paleoceanography and Paleoclimatology_ [paleoceanography@agu.edu](mailto:paleogeanography@agu.edu)
+**Still have questions?** Contact AGU _Paleoceanography and Paleoclimatology_ [paleoceanography@agu.edu](mailto:paleogeanography@agu.edu)
 
+<a name="modeldata">
+  
 ### Climate model data 
 
 In addition to AGU’s [common data sharing guidance](https://data.agu.org/resources/agu-data-software-sharing-guidance) document (including numerical models), we provide journal-specific guidance for data publishing compliance for model simulations. 
@@ -134,6 +139,6 @@ In addition to AGU’s [common data sharing guidance](https://data.agu.org/resou
     * BEST OPTION: If certain raw model output data are instrumental to evaluating the research, then deposit these in a trusted repository. There are currently limited resources for preserving files of very large size. Where possible synthesise that data. Selecting representative output from one or a few model runs as is recommended by a specific community may be necessary. Data formats should be in formats that are commonly used among the community (e.g. .netcdf, .dat, .xls). 
     * GOOD OPTION: Processed data that has been transformed/derived from raw data formats used for specific analyses should be provided using similar community reporting standards and formats.
 
-# If the model is not open because of the sensitivity of the research or proprietary concerns, then provide as much information as possible to support evaluation of the research and responsibility, and see the <span style="text-decoration:underline;">FAQs</span> “Are there any allowable exceptions to archiving?” above. 
+If the model is not open because of the sensitivity of the research or proprietary concerns, then provide as much information as possible to support evaluation of the research and responsibility, and see the [FAQs](#FAQs) _Are there any allowable exceptions to archiving?_ above. 
 
-**Still have questions? **Contact AGU _Paleoceanography and Paleoclimatology_ [paleoceanography@agu.edu](mailto:paleogeanography@agu.edu)
+**Still have questions?** Contact AGU _Paleoceanography and Paleoclimatology_ [paleoceanography@agu.edu](mailto:paleogeanography@agu.edu)
