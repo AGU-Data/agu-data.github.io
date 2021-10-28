@@ -31,58 +31,13 @@ Non-Preferred option: Authors can still submit their data as a supplement upon i
 **Author checklist:**
 
 
-<table>
-  <tr>
-   <td><strong>Check</strong>
-   </td>
-   <td><strong>Manuscript </strong>
-   </td>
-   <td><strong>Data action required</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Preparation
-   </td>
-   <td>Author to locate repository; generate dataset to repository specifications
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Submission
-   </td>
-   <td>Preferred: Author to submit data to repository prior to manuscript submission and to ensure reviewers have access to data through a link (may be temporarily password-protected from public view until manuscript acceptance)
-<p>
-non-Preferred:Author submits data as supplement and indicates what repository the data will be submitted to.
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Revision
-   </td>
-   <td>Author to ensure data housed permanently at a repository; include URL/DOI in manuscript
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Acceptance
-   </td>
-   <td>Author to notify repository to publicly release data
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Proofs
-   </td>
-   <td>Author to ensure data are linked and available
-   </td>
-  </tr>
-</table>
+| Check | Manuscript | Data action required |
+| -------- | -------- | -------------------- |
+|          | Preparation         | Author to locate repository; generate dataset to repository specifications                     |
+|          | Submission         | Preferred: Author to submit data to repository prior to manuscript submission and to ensure reviewers have access to data through a link (may be temporarily password-protected from public view until manuscript acceptance) non-Preferred:Author submits data as supplement and indicates what repository the data will be submitted to.                     |
+|          | Revision         | Author to ensure data housed permanently at a repository; include URL/DOI in manuscript                     |
+|          | Acceptance         | Author to notify repository to publicly release data                     |
+|      | Proofs    | Author to ensure data are linked and available                 |
 
 
 ### Choice of repository for Paleoceanography and Paleoclimatology data
