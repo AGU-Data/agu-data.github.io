@@ -68,17 +68,17 @@ Non-Preferred option: Authors can still submit their data as a supplement upon i
 
 **How is data peer-reviewed?** The evaluation of whether data "necessary to reproduce the results shown in the paper” are made available is part of the peer-review process and is adjudicated by the editor. We thank authors and reviewers for their attention and adherence to best-practice in data management and reporting. 
 
-**Still have questions?** Contact AGU _Paleoceanography and Paleoclimatology_ [paleoceanography@agu.edu](mailto:paleogeanography@agu.edu)
+**Still have questions?** Contact AGU _Paleoceanography and Paleoclimatology_ [paleoceanography@agu.edu](mailto:paleogeanography@agu.edu).
 
 <a name="modeldata">
   
-### Climate model data 
+### Climate Model Data 
 
 In addition to AGU’s [common data sharing guidance](https://data.agu.org/resources/agu-data-software-sharing-guidance) document (including numerical models), we provide journal-specific guidance for data publishing compliance for model simulations. 
 
 1. **Model code.**
     * If the model code (e.g. an empirical model created for the paper) used to run simulations or create data is small (&lt;10 MB) and unpublished, the code should be uploaded to a repository. 
-2. **Citation of the model (most important). **
+2. **Citation of the model (most important).**
     * BEST OPTION (model in repository): Cite the model using a repository that registers the version used for the paper with a persistent identifier (e.g., Digital Object Identifier) and metadata that describes the model using community standards. If a published paper has the complete description, there should be a link in the repository to the published paper. If the paper does not have a complete description then the primary model paper(s) should be also cited. Your citation should accurately capture the authors/creators of the model.
     * GOOD OPTION (model described in paper): Cite the publication where the model is described with information about the version used for this paper.
 1. **Description of the model.**
@@ -96,4 +96,4 @@ In addition to AGU’s [common data sharing guidance](https://data.agu.org/resou
 
 If the model is not open because of the sensitivity of the research or proprietary concerns, then provide as much information as possible to support evaluation of the research and responsibility, and see the [FAQs](#FAQs) _Are there any allowable exceptions to archiving?_ above. 
 
-**Still have questions?** Contact AGU _Paleoceanography and Paleoclimatology_ [paleoceanography@agu.edu](mailto:paleogeanography@agu.edu)
+**Still have questions?** Contact AGU _Paleoceanography and Paleoclimatology_ [paleoceanography@agu.edu](mailto:paleogeanography@agu.edu).
