@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data and Software Sharing Guidance for Authors Submitting to AGU journals
+title: Data and Software Sharing Guidance for Authors Submitting to AGU Journals
 feature-img: "assets/img/pexels/AGU-Stock-Underwater-Rocks-Sunlight-1314x400.jpg"
 img: "assets/img/resources/agu-trademark-logo-horiz-128.png"
 date: 21 July 2021
@@ -8,7 +8,7 @@ tags: [Data Sharing, Software Sharing, Author Guidance, AGU]
 ---
 
 
-# Data and Software Sharing Guidance for Authors Submitting to AGU journals 
+# Data and Software Sharing Guidance for Authors Submitting to AGU Journals 
 _Peter Fox, Chris Erdmann, Shelley Stall, Stephen M. Griffies, Lisa M. Beal, Nadia Pinardi, Brooks Hanson, Marjorie A. M. Friedrichs, Sarah Feakins, Annalisa Bracco, Benoît Pirenne, Sonya Legg_
 
 Data and software are the building blocks of the research published in the AGU journals. These digital objects need to be accessible, understandable, and open as possible for reuse to support transparency and replicability. These digital objects include:
