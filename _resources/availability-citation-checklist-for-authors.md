@@ -3,7 +3,7 @@ layout: post
 title: Data and Software Availability and Citation Checklist for Authors, Reviewers, Editors, and AGU Publications
 feature-img: "assets/img/pexels/AGU-Stock-Underwater-Rocks-Sunlight-1314x400.jpg"
 img: "assets/img/resources/agu-trademark-logo-horiz-128.png"
-date: 14 June 2021
+date: 21 October 2021
 tags: [AGU, Resources]
 ---
 
