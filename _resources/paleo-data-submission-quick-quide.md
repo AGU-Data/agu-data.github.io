@@ -42,7 +42,7 @@ Non-Preferred option: Authors can still submit their data as a supplement upon i
 
 ### Choice of repository for Paleoceanography and Paleoclimatology data
 
-**Proxy reconstruction data.** The most common domain-specific choices for _AGU PP_ authors to date are [NOAA NCEI](http://www.ncei.noaa.gov/) (USA) and [PANGAEA](http://www.pangaea.de/) (Germany), as well as specialty repositories (e.g., for chronology, fossils, large computational datasets etc.), or general repositories (i.e., venues that may accept data on any topic and format, e.g., Dryad, Zenodo, and Figshare). Resources for finding repositories include:  
+**Proxy reconstruction data.** The most common domain-specific choices for _AGU PP_ authors to date are [NOAA NCEI](https://www.ncei.noaa.gov/products/paleoclimatology/contributing-data) (USA) and [PANGAEA](https://pangaea.de/submit/) (Germany), as well as specialty repositories (e.g., for chronology, fossils, large computational datasets etc.), or general repositories (i.e., venues that may accept data on any topic and format, e.g., Dryad, Zenodo, and Figshare). Resources for finding repositories include:  
 
 * [Generalist Data Repository Grid](https://www.agu.org/-/media/Files/Publications/Generalist-Data-Repository-Grid.pdf)
 * [DataCite Repository Finder](https://repositoryfinder.datacite.org)
