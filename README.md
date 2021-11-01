@@ -1,4 +1,5 @@
 # AGU Data Leadership Team/Maintainers
+[![awesome_bot](https://github.com/AGU-Data/agu-data.github.io/actions/workflows/awesome_bot.yml/badge.svg)](https://github.com/AGU-Data/agu-data.github.io/actions/workflows/awesome_bot.yml)
 
 - [Shelley Stall](https://github.com/ShelleyStall)
 - [Chris Erdmann](https://github.com/libcce)
