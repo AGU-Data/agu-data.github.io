@@ -6,13 +6,13 @@ repository-list:
         url: https://zenodo.org/
         notes: "Zenodo builds and operates a simple and innovative service that enables researchers, scientists, EU projects and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of the existing institutional or subject-based repositories of the research communities. ZENODO enables researchers, scientists, EU projects and institutions to: easily share the long tail of small research results in a wide variety of formats including text, spreadsheets, audio, video, and images across all fields of science. display their research results and get credited by making the research results citable and integrate them into existing reporting lines to funding agencies like the European Commission. easily access and reuse shared research results. Link(s): <a href='https://guides.github.com/activities/citable-code/'>GitHub-Zenodo Integration (Make your code citable)</a>"
         category: Earth and Environmental Data
-        journal-list: JGR Earth Surface, JAMES, Geochemistry, Geophysics, Geosystems, Earth and Space Science, JGR Oceans
+        journal-list: JGR Earth Surface, JAMES, Geochemistry, Geophysics, Geosystems, Earth and Space Science, JGR Oceans, JGR Solid Earth
       - name: PANGAEA
         re3data-url: https://www.re3data.org/repository/r3d100010134
         url: https://pangaea.de/
         notes: "Pangaea accepts any data from earth, environmental and life sciences. When you start the data submission process, you will be redirected to the PANGAEA issue tracker that will assist you in providing metadata and uploading data files. Any communication with our editors will go through this issue tracker. For more details about the submission workflow see our tutorial. Please note: All data and metadata are quality checked, harmonized, and processed for machine readability, which allows efficient and reliable re-usage of your data. Depending on the extent and complexity of your data submission the editorial process and minting of DOI names might therefore take up to 8 weeks. Link(s): <a href='https://www.pangaea.de/submit/'>Submit Data/Tutorial</a>"
         category: Earth and Environmental Data
-        journal-list: JGR Biogeosciences, JGR Earth Surface, Water Resources Research, Geochemistry, Geophysics, Geosystems, JAMES, JGR Atmospheres, GeoHealth, Tectonics, JGR  Planets, Paleoceanograph and Paleoclimatology
+        journal-list: JGR Biogeosciences, JGR Earth Surface, Water Resources Research, Geochemistry, Geophysics, Geosystems, JAMES, JGR Atmospheres, GeoHealth, Tectonics, JGR  Planets, Paleoceanograph and Paleoclimatology, JGR Solid Earth
       - name: Environmental Data Initiative (EDI)
         re3data-url: https://www.re3data.org/repository/r3d100010272
         url: https://environmentaldatainitiative.org/
@@ -30,13 +30,13 @@ repository-list:
         url: http://figshare.com/
         notes: "figshare allows researchers to publish all of their research outputs in an easily citable, sharable and discoverable manner. All file formats can be published, including videos and datasets. Optional peer review process. figshare uses creative commons licensing. Link(s): <a href='https://knowledge.figshare.com/plus'>figshare+ - publish big datasets</a>."
         category: Earth and Environmental Data
-        journal-list: JGR Earth Surface, JAMES, Earth and Space Science, JGR Oceans
+        journal-list: JGR Earth Surface, JAMES, Earth and Space Science, JGR Oceans, JGR Solid Earth
       - name: Geochron
         re3data-url: https://www.re3data.org/repository/r3d100011537
         url: https://www.geochron.org/
         notes: "A global database hosting geochronologic and thermochronologic information from detrital minerals. Accepts data from a variety of data reduction programs that are used widely in the various geochronology and thermochronology communities. These programs have features to seamlessly upload data to Geochron, but do require a unique sample or aliquot identifier. You can access these programs under the Data Reduction Software part of the website. Many of these will accommodate legacy data or data not reduced by those programs. Text taken from GeoChron website about submitting data. Geochron works with the Earthchem Library to publish data with Digital Object Identifiers (DOIs). Link(s): <a href='https://www.geochron.org/submitdata.php'>Data Reduction and Upload Software</a>, <a href='https://www.geochron.org/submittingdata'>Submitting Data</a>"
         category: Geochronologic and Thermochronologic Data
-        journal-list: Water Resources Research, Geochemistry, Geophysics, Geosystems, Tectonics
+        journal-list: Water Resources Research, Geochemistry, Geophysics, Geosystems, Tectonics, JGR Solid Earth
       - name: HydroShare
         re3data-url: https://www.re3data.org/repository/r3d100012625
         url: https://www.hydroshare.org/
@@ -48,7 +48,7 @@ repository-list:
         url: https://earthchem.org/ecl/
         notes: "An open-access repository for geochemical datasets (analytical data, experimental data, synthesis databases) and other digital resources relevant to the field of geochemistry. The EarthChem Library offers data preservation and access, including long-term archiving and registration of data with Digital Object Identifiers (DOIs). Text taken from EarthChem Library website. Link(s): <a href='https://earthchem.org/help/guidelines'>Data Submission Guidelines</a>, <a href='https://earthchem.org/data/cite'>Citation Guidelines</a>"
         category: Geochemical Data
-        journal-list: Geochemistry, Geophysics, Geosystems, JAMES, Water Resources Research, JGR Earth Surface, Tectonics, JGR Oceans, JGR Planets
+        journal-list: Geochemistry, Geophysics, Geosystems, JAMES, Water Resources Research, JGR Earth Surface, Tectonics, JGR Oceans, JGR Planets, JGR Solid Earth
       - name: ESS-DIVE
         re3data-url: https://www.re3data.org/repository/r3d100000019
         url: https://ess-dive.lbl.gov/
@@ -60,19 +60,19 @@ repository-list:
         url: https://www.iris.edu/hq/
         notes: "IRIS offers free and open access to a comprehensive data store of raw geophysical time-series data collected from a large variety of sensors, courtesy of a vast array of US and International scientific networks, including seismometers (permanent and temporary), tilt and strain meters, infrasound, temperature, atmospheric pressure and gravimeters, to support basic research aimed at imaging the Earth's interior. IRIS provides management of, and access to, observed and derived data for the global earth science community. This includes ground motion, atmospheric, infrasonic, hydrological, and hydroacoustic data. Link(s): <a href='http://www.fdsn.org/citations/'>IRIS Network Citation Guidelines</a>, <a href='https://ds.iris.edu/ds/nodes/dmc/data/#submitting'>Data at IRIS (Submitting)</a>, <a href='http://ds.iris.edu/ds/'>Data Services (Data Management System)</a>"
         category: Geophysical Time-Series Data
-        journal-list: JAMES, Geochemistry, Geophysics, Geosystems, Tectonics, JGR Oceans, JGR Planets
+        journal-list: JAMES, Geochemistry, Geophysics, Geosystems, Tectonics, JGR Oceans, JGR Planets, JGR Solid Earth
       - name: Marine Geoscience Data System (MGDS)
         re3data-url: https://www.re3data.org/repository/r3d100010273
         url: https://www.marine-geo.org/
         notes: "The Marine Geoscience Data System (MGDS) is a trusted data repository that provides free public access to a curated collection of marine geophysical data products and complementary data related to understanding the formation and evolution of the seafloor and sub-seafloor. Developed and operated by domain scientists and technical specialists with deep knowledge about the creation, analysis and scientific interpretation of marine geoscience data, the system makes available a digital library of data files described by a rich curated metadata catalog. MGDS provides tools and services for the discovery and download of data collected throughout the global oceans. Primary data types are geophysical field data including active source seismic data, potential field, bathymetry, sidescan sonar, near-bottom imagery, other seafloor senor data as well as a diverse array of processed data and interpreted data products (e.g. seismic interpretations, microseismicity catalogs, geologic maps and interpretations, photomosaics and visualizations). Our data resources support scientists working broadly on solid earth science problems ranging from mid-ocean ridge, subduction zone and hotspot processes, to geohazards, continental margin evolution, sediment transport at glaciated and unglaciated margins. Link(s): <a href='https://www.marine-geo.org/collections/#!/collection/Seismic#summary'>Academic Seismic Portal at LDEO</a>, <a href='https://www.marine-geo.org/submit/'>Contribute Data</a>"
         category: Marine Geophysical, Seismic Data
-        journal-list: Geochemistry, Geophysics, Geosystems, Tectonics, JGR Oceans   
+        journal-list: Geochemistry, Geophysics, Geosystems, Tectonics, JGR Oceans, JGR Solid Earth   
       - name: Magnetics Information Consortium (MagIC)
         re3data-url: https://www.re3data.org/repository/r3d100011910
         url: https://www2.earthref.org/MagIC
         notes: "Archive for rock magnetic, geomagnetic, archeomagnetic (archaeomagnetic) and paleomagnetic (palaeomagnetic) data. 1.) It is recommended that you reach out to the MagIC team (data.curator@earthref.org) in advance (~3 months) to work out the details of your data workflow and upload. The team can work with you to develop or leverage existing scripts to translate other data formats into the MagIC format. 2.) Uploading summary data (as found in tables in a paper), for instance measurement data, is highly recommended for AGU journals and can take less time to upload. 3.) Once your data have been uploaded to your private workspace in MagIC and is ready for publication, MagIC will require a DOI for your paper. Your data will not be made public until the paper has been published. This sequence of events, ensures the data are linked to your paper accurately by both AGU and MagIC. In your private workspace, you will see what the data DOI will be and this DOI is what you should put in your paper’s reference list for the data citation and in the availability statement. 4.) Your data should be uploaded in its final form before the paper is sent to reviewers; they need to access the data along with your paper. MagIC has a “share link” feature which allows you to share the data from one of your private data sets with colleagues, editors and reviewers. People accessing your data via the private “share link” are anonymous. MagIC does not store the identities of who accesses the data via shared links and keeps any IP addresses associated with accessing private data confidential. 5.) The data DOI link from MagIC should be activated by the author at the time the paper is published. Depending on the journal, there may be some delay between when the paper is published and when MagIC is alerted. The paper metadata must be available to MagIC before the author can activate the data DOI. In the event that an author fails to make their data public, MagIC will make reasonable efforts to encourage the author to do so, but reserves the right to make public the data associated with the published paper. Authors are encouraged to correct any errors or mistakes in the dataset after publishing. Datasets are versioned and the original dataset that was published with the paper will still be available by others. Link(s): <a href='https://www2.earthref.org/MagIC/help'>FAQ/Help</a>"
         category: Rock Magnetic, Geomagnetic, Archeomagnetic, and Paleomagnetic Data
-        journal-list: Geochemistry, Geophysics, Geosystems, Tectonics        
+        journal-list: Geochemistry, Geophysics, Geosystems, Tectonics, JGR Solid Earth        
       - name: National Centers for Environmental Information (NCEI)
         re3data-url: https://www.re3data.org/repository/r3d100011801
         url: https://www.ncei.noaa.gov/
@@ -84,7 +84,7 @@ repository-list:
         url: https://opentopography.org/
         notes: "Hosts Earth science related, research-grade, topography and bathymetry data. It is available to support NSF funded PIs and projects that have previously acquired or are in the planning phases of acquiring lidar topography data. Email <a href='mailto:info@opentopography.org'>info@opentopography.org</a> for information on submitting data. Link(s): <a href='https://opentopography.org/about/services'>Services/Data Submission Process</a>, <a href='https://opentopography.org/citations'>Acknowledgement/Citation</a>"
         category: Topographic and Bathymetric Data
-        journal-list: Water Resources Research, JGR Earth Surface, Geochemistry, Geophysics, Geosystems, Tectonics, JGR Oceans
+        journal-list: Water Resources Research, JGR Earth Surface, Geochemistry, Geophysics, Geosystems, Tectonics, JGR Oceans, JGR Solid Earth
       - name: Research Data Archive at NCAR
         re3data-url: https://www.re3data.org/repository/r3d100010050
         url: https://rda.ucar.edu/
@@ -96,7 +96,7 @@ repository-list:
         url: http://www.sciencebase.gov/about
         notes: "The primary data archive for recent and ongoing USGS investigations ScienceBase provides access to aggregated information derived from many data and information domains, including feeds from existing data systems, metadata catalogs, and scientists contributing new and original content. ScienceBase is a USGS Trusted Digital Repository. Reference here for information on preparing your data for public release on ScienceBase."
         category: U.S. Geological Survey (USGS) – Funded Research
-        journal-list: JGR Biogeosciences, JGR Earth Surface, Tectonics        
+        journal-list: JGR Biogeosciences, JGR Earth Surface, Tectonics, JGR Solid Earth        
   - repository-group: GeoHealth
     repositories: 
       - name: NIH Open Domain-Specific Data Sharing Repositories
