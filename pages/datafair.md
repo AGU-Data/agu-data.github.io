@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Data FAIR
+permalink: /datafair/
 feature-img: "assets/img/pexels/travel.jpeg"
-tags: [About]
+tags: [Data FAIR]
 ---
 
 
