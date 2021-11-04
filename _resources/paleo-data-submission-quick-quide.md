@@ -9,7 +9,7 @@ tags: [Data Submission, Quick Guide, Author Guidance, Paleoceanography and Paleo
 
 ## AGU’s Paleoceanography and Paleoclimatology - Data Submission Quick Guide
 
-_Authors: Sarah Feakins, Alex Farnsworth, Matthew Huber_
+_Authors: Sarah Feakins, Pallavi Anand, Alex Farnsworth, Matthew Huber_
 
 ### Explanation of data preservation as part of journal publication
 
