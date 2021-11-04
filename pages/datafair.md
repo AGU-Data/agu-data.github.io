@@ -2,7 +2,7 @@
 layout: page
 title: Data FAIR
 permalink: /datafair/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/pexels/AGU-Stock-Nasa-Satellite-water-1314x400.jpg"
 tags: [Data FAIR]
 ---
 
@@ -12,7 +12,7 @@ Get Cited, Get Funding and Go Further with Better Data and Software Skills
 
 
 #AGU21  
-Ask questions through Twitter via #DataHelpDesk  
+Ask questions through Twitter via [#DataHelpDesk](https://twitter.com/search?q=%23DataHelpDesk%20&src=typed_query&f=live)  
 Or In Person: at the Data and Software FAIR desk in AGU Central (B1)  
 
 View short tutorials and demos. Details: [data.agu.org/datafair](https://data.agu.org/datafair)  
