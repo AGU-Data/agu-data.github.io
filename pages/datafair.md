@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data FAIR
+title: Data and Software FAIR at AGU
 permalink: /datafair/
 feature-img: "assets/img/pexels/AGU-Stock-Nasa-Satellite-water-1314x400.jpg"
 tags: [Data FAIR]
