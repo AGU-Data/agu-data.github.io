@@ -9,6 +9,8 @@ tags: [Data Submission, Quick Guide, Author Guidance, Paleoceanography and Paleo
 
 ## AGU’s Paleoceanography and Paleoclimatology - Data Submission Quick Guide
 
+_Authors: Sarah Feakins, Alex Farnsworth, Matthew Huber_
+
 ### Explanation of data preservation as part of journal publication
 
 _AGU’s Paleoceanography and Paleoclimatology_ adheres to [FAIR Guiding Principles for scientific data management and stewardship](http://www.nature.com/articles/sdata201618) , established in 2016 to improve the **F**indability, **A**ccessibility, **I**nteroperability, and **R**euse of data. The principles emphasise machine-accessibility, seeking to advance knowledge through reuse of data, reproducibility of results, and to enable efficient, interoperable re-analysis as data volumes increase. Learn more [here](https://www.go-fair.org/fair-principles/). 
