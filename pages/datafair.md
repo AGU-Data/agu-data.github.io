@@ -60,7 +60,7 @@ _Hybrid except where noted_
 
 
 
-A program of AGU, ESIP, EarthCube, and their Partners.” 
+A program of AGU, ESIP, EarthCube, and their Partners.  
 
 ![AGU Logo](../assets/img/agu-trademark-logo.png) ![ESIP Logo](../assets/img/esip-logo-uptodate-tm.png) ![EarthCube Logo](../assets/img/EarthCube-Blue-Long.png)
 
