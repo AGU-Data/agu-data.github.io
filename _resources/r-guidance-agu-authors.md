@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Guidance for AGU Authors: R Scripts and Markdown
+title: Guidance for AGU Authors - R Scripts and Markdown
 feature-img: "assets/img/pexels/AGU-Stock-Underwater-Rocks-Sunlight-1314x400.jpg"
 img: "assets/img/resources/r-logo-horiz-128.png"
 date: 05 November 2021
