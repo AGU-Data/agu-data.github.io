@@ -32,7 +32,7 @@ _Note: The “[Collection]” bracketed description is used as the citation cont
 
 * Describe the availability of your script(s) by including the DOI of the preserved release used by your paper, link to the development platform (e.g., GitHub), and the display link (e.g., RPubs) in the Availability Statement of your paper. For AGU, the Availability Statement is located in the Open Research section. Statement template is below:
 
-“The R script(s)/Markdown used to execute/report on the analyses in the paper can be found at &lt;GitHub&gt;, displayed at &lt;RPubs&gt;, and is preserved at &lt;in-text citation to DOI where script(s)/Markdown are preserved, e.g. Zenodo or OSF, version, and license&gt;”
+“The R script(s)/Markdown used to execute/report on the analyses in the paper can be found at &lt;GitHub&gt;, displayed at &lt;RPubs&gt;, and is preserved at &lt;in-text citation to DOI where script(s)/Markdown are preserved, e.g., Zenodo or OSF, version, and license&gt;”
 
 Erdmann, Christopher, Meyer, Michael F., Little, John R., Hondula, Kelly, Stachelek, Jemma, Oleksy, Isabella, Brousil, Matthew R., Claborn, Kelly, Mesman, Jorrit, & Dennis, Tim. (2021). Guidance for AGU Authors: R Script(s)/Markdown. Zenodo. [https://doi.org/10.5281/zenodo.5647998](https://doi.org/10.5281/zenodo.5647998)
 
