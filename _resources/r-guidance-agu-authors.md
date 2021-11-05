@@ -24,15 +24,15 @@ No matter which option you choose, make sure you obtain a publicly accessible li
 
 **Fourth**, cite and describe. Establish the connection between your script(s) and paper using these two steps.
 
-* Cite your script(s), using your DOI, in the References section of your paper. Example citation below: \
- \
-Matt Selensky. (2021). mselensky/Selensky2021_LavaBeds_Lithoautotrophy: Stable Carbon Isotope Depletions in Lipid Biomarkers Suggest Subsurface Carbon Fixation in Lava Caves (v1.0.0) [Collection]. Zenodo. [https://doi.org/10.5281/zenodo.5016282](https://doi.org/10.5281/zenodo.5016282)  \
- \
-_Note: The “[Collection]” bracketed description is used as the citation contains both software and data. For only software, use [Software], for only data, use [Dataset]._ \
+* Cite your script(s), using your DOI, in the References section of your paper. Example citation below:  
+
+Matt Selensky. (2021). mselensky/Selensky2021&#95;LavaBeds&#95;Lithoautotrophy: Stable Carbon Isotope Depletions in Lipid Biomarkers Suggest Subsurface Carbon Fixation in Lava Caves (v1.0.0) [Collection]. Zenodo. [https://doi.org/10.5281/zenodo.5016282](https://doi.org/10.5281/zenodo.5016282)  
+
+_Note: The “[Collection]” bracketed description is used as the citation contains both software and data. For only software, use [Software], for only data, use [Dataset]._  
 
 * Describe the availability of your script(s) by including the DOI of the preserved release used by your paper, link to the development platform (e.g., GitHub), and the display link (e.g., RPubs) in the Availability Statement of your paper. For AGU, the Availability Statement is located in the Open Research section. Statement template is below:
 
-“The R script(s)/Markdown used to execute/report on the analyses in the paper can be found at &lt;GitHub&rt;, displayed at &lt;RPubs&rt;, and is preserved at &lt;in-text citation to DOI where script(s)/Markdown are preserved, e.g. Zenodo or OSF, version, and license&rt;”
+“The R script(s)/Markdown used to execute/report on the analyses in the paper can be found at &lt;GitHub&rt;, displayed at &lt;RPubs&gt;, and is preserved at &lt;in-text citation to DOI where script(s)/Markdown are preserved, e.g. Zenodo or OSF, version, and license&gt;”
 
 Erdmann, Christopher, Meyer, Michael F., Little, John R., Hondula, Kelly, Stachelek, Jemma, Oleksy, Isabella, Brousil, Matthew R., Claborn, Kelly, Mesman, Jorrit, & Dennis, Tim. (2021). Guidance for AGU Authors: R Script(s)/Markdown. Zenodo. [https://doi.org/10.5281/zenodo.5647998](https://doi.org/10.5281/zenodo.5647998)
 
