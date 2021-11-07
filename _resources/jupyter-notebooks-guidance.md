@@ -13,7 +13,7 @@ Jupyter Notebooks are increasingly being used for documenting data science workf
 
 **First**, read. [Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks](https://doi.org/10.1371/journal.pcbi.1007007) and the recommendations from [Jupyter Notebooks and reproducible data science](https://markwoodbridge.com/2017/03/05/jupyter-reproducible-science.html) will help you with creating computational notebooks that are easier to read, run, and explore.
 
-**Second**, store and preserve. Upload your notebook ina public repository that gives you a Digital Object Identifier (DOI), so that your notebook is preserved in the scholarly record and can be cited. We recommend using the following solution:  
+**Second**, store and preserve. Upload your notebook in a public repository that gives you a Digital Object Identifier (DOI), so that your notebook is preserved in the scholarly record and can be cited. We recommend using the following solution:
 
 * *GitHub with documentation* (e.g., README),[(open source) license](https://choosealicense.com/), [citation file](https://citation-file-format.github.io/#/what-is-a-citation-cff-file) (e.g., CFF), [CodeMeta](https://codemeta.github.io/codemeta-generator/)/JSON-LD file. Manage dependencies (with [conda-lock](https://pythonspeed.com/articles/conda-dependency-management/)). Use the GitHub release bridge with [Zenodo](https://zenodo.org/) to get a DOI ([Making your code citable](https://guides.github.com/activities/citable-code/)).
 
