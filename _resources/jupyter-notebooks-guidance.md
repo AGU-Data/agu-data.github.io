@@ -29,9 +29,9 @@ No matter which execution environment you choose, make sure you obtain a publicl
   
 Fenner, M. (2019). Jupyter Notebook FREYA PID Graph Key Performance Indicators (KPIs) (Version 1.1.0). DataCite. [https://doi.org/10.14454/3BPW-W381](https://doi.org/10.14454/3BPW-W381)  
 
-* Describe the availability of your notebook by including the DOI of the preserved release used by your paper and the execution link in the Availability Statement of your paper. For AGU, the Availability Statement is located in the Open Research section. Statement template is below:  
+* Describe the availability of your notebook by including the DOI of the preserved release used by your paper, development platform where it is hosted, and the execution link in the Availability Statement of your paper. For AGU, the Availability Statement is located in the Open Research section. Statement template is below:  
   
-“The Jupyter Notebook to execute the analysis in the paper can be found at <include link to rerunnable notebook link in the cloud> and is preserved at <include link to hostednotebook DOI, version, and license>”
+“The Jupyter Notebook to execute the analysis in the paper can be found at [include link to rerunnable notebook link in the cloud], is hosted at [development platform, e.g., GitHub] and is preserved at [include link to hosted notebook DOI, version, and license].”
 
 **Fifth**, render (optional). Consider rendering your notebook using the [Executable Book Project](https://executablebooks.org/en/latest/) and [Jupyter Book](https://jupyterbook.org/intro.html). An example [project gallery](https://executablebooks.org/en/latest/gallery.html) of Jupyter Books is available. The [Neuro Libre Project](https://www.neurolibre.com/) features additional Jupyter Book examples.
 
