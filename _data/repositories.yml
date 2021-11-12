@@ -97,7 +97,6 @@ repository-list:
         notes: "The primary data archive for recent and ongoing USGS investigations ScienceBase provides access to aggregated information derived from many data and information domains, including feeds from existing data systems, metadata catalogs, and scientists contributing new and original content. ScienceBase is a USGS Trusted Digital Repository. Reference here for information on preparing your data for public release on ScienceBase."
         category: U.S. Geological Survey (USGS) – Funded Research
         journal-list: JGR Biogeosciences, JGR Earth Surface, Tectonics, JGR Solid Earth   
-    repositories: 
       - name: SEANOE (SEA scieNtific Open data Edition)
         re3data-url: https://www.re3data.org/repository/r3d100011867
         url: https://www.seanoe.org/
