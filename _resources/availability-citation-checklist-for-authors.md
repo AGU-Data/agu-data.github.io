@@ -21,15 +21,15 @@ Examples:
 2. **Repository Name(s)** where the data/software are deposited - **[Best Practice]**  
 Examples:  
 * [Domain-Discipline Repositories Useful to AGU Journals](https://data.agu.org/resources/useful-domain-repositories)
-3. **URL/link** directly to the data/software, preferably **Persistent Identifier** (e.g., DOI) and resolves - **[Required]**  
+3. **URL/link** to the data/software, preferably **Persistent Identifier** (e.g., DOI) and resolves - **[Required]**  
     Examples:  
 * Software - [https://doi.org/10.5281/zenodo.3714460](https://doi.org/10.5281/zenodo.3714460) 
 * Data - [https://doi.org/10.7283/633E-1497](https://doi.org/10.7283/633E-1497)  
-    If a share link, make sure the link is now a URL/persistent identifier, that it is open accessible
+    If a share link, make sure the link is now a URL/persistent identifier, that it is openly accessible
 4. **Access Conditions** - **[Best Practice]**  
     Examples:  
 * Registration/fee required
-* Database where certain certain functionality/selections need to be made
+* Database where certain functionality/selections need to be made
 5. **English Translation** - **[Required]**  
     Examples:  
 * Site includes translation functionality
