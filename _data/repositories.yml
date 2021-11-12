@@ -96,7 +96,14 @@ repository-list:
         url: http://www.sciencebase.gov/about
         notes: "The primary data archive for recent and ongoing USGS investigations ScienceBase provides access to aggregated information derived from many data and information domains, including feeds from existing data systems, metadata catalogs, and scientists contributing new and original content. ScienceBase is a USGS Trusted Digital Repository. Reference here for information on preparing your data for public release on ScienceBase."
         category: U.S. Geological Survey (USGS) – Funded Research
-        journal-list: JGR Biogeosciences, JGR Earth Surface, Tectonics, JGR Solid Earth        
+        journal-list: JGR Biogeosciences, JGR Earth Surface, Tectonics, JGR Solid Earth   
+    repositories: 
+      - name: SEANOE (SEA scieNtific Open data Edition)
+        re3data-url: https://www.re3data.org/repository/r3d100011867
+        url: https://www.seanoe.org/
+        notes: "Seanoe (SEA scieNtific Open data Edition) is a publisher of scientific data in the field of marine sciences. It is operated by Ifremer (http://wwz.ifremer.fr/). Data published by SEANOE are available free. They can be used in accordance with the terms of the Creative Commons license selected by the author of data. Seance contributes to Open Access / Open Science movement for a free access for everyone to all scientific data financed by public funds for the benefit of research. An embargo limited to 2 years on a set of data is possible; for example to restrict access to data of a publication under scientific review. Each data set published by SEANOE has a DOI which enables it to be cited in a publication in a reliable and sustainable way. The long-term preservation of data filed in SEANOE is ensured by Ifremer infrastructure."
+        category: Sea Scientific Open Data
+        journal-list: Oceans, Global Biogeochemical Cycles
   - repository-group: GeoHealth
     repositories: 
       - name: NIH Open Domain-Specific Data Sharing Repositories
@@ -222,14 +229,6 @@ repository-list:
         notes: "SEDAC, the Socioeconomic Data and Applications Center, is one of the Distributed Active Archive Centers (DAACs) in the Earth Observing System Data and Information System (EOSDIS) of the U.S. National Aeronautics and Space Administration. SEDAC is a regular member of the World Data System and focuses on human interactions in the environment. Its mission is to develop and operate applications that support the integration of socioeconomic and Earth science data and to serve as an 'Information Gateway' between the Earth and social sciences."
         category: Socioeconomic, Earth Science Data
         journal: Earth's Future
-  - repository-group: Global Biogeochemical Cycles
-    repositories: 
-      - name: SEANOE (SEA scieNtific Open data Edition)
-        re3data-url: https://www.re3data.org/repository/r3d100011867
-        url: https://www.seanoe.org/
-        notes: "Seanoe (SEA scieNtific Open data Edition) is a publisher of scientific data in the field of marine sciences. It is operated by Ifremer (http://wwz.ifremer.fr/). Data published by SEANOE are available free. They can be used in accordance with the terms of the Creative Commons license selected by the author of data. Seance contributes to Open Access / Open Science movement for a free access for everyone to all scientific data financed by public funds for the benefit of research. An embargo limited to 2 years on a set of data is possible; for example to restrict access to data of a publication under scientific review. Each data set published by SEANOE has a DOI which enables it to be cited in a publication in a reliable and sustainable way. The long-term preservation of data filed in SEANOE is ensured by Ifremer infrastructure."
-        category: Sea Scientific Open Data
-        journal: Global Biogeochemical Cycles
   - repository-group: JGR Earth Surface
     repositories: 
       - name: National Snow and Ice Data Center (NSIDC)
