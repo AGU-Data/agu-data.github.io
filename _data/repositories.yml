@@ -6,13 +6,13 @@ repository-list:
         url: https://zenodo.org/
         notes: "Zenodo builds and operates a simple and innovative service that enables researchers, scientists, EU projects and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of the existing institutional or subject-based repositories of the research communities. ZENODO enables researchers, scientists, EU projects and institutions to: easily share the long tail of small research results in a wide variety of formats including text, spreadsheets, audio, video, and images across all fields of science. display their research results and get credited by making the research results citable and integrate them into existing reporting lines to funding agencies like the European Commission. easily access and reuse shared research results. Link(s): <a href='https://guides.github.com/activities/citable-code/'>GitHub-Zenodo Integration (Make your code citable)</a>"
         category: Earth and Environmental Data
-        journal-list: JGR Earth Surface, JAMES, Geochemistry, Geophysics, Geosystems, Earth and Space Science, JGR Oceans, JGR Solid Earth
+        journal-list: JGR Earth Surface, JAMES, Geochemistry, Geophysics, Geosystems, Earth and Space Science, JGR Oceans, JGR Solid Earth, Global Biogeochemical Cycles
       - name: PANGAEA
         re3data-url: https://www.re3data.org/repository/r3d100010134
         url: https://pangaea.de/
         notes: "Pangaea accepts any data from earth, environmental and life sciences. When you start the data submission process, you will be redirected to the PANGAEA issue tracker that will assist you in providing metadata and uploading data files. Any communication with our editors will go through this issue tracker. For more details about the submission workflow see our tutorial. Please note: All data and metadata are quality checked, harmonized, and processed for machine readability, which allows efficient and reliable re-usage of your data. Depending on the extent and complexity of your data submission the editorial process and minting of DOI names might therefore take up to 8 weeks. Link(s): <a href='https://www.pangaea.de/submit/'>Submit Data/Tutorial</a>"
         category: Earth and Environmental Data
-        journal-list: JGR Biogeosciences, JGR Earth Surface, Water Resources Research, Geochemistry, Geophysics, Geosystems, JAMES, JGR Atmospheres, GeoHealth, Tectonics, JGR  Planets, Paleoceanograph and Paleoclimatology, JGR Solid Earth
+        journal-list: JGR Biogeosciences, JGR Earth Surface, Water Resources Research, Geochemistry, Geophysics, Geosystems, JAMES, JGR Atmospheres, GeoHealth, Tectonics, JGR  Planets, Paleoceanograph and Paleoclimatology, JGR Solid Earth, Global Biogeochemical Cycles
       - name: Environmental Data Initiative (EDI)
         re3data-url: https://www.re3data.org/repository/r3d100010272
         url: https://environmentaldatainitiative.org/
