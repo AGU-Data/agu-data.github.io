@@ -43,7 +43,11 @@ Examples:
     Examples:  
 * Software - Figures were made with Matplotlib version 3.2.1 (Caswell et al., 2020; Hunter, 2007), available under the Matplotlib license at [https://matplotlib.org/](https://matplotlib.org/).
 * Data - Data from the KNMI archive with Federation of Digital Seismograph Networks (FDSN) network identifiers NL (KNMI, 1993) and NA (KNMI, 2006) were used in the creation of this manuscript.
-8. If software, also include
+8. **Citation in References** - **[Best Practice]**   
+    To support indexing and reuse:  
+* Persistent identifier (DOI) supports indexing and reuse.
+* Labels/bracketed descriptions (e.g., [Dataset], [Software])
+9. If software, also include
     1. **Version** (e.g., Version 3.2.1) - **[Best Practice]**
     2. Link to publicly accessible **Development Platform** (e.g., GitHub) - **[Best Practice]**  
     Examples:  
