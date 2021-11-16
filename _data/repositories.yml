@@ -102,7 +102,13 @@ repository-list:
         url: https://www.seanoe.org/
         notes: "Seanoe (SEA scieNtific Open data Edition) is a publisher of scientific data in the field of marine sciences. It is operated by Ifremer (http://wwz.ifremer.fr/). Data published by SEANOE are available free. They can be used in accordance with the terms of the Creative Commons license selected by the author of data. Seance contributes to Open Access / Open Science movement for a free access for everyone to all scientific data financed by public funds for the benefit of research. An embargo limited to 2 years on a set of data is possible; for example to restrict access to data of a publication under scientific review. Each data set published by SEANOE has a DOI which enables it to be cited in a publication in a reliable and sustainable way. The long-term preservation of data filed in SEANOE is ensured by Ifremer infrastructure."
         category: Sea Scientific Open Data
-        journal-list: Oceans, Global Biogeochemical Cycles
+        journal-list: JGR Oceans, Global Biogeochemical Cycles
+      - name: National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA)
+        re3data-url: https://www.re3data.org/repository/r3d100010775
+        url: https://www.ncbi.nlm.nih.gov/sra
+        notes: "The SRA is NIH's primary archive of high-throughput sequencing data and is part of the International Nucleotide Sequence Database Collaboration (INSDC) that includes at the NCBI Sequence Read Archive (SRA), the European Bioinformatics Institute (EBI), and the DNA Database of Japan (DDBJ). Data submitted to any of the three organizations are shared among them. SRA accepts data from all kinds of sequencing projects including clinically important studies that involve human subjects or their metagenomes, which may contain human sequences. These data often have controlled access via dbGaP (the database of Genotypes and Phenotypes). Link(s): <a href='https://www.ncbi.nlm.nih.gov/sra/docs/submit/'>Submission Quick Start</a>."
+        category: OMICS, Marine Microbial Genomics Data
+        journal: JGR Biogeosciences, JGR Oceans
   - repository-group: GeoHealth
     repositories: 
       - name: NIH Open Domain-Specific Data Sharing Repositories
@@ -189,12 +195,6 @@ repository-list:
         url: https://daac.ornl.gov/
         notes: "The Oak Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC) for Biogeochemical Dynamics is a NASA Earth Observing System Data and Information System (EOSDIS) data center managed by the Earth Science Data and Information System (ESDIS) Project. The ORNL DAAC is operated by Oak Ridge National Laboratory (ORNL) in Oak Ridge, Tennessee, and is a member of the Remote Sensing and Environmental Informatics Group of the Environmental Sciences Division (ESD). The ORNL DAAC is a CoreTrustSeal Certified Repository. Link(s): <a href='https://daac.ornl.gov/submit/'>Submit Data</a>."
         category: National Aeronautics and Space Administration (NASA) – Funded Research
-        journal: JGR Biogeosciences
-      - name: National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA)
-        re3data-url: https://www.re3data.org/repository/r3d100010775
-        url: https://www.ncbi.nlm.nih.gov/sra
-        notes: "The SRA is NIH's primary archive of high-throughput sequencing data and is part of the International Nucleotide Sequence Database Collaboration (INSDC) that includes at the NCBI Sequence Read Archive (SRA), the European Bioinformatics Institute (EBI), and the DNA Database of Japan (DDBJ). Data submitted to any of the three organizations are shared among them. SRA accepts data from all kinds of sequencing projects including clinically important studies that involve human subjects or their metagenomes, which may contain human sequences. These data often have controlled access via dbGaP (the database of Genotypes and Phenotypes). Link(s): <a href='https://www.ncbi.nlm.nih.gov/sra/docs/submit/'>Submission Quick Start</a>."
-        category: OMICS
         journal: JGR Biogeosciences
       - name: Metagenomics Rapid Annotation using Subsystem Technology (MG-RAST)
         re3data-url: https://www.re3data.org/repository/r3d100011031
