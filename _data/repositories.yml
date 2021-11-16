@@ -244,6 +244,13 @@ repository-list:
         notes: "The British Oceanographic Data Centre (BODC) is a national facility for looking after and distributing data concerning the marine environment. We deal with biological, chemical, physical and geophysical data, and our databases contain measurements of nearly 22,000 different variables. Many of our staff have direct experience of marine data collection and analysis. They work alongside information technology specialists to ensure that data are documented and stored for current and future use."
         category: Marine Environmental Data - U.K. National Oceanography Centre
         journal: JGR Oceans
+      - name: CLIVAR and Carbon Hydrographic Data Office (CCHDO)
+        re3data-url: https://www.re3data.org/repository/r3d100010831
+        url: https://cchdo.ucsd.edu/
+        notes: "The CLIVAR and Carbon Hydrographic Data Office (CCHDO) primary mission is to deliver the highest possible quality global CTD and hydrographic data to users. These data are a product of decades of observations related to the physical characteristics of ocean waters carried out during WOCE, CLIVAR and numerous other oceanographic research programs. Whenever possible we provide these data in three easy-to-use formats: WHP-Exchange (which we recommend for data submissions to the CCHDO), WOCE, and netCDF.The CCHDO also manages public and non-public CTD data to be used for the global Argo and OceanSITES programs.
+This site is funded by the National Science Foundation and the National Oceanic and Atmospheric Administration's Climate Observations Division. Link(s): <a href='https://cchdo.ucsd.edu/submit'>Data Submissions</a>."
+        category: Hydrographic and Global CTD Data 
+        journal: JGR Oceans
       - name: U.S. Antarctic Program Data Center
         re3data-url: https://www.re3data.org/repository/r3d100010660
         url: https://www.usap-dc.org/
