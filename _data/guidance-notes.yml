@@ -1,6 +1,6 @@
 guidance-list:
   - guidance-group: Geochemistry, Geophysics, Geosystems
-    guidances: 
+    guidance-notes: 
       - name: Seismic Data
         notes: "Papers that rely on seismic data must document the availability of both the raw waveform data and processed data products (for example, receiver functions, shear wave splitting measurements, surface wave dispersion curves, tomographic models, etc.). It is the expectation that raw waveform data underlying papers in G-cubed will be made publicly available via the IRIS Data Management system (described below) or another similar repository. If the data are not available in such a repository, then the authors should make the waveforms used in the study available via a general repository such as Zenodo.
 
