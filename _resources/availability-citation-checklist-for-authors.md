@@ -57,7 +57,7 @@ Examples:
     To support indexing and reuse:  
 * Use [American Psychological Association (APA) style](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Grammar-Style-Guide)
 * Include a persistent identifier (DOI), preferred, or URL
-* Use labels/bracketed descriptions are included (e.g., [Dataset], [Software], [Collection], [ComputationalNotebook)
+* Use labels/bracketed descriptions are included (e.g., [Dataset], [Software], [Collection], [ComputationalNotebook])
 
 
 **Examples used from:**  
