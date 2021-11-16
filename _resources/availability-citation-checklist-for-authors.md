@@ -13,6 +13,7 @@ tags: [AGU, Resources]
 
 Use the following checklist to understand what is required and what is considered best practice in following AGU’s [Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors) Guidance. Refer to the Guidance also for [Availability Statement templates](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors#availability) and [Citation examples](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors#citation). 
 
+### Data/Software Availability Statement Elements in Open Research Section:
 
 1. **Description of the Type(s)** of data and/or software - **[Required]**  
 Examples:  
@@ -43,17 +44,21 @@ Examples:
     Examples:  
 * Software - Figures were made with Matplotlib version 3.2.1 (Caswell et al., 2020; Hunter, 2007), available under the Matplotlib license at [https://matplotlib.org/](https://matplotlib.org/).
 * Data - Data from the KNMI archive with Federation of Digital Seismograph Networks (FDSN) network identifiers NL (KNMI, 1993) and NA (KNMI, 2006) were used in the creation of this manuscript.
-8. **Citation in References** - **[Best Practice]**   
-    To support indexing and reuse:  
-* Include a persistent identifier (DOI)
-* Add labels/bracketed descriptions (e.g., [Dataset], [Software])
-9. If software, also include
+8. If software, also include
     1. **Version** (e.g., Version 3.2.1) - **[Best Practice]**
     2. Link to publicly accessible **Development Platform** (e.g., GitHub) - **[Best Practice]**  
     Examples:  
 * Part of the software (version 1.0.0) associated with this manuscript for the calculation and storage of PSDs is licensed under MIT and published on GitHub [https://github.com/Jollyfant/psd-module/](https://github.com/Jollyfant/psd-module/) (Jollyfant, 2021).
     3. **Author, Project Name(s)** instead of username(s) (e.g., username123)
     4. **Additional Context/Description** beyond acronym or code name (e.g., Longhorn pipeline scripts for reducing data vs Longhorn)
+
+### Data/Software Citation Elements in References Section:
+
+1. **Citation in References** - **[Best Practice]**   
+    To support indexing and reuse:  
+* Use [American Psychological Association (APA) style](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Grammar-Style-Guide)
+* Include a persistent identifier (DOI), preferred, or URL
+* Use labels/bracketed descriptions are included (e.g., [Dataset], [Software], [Collection], [ComputationalNotebook)
 
 
 **Examples used from:**  
