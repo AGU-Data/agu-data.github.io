@@ -23,7 +23,7 @@ Also see journal-specific guidance notes:
 
 <ul>
 {% for guidance-list in site.data.guidance-notes.guidance-list %}
-    <li><a href="#{{ guidance-list.guidance-group }}">{{ repository-list.guidance-group }}</a></li>  
+    <li><a href="#{{ guidance-list.guidance-group }}">{{ guidance-list.guidance-group }}</a></li>  
   {% endfor %}
 </ul>
 
