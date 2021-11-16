@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data and Software Availability and Citation Checklist for Authors, Reviewers, Editors, and AGU Publications
+title: Data and Software Availability and Citation Checklist
 feature-img: "assets/img/pexels/AGU-Stock-Underwater-Rocks-Sunlight-1314x400.jpg"
 img: "assets/img/resources/agu-trademark-logo-horiz-128.png"
 date: 21 October 2021
@@ -8,8 +8,7 @@ tags: [AGU, Resources]
 ---
 
 
-**Data and Software Availability and Citation Checklist**
-**for Authors, Reviewers, Editors, and AGU Publications**
+### Data and Software Availability and Citation Checklist
 
 Use the following checklist to understand what is required and what is considered best practice in following AGU’s [Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors) Guidance. Refer to the Guidance also for [Availability Statement templates](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors#availability) and [Citation examples](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors#citation). 
 
