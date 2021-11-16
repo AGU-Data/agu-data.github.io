@@ -27,7 +27,7 @@ Also see journal-specific guidance notes:
   {% endfor %}
 </ul>
 
-<br><br>
+<br>
 
 <p>
 {% for repository-list in site.data.repositories.repository-list %}
