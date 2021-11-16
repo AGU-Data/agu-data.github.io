@@ -251,6 +251,12 @@ repository-list:
 This site is funded by the National Science Foundation and the National Oceanic and Atmospheric Administration's Climate Observations Division. Link(s): <a href='https://cchdo.ucsd.edu/submit'>Data Submissions</a>."
         category: Hydrographic and Global CTD Data 
         journal: JGR Oceans
+      - name: LacCore National Lacustrine Core Facility
+        re3data-url: https://www.re3data.org/repository/r3d100012880
+        url: https://cse.umn.edu/csd
+        notes: "LacCore: National Lacustrine Core Facility. LacCore and the associated Continental Scientific Drilling Coordination Office (CSDCO) provide infrastructure for scientists utilizing core samples from Earth’s continents in their research, through integrated support for coring and drilling projects, from project inception through curation. Funded by NSF and the University of Minnesota."
+        category: Core Sample Data
+        journal: JGR Oceans
       - name: U.S. Antarctic Program Data Center
         re3data-url: https://www.re3data.org/repository/r3d100010660
         url: https://www.usap-dc.org/
