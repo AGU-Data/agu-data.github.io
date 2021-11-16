@@ -27,6 +27,8 @@ Also see journal-specific guidance notes:
   {% endfor %}
 </ul>
 
+<br>
+
 <p>
 {% for repository-list in site.data.repositories.repository-list %}
 <h4><a name="{{ repository-list.repository-group }}">{{ repository-list.repository-group }}</a></h4>
