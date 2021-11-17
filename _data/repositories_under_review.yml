@@ -1,9 +1,0 @@
-repository-list:
-  - repository-group: NA
-    repositories: 
-      - name: Design Safe CI
-        re3data-url: NA
-        url: https://www.designsafe-ci.org/
-        notes: "NA"
-        category: Natural Hazard Data
-        journal-list: NA
