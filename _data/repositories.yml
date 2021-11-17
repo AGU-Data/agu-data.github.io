@@ -251,6 +251,12 @@ repository-list:
 This site is funded by the National Science Foundation and the National Oceanic and Atmospheric Administration's Climate Observations Division. Link(s): <a href='https://cchdo.ucsd.edu/submit'>Data Submissions</a>."
         category: Hydrographic and Global CTD Data 
         journal: JGR Oceans
+      - name: Joint Archive for Shipboard Acoustic Doppler current profilers (JASADCP)
+        re3data-url: 
+        url: https://uhslc.soest.hawaii.edu/sadcp/
+        notes: "The National Centers for Environmental Information (NCEI) in collaboration with the E.Firing Acoustic Doppler Current Profiler (ADCP) Laboratory at the University of Hawaii have established the Joint Archive for Shipboard ADCP (JASADCP). The JASADCP is reponsible for the acquisition, review, documentation, archival, and distribution of shipboard ADCP data sets. The archive primarily handles US national cruises, although it also supports several completed or ongoing international programs such as TOGA COARE, WEPOCS, WOCE, and CLIVAR."
+        category: shipboard ADCP Data
+        journal: JGR Oceans 
       - name: LacCore National Lacustrine Core Facility
         re3data-url: https://www.re3data.org/repository/r3d100012880
         url: https://cse.umn.edu/csd
@@ -276,7 +282,13 @@ The Arctic Data Center team help make it easier for Arctic researchers to plan f
         url: https://obis.org/
         notes: "Ocean Biogeographic/Biodiversity Ocean System (OBIS) builds and maintains a global alliance that collaborates with scientific communities to facilitate free and open access to, and application of, biodiversity and biogeographic data and information on marine life. OBIS accepts data from any organization, consortium, project or individual who wants to contribute data. OBIS Data Sources are the authors, editors, and/or organisations that have published one or more datasets through OBIS. They are the owners or custodians of the data, not OBIS! However, OBIS only harvests data from recognized OBIS nodes. Link(s): <a href='https://obis.org/manual/contribute/'>Contribute Data</a>"
         category: Marine Life Biodiversity and Biogeographic Data
-        journal: JGR Oceans        
+        journal: JGR Oceans   
+      - name: Ocean Biodiversity Information System
+        re3data-url: https://www.re3data.org/repository/r3d100010088
+        url: https://obis.org/
+        notes: "Ocean Biogeographic/Biodiversity Ocean System (OBIS) builds and maintains a global alliance that collaborates with scientific communities to facilitate free and open access to, and application of, biodiversity and biogeographic data and information on marine life. OBIS accepts data from any organization, consortium, project or individual who wants to contribute data. OBIS Data Sources are the authors, editors, and/or organisations that have published one or more datasets through OBIS. They are the owners or custodians of the data, not OBIS! However, OBIS only harvests data from recognized OBIS nodes. Link(s): <a href='https://obis.org/manual/contribute/'>Contribute Data</a>"
+        category: Marine Life Biodiversity and Biogeographic Data
+        journal: JGR Oceans                  
   - repository-group: JGR Planets
     repositories: 
       - name: Data ARchives and Transmission System
