@@ -108,7 +108,7 @@ repository-list:
         url: https://www.ncbi.nlm.nih.gov/sra
         notes: "The SRA is NIH's primary archive of high-throughput sequencing data and is part of the International Nucleotide Sequence Database Collaboration (INSDC) that includes at the NCBI Sequence Read Archive (SRA), the European Bioinformatics Institute (EBI), and the DNA Database of Japan (DDBJ). Data submitted to any of the three organizations are shared among them. SRA accepts data from all kinds of sequencing projects including clinically important studies that involve human subjects or their metagenomes, which may contain human sequences. These data often have controlled access via dbGaP (the database of Genotypes and Phenotypes). Link(s): <a href='https://www.ncbi.nlm.nih.gov/sra/docs/submit/'>Submission Quick Start</a>."
         category: OMICS, Marine Microbial Genomics Data
-        journal: JGR Biogeosciences, JGR Oceans
+        journal-list: JGR Biogeosciences, JGR Oceans
   - repository-group: GeoHealth
     repositories: 
       - name: NIH Open Domain-Specific Data Sharing Repositories
