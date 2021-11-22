@@ -37,3 +37,9 @@ _Note: The “[Collection]” bracketed description is used as the citation cont
 Erdmann, Christopher, Meyer, Michael F., Little, John R., Hondula, Kelly, Stachelek, Jemma, Oleksy, Isabella, Brousil, Matthew R., Claborn, Kelly, Mesman, Jorrit, & Dennis, Tim. (2021). Guidance for AGU Authors: R Script(s)/Markdown. Zenodo. [https://doi.org/10.5281/zenodo.5647998](https://doi.org/10.5281/zenodo.5647998)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5647998.svg)](https://doi.org/10.5281/zenodo.5647998)
+
+
+**Additional Resources (Since Publication):**
+- [How to Cite R and R Packages](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/)
+- [cffr](https://docs.ropensci.org/cffr/) provides utilities to generate, parse, modify and validate CITATION.cff files automatically for R packages, as well as tools and examples for working with .cff more generally.
+
