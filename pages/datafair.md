@@ -15,7 +15,7 @@ Get Cited, Get Funding and Go Further with Better Data and Software Skills
 Ask questions through Twitter via [#DataHelpDesk](https://twitter.com/search?q=%23DataHelpDesk%20&src=typed_query&f=live)  
 Or In Person: at the Data and Software FAIR desk in AGU Central (B1)  
 
-View short tutorials and demos. Details: [data.agu.org/datafair](https://data.agu.org/datafair)  
+View short tutorials and demos. Details: [http://bit.ly/DataHelpAGU21](http://bit.ly/DataHelpAGU21) and [data.agu.org/datafair](https://data.agu.org/datafair)  
 
 
 ## Data Help Desk
