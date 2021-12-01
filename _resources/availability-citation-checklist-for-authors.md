@@ -53,7 +53,7 @@ Examples:
 
 ### Data/Software Citation Elements in References Section:
 
-1. **Citation in References** - **[Best Practice]**   
+1. **Citation in References** - **[Required]**   
     To support indexing and reuse:  
 * Use [American Psychological Association (APA) style](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Grammar-Style-Guide)
 * Include a persistent identifier (DOI), preferred, or URL
