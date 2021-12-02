@@ -41,22 +41,22 @@ AGU Central: Connections and Collaboration Theater (B1), 9am
 _Hybrid except where noted_
 
 [pyOpenSci: A Diverse Community That Supports Peer-Reviewed, Discoverable, Citable, and Documented Open-Source Python Software for Science](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/125089) (TH023)  
-8 Dec, 12:15 CT, 18:15 UTC (Online) 
+8 Dec, 11:15 CT, 17:15 UTC (Online) 
 
 [Working Session: FAIR Workflows - ​​Best practices, services and tools for helping researchers increase the portability and reproducibility of their work.](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/123615) (TH23H)  
-14 Dec, 12:15 CT, 18:15 UTC, Rm 386-387 
+14 Dec, 11:15 CT, 17:15 UTC, Rm 386-387 
 
 [Working Session: Data Citations are Still Hard! Digging in on the Challenges and Tactics for Improvement](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/123625) (TH33L)  
-15 Dec, 12:15 CT, 18:15 UTC, Rm 395-396 
+15 Dec, 11:15 CT, 17:15 UTC, Rm 395-396 
 
 [Why Should I Share My Data? The Open-Science Starship Battling the Challenges of Sharing Open Data Across the Universe](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/123186) (TH35H)  
-15 Dec, 19:15 CT, 16 Dec, 01:15 UTC, Rm 386-387 
+15 Dec, 18:15 CT, 16 Dec, 00:15 UTC, Rm 386-387 
 
 [Working Session: Generalist Repositories – How do we guide researchers to create more useful metadata?](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/123638) (TH43B)  
-16 Dec, 12:15 CT, 18:15 UTC, Rm 346-347 
+16 Dec, 11:15 CT, 17:15 UTC, Rm 346-347 
 
 [EarthCube: A Community-Driven Cyberinfrastructure for the Geosciences – A Look Ahead](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/124147) (TH53E)  
-17 Dec, 12:15 CT, 18:15 UTC, Rm 352 
+17 Dec, 11:15 CT, 17:15 UTC, Rm 352 
 
 
 
