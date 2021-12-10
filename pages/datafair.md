@@ -20,7 +20,7 @@ View short tutorials and demos. Details: [http://bit.ly/DataHelpAGU21](http://bi
 
 ## Data Help Desk
 AGU Central, Data and Software FAIR, Hall B1
-7:00 AM - 5:00 PM CT
+8:00 AM - 6:00 PM CT
 
 - Data Help Desk
 - Data and Software Management and Citation Workshops 
