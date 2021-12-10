@@ -58,7 +58,7 @@ _Hybrid except where noted_
 [EarthCube: A Community-Driven Cyberinfrastructure for the Geosciences – A Look Ahead](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/124147) (TH53E)  
 17 Dec, 11:15 CT, 17:15 UTC, Rm 352 
 
-**[Postcard](../pages/FAIR_Data_Postcard_v5.pdf) and [Schedule](https://docs.google.com/spreadsheets/d/1OmLRTxHXOnhICeA0BWB5KzlcoZ2Eov4T76QP0XI8A5E/edit#gid=0) Available**
+**[Postcard](https://github.com/AGU-Data/agu-data.github.io/raw/master/pages/Fair_Data_Postcard_v5.pdf) and [Schedule](https://docs.google.com/spreadsheets/d/1OmLRTxHXOnhICeA0BWB5KzlcoZ2Eov4T76QP0XI8A5E/edit#gid=0) Available**
 
 
 A program of AGU, ESIP, EarthCube, and their Partners.  
