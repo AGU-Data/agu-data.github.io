@@ -132,7 +132,7 @@ repository-list:
         url: https://www.nssdc.ac.cn/eng/
         notes: "NSSDC is the nation-level space science center which recognized by the Ministry of Science and Technology of China. As a repository for space science data, NSSDC assumes the responsibility of the long-term stewardship and offering a reliable service of space science data in China. It also has been the Chinese center for space science of the World Data Center (WDC) since 1988. In 2013, NSSDC became a regular member of World Data System. Data resources are concentrated in the following fields of space physics and space environment, space astronomy, lunar and planetary science, space application and engineering. In space physics, the NSSDC maintains space-based observation data and ground-based observation data of the middle and upper atmosphere, ionosphere and earth surface, from Geo-space Double Star Exploration Program and Meridian Project. In space astronomy, NSSDC archived pointed observation data of Hard X-ray Modulation Telescope. In lunar and planetary science, space application and engineering, NSSDC also collects detection data of Chang’E from Lunar Exploration Program and science products of BeiDou satellites."
         category: Space Physics, Space Environment, Space Astronomy, Lunar, Planetary Science, Space Application and Engineering
-        journal: JGR Space Physics, JGR Planets, Space Weather, Geophysical Research Letters, Earth and Space Science
+        journal-list: JGR Space Physics, JGR Planets, Space Weather, Geophysical Research Letters, Earth and Space Science
       - name: National Tibetan Plateau/Third Pole Environment Data Center
         re3data-url: https://www.re3data.org/repository/r3d100013285
         url: https://data.tpdc.ac.cn/en/
@@ -144,7 +144,7 @@ repository-list:
         url: https://www.scidb.cn/en
         notes: "Science Data Bank or ScienceDB is an open generalist data repository developed and maintained by the Chinese Academy of Sciences Computing and Network Information Center (CNIC). It promotes the publication and reuse of scientific data. Researchers and journal publishers can use it to store, manage and share science data."
         category: Earth and Environmental Data
-        journal: JGR Biogeosciences, JAMES
+        journal-list: JGR Biogeosciences, JAMES
   - repository-group: GeoHealth
     repositories: 
       - name: NIH Open Domain-Specific Data Sharing Repositories
