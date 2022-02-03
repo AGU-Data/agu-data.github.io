@@ -30,13 +30,7 @@ repository-list:
         url: https://www.designsafe-ci.org/
         notes: "The DesignSafe Data Depot Repository (DDR) is the platform for curation and publication of datasets generated in the course of natural hazards research. The DDR is an open access data repository that enables data producers to safely store, share, organize, and describe research data, towards permanent publication, distribution, and impact evaluation. The DDR allows data consumers to discover, search for, access, and reuse published data in an effort to accelerate research discovery. It is a component of the DesignSafe cyberinfrastructure, which represents a comprehensive research environment that provides cloud-based tools to manage, analyze, curate, and publish critical data for research to understand the impacts of natural hazards. DesignSafe is part of the NSF-supported Natural Hazards Engineering Research Infrastructure (NHERI), and aligns with its mission to provide the natural hazards research community with open access, shared-use scholarship, education, and community resources aimed at supporting civil and social infrastructure prior to, during, and following natural disasters. It serves a broad national and international audience of natural hazard researchers (both engineers and social scientists), students, practitioners, policy makers, as well as the general public. It has been in operation since 2016, and also provides access to legacy data dating from about 2005. These legacy data were generated as part of the NSF-supported Network for Earthquake Engineering Simulation (NEES), a predecessor to NHERI. Legacy data and metadata belonging to NEES were transferred to the DDR for continuous preservation and access."
         category: Natural Hazards Data
-        journal-list: Earth’s Future, Geophysical Research Letters, GeoHealth, JGR Atmospheres, JGR Oceans, JGR Solid Earth, JGR Earth Surface
-      - name: Dryad
-        re3data-url: https://www.re3data.org/repository/r3d100000044
-        url: https://datadryad.org/stash
-        notes: "Dryad is an international repository of data underlying peer-reviewed scientific and medical literature, particularly data for which no specialized repository exists. The content is considered to be integral to the published research. All material in Dryad is associated with a scholarly publication."
-        category: Earth and Environmental Data
-        journal-list: Geophysical Research Letters, JGR Solid Earth, JGR Biogeosciences, JGR Atmospheres, Water Resources Research, Earth and Space Science      
+        journal-list: Earth’s Future, Geophysical Research Letters, GeoHealth, JGR Atmospheres, JGR Oceans, JGR Solid Earth, JGR Earth Surface   
       - name: figshare
         re3data-url: https://www.re3data.org/repository/r3d100010066
         url: http://figshare.com/
@@ -67,12 +61,6 @@ repository-list:
         notes: "The U.S. Department of Energy’s (DOE) Environmental Systems Science Data Infrastructure for a Virtual Ecosystem (ESS-DIVE) data archive serves Earth and environmental science data. ESS-DIVE is funded by the Data Management program within the Climate and Environmental Science Division under the DOE’s Office of Biological and Environmental Research program (BER), and is maintained by the Lawrence Berkeley National Laboratory. ESS-DIVE will archive and publicly share data obtained from observational, experimental, and modeling research that is funded by the DOE’s Office of Science under its Subsurface Biogeochemical Research (SBR) and Terrestrial Ecosystem Science (TES) programs within the Environmental Systems Science (ESS) activity. ESS-DIVE was launched in July 2017, and is designed to provide long-term stewardship and use of data from observational, experimental and modeling activities in the DOE in the Subsurface Biogeochemical Research (SBR) and Terrestrial Ecosystem Science (TES) Programs in the Environmental System Science (ESS) activity."
         category: Earth and Environmental Data, U.S. Department of Energy – Funded Research
         journal-list: JAMES, JGR Biogeosciences
-      - name: Global Change Research Data Publishing and Repository (GCdataPR)
-        re3data-url: https://www.re3data.org/repository/r3d100012218
-        url: http://www.geodoi.ac.cn/WebEn/Default.aspx
-        notes: "Global Change Research Data Publishing and Repository (GCdataPR) is an open data infrastructure on earth science, particular on the global environmental changes. The GCdataPR management policies following the international common understanding to the data sharing principles and guidelines is the key to make the qualified data publishing and sharing smoothly and successfully. The data management policies including dataset submission for publishing policy, peer review policy data quality control policy data long-term preservation policy, data sharing policy, 10 rule for identify original dataset policy, claim discovery with both data and paper policy, and data service statistics policy."
-        category: Earth Science, Global Environmental Changes Data
-        journal-list: Geophysical Research Letters, JAMES, JGR Atmospheres, Water Resources Research     
       - name: Incorporated Research Institutions for Seismology (IRIS)
         re3data-url: https://www.re3data.org/repository/r3d100010268
         url: https://www.iris.edu/hq/
