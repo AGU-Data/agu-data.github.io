@@ -20,7 +20,7 @@ The event will feature a number of speakers (listed below) all addressing these 
 
 - Fredrik Ronquist / SciLifeLab
 - Chelle Gentemann / NASA TOPS, Farallon Institute
-- David Diez del Molino
+- David Diez del Molino / Swedish Museum of Natural History
 - Christine Kirkpatrick / San Diego Supercomputer Center
 - Yuhan Rao / NOAA, NC State
 - Johan Rung / SciLifeLab
