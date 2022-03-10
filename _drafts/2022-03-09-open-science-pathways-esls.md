@@ -12,9 +12,9 @@ tags: [Posts]
 - How to Open Science - Practical Use Cases, Lessons Learned from the Research Community
 - Open Science from a Broader Context - What Open Science Means from the National and International Perspectives
 
-The event will feature a number of speakers (listed below) all addressing these themes on Open Science from various perspectives. The online event will start at 12:00 and end at 19:00 CEST (See [date/time in your time zone](https://www.timeanddate.com/worldclock/converter.html?iso=20220509T100000&p1=239)). Please join us. Registration is free. Please join us and we look forward to seeing you.
+The event will feature a number of speakers (listed below) all addressing these themes on Open Science from various perspectives. The online event will start at 12:00 and end at 17:00 CEST (See [date/time in your time zone](https://www.timeanddate.com/worldclock/converter.html?iso=20220509T100000&p1=239)). Please join us. Registration is free. Please join us and we look forward to seeing you.
 
-**Registration: [Link](link)
+**Registration: [https://www.lyyti.fi/reg/AGU_SciLifeLab](https://www.lyyti.fi/reg/AGU_SciLifeLab)
 
 **Speakers:**
 
