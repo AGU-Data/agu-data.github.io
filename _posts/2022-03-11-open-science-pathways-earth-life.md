@@ -40,7 +40,7 @@ Genome Erosion Pipeline
 **Yuhan Douglas Rao (Cooperative Institute for Satellite and Earth System Studies, NC State University)**  
 [https://doi.org/10.5281/zenodo.6532354](https://doi.org/10.5281/zenodo.6532354)  
 
-Ireland’s national agenda for open research  
+Ireland’s National Agenda for Open Research  
 **Daniel Bangert (Digital Repository of Ireland, Royal Irish Academy)**  
 [https://doi.org/10.5281/zenodo.6536648](https://doi.org/10.5281/zenodo.6536648)  
 
