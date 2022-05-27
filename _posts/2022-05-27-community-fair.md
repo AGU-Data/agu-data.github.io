@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Community FAIR: Open data and software interoperability through cross-discipline shared protocols
+title: Community FAIR - Open data and software interoperability through cross-discipline shared protocols
 feature-img: assets/img/pexels/AGU-stars-silhouette-night-1314x400.jpg
 author: Shelley Stall, Chris Lenhardt, Susan Shingledecker
 tags: [Posts]
@@ -18,8 +18,8 @@ Our full approach, described below, represents a community-led, sustainable appr
 
 We envision developing a Community FAIR Consortium that establishes discipline-based, community protocols for Open Science  and FAIR-er data and software. Working directly with scientific disciplines, starting with the Earth, space, and environmental science, we will use a design patterns-approach to create reusable templates analogous to laboratory or experiment protocols that will guide researchers in best practices for implementing FAIR data, software, and sample metadata in their work (we group these collectively as “FAIR data” or data+). The lack of actionable, community-accepted, FAIR data practices within specific disciplines has been the fundamental challenge in realizing a vision of interoperability and reusability. Our envisaged process has four parts: 1) creating the design pattern protocols; 2) testing them in several pilot disciplines; 3) extending this template widely; and 4) facilitating adoption and use of them. The design patterns are both proven and novel for this application that will address, as appropriate, elements of FAIR and Open Science, providing guidance in areas such as repositories and metadata for disciplines to enable interoperability, and eventually will be made machine readable. The design patterns need to be developed with and by the discipline-specific communities. These communities, along with a team to facilitate, would identify effective ways to facilitate adoption and use of the protocols. Central to success is leveraging researcher relationships with society-organized domain communities together with repositories, research services and infrastructure providers supporting Open Science, and sharing data+. We believe that this approach will go a long way to addressing the key barrier for widespread adoption of Open Science and FAIR data practices.
 
-In the spirit of being open, we are making this white paper available. 
+In the spirit of being open, we are making this [white paper]() available. 
 
 The hydrology community is on board for being the first pilot, with support from Jared Bales, CUAHSI, and others. 
 
-If you are interested in working with us and taking Community FAIR further, please join our mailing list!  
+If you are interested in working with us and taking Community FAIR further, please join our [mailing list](https://forms.gle/x7PMmAK1grnG2nje6)!  
