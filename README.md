@@ -1,7 +1,8 @@
-# AGU Data Leadership Team/Maintainers
+# AGU Open Science Leadership Team/Maintainers
 
 - [Shelley Stall](https://github.com/ShelleyStall)
-- [Chris Erdmann](https://github.com/libcce)
+- [Kristina Vrouwenvelder](https://github.com/kvrouwenvelder)
+- [Laura Lyon](https://github.com/llion1)
 
 ## Data Leadership Program Website
 
@@ -25,17 +26,17 @@ Contribute via:
 
 ## Theme  
 
-The AGU Data Leadership Program website uses the [Type on Strap](https://github.com/sylhare/Type-on-Strap) theme.
+The AGU Open Science Leadership Program website uses the [Type on Strap](https://github.com/sylhare/Type-on-Strap) theme.
 
 ## Authors
 
-AGU Data Leadership Program website is authored and maintained by the AGU Data Leadership team and through issues, commits, and pull requests from the community.
+AGU Open Science Leadership Program website is authored and maintained by the AGU Open Science Leadership team and through issues, commits, and pull requests from the community.
 
 ## Citation
 
 Cite as:
 
-AGU Data Leadership Program Website. 2021. https://data.agu.org/
+AGU Open Science Leadership Program Website. 2021. https://data.agu.org/
 
 
 
