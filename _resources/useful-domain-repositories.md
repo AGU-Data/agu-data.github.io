@@ -19,6 +19,16 @@ The following is a list developed with AGU community members of useful repositor
   {% endfor %}
 </ul>
 
+Also see journal-specific guidance notes:
+
+<ul>
+{% for guidance-list in site.data.guidance-notes.guidance-list %}
+    <li><a href="#{{ guidance-list.guidance-group }}">{{ guidance-list.guidance-group }}</a></li>  
+  {% endfor %}
+</ul>
+
+<br>
+
 <p>
 {% for repository-list in site.data.repositories.repository-list %}
 <h4><a name="{{ repository-list.repository-group }}">{{ repository-list.repository-group }}</a></h4>
@@ -35,3 +45,13 @@ The following is a list developed with AGU community members of useful repositor
           <br>     
   {% endfor %}
   
+
+<p>
+{% for guidance-list in site.data.guidance-notes.guidance-list %}
+<h4><a name="{{ guidance-list.guidance-group }}">{{ guidance-list.guidance-group }}</a></h4>
+        {% for gd in guidance-list.guidance-notes %}
+          <strong>{{ gd.name }}</strong><br>
+          {{ gd.notes }}<br>
+        {% endfor %}     
+          <br>     
+  {% endfor %}

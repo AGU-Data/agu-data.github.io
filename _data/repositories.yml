@@ -6,13 +6,13 @@ repository-list:
         url: https://zenodo.org/
         notes: "Zenodo builds and operates a simple and innovative service that enables researchers, scientists, EU projects and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of the existing institutional or subject-based repositories of the research communities. ZENODO enables researchers, scientists, EU projects and institutions to: easily share the long tail of small research results in a wide variety of formats including text, spreadsheets, audio, video, and images across all fields of science. display their research results and get credited by making the research results citable and integrate them into existing reporting lines to funding agencies like the European Commission. easily access and reuse shared research results. Link(s): <a href='https://guides.github.com/activities/citable-code/'>GitHub-Zenodo Integration (Make your code citable)</a>"
         category: Earth and Environmental Data
-        journal-list: JGR Earth Surface, JAMES, Geochemistry, Geophysics, Geosystems, Earth and Space Science, JGR Oceans, JGR Solid Earth
+        journal-list: JGR Earth Surface, JAMES, Geochemistry, Geophysics, Geosystems, Earth and Space Science, JGR Oceans, JGR Solid Earth, Global Biogeochemical Cycles, Space Weather
       - name: PANGAEA
         re3data-url: https://www.re3data.org/repository/r3d100010134
         url: https://pangaea.de/
-        notes: "Pangaea accepts any data from earth, environmental and life sciences. When you start the data submission process, you will be redirected to the PANGAEA issue tracker that will assist you in providing metadata and uploading data files. Any communication with our editors will go through this issue tracker. For more details about the submission workflow see our tutorial. Please note: All data and metadata are quality checked, harmonized, and processed for machine readability, which allows efficient and reliable re-usage of your data. Depending on the extent and complexity of your data submission the editorial process and minting of DOI names might therefore take up to 8 weeks. Link(s): <a href='https://www.pangaea.de/submit/'>Submit Data/Tutorial</a>"
+        notes: "Pangaea is generally open for archiving, publishing, and re-usage of data from the Earth, environmental and life sciences. When you start the data submission process, you will be redirected to the PANGAEA issue tracker that will assist you in providing metadata and uploading data files. Any communication with our editors will go through this issue tracker. For more details about the submission workflow see our tutorial. Please note: All data and metadata are quality checked, harmonized, and processed for machine readability, which allows efficient and reliable re-usage of your data. Depending on the extent and complexity of your data submission the editorial process and minting of DOI names might therefore take up to 8 weeks or even more. Link(s): <a href='https://www.pangaea.de/submit/'>Submit Data/Tutorial</a>"
         category: Earth and Environmental Data
-        journal-list: JGR Biogeosciences, JGR Earth Surface, Water Resources Research, Geochemistry, Geophysics, Geosystems, JAMES, JGR Atmospheres, GeoHealth, Tectonics, JGR  Planets, Paleoceanograph and Paleoclimatology, JGR Solid Earth
+        journal-list: JGR Biogeosciences, JGR Earth Surface, Water Resources Research, Geochemistry, Geophysics, Geosystems, JAMES, JGR Atmospheres, GeoHealth, JGR  Planets, Paleoceanograph and Paleoclimatology, JGR Solid Earth, Global Biogeochemical Cycles
       - name: Environmental Data Initiative (EDI)
         re3data-url: https://www.re3data.org/repository/r3d100010272
         url: https://environmentaldatainitiative.org/
@@ -24,13 +24,25 @@ repository-list:
         url: https://www.bco-dmo.org/
         notes: "BCO-DMO is a publicly accessible earth science data repository created to curate, publicly serve (publish), and archive digital data and information from biological, chemical and biogeochemical research conducted globally in coastal, marine, great lakes and laboratory environments. 1.) The BCO-DMO repository provides data management services at no additional cost to investigators funded through the following programs: NSF OCE Division Biological and Chemical Sections; NSF Division of Polar Programs Antarctic Organisms & Ecosystems; Gordon and Betty Moore Foundation Marine Microbiology Initiative (GBMF MMI). In certain circumstances, the office can provide data management services for a fee to investigators funded outside of these programs. Please contact the office at <a href='mailto:info@bco-dmo.org'>info@bco-dmo.org</a> to learn more. 2.) BCO-DMO works closely with individual investigators and data originators throughout the data life cycle, from data management planning support, quality control and metadata assembly, to DOI creation and archive with appropriate national facilities. The office ensures all contributed project data and metadata are in compliance with current funder policies (i.e., NSF OCE Sample and Data Policy, NSF 17-037) and offers investigators the option to embargo data (in accordance with funder policies) until publication. Dataset DOIs are obtained and available once investigators review final curated data packages for publishing. Dataset DOIs, once generated, may be used for scholarly publication and/or funder reporting. BCO-DMO accepts scholarly publication DOIs and can link these to their respective datasets. 3.) Data accepted by BCO-DMO include all project output (observational data, derived and statistical products, analysis code, software and models, and supporting documentation such as reports and calibration information). The office accepts a wide variety of data types and formats, and works to publish a non-proprietary, research-ready, data package available to new research. To contribute data to BCO-DMO, please see the '<a href='https://www.bco-dmo.org/how-get-started'>How to Get Started Contributing > Data</a>' page, located under the Resources tab of the BCO-DMO website."
         category: Water, Hydrologic, Biological and Chemical Data
-        journal-list: JGR Biogeosciences, JGR Oceans       
+        journal-list: JGR Biogeosciences, JGR Oceans, Global Biogeochemical Cycles       
+      - name: DesignSafe-CI Data Depot Repository
+        re3data-url: https://www.re3data.org/repository/r3d100012308
+        url: https://www.designsafe-ci.org/
+        notes: "The DesignSafe Data Depot Repository (DDR) is the platform for curation and publication of datasets generated in the course of natural hazards research. The DDR is an open access data repository that enables data producers to safely store, share, organize, and describe research data, towards permanent publication, distribution, and impact evaluation. The DDR allows data consumers to discover, search for, access, and reuse published data in an effort to accelerate research discovery. It is a component of the DesignSafe cyberinfrastructure, which represents a comprehensive research environment that provides cloud-based tools to manage, analyze, curate, and publish critical data for research to understand the impacts of natural hazards. DesignSafe is part of the NSF-supported Natural Hazards Engineering Research Infrastructure (NHERI), and aligns with its mission to provide the natural hazards research community with open access, shared-use scholarship, education, and community resources aimed at supporting civil and social infrastructure prior to, during, and following natural disasters. It serves a broad national and international audience of natural hazard researchers (both engineers and social scientists), students, practitioners, policy makers, as well as the general public. It has been in operation since 2016, and also provides access to legacy data dating from about 2005. These legacy data were generated as part of the NSF-supported Network for Earthquake Engineering Simulation (NEES), a predecessor to NHERI. Legacy data and metadata belonging to NEES were transferred to the DDR for continuous preservation and access."
+        category: Natural Hazards Data
+        journal-list: Earth’s Future, Geophysical Research Letters, GeoHealth, JGR Atmospheres, JGR Oceans, JGR Solid Earth, JGR Earth Surface
+      - name: Dryad
+        re3data-url: https://www.re3data.org/repository/r3d100000044
+        url: https://datadryad.org
+        notes: "Dryad is an international repository of data underlying peer-reviewed scientific and medical literature, particularly data for which no specialized repository exists. The content is considered to be integral to the published research. All material in Dryad is associated with a scholarly publication."
+        category: Earth and Environmental Data
+        journal-list: Geophysical Research Letters, JGR Solid Earth, JGR Biogeosciences, JGR Atmospheres, Water Resources Research, Earth and Space Science    
       - name: figshare
         re3data-url: https://www.re3data.org/repository/r3d100010066
         url: http://figshare.com/
         notes: "figshare allows researchers to publish all of their research outputs in an easily citable, sharable and discoverable manner. All file formats can be published, including videos and datasets. Optional peer review process. figshare uses creative commons licensing. Link(s): <a href='https://knowledge.figshare.com/plus'>figshare+ - publish big datasets</a>."
         category: Earth and Environmental Data
-        journal-list: JGR Earth Surface, JAMES, Earth and Space Science, JGR Oceans, JGR Solid Earth
+        journal-list: JGR Earth Surface, JAMES, Earth and Space Science, JGR Oceans, JGR Solid Earth, Global Biogeochemical Cycles
       - name: Geochron
         re3data-url: https://www.re3data.org/repository/r3d100011537
         url: https://www.geochron.org/
@@ -55,6 +67,12 @@ repository-list:
         notes: "The U.S. Department of Energy’s (DOE) Environmental Systems Science Data Infrastructure for a Virtual Ecosystem (ESS-DIVE) data archive serves Earth and environmental science data. ESS-DIVE is funded by the Data Management program within the Climate and Environmental Science Division under the DOE’s Office of Biological and Environmental Research program (BER), and is maintained by the Lawrence Berkeley National Laboratory. ESS-DIVE will archive and publicly share data obtained from observational, experimental, and modeling research that is funded by the DOE’s Office of Science under its Subsurface Biogeochemical Research (SBR) and Terrestrial Ecosystem Science (TES) programs within the Environmental Systems Science (ESS) activity. ESS-DIVE was launched in July 2017, and is designed to provide long-term stewardship and use of data from observational, experimental and modeling activities in the DOE in the Subsurface Biogeochemical Research (SBR) and Terrestrial Ecosystem Science (TES) Programs in the Environmental System Science (ESS) activity."
         category: Earth and Environmental Data, U.S. Department of Energy – Funded Research
         journal-list: JAMES, JGR Biogeosciences
+      - name: Global Change Research Data Publishing and Repository (GCdataPR)
+        re3data-url: https://www.re3data.org/repository/r3d100012218
+        url: http://www.geodoi.ac.cn/WebEn/Default.aspx
+        notes: "Global Change Research Data Publishing and Repository (GCdataPR) is an open data infrastructure on earth science, particular on the global environmental changes. The GCdataPR management policies following the international common understanding to the data sharing principles and guidelines is the key to make the qualified data publishing and sharing smoothly and successfully. The data management policies including dataset submission for publishing policy, peer review policy data quality control policy data long-term preservation policy, data sharing policy, 10 percent rule for identify original dataset policy, claim discovery with both data and paper policy, and data service statistics policy."
+        category: Earth Science, Global Environmental Changes Data
+        journal-list: Geophysical Research Letters, JAMES, JGR Atmospheres, Water Resources Research      
       - name: Incorporated Research Institutions for Seismology (IRIS)
         re3data-url: https://www.re3data.org/repository/r3d100010268
         url: https://www.iris.edu/hq/
@@ -76,9 +94,9 @@ repository-list:
       - name: National Centers for Environmental Information (NCEI)
         re3data-url: https://www.re3data.org/repository/r3d100011801
         url: https://www.ncei.noaa.gov/
-        notes: "Formerly National Climatic Data Center, the National Geophysical Data Center, and the National Oceanographic Data Center. NCEI is the United States’s facility established to acquire, process, store, and disseminate environmental data from the United States and other countries. NCEI operates as a component of the National Environmental Satellite, Data, and Information Service (NESDIS) of the National Oceanic and Atmospheric Administration (NOAA) of the U.S. Department of Commerce. NCEI's U.S. data holdings include unclassified data collected by Federal agencies including the Department of Defense (primarily the U.S. Navy); State and local government agencies; universities and research institutions; and private industry. NCEI does not conduct any data collection programs of its own; it serves solely as a repository, dissemination, and analysis facility for data collected by others. A very large portion of the data held by NCEI is of foreign origin. We acquire foreign data through direct bilateral exchanges with other countries and organizations, and through the facilities of World Data System for Oceanography, Silver Spring. WDS (Oceanography) is operated by NCEI under the auspices of the U.S. National Academy of Sciences. It is one of the discipline subcenters within the World Data Center System that fosters international exchange of scientific data under guidelines issued by the International Council of Scientific Unions (ICSU). Each year NCEI responds to thousands of requests from users in the United States and around the world. NCEI data support research and development in ocean resource development, marine environmental assessment, national defense, theoretical oceanography, ocean engineering, etc. As a service organization, NCEI welcomes inquiries from all potential users of marine data and data products. Link(s): <a href='https://www.ncei.noaa.gov/contact'>Contact</a>, <a href='https://www.ncei.noaa.gov/archive/'>Archive</a>."
+        notes: "Formerly National Climatic Data Center, the National Geophysical Data Center, and the National Oceanographic Data Center. NCEI is the United States’s facility established to acquire, process, store, and disseminate environmental data from the United States and other countries. NCEI operates as a component of the National Environmental Satellite, Data, and Information Service (NESDIS) of the National Oceanic and Atmospheric Administration (NOAA) of the U.S. Department of Commerce. NCEI's U.S. data holdings include unclassified data collected by Federal agencies including the Department of Defense (primarily the U.S. Navy); State and local government agencies; universities and research institutions; and private industry. NCEI does not conduct any data collection programs of its own; it serves solely as a repository, dissemination, and analysis facility for data collected by others. A very large portion of the data held by NCEI is of foreign origin. We acquire foreign data through direct bilateral exchanges with other countries and organizations, and through the facilities of World Data System for Oceanography, Silver Spring. WDS (Oceanography) is operated by NCEI under the auspices of the U.S. National Academy of Sciences. It is one of the discipline subcenters within the World Data Center System that fosters international exchange of scientific data under guidelines issued by the International Council of Scientific Unions (ICSU). Each year NCEI responds to thousands of requests from users in the United States and around the world. NCEI data support research and development in ocean resource development, marine environmental assessment, national defense, theoretical oceanography, ocean engineering, etc. As a service organization, NCEI welcomes inquiries from all potential users of marine data and data products. Send2NCEI (S2N) is a system where data producers can submit their data for archiving at NCEI (https://www.ncei.noaa.gov/archive/send2ncei/).  Median time to archive for S2N submissions is <30 days. During submission the producer can ask for a DOI. Link(s): <a href='https://www.ncei.noaa.gov/contact'>Contact</a>, <a href='https://www.ncei.noaa.gov/archive/'>Archive</a>, <a href='https://www.ncei.noaa.gov/archive/send2ncei/'>Send2NCEI</a>."
         category: Marine Data, U.S. National Oceanic and Atmospheric Administration (NOAA) - Funded Research
-        journal-list: JGR Biogeosciences, JGR Earth Surface, JGR Atmospheres, JGR Oceans, Paleoceanograph and Paleoclimatology         
+        journal-list: JGR Biogeosciences, JGR Earth Surface, JGR Atmospheres, JGR Oceans, Paleoceanograph and Paleoclimatology, Global Biogeochemical Cycles, Space Weather         
       - name: OpenTopography
         re3data-url: https://www.re3data.org/repository/r3d100010655
         url: https://opentopography.org/
@@ -96,7 +114,37 @@ repository-list:
         url: http://www.sciencebase.gov/about
         notes: "The primary data archive for recent and ongoing USGS investigations ScienceBase provides access to aggregated information derived from many data and information domains, including feeds from existing data systems, metadata catalogs, and scientists contributing new and original content. ScienceBase is a USGS Trusted Digital Repository. Reference here for information on preparing your data for public release on ScienceBase."
         category: U.S. Geological Survey (USGS) – Funded Research
-        journal-list: JGR Biogeosciences, JGR Earth Surface, Tectonics, JGR Solid Earth        
+        journal-list: JGR Biogeosciences, JGR Earth Surface, Tectonics, JGR Solid Earth   
+      - name: SEANOE (SEA scieNtific Open data Edition)
+        re3data-url: https://www.re3data.org/repository/r3d100011867
+        url: https://www.seanoe.org/
+        notes: "Seanoe (SEA scieNtific Open data Edition) is a publisher of scientific data in the field of marine sciences. It is operated by Ifremer (http://wwz.ifremer.fr/). Data published by SEANOE are available free. They can be used in accordance with the terms of the Creative Commons license selected by the author of data. Seance contributes to Open Access / Open Science movement for a free access for everyone to all scientific data financed by public funds for the benefit of research. An embargo limited to 2 years on a set of data is possible; for example to restrict access to data of a publication under scientific review. Each data set published by SEANOE has a DOI which enables it to be cited in a publication in a reliable and sustainable way. The long-term preservation of data filed in SEANOE is ensured by Ifremer infrastructure."
+        category: Sea Scientific Open Data
+        journal-list: JGR Oceans, Global Biogeochemical Cycles
+      - name: National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA)
+        re3data-url: https://www.re3data.org/repository/r3d100010775
+        url: https://www.ncbi.nlm.nih.gov/sra
+        notes: "The SRA is NIH's primary archive of high-throughput sequencing data and is part of the International Nucleotide Sequence Database Collaboration (INSDC) that includes at the NCBI Sequence Read Archive (SRA), the European Bioinformatics Institute (EBI), and the DNA Database of Japan (DDBJ). Data submitted to any of the three organizations are shared among them. SRA accepts data from all kinds of sequencing projects including clinically important studies that involve human subjects or their metagenomes, which may contain human sequences. These data often have controlled access via dbGaP (the database of Genotypes and Phenotypes). Link(s): <a href='https://www.ncbi.nlm.nih.gov/sra/docs/submit/'>Submission Quick Start</a>."
+        category: OMICS, Marine Microbial Genomics Data
+        journal-list: JGR Biogeosciences, JGR Oceans
+      - name: National Space Science Data Center (NSSDC)
+        re3data-url: https://www.re3data.org/repository/r3d100010143
+        url: https://www.nssdc.ac.cn/eng/
+        notes: "NSSDC is the nation-level space science center which recognized by the Ministry of Science and Technology of China. As a repository for space science data, NSSDC assumes the responsibility of the long-term stewardship and offering a reliable service of space science data in China. It also has been the Chinese center for space science of the World Data Center (WDC) since 1988. In 2013, NSSDC became a regular member of World Data System. Data resources are concentrated in the following fields of space physics and space environment, space astronomy, lunar and planetary science, space application and engineering. In space physics, the NSSDC maintains space-based observation data and ground-based observation data of the middle and upper atmosphere, ionosphere and earth surface, from Geo-space Double Star Exploration Program and Meridian Project. In space astronomy, NSSDC archived pointed observation data of Hard X-ray Modulation Telescope. In lunar and planetary science, space application and engineering, NSSDC also collects detection data of Chang’E from Lunar Exploration Program and science products of BeiDou satellites."
+        category: Space Physics, Space Environment, Space Astronomy, Lunar, Planetary Science, Space Application and Engineering
+        journal-list: JGR Space Physics, JGR Planets, Space Weather, Geophysical Research Letters, Earth and Space Science
+      - name: National Tibetan Plateau/Third Pole Environment Data Center
+        re3data-url: https://www.re3data.org/repository/r3d100013285
+        url: https://data.tpdc.ac.cn/en/
+        notes: "The National Tibetan Plateau/Third Pole Environment Data Center (TPDC) is one of a first group of 20 national data centers approved by the Ministry of Science and Technology of China in 2019. It possesses the most comprehensive scientific data on the Tibetan Plateau and surrounding regions of any data centers in China. TPDC provides online and offline data download services according to TPDC data Sharing Protocol with bilingual of Chinese and English (https://data.tpdc.ac.cn/). There are more than 2400 datasets, covering geography, atmospheric science, cryospheric science, hydrology, ecology, geology, geophysics, natural resource science, social economy, and other fields. There are more than 30000 registered users. TPDC complies with the principle of “Findable, Accessible, Interoperable, and Reusable (FAIR)”, and has adopted a series of measures to protect the intellectual property by giving credit to data providers. Digital Object Identifiers (DOI) are used for scientific data access, tracking, and citation. The Creative Commons 4.0 protocol is used for data re-distribution and re-use. Data users are required to cite the datasets and provide necessary acknowledgement in order to give credit to data authors as journal papers. The data citation references are provided on the TPDC landing page of each dataset."
+        category: Datasets, covering geography, atmospheric science, cryospheric science, hydrology, ecology, geology, geophysics, natural resource science, social economy
+        journal-list: Geochemistry, Geophysics, Geosystems, JGR Solid Earth, JGR Earth Surface, JGR Biogeosciences, Tectonics, Geophysical Research Letters, Earth and Space Science
+      - name: Science Data Bank
+        re3data-url: https://www.re3data.org/repository/r3d100013177
+        url: https://www.scidb.cn/en
+        notes: "Science Data Bank or ScienceDB is an open generalist data repository developed and maintained by the Chinese Academy of Sciences Computing and Network Information Center (CNIC). It promotes the publication and reuse of scientific data. Researchers and journal publishers can use it to store, manage and share science data."
+        category: Earth and Environmental Data
+        journal-list: JGR Biogeosciences, JAMES
   - repository-group: GeoHealth
     repositories: 
       - name: NIH Open Domain-Specific Data Sharing Repositories
@@ -184,23 +232,11 @@ repository-list:
         notes: "The Oak Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC) for Biogeochemical Dynamics is a NASA Earth Observing System Data and Information System (EOSDIS) data center managed by the Earth Science Data and Information System (ESDIS) Project. The ORNL DAAC is operated by Oak Ridge National Laboratory (ORNL) in Oak Ridge, Tennessee, and is a member of the Remote Sensing and Environmental Informatics Group of the Environmental Sciences Division (ESD). The ORNL DAAC is a CoreTrustSeal Certified Repository. Link(s): <a href='https://daac.ornl.gov/submit/'>Submit Data</a>."
         category: National Aeronautics and Space Administration (NASA) – Funded Research
         journal: JGR Biogeosciences
-      - name: National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA)
-        re3data-url: https://www.re3data.org/repository/r3d100010775
-        url: https://www.ncbi.nlm.nih.gov/sra
-        notes: "The SRA is NIH's primary archive of high-throughput sequencing data and is part of the International Nucleotide Sequence Database Collaboration (INSDC) that includes at the NCBI Sequence Read Archive (SRA), the European Bioinformatics Institute (EBI), and the DNA Database of Japan (DDBJ). Data submitted to any of the three organizations are shared among them. SRA accepts data from all kinds of sequencing projects including clinically important studies that involve human subjects or their metagenomes, which may contain human sequences. These data often have controlled access via dbGaP (the database of Genotypes and Phenotypes). Link(s): <a href='https://www.ncbi.nlm.nih.gov/sra/docs/submit/'>Submission Quick Start</a>."
-        category: OMICS
-        journal: JGR Biogeosciences
       - name: Metagenomics Rapid Annotation using Subsystem Technology (MG-RAST)
         re3data-url: https://www.re3data.org/repository/r3d100011031
         url: https://www.mg-rast.org/
         notes: "The MG-RAST server is an open source system for annotation and comparative analysis of metagenomes. Users can upload raw sequence data in fasta format; the sequences will be normalized and processed and summaries automatically generated. The server provides several methods to access the different data types, including phylogenetic and metabolic reconstructions, and the ability to compare the metabolism and annotations of one or more metagenomes and genomes. In addition, the server offers a comprehensive search capability. Access to the data is password protected, and all data generated by the automated pipeline is available for download in a variety of common formats. MG-RAST has become an unofficial repository for metagenomic data, providing a means to make your data public so that it is available for download and viewing of the analysis without registration, as well as a static link that you can use in publications. It also requires that you include experimental metadata about your sample when it is made public to increase the usefulness to the community. Link(s): <a href='https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-386'>About Services</a>."
         category: OMICS
-        journal: JGR Biogeosciences  
-      - name: Science Data Bank
-        re3data-url: https://www.re3data.org/repository/r3d100013177
-        url: https://www.scidb.cn/en
-        notes: "Science Data Bank or ScienceDB is an open generalist data repository developed and maintained by the Chinese Academy of Sciences Computing and Network Information Center (CNIC). It promotes the publication and reuse of scientific data. Researchers and journal publishers can use it to store, manage and share science data."
-        category: Earth and Environmental Data
         journal: JGR Biogeosciences
       - name: USGS National Water Information System
         re3data-url: https://www.re3data.org/repository/r3d100011035
@@ -238,6 +274,25 @@ repository-list:
         notes: "The British Oceanographic Data Centre (BODC) is a national facility for looking after and distributing data concerning the marine environment. We deal with biological, chemical, physical and geophysical data, and our databases contain measurements of nearly 22,000 different variables. Many of our staff have direct experience of marine data collection and analysis. They work alongside information technology specialists to ensure that data are documented and stored for current and future use."
         category: Marine Environmental Data - U.K. National Oceanography Centre
         journal: JGR Oceans
+      - name: CLIVAR and Carbon Hydrographic Data Office (CCHDO)
+        re3data-url: https://www.re3data.org/repository/r3d100010831
+        url: https://cchdo.ucsd.edu/
+        notes: "The CLIVAR and Carbon Hydrographic Data Office (CCHDO) primary mission is to deliver the highest possible quality global CTD and hydrographic data to users. These data are a product of decades of observations related to the physical characteristics of ocean waters carried out during WOCE, CLIVAR and numerous other oceanographic research programs. Whenever possible we provide these data in three easy-to-use formats: WHP-Exchange (which we recommend for data submissions to the CCHDO), WOCE, and netCDF.The CCHDO also manages public and non-public CTD data to be used for the global Argo and OceanSITES programs.
+This site is funded by the National Science Foundation and the National Oceanic and Atmospheric Administration's Climate Observations Division. Link(s): <a href='https://cchdo.ucsd.edu/submit'>Data Submissions</a>."
+        category: Hydrographic and Global CTD Data 
+        journal: JGR Oceans
+      - name: Joint Archive for Shipboard Acoustic Doppler current profilers (JASADCP)
+        re3data-url: 
+        url: https://uhslc.soest.hawaii.edu/sadcp/
+        notes: "The National Centers for Environmental Information (NCEI) in collaboration with the E.Firing Acoustic Doppler Current Profiler (ADCP) Laboratory at the University of Hawaii have established the Joint Archive for Shipboard ADCP (JASADCP). The JASADCP is reponsible for the acquisition, review, documentation, archival, and distribution of shipboard ADCP data sets. The archive primarily handles US national cruises, although it also supports several completed or ongoing international programs such as TOGA COARE, WEPOCS, WOCE, and CLIVAR."
+        category: shipboard ADCP Data
+        journal: JGR Oceans 
+      - name: LacCore National Lacustrine Core Facility
+        re3data-url: https://www.re3data.org/repository/r3d100012880
+        url: https://cse.umn.edu/csd
+        notes: "LacCore: National Lacustrine Core Facility. LacCore and the associated Continental Scientific Drilling Coordination Office (CSDCO) provide infrastructure for scientists utilizing core samples from Earth’s continents in their research, through integrated support for coring and drilling projects, from project inception through curation. Funded by NSF and the University of Minnesota."
+        category: Core Sample Data
+        journal: JGR Oceans
       - name: U.S. Antarctic Program Data Center
         re3data-url: https://www.re3data.org/repository/r3d100010660
         url: https://www.usap-dc.org/
@@ -257,7 +312,13 @@ The Arctic Data Center team help make it easier for Arctic researchers to plan f
         url: https://obis.org/
         notes: "Ocean Biogeographic/Biodiversity Ocean System (OBIS) builds and maintains a global alliance that collaborates with scientific communities to facilitate free and open access to, and application of, biodiversity and biogeographic data and information on marine life. OBIS accepts data from any organization, consortium, project or individual who wants to contribute data. OBIS Data Sources are the authors, editors, and/or organisations that have published one or more datasets through OBIS. They are the owners or custodians of the data, not OBIS! However, OBIS only harvests data from recognized OBIS nodes. Link(s): <a href='https://obis.org/manual/contribute/'>Contribute Data</a>"
         category: Marine Life Biodiversity and Biogeographic Data
-        journal: JGR Oceans        
+        journal: JGR Oceans   
+      - name: Ocean Biodiversity Information System
+        re3data-url: https://www.re3data.org/repository/r3d100010088
+        url: https://obis.org/
+        notes: "Ocean Biogeographic/Biodiversity Ocean System (OBIS) builds and maintains a global alliance that collaborates with scientific communities to facilitate free and open access to, and application of, biodiversity and biogeographic data and information on marine life. OBIS accepts data from any organization, consortium, project or individual who wants to contribute data. OBIS Data Sources are the authors, editors, and/or organisations that have published one or more datasets through OBIS. They are the owners or custodians of the data, not OBIS! However, OBIS only harvests data from recognized OBIS nodes. Link(s): <a href='https://obis.org/manual/contribute/'>Contribute Data</a>"
+        category: Marine Life Biodiversity and Biogeographic Data
+        journal: JGR Oceans                  
   - repository-group: JGR Planets
     repositories: 
       - name: Data ARchives and Transmission System
@@ -269,7 +330,7 @@ The Arctic Data Center team help make it easier for Arctic researchers to plan f
       - name: ESA Planetary Science Archive (PSA)
         re3data-url: https://www.re3data.org/repository/r3d100012465
         url: https://archives.esac.esa.int/psa/
-        notes: "The European Space Agency's Planetary Science Archive (PSA) is the central repository for all scientific and engineering data returned by ESA's Solar System missions: currently including Giotto, Huygens, Mars Express, Venus Express, Rosetta, SMART-1 and ExoMars 16, as well as several ground-based cometary observations. Future missions hosted by the PSA will be Bepi Colombo, ExoMars Rover and Surface Platform and Juice. ESA Guest Storage Facility - for useful datasets that includes a DOI registration service. Link(s): <a href='https://www.cosmos.esa.int/web/psa/psa_gsf'>Guest Storage</a>."
+        notes: "The European Space Agency's Planetary Science Archive (PSA) is the central repository for all scientific and engineering data returned by ESA's Solar System missions: currently including Giotto, Huygens, Mars Express, Venus Express, Rosetta, SMART-1 and ExoMars 16, as well as several ground-based cometary observations. Future missions hosted by the PSA will be Bepi Colombo, ExoMars Rover and Surface Platform and Juice. ESA Guest Storage Facility - for useful datasets that includes a DOI registration service. Link(s): <a href='https://www.cosmos.esa.int/web/psa/psa_gsf'>Guest Storage</a>. Additional ESA data can be found at: <a href=''>Earth Online: Earth Observation Data, Copernicus Space Component Data, <a href='https://www.esa.int/Applications/Observing_the_Earth/How_to_access_data'>Sentinel Online: Technical Information & Data</a>."
         category: Scientific and Engineering Data - ESA Solar System Missions
         journal: JGR Planets       
       - name: Lunar and Planetary Data Release System
@@ -303,5 +364,11 @@ The Arctic Data Center team help make it easier for Arctic researchers to plan f
 4TU.ResearchData is certified with the Data Seal of Approval."
         category: Science, Engineering, Design Data
         journal: JGR Planets
-        
-
+  - repository-group: Space Weather
+    repositories: 
+      - name: Space Physics Data Facility (SPDF) 
+        re3data-url: https://www.re3data.org/repository/r3d100010168
+        url: https://spdf.gsfc.nasa.gov/
+        notes: "The Space Physics Data Facility (SPDF) leads in the design and implementation of unique multi-mission and multi-disciplinary data services and software to strategically advance NASA's solar-terrestrial program, to extend our science understanding of the structure, physics and dynamics of the Heliosphere of our Sun and to support the science missions of NASA's Heliophysics Great Observatory. Major SPDF efforts include multi-mission data services such as Heliophysics Data Portal (formerly VSPO), CDAWeb and CDAWeb Inside IDL,and OMNIWeb Plus (including COHOWeb, ATMOWeb, HelioWeb and CGM) , science planning and orbit services such as SSCWeb, data tools such as the CDF software and tools, and a range of other science and technology research efforts. The staff supporting SPDF includes scientists and information technology experts."
+        category: Heliophysics Data
+        journal: Space Weather      

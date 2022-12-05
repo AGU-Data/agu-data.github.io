@@ -30,16 +30,16 @@ For questions or feedback regarding AGU’s Data and Software Sharing Guidance, 
 
 <a name="considerations">
     
-## Considerations for publication related to data and software
+## 1. Considerations for publication related to data and software
 
 1. **When to Make Your Data and Software Available**  
 At the time your paper is <span style="text-decoration:underline;">submitted</span>, your data and software must be available to the editors and reviewers. At the time your paper is <span style="text-decoration:underline;">accepted</span>, your data and software availability statements must be clearly stated. A few repositories require the paper to be published before the data being registered and available, such that the persistent identifier resolves. These repositories are known, community-accepted repositories, and acceptable for use. Authors must still provide preliminary access to reviewers at the time of submission. Please ensure that your data and software are available with details of the online access location(s), data product names, variable names, time ranges, spatial locations, or any other search criteria to allow a reader and reviewer to Find and Access the data used and/or generated for the paper (including those represented in figures and tables). In summary, any data and software utilized in the work contained in the manuscript must be documented for free and open availability. Data or software that are sensitive and require restrictions on access (e.g., personal data, medical information, fossil locations, strategic models) must be preserved in a repository with appropriate access controls. 
 
 2. **Availability Statement in Open Research Section (required)**
 
-    1. <span style="text-decoration:underline;">Data Availability Statement (required):</span>  A Data Availability Statement is required in the Open Research section of your paper describing where and how your data are available, including an online means to access your data. Check links and files before submitting your paper to the journal so as to ensure the data are accessible for peer review. Many data repositories provide confidential data access for this purpose. [For data that are not publicly available, sensitive, or restricted, examples, templates, and specific guidance are provided in this document.]() 
+    1. <span style="text-decoration:underline;">Data Availability Statement (required):</span>  A Data Availability Statement is required in the Open Research section of your paper describing where and how your data are available, including an online means to access your data. Check links and files before submitting your paper to the journal so as to ensure the data are accessible for peer review. Many data repositories provide confidential data access for this purpose. [For data that are not publicly available, sensitive, or restricted, examples, templates, and specific guidance are provided in this document.](https://data.agu.org/resources/agu-data-software-sharing-guidance#availability) 
 
-    2. <span style="text-decoration:underline;">Software Availability Statement (required):</span> A Software Availability Statement is required in the Open Research section of your paper for software that is central to your research such as for model simulations, data analysis, data visualization, and model output analysis. The Availability Statement should contain a citation, licensing information, access restrictions, and a link to the development platform (e.g. GitHub). Note that “git/GitHub/GitLab” are not acceptable software repositories because they are not archival. [For software that are not publicly available, sensitive, or restricted, examples, templates, and specific guidance, are provided in this document.]()
+    2. <span style="text-decoration:underline;">Software Availability Statement (required):</span> A Software Availability Statement is required in the Open Research section of your paper for software that is central to your research such as for model simulations, data analysis, data visualization, and model output analysis. The Availability Statement should contain a citation, licensing information, access restrictions, and a link to the development platform (e.g. GitHub). Note that “git/GitHub/GitLab” are not acceptable software preservation repositories because they are not archival. [For software that are not publicly available, sensitive, or restricted, examples, templates, and specific guidance, are provided in this document.](https://data.agu.org/resources/agu-data-software-sharing-guidance#availability)
 
 3. **Data Citation (required)**  
 Include data citations for the primary and processed research data in the References section of your paper. Doing so ensures proper credit is given for the data. Note, English-language (or English translation) for any cited sources is required. The [AGU’s Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors) guide provides information on how to cite your data.
@@ -55,7 +55,7 @@ If software is used to analyze or produce the data, including for model output, 
 
 <a name="guidelines">
 
-## Guidelines for Research Primarily Based on Numerical Models or Theory
+## 2. Guidelines for Research Primarily Based on Numerical Models or Theory
 
 While numerical models or theoretical work may not utilize (input) data, often “output” such as figures or tables are considered data and should be made available in electronic form. Additionally, the software code (e.g. Python, Jupyter Notebooks, R, MATLAB) used to perform any data analysis and to produce the manuscript’s figures should be made available in a free and open platform (e.g., Github) and preserved in a repository (e.g., Zenodo). In the case where a manuscript makes no use of models, data, or analysis software (e.g., a purely theoretical paper or a review paper), then make note of this point in the Data and Software Availability Statements.
 
@@ -85,7 +85,7 @@ Software that can not be made available during peer review may result in the pap
 
 <a name="selecting">
 
-## Selecting Your Repository
+## 3. Selecting Your Repository
 
 Selecting a repository and determining data and software management best practices begins when you propose and fund your research project, through your Data (and Software) Management Plan. 
 
@@ -108,7 +108,7 @@ Once published in an appropriate **_preservation_** repository, your data cannot
 
 <a name="during">
     
-## During Peer Review
+## 4. During Peer Review
 
 <span style="text-decoration:underline;">Data</span>: Your data must be available for peer review of your manuscript. Here are options to ensure confidential access to your data.
 
@@ -127,18 +127,18 @@ Peer reviewers, with support from AGU staff, will ensure the link to the data an
 
 <a name="paper">
     
-## Paper Acceptance
+## 5. Paper Acceptance
 
 1. <span style="text-decoration:underline;">Data</span>: Relevant data and model results should be accessible at the time your paper is accepted. Note the possibility that in unusual cases the repository policy may not allow your data to be published until your paper is published. If that is the case, AGU will accept that your data will be made available after your paper is published. Please coordinate with the repository to ensure the availability of your data.
 2. <span style="text-decoration:underline;">Software</span>: For papers where software is central to your research, your software should be accessible at the time your paper is accepted.
     
 <a name="availability">
 
-## Availability Statements and Template Examples
+## 6. Availability Statements and Template Examples
 
 The Availability Statement is a narrative that indicates to the reader where and how to directly access your data and software and provides any information on licenses and restrictions. An Availability Statement should contain an in-text citation, licensing information (e.g., CC-BY 4.0, MIT) and access restrictions (e.g., authentication required) (here is an [example from JAMES](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS001726#jame20966-sec-0068-title)). Statements to the effect of "data available from authors" are not acceptable. Also, statements to the effect of “data available from[ http://nasa.gov](http://nasa.gov)” are not acceptable since high-level website references do not meet the [AGU’s Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors) requirements. Provide details of the specific locations, data product names, variable names, time ranges, spatial locations, and any other search criteria needed to Find and Access the data used/ generated in the paper (including those represented in figures and tables).
 
-<span style="text-decoration:underline;">Data Availability Statement:</span>
+<span style="text-decoration:underline;">1. Data Availability Statement:</span>
 
 1. **Data archived in a repository:** Datasets for this research are available in these in-text data citation references: Smith et al. (2019), [with this license, and these access restrictions if any], Jones et al. (2017) [with this license, and these access restrictions if any]. Such datasets must be findable and accessible (e.g. via URLs).  
 
@@ -155,9 +155,9 @@ Cline, D., R. Armstrong, R. Davis, K. Elder, and G. Liston. 2002. CLPX-Ground: I
 
 6. **Data that are restricted by commercial, industry, patent, government policies, regulations or laws:** Data supporting this research are available in [cite in-text data citation reference from third party source], with [these restrictions that include information concerning required NDA, licensing, agreements], and are not accessible to the public or research community. [Provide a process for how other researchers can gain access.] NOTE: If your data are in this category, the editors will determine if this statement meets the AGU data guidelines sufficiently.
 
-<span style="text-decoration:underline;">Software Availability Statement:</span>
+<span style="text-decoration:underline;">2. Software Availability Statement:</span>
 
-The Availability Statement should contain a citation, licensing information, access restrictions, and a link to the development platform (e.g. GitHub). Note that “git/GitHub/GitLab” are not acceptable software repositories because they are not archival (see [AGU’s Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors)).
+The Availability Statement should contain a citation, licensing information, access restrictions, and a link to the development platform (e.g. GitHub). Note that “git/GitHub/GitLab” are not acceptable software preservation repositories because they are not archival (see [AGU’s Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-for-Authors#availability)).
 
 1. **Software archived in a repository:** Software for this research is available in these in-text data citation references: Smith et al. (2019), [with this license, and these access restrictions if any], Jones et al. (2017) [with this license, and these access restrictions if any]. Such software must be findable and accessible (e.g. via URLs).  
 

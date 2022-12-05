@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data and Software Availability and Citation Checklist for Authors, Reviewers, Editors, and AGU Publications
+title: Data and Software Availability and Citation Checklist
 feature-img: "assets/img/pexels/AGU-Stock-Underwater-Rocks-Sunlight-1314x400.jpg"
 img: "assets/img/resources/agu-trademark-logo-horiz-128.png"
 date: 21 October 2021
@@ -8,11 +8,11 @@ tags: [AGU, Resources]
 ---
 
 
-**Data and Software Availability and Citation Checklist**
-**for Authors, Reviewers, Editors, and AGU Publications**
+### Data and Software Availability and Citation Checklist
 
 Use the following checklist to understand what is required and what is considered best practice in following AGU’s [Data and Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors) Guidance. Refer to the Guidance also for [Availability Statement templates](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors#availability) and [Citation examples](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors#citation). 
 
+### Data/Software Availability Statement Elements in Open Research Section:
 
 1. **Description of the Type(s)** of data and/or software - **[Required]**  
 Examples:  
@@ -21,15 +21,15 @@ Examples:
 2. **Repository Name(s)** where the data/software are deposited - **[Best Practice]**  
 Examples:  
 * [Domain-Discipline Repositories Useful to AGU Journals](https://data.agu.org/resources/useful-domain-repositories)
-3. **URL/link** directly to the data/software, preferably **Persistent Identifier** (e.g., DOI) and resolves - **[Required]**  
+3. **URL/link** to the data/software, preferably **Persistent Identifier** (e.g., DOI) and resolves - **[Required]**  
     Examples:  
 * Software - [https://doi.org/10.5281/zenodo.3714460](https://doi.org/10.5281/zenodo.3714460) 
 * Data - [https://doi.org/10.7283/633E-1497](https://doi.org/10.7283/633E-1497)  
-    If a share link, make sure the link is now a URL/persistent identifier, that it is open accessible
+    If a share link, make sure the link is now a URL/persistent identifier, that it is openly accessible
 4. **Access Conditions** - **[Best Practice]**  
     Examples:  
 * Registration/fee required
-* Database where certain certain functionality/selections need to be made
+* Database where certain functionality/selections need to be made
 5. **English Translation** - **[Required]**  
     Examples:  
 * Site includes translation functionality
@@ -50,6 +50,14 @@ Examples:
 * Part of the software (version 1.0.0) associated with this manuscript for the calculation and storage of PSDs is licensed under MIT and published on GitHub [https://github.com/Jollyfant/psd-module/](https://github.com/Jollyfant/psd-module/) (Jollyfant, 2021).
     3. **Author, Project Name(s)** instead of username(s) (e.g., username123)
     4. **Additional Context/Description** beyond acronym or code name (e.g., Longhorn pipeline scripts for reducing data vs Longhorn)
+
+### Data/Software Citation Elements in References Section:
+
+1. **Citation in References** - **[Required]**   
+    To support indexing and reuse:  
+* Use [American Psychological Association (APA) style](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Grammar-Style-Guide)
+* Include a persistent identifier (DOI), preferred, or URL
+* Use labels/bracketed descriptions are included (e.g., [Dataset], [Software], [Collection], [ComputationalNotebook])
 
 
 **Examples used from:**  

@@ -13,7 +13,7 @@ Jupyter Notebooks are increasingly being used for documenting data science workf
 
 **First**, read. [Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks](https://doi.org/10.1371/journal.pcbi.1007007) and the recommendations from [Jupyter Notebooks and reproducible data science](https://markwoodbridge.com/2017/03/05/jupyter-reproducible-science.html) will help you with creating computational notebooks that are easier to read, run, and explore.
 
-**Second**, store and preserve. Upload your notebook ina public repository that gives you a Digital Object Identifier (DOI), so that your notebook is preserved in the scholarly record and can be cited. We recommend using the following solution:  
+**Second**, store and preserve. Upload your notebook in a public repository that gives you a Digital Object Identifier (DOI), so that your notebook is preserved in the scholarly record and can be cited. We recommend using the following solution:
 
 * *GitHub with documentation* (e.g., README),[(open source) license](https://choosealicense.com/), [citation file](https://citation-file-format.github.io/#/what-is-a-citation-cff-file) (e.g., CFF), [CodeMeta](https://codemeta.github.io/codemeta-generator/)/JSON-LD file. Manage dependencies (with [conda-lock](https://pythonspeed.com/articles/conda-dependency-management/)). Use the GitHub release bridge with [Zenodo](https://zenodo.org/) to get a DOI ([Making your code citable](https://guides.github.com/activities/citable-code/)).
 
@@ -29,10 +29,10 @@ No matter which execution environment you choose, make sure you obtain a publicl
   
 Fenner, M. (2019). Jupyter Notebook FREYA PID Graph Key Performance Indicators (KPIs) (Version 1.1.0). DataCite. [https://doi.org/10.14454/3BPW-W381](https://doi.org/10.14454/3BPW-W381)  
 
-* Describe the availability of your notebook by including the DOI of the preserved release used by your paper and the execution link in the Availability Statement of your paper. For AGU, the Availability Statement is located in the Open Research section. Statement template is below:  
+* Describe the availability of your notebook by including the DOI of the preserved release used by your paper, the development platform where it is hosted, and the execution link in the Availability Statement of your paper. For AGU, the Availability Statement is located in the Open Research section. Statement template is below:  
   
-“The Jupyter Notebook to execute the analysis in the paper can be found at <include link to rerunnable notebook link in the cloud> and is preserved at <include link to hostednotebook DOI, version, and license>”
+*“The Jupyter Notebook to execute the analysis in the paper can be found at [include link to rerunnable notebook link in the cloud], is hosted at [development platform, e.g., GitHub] and is preserved at [include the link to the preserved notebook DOI, version, and license].”*
 
 **Fifth**, render (optional). Consider rendering your notebook using the [Executable Book Project](https://executablebooks.org/en/latest/) and [Jupyter Book](https://jupyterbook.org/intro.html). An example [project gallery](https://executablebooks.org/en/latest/gallery.html) of Jupyter Books is available. The [Neuro Libre Project](https://www.neurolibre.com/) features additional Jupyter Book examples.
 
-Erdmann, Christopher, Stall, Shelley, Gentemann, Chelle, Holdgraf, Chris, Fernandes, Filipe P. A., & Gehlen, Karsten Peters-von. (2021, May 20). Guidance for AGU Authors - Jupyter Notebooks. Zenodo. [http://doi.org/10.5281/zenodo.4910038](http://doi.org/10.5281/zenodo.4910038) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4910038.svg)](https://doi.org/10.5281/zenodo.4910038)
+Erdmann, Christopher, Stall, Shelley, Gentemann, Chelle, Holdgraf, Chris, Fernandes, Filipe P. A., Gehlen, Karsten Peters-von, Corvellec, Marianne. (2021, May 20). Guidance for AGU Authors - Jupyter Notebooks. Zenodo. [http://doi.org/10.5281/zenodo.4774440](http://doi.org/10.5281/zenodo.4774440) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4774440.svg)](https://doi.org/10.5281/zenodo.4774440)
