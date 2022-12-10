@@ -36,7 +36,7 @@ AGU Open Science Leadership Program website is authored and maintained by the AG
 
 Cite as:
 
-AGU Open Science Leadership Program Website. 2021. https://data.agu.org/
+AGU Open Science Leadership Program Website. 2022. https://data.agu.org/
 
 
 
