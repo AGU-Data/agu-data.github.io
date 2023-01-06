@@ -10,7 +10,7 @@ AGU’s Open Science Leadership Program (FKA Data Leadership) website provides t
 
 [AGU's Open Science Leadership Webpage](https://www.agu.org/Learn-About-AGU/About-AGU/Data-Leadership)  
 [AGU Data and Software Author Guidance](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors)  
-[AGU Open Science Leadership Community on Zenodo](https://zenodo.org/communities/agu-data-leadership)  
+[AGU Data Leadership Community on Zenodo](https://zenodo.org/communities/agu-data-leadership)  
 
 <u>AGU’s Open Science Leadership Team:</u>
   
