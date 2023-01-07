@@ -38,9 +38,9 @@ Ensuring all papers from NSF grants published at AGU have proper data citations.
 
 # Funding
  
-AGU's Notebooks Now! project is supported through the **Notebooks Now! Elevating notebooks into scholarly publishing.** project with funding provided by the Sloan Foundation.
+![Sloan logo](/assets/img/resources/sloan.png "Sloan logo") AGU's Notebooks Now! project is supported through the **Notebooks Now! Elevating notebooks into scholarly publishing.** project with funding provided by the Sloan Foundation.
 
-AGU's Ethics in AI/ML project is supported through the **Ethics in Use of Artificial Intelligence (AI) and Machine Learning (ML) in Science** project with funding provided by NASA, grant 21-TWSC21-0023.
+![NASA logo](/assets/img/resources/nasa.png "NASA logo") AGU's Ethics in AI/ML project is supported through the **Ethics in Use of Artificial Intelligence (AI) and Machine Learning (ML) in Science** project with funding provided by NASA, grant 21-TWSC21-0023.
 
 ![PARSEC logo](/assets/img/about/parsec-logo-150pxWide.png "PARSEC logo") The AGU Open Science Leadership team is supported through the **Building New Tools for Data Sharing and Re-use through a Transnational Investigation of the Socioeconomic Impacts of Protected Areas (PARSEC)** project with funding provided by the Belmont Forum through the National Science Foundation, Grant 1929464.   
 
