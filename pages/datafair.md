@@ -3,7 +3,7 @@ layout: page
 title: Data FAIR at AGU
 permalink: /datafair/
 feature-img: "assets/img/pexels/AGU-Stock-Nasa-Satellite-water-1314x400.jpg"
-tags: [Data FAIR, Fall Meeting]]
+tags: [Data FAIR, Fall Meeting]
 ---
 
 
