@@ -38,11 +38,11 @@ Ensuring all papers from NSF grants published at AGU have proper data citations.
 
 # Funding
  
-<img src="https://sloan.org/storage/app/media/uploaded-files/Logo-1B-SMALL-Gold-Blue.png" width="20%" height="20%"> 
+<img src="https://sloan.org/storage/app/media/uploaded-files/Logo-1B-SMALL-Gold-Blue.png" width="75%" height="75%"> 
 
 AGU's Notebooks Now! project is supported through the **Notebooks Now! Elevating notebooks into scholarly publishing** project with funding provided by the Sloan Foundation.
 
-<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" width="30%" height="30%"> 
+<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" width="50%" height="50%"> 
 
 AGU's Ethics in AI/ML project is supported through the **Ethics in Use of Artificial Intelligence (AI) and Machine Learning (ML) in Science** project with funding provided by NASA, grant 21-TWSC21-0023.
 
