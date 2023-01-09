@@ -3,7 +3,7 @@ layout: page
 title: Data FAIR at AGU
 permalink: /datafair/
 feature-img: "assets/img/pexels/AGU-Stock-Nasa-Satellite-water-1314x400.jpg"
-tags: [Data FAIR][Fall Meeting]
+tags: [Data FAIR, Fall Meeting]]
 ---
 #Open Science and Data at AGU22  
 Join us in Chicago or online for this year's [AGU Fall Meeting](https://www.agu.org/Fall-Meeting). Open Science is taking center stage at #AGU22 so don't miss out on our exciting array of sessions and town halls. Visit us at the [Open Science and Data Help Desk](https://www.esipfed.org/data-help-desk-at-agu-2022) for short talks, meet-the-editor events, or just to chat with our experts! Contact us at [datahelp@agu.org](mailto:datahelp@agu.org) if you have any questions. 
