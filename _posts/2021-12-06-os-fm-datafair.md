@@ -1,9 +1,8 @@
 ---
-layout: page
-title: Data FAIR at AGU
-permalink: /datafair/
+layout: post
+title: Data FAIR at AGU 2021
 feature-img: "assets/img/pexels/AGU-Stock-Nasa-Satellite-water-1314x400.jpg"
-tags: [Data FAIR, Fall Meeting]
+tags: [Posts, Fall Meeting, Data FAIR]
 ---
 
 
@@ -64,4 +63,3 @@ _Hybrid except where noted_
 A program of AGU, ESIP, EarthCube, and their Partners.  
 
 ![AGU Logo](../assets/img/agu-trademark-logo.png) ![ESIP Logo](../assets/img/esip-logo-uptodate-tm.png) ![EarthCube Logo](../assets/img/EarthCube-Blue-Long.png)
-
