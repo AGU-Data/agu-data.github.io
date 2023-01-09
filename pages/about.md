@@ -6,32 +6,27 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [About]
 ---
 
-AGU’s Open Science Leadership Program (FKA Data Leadership) website provides the Earth, space, and environmental science community with information on the latest work within AGU’s Open Science Leadership Program as well as highlights and links from other community work around best practices that support management, preservation, sharing, and citation of data and software. 
+AGU’s Open Science Leadership Program (FKA Data Leadership) website provides the Earth, space, and environmental science community with information on the latest work from our team as well as highlights and resources from other community work around best practices that support management, preservation, sharing, and citation of data and software. 
 
-[AGU's Open Science Leadership Webpage](https://www.agu.org/Learn-About-AGU/About-AGU/Data-Leadership)  
-[AGU Data and Software Author Guidance](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors)  
-[AGU Data Leadership Community on Zenodo](https://zenodo.org/communities/agu-data-leadership)  
-
-<u>AGU’s Open Science Leadership Team:</u>
-  
+### AGU’s Open Science Leadership Team:  
 **Shelley Stall**  
-Sr. Director, [0000-0003-2926-8353](https://orcid.org/0000-0003-2926-8353)
+Vice President, [0000-0003-2926-8353](https://orcid.org/0000-0003-2926-8353)
 
 **Kristina Vrouwenvelder**
 Program Manager, [0000-0002-5862-2502](https://orcid.org/0000-0002-5862-2502)
 
 **Brian Sedora**
 Sr. Program Manager (Open Science and Publications), [0000-0003-0825-5967](https://orcid.org/0000-0003-0825-5967)
+
+### Helpful Links:
+[Learn about Open Science at AGU](https://www.agu.org/open-science)  
+[AGU Data and Software Author Guidance](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors)  
+[AGU Data Leadership Community on Zenodo](https://zenodo.org/communities/agu-data-leadership)   
+[Information on our current projects and funders](https://data.agu.org/projects/)
   
-Email: [DataHelp@agu.org](mailto:DataHelp@agu.org) 
- 
+### Contact Us:
 
-![PARSEC logo](/assets/img/about/parsec-logo-150pxWide.png "PARSEC logo") The AGU Open Science Leadership team is supported through the **Building New Tools for Data Sharing and Re-use through a Transnational Investigation of the Socioeconomic Impacts of Protected Areas (PARSEC)** project with funding provided by the Belmont Forum through the National Science Foundation, Grant 1929464   
+For updates from the Open Science Leadership Team, [join our mailing list](https://forms.monday.com/forms/b4284b3ea07f6e4d801f03451d5f7ac4?r=use1)!
 
-[PARSEC Project website](http://parsecproject.org)  
-[PARSEC Materials](https://zenodo.org/communities/parsec/)  
 
-![UNESCO logo](/assets/img/about/808px-UNESCO_logo-150pxWide.png "UNESCO logo") The PARSEC project team is also funded by UNESCO/IGCP, Project 697. 
- 
-![NSF logo](/assets/img/about/NSF_4-Color_bitmap_Logo-150pxWide.png "NSF logo") AGU's Open Science Leadership work connecting data and software citation in our journals through to the NSF Public Access Repository is funded through the **Accelerating Open and FAIR Data Practices Across the Earth, Space, and Environmental Sciences: A Pilot with the NSF to Support Public Access to Research Data** project, National Science Foundation, Grant 2025364.
-
+Questions about data and software sharing in AGU publications? [Email our help line](mailto:DataHelp@agu.org).
