@@ -2,7 +2,7 @@
 layout: post
 title: Data FAIR at AGU 2021
 feature-img: "assets/img/pexels/AGU-Stock-Nasa-Satellite-water-1314x400.jpg"
-tags: [Posts, Fall Meeting,DataFAIR]
+tags: [Posts, Fall Meeting, Data FAIR]
 ---
 
 

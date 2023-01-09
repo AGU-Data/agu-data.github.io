@@ -38,15 +38,20 @@ Ensuring all papers from NSF grants published at AGU have proper data citations.
 
 # Funding
  
-![Sloan logo](/assets/img/resources/sloan.png "Sloan logo") AGU's Notebooks Now! project is supported through the **Notebooks Now! Elevating notebooks into scholarly publishing.** project with funding provided by the Sloan Foundation.
+<img src="https://sloan.org/storage/app/media/uploaded-files/Logo-1B-SMALL-Gold-Blue.png" width="50%" height="50%"> 
 
-![NASA logo](/assets/img/resources/nasa.png "NASA logo") AGU's Ethics in AI/ML project is supported through the **Ethics in Use of Artificial Intelligence (AI) and Machine Learning (ML) in Science** project with funding provided by NASA, grant 21-TWSC21-0023.
+AGU's Notebooks Now! project is supported through the **Notebooks Now! Elevating notebooks into scholarly publishing** project with funding provided by the Sloan Foundation.
 
-![PARSEC logo](/assets/img/about/parsec-logo-150pxWide.png "PARSEC logo") The AGU Open Science Leadership team is supported through the **Building New Tools for Data Sharing and Re-use through a Transnational Investigation of the Socioeconomic Impacts of Protected Areas (PARSEC)** project with funding provided by the Belmont Forum through the National Science Foundation, Grant 1929464.   
+<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" width="40%" height="40%"> 
 
+AGU's Ethics in AI/ML project is supported through the **Ethics in Use of Artificial Intelligence (AI) and Machine Learning (ML) in Science** project with funding provided by NASA, grant 21-TWSC21-0023.
 
+![PARSEC logo](/assets/img/about/parsec-logo-150pxWide.png "PARSEC logo")  
+The AGU Open Science Leadership team is supported through the **Building New Tools for Data Sharing and Re-use through a Transnational Investigation of the Socioeconomic Impacts of Protected Areas (PARSEC)** project with funding provided by the Belmont Forum through the National Science Foundation, Grant 1929464.   
 
-![UNESCO logo](/assets/img/about/808px-UNESCO_logo-150pxWide.png "UNESCO logo") The PARSEC project team is also funded by UNESCO/IGCP, Project 697. 
+![UNESCO logo](/assets/img/about/808px-UNESCO_logo-150pxWide.png "UNESCO logo")  
+The PARSEC project team is also funded by UNESCO/IGCP, Project 697. 
  
-![NSF logo](/assets/img/about/NSF_4-Color_bitmap_Logo-150pxWide.png "NSF logo") AGU's Open Science Leadership work connecting data and software citation in our journals through to the NSF Public Access Repository is funded through the **Accelerating Open and FAIR Data Practices Across the Earth, Space, and Environmental Sciences: A Pilot with the NSF to Support Public Access to Research Data** project, National Science Foundation, Grant 2025364.
+![NSF logo](/assets/img/about/NSF_4-Color_bitmap_Logo-150pxWide.png "NSF logo")  
+AGU's Open Science Leadership work connecting data and software citation in our journals through to the NSF Public Access Repository is funded through the **Accelerating Open and FAIR Data Practices Across the Earth, Space, and Environmental Sciences: A Pilot with the NSF to Support Public Access to Research Data** project, National Science Foundation, Grant 2025364.
 
