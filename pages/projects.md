@@ -36,6 +36,15 @@ Researcher-oriented guidance that improves data management practices, developed 
 ### Focus:
 Ensuring all papers from NSF grants published at AGU have proper data citations. Expanding to all papers. 
 
+## Data Citation Community of Practice
+### Focus
+This community of practice for data citation in the Earth, space and environmental sciences builds on discussions held at the AGU Fall Meeting 2021 Data FAIR Town Hall, "Why Is Citing Data Still Hard?". In this community of practice, we will work to address the use case of citing a large number of datasets, to ensure that credit for individual datasets is properly assigned. 
+
+### Website:
+[https://data.agu.org/DataCitationCoP/](https://data.agu.org/DataCitationCoP/)
+
+[Group Publications and Outputs](https://data.agu.org/DataCitationCoP/publications)
+
 # Funding
  
 <img src="https://sloan.org/storage/app/media/uploaded-files/Logo-1B-SMALL-Gold-Blue.png" width="50%" height="50%"> 
