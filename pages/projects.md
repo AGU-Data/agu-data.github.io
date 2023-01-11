@@ -21,7 +21,7 @@ Work with the computational notebook community to design and implement a publish
 Develop principles and responsibilities for Earth, space, and environmental science research employing artificial intelligence and machine learning.
 
 ### Website:
-[https://github.com/AGU-Data/ethics-ai-ml](https://github.com/AGU-Data/ethics-ai-ml)
+[https://data.agu.org/ethics-ai-ml](https://data.agu.org/ethics-ai-ml))
 
 ## PARSEC
 ### Focus:
