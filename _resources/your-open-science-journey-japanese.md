@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Open Science Journey - Japanese
-feature-img: "assets/img/pexels/AGU-Stock-Underwater-Rocks-Sunlight-1314x400.jpg"
+feature-img: "assets/img/pexels/sora-sagano-8sOZJ8JF0S8-unsplash.jpg"
 img: "assets/img/resources/agu-trademark-logo-horiz-128.png"
 date: 08 May 2023
 tags: [AGU, Resources, PARSEC, Open Science]
