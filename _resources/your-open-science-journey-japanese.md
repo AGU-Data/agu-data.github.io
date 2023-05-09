@@ -71,14 +71,17 @@ Developing a preservation plan for your research team will help ensure your rese
 
 Use these guidelines: [Digital Objects Open Science Checklist for Teams](https://doi.org/10.5281/zenodo.7402540)
 
+## Developed by the PARSEC Project Team
+![image](https://user-images.githubusercontent.com/113625013/206821607-d5ad3f16-cc73-44fe-87c3-9df3ea68fe38.png)
+
 ## Stay connected
 You can read more about AGU’s work in Open Science on [our homepage](https://www.agu.org/open-science).
 
 To receive (infrequent) emails about AGU’s work in Open Science, you are welcome to [sign up to our email list](https://forms.monday.com/forms/b4284b3ea07f6e4d801f03451d5f7ac4?r=use1). 
 
 ## Funding
-![image](https://user-images.githubusercontent.com/113625013/206821607-d5ad3f16-cc73-44fe-87c3-9df3ea68fe38.png)
-![image](/assets/img/resources/belmont-forum.jpg)
+![image](/assets/img/resources/belmont-logo.png)
+![image](/assets/img/resources/NSF_400.png)
 <img width="234" alt="image" src="https://user-images.githubusercontent.com/113625013/207131273-43f98984-18d9-4d11-8fe3-dd5041aaae16.png">
 <img width="234" alt="image" src="https://user-images.githubusercontent.com/113625013/207131420-f0d43157-4fb6-40c4-aa5c-c8cec25ac07e.png">
 <img width="234" alt="image" src="https://user-images.githubusercontent.com/113625013/207131458-73350660-1aee-4575-82c8-4e4aa682ce9d.png">
