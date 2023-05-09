@@ -80,9 +80,10 @@ You can read more about AGU’s work in Open Science on [our homepage](https://w
 To receive (infrequent) emails about AGU’s work in Open Science, you are welcome to [sign up to our email list](https://forms.monday.com/forms/b4284b3ea07f6e4d801f03451d5f7ac4?r=use1). 
 
 ## Funding
-![image](/assets/img/resources/belmont-logo.png)
+![image](/assets/img/resources/belmont_logo.png)
 ![image](/assets/img/resources/NSF_400.png)
-<img width="234" alt="image" src="https://user-images.githubusercontent.com/113625013/207131273-43f98984-18d9-4d11-8fe3-dd5041aaae16.png">
-<img width="234" alt="image" src="https://user-images.githubusercontent.com/113625013/207131420-f0d43157-4fb6-40c4-aa5c-c8cec25ac07e.png">
-<img width="234" alt="image" src="https://user-images.githubusercontent.com/113625013/207131458-73350660-1aee-4575-82c8-4e4aa682ce9d.png">
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/113625013/207131486-6ba8e720-c960-47fb-81fc-2e43f3a02842.png">
+![image](/assets/img/resources/JST_400.png)
+![image](/assets/img/resources/FAPESP_400.png)
+![image](/assets/img/resources/CESAB_small._RGB.png)
+![image](/assets/img/resources/ANR_400.png)
+![image](/assets/img/resources/808px-UNESCO_logo.svg.png)
