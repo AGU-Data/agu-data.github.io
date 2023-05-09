@@ -2,7 +2,7 @@
 layout: post
 title: Your Open Science Journey - Japanese
 feature-img: "assets/img/pexels/sora-sagano-8sOZJ8JF0S8-unsplash.jpg"
-img: "assets/img/resources/agu-trademark-logo-horiz-128.png"
+img: "assets/img/resources/finn-hackshaw-FQgI8AD-BSg-unsplash.jpg"
 date: 08 May 2023
 tags: [AGU, Resources, PARSEC, Open Science]
 ---
@@ -73,6 +73,10 @@ Use these guidelines: [Digital Objects Open Science Checklist for Teams](https:/
 
 ## Developed by the PARSEC Project Team
 ![image](https://user-images.githubusercontent.com/113625013/206821607-d5ad3f16-cc73-44fe-87c3-9df3ea68fe38.png)
+
+Image Credit: 
+Logo (resources page): Photo by Finn Hackshaw on Unsplash
+Banner (this page): Photo by Sora Sagano on Unsplash
 
 ## Stay connected
 You can read more about AGU’s work in Open Science on [our homepage](https://www.agu.org/open-science).
