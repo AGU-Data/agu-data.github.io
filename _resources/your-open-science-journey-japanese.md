@@ -20,16 +20,20 @@ To get you started on your journey towards Open Science, we have prepared a set 
 
 ### 1. Your Digital Presence 
 
-### Connect your research to your data, software, institution, and more!
+__Connect your research to your data, software, institution, and more!
 
 As a researcher you have control over how you are represented digitally. Managing your digital profile can help optimize your digital presence, increase the visibility of your work and scientific contributions, connect with potential collaborators and partners, and receive credit when others use your work.  We call this “Your Digital Presence”! 
+
 Use this checklist and short video for guidance on managing [Your Digital Presence](https://data.agu.org/resources/digital-presence).
 
-![image](https://user-images.githubusercontent.com/113625013/206806330-26049e18-8857-4fbb-839f-50d9a8573f5e.png)
 
-2. [Data Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062403)
+### 2. Data Documentation and Citation Checklist
+
+__Share the data that supports your research with an Availability Statement and proper citation in the References Section.
  
 The data you create for your research is a valuable contribution to the scientific record. It is important to plan the creation, management, storage, and preservation needed to share your data so this contribution can be recognized. Use this checklist to improve your data management and sharing practices.
+
+Use this [Data Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062403) 
 
 ![image](https://user-images.githubusercontent.com/113625013/206806906-e4b057be-4ade-4451-b4f0-29ab6be47f52.png)
 
