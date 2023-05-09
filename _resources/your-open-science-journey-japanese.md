@@ -20,7 +20,7 @@ To get you started on your journey towards Open Science, we have prepared a set 
 
 ### 1. Your Digital Presence 
 
-### _Connect your research to your data, software, institution, and more!
+#### _Connect your research to your data, software, institution, and more!_
 
 As a researcher you have control over how you are represented digitally. Managing your digital profile can help optimize your digital presence, increase the visibility of your work and scientific contributions, connect with potential collaborators and partners, and receive credit when others use your work.  We call this “Your Digital Presence”! 
 
@@ -29,7 +29,7 @@ Use this checklist and short video for guidance on managing [Your Digital Presen
 
 ### 2. Data Documentation and Citation Checklist
 
-### _Share the data that supports your research with an Availability Statement and proper citation in the References Section.
+#### _Share the data that supports your research with an Availability Statement and proper citation in the References Section._
  
 The data you create for your research is a valuable contribution to the scientific record. It is important to plan the creation, management, storage, and preservation needed to share your data so this contribution can be recognized. 
 
@@ -38,7 +38,7 @@ Use this [Data Documentation and Citation Checklist](https://doi.org/10.5281/zen
 
 ### 3. Software Documentation and Citation Checklist
 
-### _Share the software that supports your research with an Availability Statement and proper citation in the References Section.
+#### _Share the software that supports your research with an Availability Statement and proper citation in the References Section._
 
 The software you develop for your research is a valuable contribution to the scientific record. It is important to plan the version control, management, storage, and preservation needed to share your software so your contribution can be recognized and built on. 
 
@@ -46,23 +46,30 @@ Use this [Software Documentation and Citation Checklist](https://doi.org/10.5281
 
 ## Discover steps for your team to take as they move towards working openly
 
-![image](https://user-images.githubusercontent.com/113625013/206807115-4d22cc56-8d7e-4ccf-9962-3ae110c22797.png)
+### 4. Open Science Practices for Teams
 
-4. [Open Science Practices for Teams](https://doi.org/10.5281/zenodo.7402075)
+#### _Prepare Your Team for Open Science._
 
 Help your lab or research team take the initial steps towards Open Science by developing and incorporating Open Science practices in your research workflow. Improve your team’s data and software management practices and learn preservation best practices. 
 
-![image](https://user-images.githubusercontent.com/113625013/206807323-7232fdc0-1978-40b8-a489-c38636b9edbc.png)
+Use these guidelines: [Open Science Practices for Teams](https://doi.org/10.5281/zenodo.7402075)
 
-5. [Open Science Resources and Guidance for Teams](https://doi.org/10.5281/zenodo.7402270)
+### 5. Open Science Resources and Guidance for Teams
+
+#### _Equip Your Team for Open Science._
 
 Practicing transparency and openness allows research teams and collaborators to work together efficiently and effectively, enhancing the research workflow. Open Science practices can help teams to work together smoothly, even when they’re not in the same room. Ensure your team has access to common resources and guidelines that support collaboration, transparency, and openness.
 
-![image](https://user-images.githubusercontent.com/113625013/206807544-75857ce3-1376-4736-99d8-0d177a1eeb26.png)
+Use these guidelines: [Open Science Resources and Guidance for Teams](https://doi.org/10.5281/zenodo.7402270)
 
-6. [Digital Objects Open Science Checklist for Teams](https://doi.org/10.5281/zenodo.7402540)
+
+### 6. Digital Objects Open Science Checklist for Teams
+
+#### _Develop a Team Preservation Process._
 
 Developing a preservation plan for your research team will help ensure your research is always documented, data is backed up, and results are reproducible, even as the team changes. Use this checklist to ensure all digital objects created or used by the team are fully documented, preserved for the long-term, and made openly accessible to the team.
+
+Use these guidelines: [Digital Objects Open Science Checklist for Teams](https://doi.org/10.5281/zenodo.7402540)
 
 ## Stay connected
 You can read more about AGU’s work in Open Science on [our homepage](https://www.agu.org/open-science).
