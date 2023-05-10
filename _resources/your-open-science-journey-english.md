@@ -86,9 +86,11 @@ To receive (infrequent) emails about AGU’s work in Open Science, you are welco
 ### Funding
 <img src=/assets/img/resources/belmont_logo.png" width="50" height="50">
 
-![image](/assets/img/resources/NSF_400.png)
-![image](/assets/img/resources/JST_400.png)
-![image](/assets/img/resources/FAPESP_400.png)
-![image](/assets/img/resources/CESAB_small._RGB.png)
-![image](/assets/img/resources/ANR_400.png)
-![image](/assets/img/resources/808px-UNESCO_logo.svg.png)
+### Funding
+<img width="230" alt="image" src=/assets/img/resources/belmont_logo.png>
+<img width="230" alt="image" src=/assets/img/resources/NSF_400.png>
+<img width="230" alt="image" src=/assets/img/resources/JST_400.png>
+<img width="230" alt="image" src=/assets/img/resources/FAPESP_400.png>
+<img width="230" alt="image" src=/assets/img/resources/CESAB_small._RGB.png>
+<img width="230" alt="image" src=/assets/img/resources/ANR_400.png>
+<img width="230" alt="image" src=/assets/img/resources/UNESCO.png>
