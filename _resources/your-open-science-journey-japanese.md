@@ -84,7 +84,8 @@ You can read more about AGU’s work in Open Science on [our homepage](https://w
 To receive (infrequent) emails about AGU’s work in Open Science, you are welcome to [sign up to our email list](https://forms.monday.com/forms/b4284b3ea07f6e4d801f03451d5f7ac4?r=use1). 
 
 ### Funding
-![image](/assets/img/resources/belmont_logo.png)
+<img src=/assets/img/resources/belmont_logo.png" width="50" height="50">
+
 ![image](/assets/img/resources/NSF_400.png)
 ![image](/assets/img/resources/JST_400.png)
 ![image](/assets/img/resources/FAPESP_400.png)
