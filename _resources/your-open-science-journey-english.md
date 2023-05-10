@@ -33,7 +33,7 @@ Use this checklist and short video for guidance on managing [Your Digital Presen
  
 The data you create for your research is a valuable contribution to the scientific record. It is important to plan the creation, management, storage, and preservation needed to share your data so this contribution can be recognized. 
 
-Use this [Data Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062403) to improve your data management and sharing practices. 
+Use this [Data Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062402) to improve your data management and sharing practices. 
 
 
 ### 3. Software Documentation and Citation Checklist
@@ -42,7 +42,7 @@ Use this [Data Documentation and Citation Checklist](https://doi.org/10.5281/zen
 
 The software you develop for your research is a valuable contribution to the scientific record. It is important to plan the version control, management, storage, and preservation needed to share your software so your contribution can be recognized and built on. 
 
-Use this [Software Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062414) to improve your software management and sharing practices.
+Use this [Software Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062413) to improve your software management and sharing practices.
 
 ## Discover steps for your team to take as they move towards working openly
 
