@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Open Science Journey
-feature-img: "assets/img/pexels/OSJ-English-banner.jpeg"
+feature-img: "assets/img/resources/OSJ-English-banner.jpeg"
 img: "assets/img/resources/OSJ-english-logo.png"
 date: 08 May 2023
 tags: [AGU, Resources, PARSEC, Open Science]
