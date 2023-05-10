@@ -33,7 +33,7 @@ Use this checklist and short video for guidance on managing [Your Digital Presen
  
 The data you create for your research is a valuable contribution to the scientific record. It is important to plan the creation, management, storage, and preservation needed to share your data so this contribution can be recognized. 
 
-Use this [Data Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062402) to improve your data management and sharing practices. 
+Use this [Data Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062402) to improve your data management and sharing practices. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7062402.svg)](https://doi.org/10.5281/zenodo.7062402)
 
 
 ### 3. Software Documentation and Citation Checklist
@@ -42,7 +42,7 @@ Use this [Data Documentation and Citation Checklist](https://doi.org/10.5281/zen
 
 The software you develop for your research is a valuable contribution to the scientific record. It is important to plan the version control, management, storage, and preservation needed to share your software so your contribution can be recognized and built on. 
 
-Use this [Software Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062413) to improve your software management and sharing practices.
+Use this [Software Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062413) to improve your software management and sharing practices. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7062413.svg)](https://doi.org/10.5281/zenodo.7062413)
 
 ## Discover steps for your team to take as they move towards working openly
 
@@ -52,7 +52,7 @@ Use this [Software Documentation and Citation Checklist](https://doi.org/10.5281
 
 Help your lab or research team take the initial steps towards Open Science by developing and incorporating Open Science practices in your research workflow. Improve your team’s data and software management practices and learn preservation best practices. 
 
-Use these guidelines: [Open Science Practices for Teams](https://doi.org/10.5281/zenodo.7402075)
+Use these guidelines: [Open Science Practices for Teams](https://doi.org/10.5281/zenodo.7402075)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402075.svg)](https://doi.org/10.5281/zenodo.7402075)
 
 ### 5. Open Science Resources and Guidance for Teams
 
@@ -60,7 +60,7 @@ Use these guidelines: [Open Science Practices for Teams](https://doi.org/10.5281
 
 Practicing transparency and openness allows research teams and collaborators to work together efficiently and effectively, enhancing the research workflow. Open Science practices can help teams to work together smoothly, even when they’re not in the same room. Ensure your team has access to common resources and guidelines that support collaboration, transparency, and openness.
 
-Use these guidelines: [Open Science Resources and Guidance for Teams](https://doi.org/10.5281/zenodo.7402270)
+Use these guidelines: [Open Science Resources and Guidance for Teams](https://doi.org/10.5281/zenodo.7402270)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402270.svg)](https://doi.org/10.5281/zenodo.7402270)
 
 
 ### 6. Digital Objects Open Science Checklist for Teams
@@ -69,7 +69,7 @@ Use these guidelines: [Open Science Resources and Guidance for Teams](https://do
 
 Developing a preservation plan for your research team will help ensure your research is always documented, data is backed up, and results are reproducible, even as the team changes. Use this checklist to ensure all digital objects created or used by the team are fully documented, preserved for the long-term, and made openly accessible to the team.
 
-Use these guidelines: [Digital Objects Open Science Checklist for Teams](https://doi.org/10.5281/zenodo.7402540)
+Use these guidelines: [Digital Objects Open Science Checklist for Teams](https://doi.org/10.5281/zenodo.7402540)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402540.svg)](https://doi.org/10.5281/zenodo.7402540)
 
 ## Developed by the PARSEC Project Team
 ![image](https://user-images.githubusercontent.com/113625013/206821607-d5ad3f16-cc73-44fe-87c3-9df3ea68fe38.png)
