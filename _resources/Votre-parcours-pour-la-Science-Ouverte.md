@@ -41,10 +41,10 @@ Utilisez cette check-liste [Documentation et Citation des Données](https://doi.
 Les logiciels que vous développez dans le cadre de votre recherche constituent une contribution précieuse au patrimoine scientifique. Il est important de planifier le contrôle des versions, la gestion, le stockage et l’archivage requis pour partager vos logiciels et afin que votre contribution puisse être reconnue et exploitée. 
 Utilisez cette check-liste [Documentation et Citation des Logiciels](https://doi.org/10.5281/zenodo.7847721) pour améliorer vos pratiques de gestion et de partage des données. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847721.svg)](https://doi.org/10.5281/zenodo.7847721)
  
-## Découvrez les étapes à suivre par votre équipe pour travailler ouvertement 
-
 <!--  commented out until the French versions are ready 
 
+
+## Découvrez les étapes à suivre par votre équipe pour travailler ouvertement 
 
 ### 4. Pratiques de science ouverte pour les équipes
  
