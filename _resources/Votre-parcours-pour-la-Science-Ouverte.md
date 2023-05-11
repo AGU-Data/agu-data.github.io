@@ -31,6 +31,7 @@ Utilisez cette check-liste pour vous guider dans la gestion de [Votre présence 
  
 #### _Partagez les données qui sous-tendent votre recherche avec une déclaration de disponibilité et une citation appropriée dans la section des références._
 Les données que vous créez dans le cadre de votre recherche constituent une contribution précieuse au patrimoine scientifique. Il est important de planifier la création, la gestion, le stockage et l’archivage requis pour partager vos données et afin que cette contribution soit reconnue. 
+
 Utilisez cette check-liste [Documentation et Citation des Données](https://doi.org/10.5281/zenodo.7847718) pour améliorer vos pratiques de gestion et de partage des données.  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847718.svg)](https://doi.org/10.5281/zenodo.7847718)
  
  
@@ -39,6 +40,7 @@ Utilisez cette check-liste [Documentation et Citation des Données](https://doi.
 #### _Partagez les logiciels qui sous-tendent votre recherche à l’aide d’une déclaration de disponibilité et d’une citation appropriée dans la section des références._
  
 Les logiciels que vous développez dans le cadre de votre recherche constituent une contribution précieuse au patrimoine scientifique. Il est important de planifier le contrôle des versions, la gestion, le stockage et l’archivage requis pour partager vos logiciels et afin que votre contribution puisse être reconnue et exploitée. 
+
 Utilisez cette check-liste [Documentation et Citation des Logiciels](https://doi.org/10.5281/zenodo.7847721) pour améliorer vos pratiques de gestion et de partage des données. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847721.svg)](https://doi.org/10.5281/zenodo.7847721)
  
 <!--  commented out until the French versions are ready 
