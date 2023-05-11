@@ -43,17 +43,19 @@ Utilisez cette check-liste [Documentation et Citation des Logiciels](https://doi
  
 ## Découvrez les étapes à suivre par votre équipe pour travailler ouvertement 
 
----
+<!--  commented out until the French versions are ready 
+
+
 ### 4. Pratiques de science ouverte pour les équipes
  
-#### _ Préparez votre équipe à la Science Ouverte._
+#### _Préparez votre équipe à la Science Ouverte._
  
 Aidez votre laboratoire ou votre équipe de recherche à faire ses premiers pas vers la science ouverte en développant et en intégrant des pratiques de science ouverte dans vos processus de recherche. Améliorez les pratiques de gestion des données et des logiciels de votre équipe et apprenez les meilleures pratiques d’archivage. 
 Suivez ces recommandations: [Préparez votre équipe à la Science Ouverte](https://doi.org/10.5281 /zenodo.7402075)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402075.svg)](https://doi.org/10.5281/zenodo.7402075)
  
 ### 5. Ressources et recommandations en science ouverte, pour les équipes
  
-#### _ Outillez votre équipe pour la Science Ouverte._
+#### _Outillez votre équipe pour la Science Ouverte._
  
 La transparence et l'ouverture permettent aux équipes de recherche et à leurs collaborat.eur.rice.s de travailler ensemble de manière efficace, améliorant ainsi le déroulement de la recherche. Les pratiques de la science ouverte peuvent aider les équipes à travailler ensemble sans heurts, en présence et à distance. Veillez à ce que votre équipe ait accès à des ressources communes et à des recommandations qui favorisent la collaboration, la transparence et l'ouverture.
 
@@ -61,18 +63,20 @@ Suivez ces recommandations : [Outillez votre équipe pour la Science Ouverte](ht
  
  
 ### 6.– Check-listes pour l’ouverture des objets numériques à l'intention des équipes 
-#### _ Développez de bonnes pratiques de sauvegarde dans votre équipe._
+#### _Développez de bonnes pratiques de sauvegarde dans votre équipe._
  
 L'élaboration d'un plan de sauvegarde des objets numériques pour votre équipe de recherche vous permettra de vous assurer que votre recherche est toujours documentée, que les données sont sauvegardées et que les résultats sont reproductibles, même si l'équipe change. Utilisez cette check-liste pour vous assurer que tous les objets numériques créés ou utilisés par l'équipe sont entièrement documentés, archivés et rendus librement accessibles à l'équipe.
 
 Utilisez cette check-liste: [Check-Liste pour La Sauvegarde des Objets Numériques] (https://doi.org/10.5281/zenodo.7402540)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402540.svg)](https://doi.org/10.5281/zenodo.7402540)
+end coment -->
+
+
 ---
 
 ## Développé par l'équipe du projet PARSEC
 ![image](https://user-images.githubusercontent.com/113625013/206821607-d5ad3f16-cc73-44fe-87c3-9df3ea68fe38.png)
  
 ### Crédit Image
- 
 Logo (page des ressources) et bannière (cette page) : Photo d'Antony BEC sur Unsplash, utilisant la licence Unsplash+. 
  
 ### Restez connecté
@@ -82,6 +86,3 @@ Pour recevoir des courriels (peu fréquents) sur le travail de l'AGU dans le dom
  
 ### Financement
 Ce travail a été réalisé dans le cadre du projet PARSEC (Building New Tools for Data Sharing and Re-use through a Transnational Investigation of the Socioeconomic Impacts of Protected Areas) financé par le Forum Belmont via la National Science Foundation, NSF, Grant 1929464, (USA), l'Agence Nationale de la Recherche, ANR (France), la Fundação de Amparo à Pesquisa do Estado de São Paulo, FAPESP (Brésil), et la Japan Science and Technology Agency, JST (Japon).
-
-
-
