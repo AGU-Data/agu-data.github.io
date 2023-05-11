@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Votre parcours pour la Science Ouverte
-feature-img: "assets/img/resources/OSJ-English-banner.jpeg"
-img: "assets/img/resources/OSJ-english-logo.png"
+feature-img: "assets/img/resources/OSJ-French-banner.jpeg"
+img: "assets/img/resources/OSJ-French-logo.png"
 date: May 11 2023
 tags: [AGU, Resources, PARSEC, Open Science]
 ---
@@ -72,7 +72,7 @@ Utilisez cette check-liste: [Check-Liste pour La Sauvegarde des Objets Numériqu
  
 ### Crédit Image
  
-Logo (page des ressources) et bannière (cette page) : Photo d'Aaron Brunhofer sur Unsplash, utilisant la licence Unsplash+.
+Logo (page des ressources) et bannière (cette page) : Photo d'Antony BEC sur Unsplash, utilisant la licence Unsplash+. 
  
 ### Restez connecté
 Vous pouvez en savoir plus sur le travail de l'AGU dans le domaine de la science ouverte sur [page d'accueil] (https://www.agu.org/open-science). 
