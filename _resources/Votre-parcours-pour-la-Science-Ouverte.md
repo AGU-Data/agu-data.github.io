@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Votre parcours pour la Science Ouverte
-feature-img: "assets/img/resources/OSJ-French-banner.jpeg"
+feature-img: "assets/img/resources/OSJ-French-banner.jpg"
 img: "assets/img/resources/OSJ-French-logo.png"
 date: May 11 2023
 tags: [AGU, Resources, PARSEC, Open Science]
@@ -21,29 +21,29 @@ Pour vous aider à démarrer votre « parcours science ouverte », nous avons pr
  
 ### 1. Votre présence numérique
  
-#### _ Connectez votre recherche à vos données, logiciels, institutions, et plus!_
+#### _Connectez votre recherche à vos données, logiciels, institutions, et plus!_
  
 En tant que chercheur, vous contrôlez la façon dont vous êtes représenté dans l’écosystème numérique. La gestion de votre profil numérique peut vous aider à optimiser votre présence numérique, à accroître la visibilité de votre travail et de vos contributions scientifiques, à entrer en contact avec des collaborateurs et des partenaires potentiels et à recevoir certaines formes de reconnaissance lorsque d'autres personnes utilisent votre travail.  C'est ce que nous appelons "votre présence numérique" !
 
-Utilisez cette check-liste et cette courte vidéo pour vous guider dans la gestion de [Votre présence numérique]. (https://data.agu.org/resources/digital-presence).
- 
+Utilisez cette check-liste pour vous guider dans la gestion de [Votre présence numérique](https://doi.org/10.5281/zenodo.7847715)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847715.svg)](https://doi.org/10.5281/zenodo.7847715) 
  
 ### 2. Documentation et Citation des Données
  
-#### _ Partagez les données qui sous-tendent votre recherche avec une déclaration de disponibilité et une citation appropriée dans la section des références._
+#### _Partagez les données qui sous-tendent votre recherche avec une déclaration de disponibilité et une citation appropriée dans la section des références._
 Les données que vous créez dans le cadre de votre recherche constituent une contribution précieuse au patrimoine scientifique. Il est important de planifier la création, la gestion, le stockage et l’archivage requis pour partager vos données et afin que cette contribution soit reconnue. 
-Utilisez cette check-liste [Documentation et Citation des Données] pour améliorer vos pratiques de gestion et de partage des données.  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7062402.svg)](https://doi.org/10.5281/zenodo.7062402)
+Utilisez cette check-liste [Documentation et Citation des Données](https://doi.org/10.5281/zenodo.7847718) pour améliorer vos pratiques de gestion et de partage des données.  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847718.svg)](https://doi.org/10.5281/zenodo.7847718)
  
  
 ### 3. Documentation et Citation des Logiciels
  
-#### _ Partagez les logiciels qui sous-tendent votre recherche à l’aide d’une déclaration de disponibilité et d’une citation appropriée dans la section des références._
+#### _Partagez les logiciels qui sous-tendent votre recherche à l’aide d’une déclaration de disponibilité et d’une citation appropriée dans la section des références._
  
 Les logiciels que vous développez dans le cadre de votre recherche constituent une contribution précieuse au patrimoine scientifique. Il est important de planifier le contrôle des versions, la gestion, le stockage et l’archivage requis pour partager vos logiciels et afin que votre contribution puisse être reconnue et exploitée. 
-Utilisez cette check-liste [Documentation et Citation des Logiciels] pour améliorer vos pratiques de gestion et de partage des données . [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7062413.svg)](https://doi.org/10.5281/zenodo.7062413)
+Utilisez cette check-liste [Documentation et Citation des Logiciels](https://doi.org/10.5281/zenodo.7847721) pour améliorer vos pratiques de gestion et de partage des données. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847721.svg)](https://doi.org/10.5281/zenodo.7847721)
  
 ## Découvrez les étapes à suivre par votre équipe pour travailler ouvertement 
 
+---
 ### 4. Pratiques de science ouverte pour les équipes
  
 #### _ Préparez votre équipe à la Science Ouverte._
@@ -66,7 +66,8 @@ Suivez ces recommandations : [Outillez votre équipe pour la Science Ouverte](ht
 L'élaboration d'un plan de sauvegarde des objets numériques pour votre équipe de recherche vous permettra de vous assurer que votre recherche est toujours documentée, que les données sont sauvegardées et que les résultats sont reproductibles, même si l'équipe change. Utilisez cette check-liste pour vous assurer que tous les objets numériques créés ou utilisés par l'équipe sont entièrement documentés, archivés et rendus librement accessibles à l'équipe.
 
 Utilisez cette check-liste: [Check-Liste pour La Sauvegarde des Objets Numériques] (https://doi.org/10.5281/zenodo.7402540)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402540.svg)](https://doi.org/10.5281/zenodo.7402540)
- 
+---
+
 ## Développé par l'équipe du projet PARSEC
 ![image](https://user-images.githubusercontent.com/113625013/206821607-d5ad3f16-cc73-44fe-87c3-9df3ea68fe38.png)
  
