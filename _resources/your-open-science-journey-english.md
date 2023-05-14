@@ -84,14 +84,4 @@ You can read more about AGU’s work in Open Science on [our homepage](https://w
 To receive (infrequent) emails about AGU’s work in Open Science, you are welcome to [sign up to our email list](https://forms.monday.com/forms/b4284b3ea07f6e4d801f03451d5f7ac4?r=use1). 
 
 ### Funding
-<img width="230" alt="image" src=/assets/img/resources/belmont_logo.png> <img width="230" alt="image" src=/assets/img/resources/NSF_400.png>
-
-<img width="230" alt="image" src=/assets/img/resources/JST_400.png>
-
-<img width="230" alt="image" src=/assets/img/resources/FAPESP_400.png>
-
-<img width="230" alt="image" src=/assets/img/resources/CESAB_small._RGB.png>
-
-<img width="230" alt="image" src=/assets/img/resources/ANR_400.png>
-
-<img width="230" alt="image" src=/assets/img/resources/UNESCO.png>
+This work is part of the Building New Tools for Data Sharing and Re-use through a Transnational Investigation of the Socioeconomic Impacts of Protected Areas (PARSEC) project with funding provided by the Belmont Forum through the National Science Foundation, NSF, Grant 1929464, (US), Agence Nationale de la Recherche, ANR (France), Fundação de Amparo à Pesquisa do Estado de São Paulo, FAPESP (Brazil), and Japan Science and Technology Agency, JST (Japan).
