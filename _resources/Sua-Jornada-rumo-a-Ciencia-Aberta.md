@@ -17,14 +17,13 @@ Para ajudá-lo(a) na jornada à Ciência Aberta, preparamos um conjunto de check
 – Estas orientações ajudarão você e sua equipe a aprender a **trabalhar de forma aberta e colaborativa**.
 ## Dê os primeiros passos em sua jornada rumo à Ciência Aberta
 
- ### 1. Presença Digital
+### 1. Presença Digital
 
- #### _Conecte sua pesquisa aos seus dados, software, instituição e mais!_
+#### _Conecte sua pesquisa aos seus dados, software, instituição e mais!_
  
 Como pesquisador, você tem controle sobre como é representado digitalmente. Gerenciar seu perfil digital pode ajudar a otimizar sua presença digital, aumentar a visibilidade de seu trabalho e contribuições científicas, facilitar a conexão com colaboradores potenciais e parceiros, e permite receber crédito quando outros usam seu trabalho. Chamamos isso de “Sua Presença Digital”!
  
-Visite este checklist e assista o vídeo curto para diretrizes sobre como gerenciar [Sua Presença Digital](https://data.agu.org/resources/digital-presence).
-Como orientação para o gerenciamento de sua presença digital consulte o Checklist de Presença Digital. 
+Como orientação para o gerenciamento de sua presença digital consulte o [Checklist de Presença Digital](https://doi.org/10.5281/zenodo.7845372).  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7845372.svg)](https://doi.org/10.5281/zenodo.7845372)
  
 ### 2. Checklist de Documentação e Citação de Dados
  
@@ -32,7 +31,6 @@ Como orientação para o gerenciamento de sua presença digital consulte o Check
 Os dados criados por você para sua pesquisa são uma contribuição valiosa para o registro científico. É importante planejar a criação, gerenciamento, armazenamento e preservação necessários para compartilhar seus dados para que essa contribuição seja reconhecida.
  
 Use este [Checklist de Documentação e Citação de Dados](https://doi.org/10.5281/zenodo.7845376) para otimizar sua gestão de dados e práticas de compartilhamento. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7845376.svg)](https://doi.org/10.5281/zenodo.7845376)
- 
  
 ### 3. Checklist de Documentação e Citação de software 
  
@@ -60,8 +58,7 @@ Use estas diretrizes: [Checklist de Práticas de Ciência Aberta para Equipes de
 Praticar transparência e abertura permite que equipes de pesquisa e colaboradores trabalhem juntos de forma eficiente e eficaz, aprimorando o fluxo de trabalho da pesquisa. As práticas de Ciência Aberta podem ajudar as equipes a trabalhar juntas sem problemas, mesmo quando não estão na mesma sala. Garanta que sua equipe tenha acesso a recursos e diretrizes comuns que dão suporte à colaboração, transparência e abertura.
  
 Use este guia: [Checklist de Recursos e Diretrizes para Laboratórios/Equipes](https://doi.org/10.5281/zenodo.XXXX)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXX.svg)](https://doi.org/10.5281/zenodo.XXXX)
- 
- 
+  
 ### 6. Preservação de Objetos Digitais da Equipe
  
 #### _Desenvolva um Processo de Preservação da Equipe._
@@ -87,5 +84,5 @@ Leia mais sobre o trabalho da AGU em Ciência Aberta em [nossa homepage](https:/
 Para receber e-mails (pouco frequentes) sobre o trabalho da AGU em relação à Ciência Aberta, você pode [inscrever-se em nossa lista de e-mail](https://forms.monday.com/forms/b4284b3ea07f6e4d801f03451d5f7ac4?r=use1).
  
 ### Financiamento
- 
+Este trabalho é parte do projeto **Desenvolvimento de Novas Ferramentas para o Compartilhamento e Reuso de Dados através de Pesquisa Transnacional sobre o Impacto Socioeconômico das Unidades de Conservação (PARSEC)** financiado pelo Belmont Forum por meio da National Science Foundation, NSF, Grant 1929464, (EUA), Agence Nationale de la Recherche, ANR (França), Fundação de Amparo à Pesquisa do Estado de São Paulo, FAPESP (Brasil) e Japan Science and Technology Agency, JST (Japão).
 
