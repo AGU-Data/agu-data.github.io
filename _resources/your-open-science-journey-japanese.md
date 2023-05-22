@@ -3,7 +3,7 @@ layout: post
 title: オープンサイエンスジャーニー
 feature-img: "assets/img/pexels/sora-sagano-8sOZJ8JF0S8-unsplash.jpg"
 img: "assets/img/resources/Logo - OS Japanese v2.png"
-date: 2023年5月23日
+date: May 23, 2023
 tags: [AGU, Resources, PARSEC, Open Science]
 ---
 
