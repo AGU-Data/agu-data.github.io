@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It might be the title?
+title: It might be the title
 feature-img: "assets/img/pexels/sora-sagano-8sOZJ8JF0S8-unsplash.jpg"
 img: "assets/img/resources/Logo - OS Japanese v2.png"
 date: May 23 2023
