@@ -3,7 +3,7 @@ layout: post
 title: オープンサイエンスジャーニー
 feature-img: "assets/img/pexels/sora-sagano-8sOZJ8JF0S8-unsplash.jpg"
 img: "assets/img/resources/Logo - OS Japanese v2.png"
-date: 2023年5月8日
+date: 2023年5月23日
 tags: [AGU, Resources, PARSEC, Open Science]
 ---
 
@@ -37,13 +37,13 @@ tags: [AGU, Resources, PARSEC, Open Science]
 [データのドキュメンテーションと引用のチェックリスト](https://doi.org/10.5281/zenodo.7944764)を活用して、あなたのデータ管理と共有方法が、評価や可視化などにつながるようにしましょう。 
 
 
-### 3. Software Documentation and Citation Checklist
+### 3. ソフトウェアのドキュメンテーションと引用のチェックリスト
 
-#### _Share the software that supports your research with an Availability Statement and proper citation in the References Section._
+#### _あなたの研究に利用したソフトウェアを”Data Availability Statement”とともに共有し、参考文献リストの中で適切に引用しましょう。_
 
-The software you develop for your research is a valuable contribution to the scientific record. It is important to plan the version control, management, storage, and preservation needed to share your software so your contribution can be recognized and built on. 
+あなたが研究のために開発したソフトウェアは、過去からの科学の記録、実績の蓄積に加えられるべき貴重な学術的貢献です。計画的なソフトウェアのバージョンコントロール、管理、記録、保存は、あなたのソフトウェアが評価され、学術貢献と認められるために、とても重要です。
 
-Use this [Software Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062414) to improve your software management and sharing practices.
+[ソフトウェアのドキュメンテーションと引用のチェックリスト](https://doi.org/10.5281/zenodo.7944760)を活用して、あなたのソフトウェア管理と共有方法を、より評価され、貢献が認められるようにしていきましょう。
 
 ## Discover steps for your team to take as they move towards working openly
 
