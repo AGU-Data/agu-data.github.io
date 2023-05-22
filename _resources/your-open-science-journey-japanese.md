@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Your Open Science Journey    オープンサイエンスジャーニー
+title: オープンサイエンスジャーニー
 feature-img: "assets/img/pexels/sora-sagano-8sOZJ8JF0S8-unsplash.jpg"
 img: "assets/img/resources/Logo - OS Japanese v2.png"
-date: 08 May 2023
+date: 2023年5月8日
 tags: [AGU, Resources, PARSEC, Open Science]
 ---
 
 
-# Welcome to Your Journey to Open Science!
+# オープンサイエンスの旅の第一歩を踏み出そう！
 
-Each researcher’s experience with Open Science is unique. However, one thing is true for everyone: making your research process and outputs more open helps make scientific knowledge openly available, accessible, and reusable for everyone, to help increase scientific collaboration, creation, evaluation, and communication. 
-To get you started on your journey towards Open Science, we have prepared a set of checklists and guidelines for **you as a researcher** and for your **research team**.
+オープンサイエンスに関する知識や経験は人それぞれで異なるでしょう。しかしすべての研究者に共通して言えるのは、研究プロセスや研究成果物をよりオープンに広く共有することで、科学の知見を誰もが利用できるようになり、、共同研究・共同作業や、科学的知識・業績を生み出し、、成果の評価、そして科学コミュニケーションの促進につながるということです。オープンサイエンスへの旅を始めようとしている**研究者**や**研究チーム**のために、私たちは以下のチェックリストとガイドラインを用意しました。
+
 ## You, the researcher
 – These resources will help you get **recognition** for your work and make sure your work, and your profile, are **visible and discoverable**.
 ## Your Research Team or Lab
