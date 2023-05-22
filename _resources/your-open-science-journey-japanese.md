@@ -18,13 +18,14 @@ tags: [AGU, Resources, PARSEC, Open Science]
 – 以下の資料は「ガイダンス」であり、あなたとあなたの研究チームが**オープンな共同作業**を進めるために役立つものです。
 ## オープンサイエンスの実践を進める旅の第一歩を踏み出そう
 
-### 1. Your Digital Presence 
+### 1. あなたの「デジタルプレゼンス」(Digital Presence)
 
-#### _Connect your research to your data, software, institution, and more!_
+#### _あなたの研究と、データ、ソフトウェア、機関などとの関係を明確にしましょう！_
 
-As a researcher you have control over how you are represented digitally. Managing your digital profile can help optimize your digital presence, increase the visibility of your work and scientific contributions, connect with potential collaborators and partners, and receive credit when others use your work.  We call this “Your Digital Presence”! 
+あなたは研究者として、デジタル環境の中で自分がどのように見えるか、様々な情報を作成、管理しているでしょう。あなたの活動に関するデジタルな関連情報（プロフィール）を管理することで、「デジタルプレゼンス」をよりよいものにすることができます。これにより、あなたの研究や科学的貢献の認知度を高め、将来の共同研究者やパートナー候補とのつながりが生まれ、あなたの研究が利用された場合には、それがあなたの評価にもつながります。私たちはこれを「あなたのデジタルプレゼンス」と呼んでいます。
 
-Use this checklist and short video for guidance on managing [Your Digital Presence](https://data.agu.org/resources/digital-presence).
+[あなたのデジタルプレゼンス](https://doi.org/10.5281/zenodo.7944747)を管理してよりよくするために、チェックリストをご活用ください。
+
 
 
 ### 2. Data Documentation and Citation Checklist
