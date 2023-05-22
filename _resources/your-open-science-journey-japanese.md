@@ -18,6 +18,7 @@ tags: [AGU, Resources, PARSEC, Open Science]
 – 以下の資料は「ガイダンス」であり、あなたとあなたの研究チームが**オープンな共同作業**を進めるために役立つものです。
 ## オープンサイエンスの実践を進める旅の第一歩を踏み出そう
 
+
 ### 1. あなたの「デジタルプレゼンス」(Digital Presence)
 
 #### _あなたの研究と、データ、ソフトウェア、機関などとの関係を明確にしましょう！_
@@ -27,14 +28,13 @@ tags: [AGU, Resources, PARSEC, Open Science]
 [あなたのデジタルプレゼンス](https://doi.org/10.5281/zenodo.7944747)を管理してよりよくするために、チェックリストをご活用ください。
 
 
+### 2. データのドキュメンテーションと引用のチェックリスト
 
-### 2. Data Documentation and Citation Checklist
-
-#### _Share the data that supports your research with an Availability Statement and proper citation in the References Section._
+#### _あなたの研究の裏付けとなるデータを”Data Availability Statement”とともに共有し、参考文献リストの中で引用しましょう。_
  
-The data you create for your research is a valuable contribution to the scientific record. It is important to plan the creation, management, storage, and preservation needed to share your data so this contribution can be recognized. 
+あなたが研究のために作成したデータは、過去からの科学の記録、実績の蓄積へ加えられるべき、貴重な学術的貢献です。計画的なデータの作成、管理、記録、保存は、あなたのデータの共有および貢献が評価され学術貢献として認められるために、とても重要です。
 
-Use this [Data Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062403) to improve your data management and sharing practices. 
+[データのドキュメンテーションと引用のチェックリスト](https://doi.org/10.5281/zenodo.7944764)を活用して、あなたのデータ管理と共有方法が、評価や可視化などにつながるようにしましょう。 
 
 
 ### 3. Software Documentation and Citation Checklist
