@@ -45,6 +45,8 @@ tags: [AGU, Resources, PARSEC, Open Science]
 
 [ソフトウェアのドキュメンテーションと引用のチェックリスト](https://doi.org/10.5281/zenodo.7944760)を活用して、あなたのソフトウェア管理と共有方法を、より評価され、貢献が認められるようにしていきましょう。
 
+
+<!--  commented out until the Japanese versions are ready 
 ## Discover steps for your team to take as they move towards working openly
 
 ### 4. Open Science Practices for Teams
@@ -71,24 +73,19 @@ Use these guidelines: [Open Science Resources and Guidance for Teams](https://do
 Developing a preservation plan for your research team will help ensure your research is always documented, data is backed up, and results are reproducible, even as the team changes. Use this checklist to ensure all digital objects created or used by the team are fully documented, preserved for the long-term, and made openly accessible to the team.
 
 Use these guidelines: [Digital Objects Open Science Checklist for Teams](https://doi.org/10.5281/zenodo.7402540)
+end coment -->
 
-## Developed by the PARSEC Project Team
+## これらの資料は、PARSECプロジェクトチームによって開発されました。
 ![image](https://user-images.githubusercontent.com/113625013/206821607-d5ad3f16-cc73-44fe-87c3-9df3ea68fe38.png)
 
-### Image Credit
+### 画像クレジット
+ロゴ(リソースページ)およびバナー(このページ): 写真：Finn Hackshaw on Unsplash, Unsplashライセンスによる
 
-Logo (resources page) and Banner (this page): Photo by Finn Hackshaw on Unsplash, using the Unsplash licence
+### 関連情報
+AGUによるオープンサイエンスへの取り組みについては、[ホームページ](https://www.agu.org/open-science)をご覧ください。
 
-### Stay connected
-You can read more about AGU’s work in Open Science on [our homepage](https://www.agu.org/open-science).
+[メーリングリストに登録](https://forms.monday.com/forms/b4284b3ea07f6e4d801f03451d5f7ac4?r=use1)して、AGUのオープンサイエンスへの取り組みに関する情報を受信できます（不定期）。
 
-To receive (infrequent) emails about AGU’s work in Open Science, you are welcome to [sign up to our email list](https://forms.monday.com/forms/b4284b3ea07f6e4d801f03451d5f7ac4?r=use1). 
 
-### Funding
-<img width="230" alt="image" src=/assets/img/resources/belmont_logo.png>
-<img width="230" alt="image" src=/assets/img/resources/NSF_400.png>
-<img width="230" alt="image" src=/assets/img/resources/JST_400.png>
-<img width="230" alt="image" src=/assets/img/resources/FAPESP_400.png>
-<img width="230" alt="image" src=/assets/img/resources/CESAB_small._RGB.png>
-<img width="230" alt="image" src=/assets/img/resources/ANR_400.png>
-<img width="230" alt="image" src=/assets/img/resources/UNESCO.png>
+### 助成金情報
+この研究は、「自然保護区が社会経済に及ぼす影響の多国融合研究を通じた新たなデータ共有・再利用手法の構築（PARSEC）」プロジェクトの一部であり、ベルモント・フォーラムより、[全米科学財団（NSF、Grant 1929464）](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1929464&HistoricalAwards=false)、[フランス国立研究機構 （ANR）](https://anr.fr/Project-ANR-18-BELM-0002)、[ブラジル サンパウロ州研究財団（FAPESP）](https://bv.fapesp.br/pt/auxilios/104269/desenvolvimento-de-novas-ferramentas-para-o-compartilhamento-e-reuso-de-dados-atraves-de-pesquisa-tr/)、[日本科学技術振興機構（JST）](https://doi.org/10.52926/JPMJBF1802)を通じた資金提供を受けています。
