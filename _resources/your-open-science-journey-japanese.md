@@ -7,19 +7,6 @@ date: May 23 2023
 tags: [AGU, Resources, PARSEC, Open Science]
 ---
 
-
-
-<!--  commented out until the Japanese versions are ready
----
-layout: post
-title: It might be the title
-feature-img: "assets/img/pexels/sora-sagano-8sOZJ8JF0S8-unsplash.jpg"
-img: "assets/img/resources/Logo - OS Japanese v2.png"
-date: May 23 2023
-tags: [AGU, Resources, PARSEC, Open Science]
----
-
-<!--  commented out until the Japanese versions are ready
 # オープンサイエンスの旅の第一歩を踏み出そう！
 
 オープンサイエンスに関する知識や経験は人それぞれで異なるでしょう。しかしすべての研究者に共通して言えるのは、研究プロセスや研究成果物をよりオープンに広く共有することで、科学の知見を誰もが利用できるようになり、、共同研究・共同作業や、科学的知識・業績を生み出し、、成果の評価、そして科学コミュニケーションの促進につながるということです。オープンサイエンスへの旅を始めようとしている**研究者**や**研究チーム**のために、私たちは以下のチェックリストとガイドラインを用意しました。
@@ -86,7 +73,7 @@ Developing a preservation plan for your research team will help ensure your rese
 
 Use these guidelines: [Digital Objects Open Science Checklist for Teams](https://doi.org/10.5281/zenodo.7402540)
 end coment -->
-<!--  commented out until the Japanese versions are ready
+
 ## これらの資料は、PARSECプロジェクトチームによって開発されました。
 ![image](https://user-images.githubusercontent.com/113625013/206821607-d5ad3f16-cc73-44fe-87c3-9df3ea68fe38.png)
 
