@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Japanese
-feature-img: "assets/img/resources/OSJ-French-banner.jpg"
-img: "assets/img/resources/OSJ-French-logo.png"
-date: May 11 2023
+title: オープンサイエンスジャーニー
+feature-img: "assets/img/pexels/sora-sagano-8sOZJ8JF0S8-unsplash.jpg"
+img: "assets/img/resources/OSJ-Japanese-logo-sized.png"
+date: May 23 2023
 tags: [AGU, Resources, PARSEC, Open Science]
 ---
 
