@@ -1,5 +1,17 @@
 ---
 layout: post
+title: Japanese
+feature-img: "assets/img/resources/OSJ-French-banner.jpg"
+img: "assets/img/resources/OSJ-French-logo.png"
+date: May 11 2023
+tags: [AGU, Resources, PARSEC, Open Science]
+---
+
+
+
+<!--  commented out until the Japanese versions are ready
+---
+layout: post
 title: It might be the title
 feature-img: "assets/img/pexels/sora-sagano-8sOZJ8JF0S8-unsplash.jpg"
 img: "assets/img/resources/Logo - OS Japanese v2.png"
