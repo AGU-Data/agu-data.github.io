@@ -43,8 +43,6 @@ Les logiciels que vous développez dans le cadre de votre recherche constituent 
 
 Utilisez cette check-liste [Documentation et Citation des Logiciels](https://doi.org/10.5281/zenodo.7847721) pour améliorer vos pratiques de gestion et de partage des données. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847721.svg)](https://doi.org/10.5281/zenodo.7847721)
  
-<!--  commented out until the French versions are ready 
-
 
 ## Découvrez les étapes à suivre par votre équipe pour travailler ouvertement 
 
@@ -53,7 +51,7 @@ Utilisez cette check-liste [Documentation et Citation des Logiciels](https://doi
 #### _Préparez votre équipe à la Science Ouverte._
  
 Aidez votre laboratoire ou votre équipe de recherche à faire ses premiers pas vers la science ouverte en développant et en intégrant des pratiques de science ouverte dans vos processus de recherche. Améliorez les pratiques de gestion des données et des logiciels de votre équipe et apprenez les meilleures pratiques d’archivage. 
-Suivez ces recommandations: [Préparez votre équipe à la Science Ouverte](https://doi.org/10.5281 /zenodo.7402075)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402075.svg)](https://doi.org/10.5281/zenodo.7402075)
+Suivez ces recommandations: [Préparez votre équipe à la Science Ouverte](https://doi.org/10.5281/zenodo.7985782)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7985782.svg)](https://doi.org/10.5281/zenodo.7985782)
  
 ### 5. Ressources et recommandations en science ouverte, pour les équipes
  
@@ -61,7 +59,7 @@ Suivez ces recommandations: [Préparez votre équipe à la Science Ouverte](http
  
 La transparence et l'ouverture permettent aux équipes de recherche et à leurs collaborat.eur.rice.s de travailler ensemble de manière efficace, améliorant ainsi le déroulement de la recherche. Les pratiques de la science ouverte peuvent aider les équipes à travailler ensemble sans heurts, en présence et à distance. Veillez à ce que votre équipe ait accès à des ressources communes et à des recommandations qui favorisent la collaboration, la transparence et l'ouverture.
 
-Suivez ces recommandations : [Outillez votre équipe pour la Science Ouverte](https://doi.org/10.5281/zenodo.7402270)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402270.svg)](https://doi.org/10.5281/zenodo.7402270)
+Suivez ces recommandations : [Outillez votre équipe pour la Science Ouverte](https://doi.org/10.5281/zenodo.7985792)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7985792.svg)](https://doi.org/10.5281/zenodo.7985792)
  
  
 ### 6.– Check-listes pour l’ouverture des objets numériques à l'intention des équipes 
@@ -69,9 +67,7 @@ Suivez ces recommandations : [Outillez votre équipe pour la Science Ouverte](ht
  
 L'élaboration d'un plan de sauvegarde des objets numériques pour votre équipe de recherche vous permettra de vous assurer que votre recherche est toujours documentée, que les données sont sauvegardées et que les résultats sont reproductibles, même si l'équipe change. Utilisez cette check-liste pour vous assurer que tous les objets numériques créés ou utilisés par l'équipe sont entièrement documentés, archivés et rendus librement accessibles à l'équipe.
 
-Utilisez cette check-liste: [Check-Liste pour La Sauvegarde des Objets Numériques] (https://doi.org/10.5281/zenodo.7402540)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402540.svg)](https://doi.org/10.5281/zenodo.7402540)
-end coment -->
-
+Utilisez cette check-liste: [Check-Liste pour La Sauvegarde des Objets Numériques] (https://doi.org/10.5281/zenodo.7985798)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7985798.svg)](https://doi.org/10.5281/zenodo.7985798)
 
 ---
 
