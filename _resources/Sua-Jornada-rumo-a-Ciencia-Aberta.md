@@ -39,7 +39,6 @@ Use este [Checklist de Documentação e Citação de Dados](https://doi.org/10.5
 O software que você desenvolve para sua pesquisa é uma contribuição valiosa para o registro científico. É importante planejar o controle de versão, gerenciamento, armazenamento e preservação necessários para compartilhar seu software para que sua contribuição possa ser reconhecida e desenvolvida.  
 Use este [Checklist de Documentação e Citação de software ](https://doi.org/10.5281/zenodo.7845378) para otimizar a gestão de seu software e práticas de compartilhamento. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7845378.svg)](https://doi.org/10.5281/zenodo.7845378)
  
-<!--  commented out until the Portuguese versions are ready 
 
 ## Descubra as etapas a serem seguidas por sua equipe à medida que avançam para trabalhar abertamente
  
@@ -49,7 +48,7 @@ Use este [Checklist de Documentação e Citação de software ](https://doi.org/
  
 Ajude seu laboratório ou equipe de pesquisa a dar os primeiros passos em direção à Ciência Aberta, desenvolvendo e incorporando práticas de Ciência Aberta no fluxo de trabalho de sua pesquisa. Melhore as práticas de gerenciamento de dados e software de sua equipe e aprenda as melhores práticas de preservação.
  
-Use estas diretrizes: [Checklist de Práticas de Ciência Aberta para Equipes de Pesquisa/Projeto](https://doi.org/10.5281/zenodo.XXXX)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXX.svg)](https://doi.org/10.5281/zenodo.XXXX)
+Use estas diretrizes: [Checklist de Práticas de Ciência Aberta para Equipes de Pesquisa/Projeto](https://doi.org/10.5281/zenodo.7995395)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7995395.svg)](https://doi.org/10.5281/zenodo.7995395)
  
 ### 5. Recursos e Diretrizes de Ciência Aberta para Laboratórios/Equipes
  
@@ -57,17 +56,14 @@ Use estas diretrizes: [Checklist de Práticas de Ciência Aberta para Equipes de
  
 Praticar transparência e abertura permite que equipes de pesquisa e colaboradores trabalhem juntos de forma eficiente e eficaz, aprimorando o fluxo de trabalho da pesquisa. As práticas de Ciência Aberta podem ajudar as equipes a trabalhar juntas sem problemas, mesmo quando não estão na mesma sala. Garanta que sua equipe tenha acesso a recursos e diretrizes comuns que dão suporte à colaboração, transparência e abertura.
  
-Use este guia: [Checklist de Recursos e Diretrizes para Laboratórios/Equipes](https://doi.org/10.5281/zenodo.XXXX)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXX.svg)](https://doi.org/10.5281/zenodo.XXXX)
+Use este guia: [Checklist de Recursos e Diretrizes para Laboratórios/Equipes](https://doi.org/10.5281/zenodo.7995397)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7995397.svg)](https://doi.org/10.5281/zenodo.7995397)
   
 ### 6. Preservação de Objetos Digitais da Equipe
  
 #### _Desenvolva um Processo de Preservação da Equipe._
  
 Desenvolver um plano de preservação para sua equipe de pesquisa ajudará a garantir que a pesquisa seja sempre documentada, os dados tenham backup e os resultados sejam reprodutíveis, mesmo que a equipe mude. Use este checklist para garantir que todos os objetos digitais criados ou usados pela equipe sejam totalmente documentados, preservados a longo prazo e disponibilizados abertamente para o grupo
-Use estas diretrizes: [Checklist para Preservação de Objetos Digitais da Equipe](https://doi.org/10.5281/zenodo.XXXX)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXX.svg)](https://doi.org/10.5281/zenodo.XXXX)
-
-end coment -->
-
+Use estas diretrizes: [Checklist para Preservação de Objetos Digitais da Equipe](https://doi.org/10.5281/zenodo.7995399)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7995399.svg)](https://doi.org/10.5281/zenodo.7995399)
 
 ---
  
