@@ -62,7 +62,7 @@ La transparence et l'ouverture permettent aux équipes de recherche et à leurs 
 Suivez ces recommandations : [Outillez votre équipe pour la Science Ouverte](https://doi.org/10.5281/zenodo.7985792)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7985792.svg)](https://doi.org/10.5281/zenodo.7985792)
  
  
-### 6.– Check-listes pour l’ouverture des objets numériques à l'intention des équipes 
+### 6. Check-listes pour l’ouverture des objets numériques à l'intention des équipes 
 #### _Développez de bonnes pratiques de sauvegarde dans votre équipe._
  
 L'élaboration d'un plan de sauvegarde des objets numériques pour votre équipe de recherche vous permettra de vous assurer que votre recherche est toujours documentée, que les données sont sauvegardées et que les résultats sont reproductibles, même si l'équipe change. Utilisez cette check-liste pour vous assurer que tous les objets numériques créés ou utilisés par l'équipe sont entièrement documentés, archivés et rendus librement accessibles à l'équipe.
