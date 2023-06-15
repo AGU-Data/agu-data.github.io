@@ -41,7 +41,6 @@ El software que desarrolla para su investigación es una valiosa contribución a
  
 Utiliza esta [Verificación de Citas y Documentación de Software](https://doi.org/10.5281/zenodo.7841994) to improve your software management and sharing practices. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7841994.svg)](https://doi.org/10.5281/zenodo.7841994)
  
-<!--  commented out until the Spanish versions are ready 
 
 ## Descubra los pasos que debe seguir su equipo a medida que avanzan hacia el trabajo abierto
  
@@ -51,7 +50,7 @@ Utiliza esta [Verificación de Citas y Documentación de Software](https://doi.o
  
 Ayude a su laboratorio o equipo de investigación a dar los primeros pasos hacia la ciencia abierta desarrollando e incorporando prácticas de ciencia abierta en su flujo de trabajo de investigación. Mejore las prácticas de administración de datos y software de su equipo y aprenda las mejores prácticas de preservación.
  
-Use estas pautas: [Prácticas de Ciencia Abierta del Equipo](https://doi.org/10.5281/zenodo.XXXX)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXX.svg)](https://doi.org/10.5281/zenodo.XXXX)
+Use estas pautas: [Prácticas de Ciencia Abierta del Equipo](https://doi.org/10.5281/zenodo.7995781)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7995781.svg)](https://doi.org/10.5281/zenodo.7995781)
  
 ### 5. Recursos y Guías de Ciencia Abierta del Equipo
  
@@ -59,7 +58,7 @@ Use estas pautas: [Prácticas de Ciencia Abierta del Equipo](https://doi.org/10.
  
 Practicar la transparencia y la apertura permite que los equipos de investigación y los colaboradores trabajen juntos de manera eficiente y efectiva, mejorando el flujo de trabajo de la investigación. Las prácticas de Ciencia Abierta pueden ayudar a los equipos a trabajar juntos sin problemas, incluso cuando no están en la misma sala. Asegúrese de que su equipo tenga acceso a recursos y pautas comunes que respalden la colaboración, la transparencia y la apertura.
  
-Utilice estas pautas: [Recursos y Guías del Equipo](https://doi.org/10.5281/zenodo.XXXX)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXX.svg)](https://doi.org/10.5281/zenodo.XXXX)
+Utilice estas pautas: [Recursos y Guías del Equipo](https://doi.org/10.5281/zenodo.7995783)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7995783.svg)](https://doi.org/10.5281/zenodo.7995783)
  
  
 ### 6. Lista de verificación para la Preservación de Objetos Digitales del Equipo
@@ -68,10 +67,8 @@ Utilice estas pautas: [Recursos y Guías del Equipo](https://doi.org/10.5281/zen
  
 Desarrollar un plan de preservación para su equipo de investigación ayudará a garantizar que su investigación esté siempre documentada, que los datos estén respaldados y que los resultados sean reproducibles, incluso cuando el equipo cambie. Use esta lista de verificación para asegurarse de que todos los objetos digitales creados o utilizados por el equipo estén completamente documentados, se conserven a largo plazo y estén abiertos al acceso del equipo.
  
-Utilice estas pautas: [Lista de verificación para la Preservación de Objetos Digitales del Equipo](https://doi.org/10.5281/zenodo.XXXX)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXX.svg)](https://doi.org/10.5281/zenodo.XXXX)
+Utilice estas pautas: [Lista de verificación para la Preservación de Objetos Digitales del Equipo](https://doi.org/10.5281/zenodo.7995787)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7995787.svg)](https://doi.org/10.5281/zenodo.7995787)
  
-end coment -->
-
 ## Desarrollado por el Equipo del Proyecto PARSEC
 ![image](https://user-images.githubusercontent.com/113625013/206821607-d5ad3f16-cc73-44fe-87c3-9df3ea68fe38.png)
  
