@@ -24,7 +24,8 @@ color_image: /assets/img/lineart.png                    # A bit transparent for 
 # For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
 katex: true                                             # Enable if using math markup
 mermaid: true                                           # Enable mermaid-js for sequence and diagrams
-google_analytics: "UA-199542898-1"                        # Tracking ID, e.g. "UA-000000-01"
+google_analytics: "UA-199542898-1"                      # Old Google Analytics Tracking ID, e.g. "UA-000000-01"
+google_tag_manager: "GTM-NF89QJQ"                       # Google Tag Manager Tracking ID
 cookie_consent: false                                   # To respect the usage of cookies
 disqus_shortname:                                       # Your discus shortname for comments
 
