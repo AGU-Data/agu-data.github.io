@@ -67,6 +67,26 @@
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer', '{{ site.google_tag_manager }}');</script>
+
+        <!-- Google Analytics 4 header click tracking via Google Tag Manager -->
+        <script>
+        function header_click(event) {
+            window.dataLayer.push({'event': 'header_click', 'click_term': event.target.innerText};
+        }
+        let collection = document.getElementsByTagName("nav");
+        let children = collection[0].children;
+        for (let i = 0; i < children.length; i++) {
+          if(children[i].tagName.toLowerCase() == "ul"){
+            let list_elements = children[i].children;
+            for(let i=0; i<list_elements.length; i++){
+                if(list_elements[i].childElementCount === 1){
+                    list_elements[i].children[0].addEventListener("click", header_click);
+                }
+            }
+          }
+        }
+        </script>
+
     {% endif %}
 
     <!-- seo tags -->
