@@ -70,8 +70,16 @@
 
         <!-- Google Analytics 4 header click tracking via Google Tag Manager -->
         <script>
-        function header_click(event) {
-            window.dataLayer.push({'event': 'header_click', 'click_term': event.target.innerText});
+        function header_click(event) {            
+			if(event.target.className.includes("search")){
+				window.dataLayer.push({'event': 'header_click', 'click_term': 'search'});
+			}
+			else if(event.target.className.includes("tags")){
+				window.dataLayer.push({'event': 'header_click', 'click_term': 'tags'});
+			}
+			else{
+				window.dataLayer.push({'event': 'header_click', 'click_term': event.target.innerText});
+			}			
         }
 		
 		window.addEventListener('load',
