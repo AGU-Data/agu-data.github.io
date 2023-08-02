@@ -29,7 +29,7 @@ Optimisez votre présence numérique, faites découvrir votre travail à des col
 2.	Comment utiliser votre [ORCID](https://orcid.org).
 3.	Comment relier votre travail de recherche - y compris les articles, les données, les logiciels et tout objet numérique - à vous, en utilisant votre [ORCID](https://orcid.org).
 
-Utilisez cette check-liste pour vous guider dans la gestion de [Votre présence numérique](https://doi.org/10.5281/zenodo.7847715)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847715.svg)](https://doi.org/10.5281/zenodo.7847715) 
+Utilisez cette check-liste pour vous guider dans la gestion de [Votre présence numérique](https://doi.org/10.5281/zenodo.7847715)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847715.svg)](https://doi.org/10.5281/zenodo.7847715) 
  
 ### 2. Documentation et Citation des Données
  
@@ -41,7 +41,7 @@ Planifiez, gérez et partagez vos données.
 2.	Comment partager vos données le plus ouvertement possible: déterminer quelles données, quel entrepôt, quelle licence.
 3.	Comment citer les données et aider les autres à citer vos données. 
 
-Utilisez cette check-liste [Documentation et Citation des Données](https://doi.org/10.5281/zenodo.7847718) pour améliorer vos pratiques de gestion et de partage des données.  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847718.svg)](https://doi.org/10.5281/zenodo.7847718)
+Utilisez cette check-liste [Documentation et Citation des Données](https://doi.org/10.5281/zenodo.7847718) pour améliorer vos pratiques de gestion et de partage des données.[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847718.svg)](https://doi.org/10.5281/zenodo.7847718)
  
  
 ### 3. Documentation et Citation des Logiciels
@@ -54,7 +54,7 @@ Planifiez, gérez et partagez vos logiciels.
 2.	Comment archiver et partager la version de votre logiciel utilisée pour votre recherche. 
 3.	Comment citer un logiciel et aider les autres à citer votre logiciel. 
 
-Utilisez cette check-liste [Documentation et Citation des Logiciels](https://doi.org/10.5281/zenodo.7847721) pour améliorer vos pratiques de gestion et de partage des données. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847721.svg)](https://doi.org/10.5281/zenodo.7847721)
+Utilisez cette check-liste [Documentation et Citation des Logiciels](https://doi.org/10.5281/zenodo.7847721) pour améliorer vos pratiques de gestion et de partage des données.[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847721.svg)](https://doi.org/10.5281/zenodo.7847721)
  
 
 ## Découvrez les étapes à suivre par votre équipe pour travailler ouvertement 
@@ -70,7 +70,7 @@ Améliorez les pratiques “ouvertes” de votre équipe. Codifiez ces pratiques
 3.	Comment établir une communication cohérente qui facilite une compréhension commune et de la flexibilité au sein de l’équipe. 
 4.	Quoi et comment partager ouvertement vos objets numériques.
  
-Suivez ces recommandations: [Préparez votre équipe à la Science Ouverte](https://doi.org/10.5281/zenodo.7985782)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7985782.svg)](https://doi.org/10.5281/zenodo.7985782)
+Suivez ces recommandations: [Préparez votre équipe à la Science Ouverte](https://doi.org/10.5281/zenodo.7985782)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7985782.svg)](https://doi.org/10.5281/zenodo.7985782)
  
 ### 5. Ressources et recommandations en science ouverte, pour les équipes
  
@@ -82,7 +82,7 @@ Organisez les besoins de votre équipe de recherche en développant des ressourc
 2.	Comment gérer et suivre les objets numériques de votre équipe.
 3.	Comment garantir une contribution équitable des membres de l'équipe aux résultats de la recherche et fournir les crédits appropriés.
 
-Suivez ces recommandations : [Outillez votre équipe pour la Science Ouverte](https://doi.org/10.5281/zenodo.7985792)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7985792.svg)](https://doi.org/10.5281/zenodo.7985792)
+Suivez ces recommandations : [Outillez votre équipe pour la Science Ouverte](https://doi.org/10.5281/zenodo.7985792)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7985792.svg)](https://doi.org/10.5281/zenodo.7985792)
  
  
 ### 6. Check-listes pour l’ouverture des objets numériques à l'intention des équipes 
@@ -94,7 +94,7 @@ Documentez, sélectionnez et archivez les recherches de votre équipe.
 2.	Déterminer les objets numériques à archiver et la documentation correspondante. 
 3.	Déterminer comment rendre vos objets numériques ouverts et FAIR.
 
-Utilisez cette check-liste: [Check-Liste pour La Sauvegarde des Objets Numériques] (https://doi.org/10.5281/zenodo.7985798)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7985798.svg)](https://doi.org/10.5281/zenodo.7985798)
+Utilisez cette check-liste: [Check-Liste pour La Sauvegarde des Objets Numériques](https://doi.org/10.5281/zenodo.7985798)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7985798.svg)](https://doi.org/10.5281/zenodo.7985798)
 
 ---
 
