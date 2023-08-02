@@ -22,16 +22,25 @@ To get you started on your journey towards Open Science, we have prepared a set 
 
 #### _Connect your research to your data, software, institution, and more!_
 
-As a researcher you have control over how you are represented digitally. Managing your digital profile can help optimize your digital presence, increase the visibility of your work and scientific contributions, connect with potential collaborators and partners, and receive credit when others use your work.  We call this “Your Digital Presence”! 
+Optimize your digital presence, increase discovery of your work to potential collaborators and partners, and receive credit when others use your work.
 
-Use this checklist and short video for guidance on managing [Your Digital Presence](https://data.agu.org/resources/digital-presence).
+1. How to establish your personal identifier (‘[ORCID](https://orcid.org)’) that is unique and global. 
+2. How to use your [ORCID](https://orcid.org).
+3. How to connect your research work [including articles, data, software, and any digital object] to you, using your [ORCID](https://orcid.org).
+
+Use this checklist for guidance on managing [Your Digital Presence](https://doi.org/10.5281/zenodo.4706118). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4706118.svg)](https://doi.org/10.5281/zenodo.4706118)
+[Video - 15 minutes](https://youtu.be/bftzPnFdtHk)
 
 
 ### 2. Data Documentation and Citation Checklist
 
 #### _Share the data that supports your research with an Availability Statement and proper citation in the References Section._
  
-The data you create for your research is a valuable contribution to the scientific record. It is important to plan the creation, management, storage, and preservation needed to share your data so this contribution can be recognized. 
+Plan, manage and share your data.  
+
+1. When and how to manage your data during your research project.
+2. How to share your data as openly as possible: determining which data, which repository, which license.
+3. How to cite data and help others cite your data. 
 
 Use this [Data Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062402) to improve your data management and sharing practices. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7062402.svg)](https://doi.org/10.5281/zenodo.7062402)
 
@@ -40,7 +49,11 @@ Use this [Data Documentation and Citation Checklist](https://doi.org/10.5281/zen
 
 #### _Share the software that supports your research with an Availability Statement and proper citation in the References Section._
 
-The software you develop for your research is a valuable contribution to the scientific record. It is important to plan the version control, management, storage, and preservation needed to share your software so your contribution can be recognized and built on. 
+Plan, manage and share your software.
+
+1. When and how to manage your software during your research project.
+2. How to preserve and share the version of your software used for your research. 
+3. How to cite software and help others cite your software. 
 
 Use this [Software Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062413) to improve your software management and sharing practices. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7062413.svg)](https://doi.org/10.5281/zenodo.7062413)
 
@@ -50,7 +63,12 @@ Use this [Software Documentation and Citation Checklist](https://doi.org/10.5281
 
 #### _Prepare Your Team for Open Science._
 
-Help your lab or research team take the initial steps towards Open Science by developing and incorporating Open Science practices in your research workflow. Improve your team’s data and software management practices and learn preservation best practices. 
+Improve your team’s open practices. Codify these practices in your team’s Code of Open Science Practice. 
+
+1. How to encourage open behaviors with your research team such as collaboration, transparency, and working openly.
+2. Which responsibilities and tasks to assign for open science. 
+3. How to establish consistent communication that facilitates common understanding and flexibility. 
+4. What and how to share your digital objects openly.
 
 Use these guidelines: [Open Science Practices for Teams](https://doi.org/10.5281/zenodo.7402075)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402075.svg)](https://doi.org/10.5281/zenodo.7402075)
 
@@ -58,7 +76,11 @@ Use these guidelines: [Open Science Practices for Teams](https://doi.org/10.5281
 
 #### _Equip Your Team for Open Science._
 
-Practicing transparency and openness allows research teams and collaborators to work together efficiently and effectively, enhancing the research workflow. Open Science practices can help teams to work together smoothly, even when they’re not in the same room. Ensure your team has access to common resources and guidelines that support collaboration, transparency, and openness.
+Streamline your team’s research needs with resources that ensure they are as efficient, collaborative and open as possible.
+
+1. How to establish common team resources and digital object registry.
+2. How to manage and track your team’s digital objects.
+3. How to ensure equitable team contributions to research outputs and provide appropriate credit.
 
 Use these guidelines: [Open Science Resources and Guidance for Teams](https://doi.org/10.5281/zenodo.7402270)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402270.svg)](https://doi.org/10.5281/zenodo.7402270)
 
@@ -67,7 +89,11 @@ Use these guidelines: [Open Science Resources and Guidance for Teams](https://do
 
 #### _Develop a Team Preservation Process._
 
-Developing a preservation plan for your research team will help ensure your research is always documented, data is backed up, and results are reproducible, even as the team changes. Use this checklist to ensure all digital objects created or used by the team are fully documented, preserved for the long-term, and made openly accessible to the team.
+Document, select, and preserve your team’s research.
+
+1. How to ensure your project files have an effective backup plan in place.
+2. Determine what digital objects to preserve and the supporting documentation. 
+3. Determine how open and FAIR to make your digital objects.
 
 Use these guidelines: [Digital Objects Open Science Checklist for Teams](https://doi.org/10.5281/zenodo.7402540)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402540.svg)](https://doi.org/10.5281/zenodo.7402540)
 
