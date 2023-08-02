@@ -23,14 +23,23 @@ Pour vous aider à démarrer votre « parcours science ouverte », nous avons pr
  
 #### _Connectez votre recherche à vos données, logiciels, institutions, et plus!_
  
-En tant que chercheur, vous contrôlez la façon dont vous êtes représenté dans l’écosystème numérique. La gestion de votre profil numérique peut vous aider à optimiser votre présence numérique, à accroître la visibilité de votre travail et de vos contributions scientifiques, à entrer en contact avec des collaborateurs et des partenaires potentiels et à recevoir certaines formes de reconnaissance lorsque d'autres personnes utilisent votre travail.  C'est ce que nous appelons "votre présence numérique" !
+Optimisez votre présence numérique, faites découvrir votre travail à des collaborateurs et partenaires potentiels et assurez la bonne attribution de votre travail lorsque d'autres personnes l’utilisent.
+
+1.	Comment établir votre identifiant personnel (“[ORCID](https://orcid.org)") qui est unique et mondial. 
+2.	Comment utiliser votre [ORCID](https://orcid.org).
+3.	Comment relier votre travail de recherche - y compris les articles, les données, les logiciels et tout objet numérique - à vous, en utilisant votre [ORCID](https://orcid.org).
 
 Utilisez cette check-liste pour vous guider dans la gestion de [Votre présence numérique](https://doi.org/10.5281/zenodo.7847715)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847715.svg)](https://doi.org/10.5281/zenodo.7847715) 
  
 ### 2. Documentation et Citation des Données
  
 #### _Partagez les données qui sous-tendent votre recherche avec une déclaration de disponibilité et une citation appropriée dans la section des références._
-Les données que vous créez dans le cadre de votre recherche constituent une contribution précieuse au patrimoine scientifique. Il est important de planifier la création, la gestion, le stockage et l’archivage requis pour partager vos données et afin que cette contribution soit reconnue. 
+
+Planifiez, gérez et partagez vos données.  
+
+1.	Quand et comment gérer vos données au cours de votre projet de recherche.
+2.	Comment partager vos données le plus ouvertement possible: déterminer quelles données, quel entrepôt, quelle licence.
+3.	Comment citer les données et aider les autres à citer vos données. 
 
 Utilisez cette check-liste [Documentation et Citation des Données](https://doi.org/10.5281/zenodo.7847718) pour améliorer vos pratiques de gestion et de partage des données.  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847718.svg)](https://doi.org/10.5281/zenodo.7847718)
  
@@ -39,7 +48,11 @@ Utilisez cette check-liste [Documentation et Citation des Données](https://doi.
  
 #### _Partagez les logiciels qui sous-tendent votre recherche à l’aide d’une déclaration de disponibilité et d’une citation appropriée dans la section des références._
  
-Les logiciels que vous développez dans le cadre de votre recherche constituent une contribution précieuse au patrimoine scientifique. Il est important de planifier le contrôle des versions, la gestion, le stockage et l’archivage requis pour partager vos logiciels et afin que votre contribution puisse être reconnue et exploitée. 
+Planifiez, gérez et partagez vos logiciels.
+
+1.	Quand et comment gérer vos logiciels pendant votre projet de recherche.
+2.	Comment archiver et partager la version de votre logiciel utilisée pour votre recherche. 
+3.	Comment citer un logiciel et aider les autres à citer votre logiciel. 
 
 Utilisez cette check-liste [Documentation et Citation des Logiciels](https://doi.org/10.5281/zenodo.7847721) pour améliorer vos pratiques de gestion et de partage des données. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7847721.svg)](https://doi.org/10.5281/zenodo.7847721)
  
@@ -50,14 +63,24 @@ Utilisez cette check-liste [Documentation et Citation des Logiciels](https://doi
  
 #### _Préparez votre équipe à la Science Ouverte._
  
-Aidez votre laboratoire ou votre équipe de recherche à faire ses premiers pas vers la science ouverte en développant et en intégrant des pratiques de science ouverte dans vos processus de recherche. Améliorez les pratiques de gestion des données et des logiciels de votre équipe et apprenez les meilleures pratiques d’archivage. 
+Améliorez les pratiques “ouvertes” de votre équipe. Codifiez ces pratiques dans le Code de Pratique de Science Ouverte de votre équipe. 
+
+1.	Comment encourager les comportements d’ouverture au sein de votre équipe de recherche, tels que la collaboration et la transparence.
+2.	Quelles responsabilités et tâches attribuer dans le cadre de la science ouverte. 
+3.	Comment établir une communication cohérente qui facilite une compréhension commune et de la flexibilité au sein de l’équipe. 
+4.	Quoi et comment partager ouvertement vos objets numériques.
+ 
 Suivez ces recommandations: [Préparez votre équipe à la Science Ouverte](https://doi.org/10.5281/zenodo.7985782)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7985782.svg)](https://doi.org/10.5281/zenodo.7985782)
  
 ### 5. Ressources et recommandations en science ouverte, pour les équipes
  
 #### _Outillez votre équipe pour la Science Ouverte._
  
-La transparence et l'ouverture permettent aux équipes de recherche et à leurs collaborat.eur.rice.s de travailler ensemble de manière efficace, améliorant ainsi le déroulement de la recherche. Les pratiques de la science ouverte peuvent aider les équipes à travailler ensemble sans heurts, en présence et à distance. Veillez à ce que votre équipe ait accès à des ressources communes et à des recommandations qui favorisent la collaboration, la transparence et l'ouverture.
+Organisez les besoins de votre équipe de recherche en développant des ressources qui garantissent une efficacité, une collaboration et une ouverture optimales.
+
+1.	Comment établir des ressources d'équipe communes et un registre d'objets numériques.
+2.	Comment gérer et suivre les objets numériques de votre équipe.
+3.	Comment garantir une contribution équitable des membres de l'équipe aux résultats de la recherche et fournir les crédits appropriés.
 
 Suivez ces recommandations : [Outillez votre équipe pour la Science Ouverte](https://doi.org/10.5281/zenodo.7985792)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7985792.svg)](https://doi.org/10.5281/zenodo.7985792)
  
@@ -65,7 +88,11 @@ Suivez ces recommandations : [Outillez votre équipe pour la Science Ouverte](ht
 ### 6. Check-listes pour l’ouverture des objets numériques à l'intention des équipes 
 #### _Développez de bonnes pratiques de sauvegarde dans votre équipe._
  
-L'élaboration d'un plan de sauvegarde des objets numériques pour votre équipe de recherche vous permettra de vous assurer que votre recherche est toujours documentée, que les données sont sauvegardées et que les résultats sont reproductibles, même si l'équipe change. Utilisez cette check-liste pour vous assurer que tous les objets numériques créés ou utilisés par l'équipe sont entièrement documentés, archivés et rendus librement accessibles à l'équipe.
+Documentez, sélectionnez et archivez les recherches de votre équipe.
+
+1.	Comment s'assurer que les fichiers de votre projet disposent d'un plan de sauvegarde efficace.
+2.	Déterminer les objets numériques à archiver et la documentation correspondante. 
+3.	Déterminer comment rendre vos objets numériques ouverts et FAIR.
 
 Utilisez cette check-liste: [Check-Liste pour La Sauvegarde des Objets Numériques] (https://doi.org/10.5281/zenodo.7985798)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7985798.svg)](https://doi.org/10.5281/zenodo.7985798)
 
