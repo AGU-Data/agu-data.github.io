@@ -28,8 +28,7 @@ Optimize your digital presence, increase discovery of your work to potential col
 2. How to use your [ORCID](https://orcid.org).
 3. How to connect your research work [including articles, data, software, and any digital object] to you, using your [ORCID](https://orcid.org).
 
-Use this checklist for guidance on managing [Your Digital Presence](https://doi.org/10.5281/zenodo.4706118). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4706118.svg)](https://doi.org/10.5281/zenodo.4706118)
-[Video - 15 minutes](https://youtu.be/bftzPnFdtHk)
+Use this checklist for guidance on managing [Your Digital Presence](https://doi.org/10.5281/zenodo.4706118).[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4706118.svg)](https://doi.org/10.5281/zenodo.4706118)[Video - 15 minutes](https://youtu.be/bftzPnFdtHk)
 
 
 ### 2. Data Documentation and Citation Checklist
@@ -42,7 +41,7 @@ Plan, manage and share your data.
 2. How to share your data as openly as possible: determining which data, which repository, which license.
 3. How to cite data and help others cite your data. 
 
-Use this [Data Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062402) to improve your data management and sharing practices. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7062402.svg)](https://doi.org/10.5281/zenodo.7062402)
+Use this [Data Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062402) to improve your data management and sharing practices.[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7062402.svg)](https://doi.org/10.5281/zenodo.7062402)
 
 
 ### 3. Software Documentation and Citation Checklist
@@ -55,7 +54,7 @@ Plan, manage and share your software.
 2. How to preserve and share the version of your software used for your research. 
 3. How to cite software and help others cite your software. 
 
-Use this [Software Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062413) to improve your software management and sharing practices. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7062413.svg)](https://doi.org/10.5281/zenodo.7062413)
+Use this [Software Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062413) to improve your software management and sharing practices.[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7062413.svg)](https://doi.org/10.5281/zenodo.7062413)
 
 ## Discover steps for your team to take as they move towards working openly
 
@@ -70,7 +69,7 @@ Improve your team’s open practices. Codify these practices in your team’s Co
 3. How to establish consistent communication that facilitates common understanding and flexibility. 
 4. What and how to share your digital objects openly.
 
-Use these guidelines: [Open Science Practices for Teams](https://doi.org/10.5281/zenodo.7402075)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402075.svg)](https://doi.org/10.5281/zenodo.7402075)
+Use these guidelines: [Open Science Practices for Teams](https://doi.org/10.5281/zenodo.7402075)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402075.svg)](https://doi.org/10.5281/zenodo.7402075)
 
 ### 5. Open Science Resources and Guidance for Teams
 
@@ -82,7 +81,7 @@ Streamline your team’s research needs with resources that ensure they are as e
 2. How to manage and track your team’s digital objects.
 3. How to ensure equitable team contributions to research outputs and provide appropriate credit.
 
-Use these guidelines: [Open Science Resources and Guidance for Teams](https://doi.org/10.5281/zenodo.7402270)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402270.svg)](https://doi.org/10.5281/zenodo.7402270)
+Use these guidelines: [Open Science Resources and Guidance for Teams](https://doi.org/10.5281/zenodo.7402270)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402270.svg)](https://doi.org/10.5281/zenodo.7402270)
 
 
 ### 6. Digital Objects Open Science Checklist for Teams
@@ -95,7 +94,7 @@ Document, select, and preserve your team’s research.
 2. Determine what digital objects to preserve and the supporting documentation. 
 3. Determine how open and FAIR to make your digital objects.
 
-Use these guidelines: [Digital Objects Open Science Checklist for Teams](https://doi.org/10.5281/zenodo.7402540)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402540.svg)](https://doi.org/10.5281/zenodo.7402540)
+Use these guidelines: [Digital Objects Open Science Checklist for Teams](https://doi.org/10.5281/zenodo.7402540)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7402540.svg)](https://doi.org/10.5281/zenodo.7402540)
 
 ## Developed by the PARSEC Project Team
 ![image](https://user-images.githubusercontent.com/113625013/206821607-d5ad3f16-cc73-44fe-87c3-9df3ea68fe38.png)
