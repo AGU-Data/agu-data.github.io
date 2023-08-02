@@ -22,7 +22,10 @@ Para que pueda comenzar su viaje hacia la Ciencia Abierta, hemos preparado un co
  
 #### _¡Conecte su investigación a sus datos, software, institución y más!_
  
-Como investigador, usted tiene control sobre cómo se le representa digitalmente. Administrar su perfil digital puede ayudarlo a optimizar su presencia digital, aumentar la visibilidad de su trabajo y contribuciones científicas, conectarse con posibles colaboradores y socios, y recibir crédito cuando otros usan su trabajo. A esto lo llamamos “Tu presencia digital”!
+Optimice su presencia digital, aumente el descubrimiento de su trabajo por parte de colaboradores y socios potenciales, y reciba crédito cuando otros usen su trabajo.
+1.    Cómo establecer su identificador personal ('ORCID') que es único y global.
+2.    Cómo usar tu ORCID
+3.    Cómo conectar su trabajo de investigación [incluidos artículos, datos, software y cualquier objeto digital] con usted, utilizando su ORCID.
  
 Como guía para gestionar tu presencia digital, consulta la [Lista de verificación de Presencia Digital](https://doi.org/10.5281/zenodo.7841946) para mejorar sus prácticas de gestión e intercambio de datos. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7841946.svg)](https://doi.org/10.5281/zenodo.7841946)
  
