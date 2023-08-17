@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Data FAIR at AGU
+title: Open Science Pavilion at AGU23
 permalink: /datafair/
-feature-img: assets/img/pexels/chicago.jpg
-tags: [Data FAIR, Fall Meeting]
+feature-img: assets/img/pexels/OSDHD_3850x1697.jpg
+tags: [Open Science Pavilion, AGU23]
 ---
 
 # Data FAIR at AGU: Our Open Science Leadership Events at Fall Meeting 2022
