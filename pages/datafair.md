@@ -36,8 +36,8 @@ Visit the **[AGU23 Exhibits](https://www.agu.org/Fall-Meeting/Pages/Exhibit-Spon
 
 **Other ways to get involved at the Open Science Pavilion**
 - Volunteer as an expert at the Open Science & Data Help Desk (sign-up link coming soon)
-- Deliver a 15-20 minute talk at out presentation area (sign-up link coming soon)
-- Exhibit at the Open Science Discovery Kiosk - a grant-supported space at the Open Science Pavilion where companies with limited funding can be a part of the pavilion (8 slots, $250 per slot)
+- Deliver a 15-20 minute open science-focused presentation at the presentation area (sign-up link coming soon)
+- Exhibit at the Open Science Discovery Kiosk - a grant-supported space at the Open Science Pavilion where companies with limited funding can showcase their open science efforts (8 slots, $250 per slot)
 
 
 Contact [Data Help](mailto:DataHelp@agu.org) with questions!
