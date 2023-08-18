@@ -9,7 +9,8 @@ tags: [Open Science Pavilion, AGU23]
 # Be a part of the Open Science Pavilion at AGU23! 
 Is your organization a leader in open science practices and principles and looking for a high-profile space to demonstrate your efforts? The Open Science Pavilion at [#AGU23](https://www.agu.org/fall-meeting) will be a neighborhood of kiosks in the exhibit hall centered around AGU’s and Earth Science Information Partners (ESIP)’s **Open Science and Data Help Desk**, which provides researchers with opportunities to engage with informatics experts in their domains. Through the Open Science & Data Help Desk, researchers can learn about skills and techniques that will help further their research and make their data and software more open and FAIR.  We invite companies doing this exciting work to be a part of the Open Science Pavilion, an ideal location to showcase your leadership in open science.  
 
-[[https://github.com/agu-data/assets/img/pexels/OSDHD_960x482.jpg|alt=OSDHD]]
+[[/assets/img/pexels/OSDHD_960x482.jpg]]
+
 
 **Benefits**
 - **Location, location, location:** Close proximity to the ESIP/AGU Open Science & Data Help Desk (and therefore potential customers of your organization)    
