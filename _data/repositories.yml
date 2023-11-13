@@ -16,7 +16,7 @@ repository-list:
       - name: Environmental Data Initiative (EDI)
         re3data-url: https://www.re3data.org/repository/r3d100010272
         url: https://environmentaldatainitiative.org/
-        notes: "EDI is an NSF-funded repository accepting environmental research data and relevant processing code. Trained curators assist researchers from field stations, individual laboratories, and research projects of all sizes and actively promote and enable curation and re-use of environmental data through outreach and training. EDI is committed to enable data that is Findable, Accessible, Interoperable, and Reusable through rich science metadata and assigning of DOIs. All data and metadata are quality checked and machine readable ensuring reliable reuse of data. Data submission is provided. Link(s): <a href='https://environmentaldatainitiative.org/submit-your-data/'>Submit Data</a>"
+        notes: "EDI is an NSF-funded repository accepting environmental research data and relevant processing code. Trained curators assist researchers from field stations, individual laboratories, and research projects of all sizes and actively promote and enable curation and re-use of environmental data through outreach and training. EDI is committed to enable data that is Findable, Accessible, Interoperable, and Reusable through rich science metadata and assigning of DOIs. All data and metadata are quality checked and machine readable ensuring reliable reuse of data. Data submission is provided. Link(s): <a href='https://edirepository.org/data/publish-data'>Submit Data</a>"
         category: Earth and Environmental Data
         journal-list: JGR Biogeosciences, JGR Oceans
       - name: Biological and Chemical Oceanography Data Management Office (BCO-DMO)
