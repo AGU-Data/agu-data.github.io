@@ -1,0 +1,92 @@
+---
+layout: post
+title: Open Science at AGU23 in San Francisco
+feature-img: assets/img/pexels/chicago.jpg
+author: Kristina Vrouwenvelder
+tags: [Posts, Fall Meeting]
+---
+
+Join us in San Francisco and online for [AGU23](https://www.agu.org/Fall-Meeting). This year's theme is _Wide Open Science_ and we're hosting a number of exciting town halls, learning opportunities, and more. 
+
+# Open Science events at #AGU23
+
+## [Open Science and Data Help Desk](https://www.esipfed.org/data-help-desk-at-agu-2023) 
+*In the Exhibit Hall, booth #1423*
+* Stop by the ESIP/AGU [in-person Help Desk](https://www.esipfed.org/data-help-desk-at-agu-2023) and ask a data or software expert your question! The Help Desk will be open for questions whenever the Exhibit Hall is open.
+* Come see presentations on a range of topics to boost your career and technical skills, from using MyST Markdown, managing your physical samples data, and sharing your MATLAB code to writing your first README file. (Full presentation schedule will be available at [this link](https://www.esipfed.org/data-help-desk-at-agu-2023) the weekend before Fall Meeting.) 
+
+**Schedule: whenever the Exhibit Hall is open,**  
+**Monday:** 15:00 - 18:00  
+**Tuesday-Wednesday:** 10:00 - 18:00  
+**Thursday:** 10:00 - 13:00  
+
+## Other Open Science Events from the AGU Team: 
+
+**MONDAY 11 December:**
+
+Town Hall: [Ethical AI/ML in the Earth, Space, and Environmental Sciences: Risks, Rewards, Principles, and Responsibilities for Researchers](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/188680)
+* Join our discussion on the use of AI and ML across AGU's sections, featuring speakers including the Editor-in-Chief of the new AGU journal _JGR: Machine Learning and Computation_, AI researchers, and leadership from ESIP and AGU's Hydrology section. Learn about the recently-published [community report](https://doi.org/10.22541/essoar.168132856.66485758/v1) with recommendations for researchers and organizations on implementing guidelines on the ethical use of AI and weigh in on plans to keep this report updated in 2024! 
+
+Town Hall: [Complex Citations Are Needed in Wide-Open Science: Ensuring Transparency, Reproducibility, and Credit for All Supporting Research Contributions](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/187902)
+* Proper attribution is vital for enabling a culture of open data sharing, but this can be challenging for complex datasets where many smaller datasets have been combined. Come share your challenges with complex data citations and hear about plans for a solution in this town hall. 
+
+**TUESDAY 12 December:**
+
+IN21A - [Accelerating Science: The Convergence of Inclusive Computational Resources, Cloud-Optimized Data, Open-Source Tools, and Open Collaborative Communities](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/212879)
+* In this session, Brian Sedora will present on AGU's Notebooks Now project publishing computational notebooks (see IN21A-03 [Revolutionizing Scholarly Publishing: A Comprehensive Workflow for the Submission, Review, and Publication of Computational Notebooks as Primary Elements of the Scientific Record](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1263395)
+
+Town Hall: [Open Science Realities: How Open is Open?](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/186001)
+* Join our discussion of discipline-specific considerations for open data, featuring speakers from across the Earth and space sciences with expertise in model and simulation data, physical samples, publishing data, and open science policy. 
+
+**WEDNESDAY 13 December:** 
+
+Town Hall: [Notebooks Now! Advancing Notebooks as Scholarly Objects at AGU](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/185989)
+* Come learn about AGU's Notebooks Now! pilot, which will enable you to publish computational notebooks as though they were research articles - but with your code and figures integrated into the scholarly version of record, enabling interactivity and heightening transparency and reproducibility.
+
+Career Center: Managing Your Digital Presence
+* Your Digital Presence is often the first thing others see about your work. It's a powerful tool to make sure that all your research outputs and achievements are visible and discoverable. Learn how to make sure your Digital Presence is ready in this tutorial. 
+
+**THURSDAY 14 December:**
+
+IN41C - [Fostering Wide-Open Science by Improving Collaboration, Innovation, Attribution, Identity, and Ethics in Data Repositories and Data (Re)publication I Poster](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/212866)  
+and  
+IN43A - [Fostering Wide-Open Science by Improving Collaboration, Innovation, Attribution, Identity, and Ethics in Data Repositories and Data (Re)publication II Oral](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/212906)
+* This session highlights the increasingly complex issues Earth Science Data Repositories face as they expand and evolve to deliver the highest value to the scientific community and public, from implementing the FAIR, CARE, and TRUST principles, to adapting to new technologies like AI.
+
+**FRIDAY 15 December:**
+
+IN53A - [AI Models in Earth Science II Oral](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/212942)
+* In this session, Kristina Vrouwenvelder will present on the community-run, AGU-convened project developing community recommendations for ethical use of AI and ML in the Earth, space, and environmental sciences (see IN53A-02 [Ethical and Responsible Use of AI/ML in the Earth, Space, and Environmental Sciences: New Community Recommendations](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1323410)
+
+## AGU Learning Opportunities
+MONDAY 11 December: 
+
+AGU Learning: [Publishing Skills for the Early-Career Researcher: How to Submit, How to Review, and Advice from the Experts](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/193273)
+
+WEDNESDAY 13 December: 
+
+AGU Learning: [Jargon-Free Science Writing](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/193264)
+
+THURSDAY 14 December: 
+
+AGU Learning: [Wide-Open Publications: Cocreating Equitable and Inclusive Science Through Open Practices](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/193415)
+
+TUESDAY 23 January, Online Only: 
+AGU Learning: (repeat of Monday 11 December's session) [Publishing Skills for the Early-Career Researcher: How to Submit, How to Review, and Advice from the Experts](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/216213)
+
+THURSDAY 25 January, Online Only: 
+AGU Learning: [Career Guidance: Finding Your Fit](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/216216)
+
+## Other interesting sessions:  
+IN42A - [Advancements in Earth Science Data Visualization, Sonification, and XR](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/213226)
+
+USGS Town Hall: [Opportunities in an Era of Open Science](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/190147)
+
+IN21A - [Accelerating Science: The Convergence of Inclusive Computational Resources, Cloud-Optimized Data, Open-Source Tools, and Open Collaborative Communities](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/212879) 
+
+Want to stay connected with Open Science at AGU? **Join our mailing list [here](https://forms.monday.com/forms/b4284b3ea07f6e4d801f03451d5f7ac4?r=use1)**.
+
+
+
+
+
