@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Science at AGU23 in San Francisco
-feature-img: assets/img/pexels/AGU23-header.jpg
+feature-img: assets/img/pexels/AGU23-header.png
 author: Kristina Vrouwenvelder
 tags: [Posts, Fall Meeting]
 ---
