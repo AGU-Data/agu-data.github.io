@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Course: Introduction to Open Science
+title: Course – Introduction to Open Science
 feature-img: "assets/img/resources/OSJ-English-banner.jpeg"
 img: "assets/img/resources/OSJ-english-logo.png"
 date: November 2023
