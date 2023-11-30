@@ -6,50 +6,54 @@ feature-img: assets/img/pexels/OSDHD_3850x1138.jpg
 tags: [Open Science Pavilion, AGU23]
 ---
 
-# Be a part of the Open Science Pavilion at AGU23! 
-Is your organization a leader in open science practices and principles and looking for a high-profile space to demonstrate your efforts? The Open Science Pavilion at [#AGU23](https://www.agu.org/fall-meeting) will be a neighborhood of kiosks in the exhibit hall centered around AGU’s and Earth Science Information Partners (ESIP)’s **Open Science and Data Help Desk**, which provides researchers with opportunities to engage with informatics experts in their domains. Through the Open Science & Data Help Desk, researchers can learn about skills and techniques that will help further their research and make their data and software more open and FAIR.  We invite companies doing this exciting work to be a part of the Open Science Pavilion, an ideal location to showcase your leadership in open science.  
+# Come explore the Open Science Pavilion at AGU23! 
+
+The Open Science Pavilion at AGU23 is a bustling neighborhood of kiosks in the Exhibit Hall centered around the **Open Science & Data Help Desk**, which provides researchers with opportunities to engage with informatics experts in their domains. Through the Open Science & Data Help Desk, researchers can learn about skills and techniques that will help further their research and make their data and software more open and FAIR. Also in this space you will find the **AGU Publications** booth. Come talk to AGU staff to learn about AGU’s open science efforts, journals and books programs, and ESS Open Archive, AGU’s preprint server. 
+
+**Pavilion Exhibitors**
+- **[Wiley](https://www.wiley.com/en-us)**    
+- **[Center for Open Science](https://www.cos.io/)** 
+- **[Esri](https://www.esri.com/en-us/home)** 
+- **[MathWorks](https://www.mathworks.com/)**
+- **[GO FAIR US](https://www.gofair.us/)**
+- **[Dryad](https://datadryad.org/stash)**
+- **[IEDA](https://www.iedadata.org/),[AstroMat](https://www.astromat.org/) &  Internet of Samples**
 
 
-**Benefits**
-- **Location, location, location:** Close proximity to the ESIP/AGU Open Science & Data Help Desk (and therefore potential customers of your organization)    
-- **Marketing:** Your sponsorship/logo featured prominently in Open Science Pavilion neighborhood
-- **Ease of Participation:** Booth Design is Aligned to Open Science Pavilion Theme with opportunity to include your own branding. (Booth furniture / theme pre-determined)
-- **Engagement:** Opportunity to sign up to give a talk at the Open Science & Data Help Desk presentation area
+**Open Science Discovery Kiosk**
+- Our **Open Science Discovery Kiosk** is a subsidized space at the Open Science Pavilion that offers similar benefits as full kiosks where organizations can showcase their open science efforts in 3- or 4-hour slots during Exhibit Hall hours. There are still slots available at a cost of $250 each. Contact [Brian Sedora](mailto:bsedora@agu.org) if you are interested in this opportunity!
 
 
+**Presentations at the Open Science & Data Help Desk**
+- Catch 15 to 20 minute presentations followed by a chance to ask questions and engage with experts
 
-**Enhanced exhibit spaces in the Open Science Pavilion are turnkey kiosks that cost $5,500 and include:**
-- One (1) double-sided, custom-branded kiosk   
-- 30-minute open science-focused presentation at the presentation area (topic must be approved by AGU)   
-- Stool (1)   
-- Wastebasket (1)   
-- 40-inch monitor
-- Wifi (private wifi network for the zone)    
-- Power  
-- Carpeting  
-- Two (2) complimentary Full Conference registrations
-- Recognition during the workshops as an Open Science Pavilion exhibitor 
-
-**Complete our short [application](https://form.jotform.com/231935627057158) to get started!**
-
-Visit the **[AGU23 Exhibits](https://www.agu.org/Fall-Meeting/Pages/Exhibit-Sponsor/Exhibit#ospavilion)** page more information about the Exhibit Hall at AGU23.
-
-**Other ways to get involved at the Open Science Pavilion**
-- Volunteer as an expert at the Open Science & Data Help Desk (sign-up link coming soon)
-- Deliver a 15-20 minute open science-focused presentation at the presentation area (sign-up link coming soon)
-- Exhibit at the **Open Science Discovery Kiosk** - a subsidized space at the Open Science Pavilion where organizations with limited funding can showcase their open science efforts. See benefits below. There are limited slots at a cost of $250 each. Complete the [application](https://forms.gle/e4xvjsEfRVWUgxZH8) if you are interested in this opportunity!
-
-**Benefits of the Open Science Discovery Kiosk**
-- A morning or afternoon time slot on one day of #AGU23 (app. 3-4 hours)
-- One (1) double-sided, neutrally branded kiosk
-- Stool (1)
-- Wastebasket (1)
-- 40-inch monitor
-- Wifi (private wifi network for the zone)
-- Power
-- Carpeting
-- Recognition during the workshops as an Open Science Pavilion exhibitor
+| Time     | Presenter         | Title | Organization | 
+| ------------- | ------------- |------------- | ------------- |
+| Mon 11 Dec |   |  |   |
+| 15:30  | Karen Stocks,<br> Yuhan Douglas Rao,<br> Matt Jones  |Implementing FAIR for AI: towards a community roadmap  | GO FAIR US |
+| 16:00  | David Boyt,<br>Jenny Lunn |How do I publish an Open Access book? | The Geological Society/AGU  |
+| 17:00  | Rowan Cockett,<br>Steve Purves  |MyST Markdown  | Curvenote  |
+| 17:30  | Pranoti Asher  |Data Management and my Career  | AGU  |
+| Tues 12 Dec |   |  |   |
+| 10:00  | Brian Sedora,<br> Kristina Vrouwenvelder  |Publishing with AGU: Citing Your Data and Software  | AGU |
+| 10:30  | Kathryn Corcoran,<br> Jennifer Satten,<br>Hannah Qualtrough,<br>Wenbai Yang  |The Future of Science is Open: How to Embrace Open Science Principles and Practices in Your Research  | Wiley |
+| 11:00  | Laura Bowman  |What's a README and why do I need one?  | Dryad |
+| 11:30  | Brittany Webster  |AGU Position Statements – The Bedrock of AGU’s Policy Work  | AGU |
+| 13:00  | Jenny Dissen  |NODD Open Data Dissemination Program  | NCICS/NC State/ NOAA Cooperative Institute for Satellite Earth System Studies |
+| 13:30  | David Boyt,<br>Jenny Lunn |How do I publish an Open Access book? | The Geological Society/AGU  |
+| 14:00  | Lisa Kempler  |Open, Reusable and Impactful Geoscience Research with MATLAB  | MathWorks |
+| 15:30  | Rowan Cockett,<br>Steve Purves  |Computational articles  | Curvenote |
+| 16:30  | Kerstin Lehnert  |Opening the Treasure Trove of Physical Samples Data in the Earth & Planetary Sciences  |  |
+| Wed 13 Dec |   |  |   |
+| 11:00  | Kristina Vrouwenvelder  |Managing Your Digital Presence  | AGU |
+| 11:30  |Kristina Vrouwenvelder  |Getting Started with Data  | AGU |
+| 13:00  | Rowan Cockett,<br>Steve Purves  | Publishing Computational Notebooks | Curvenote |
+| 14:00  | Satish Sankaran, <br>Lorraine Tighe |Driving Open Science Through the Power of Open Standards | Esri  |
+| 14:30  | Susan Shingledecker,<br>Shelley Stall  |Open Science Stumbles  | ESIP/AGU |
+| 15:00  | Susan Shingledecker, Shelley Stall  |Open Science Stumbles, continued  | ESIP/AGU |
+| Thurs 14 Dec |   |  |   |
+| 10:00  | Billy M. Williams  |Title to come  | AGU |
+| 12:30  |Kristina Vrouwenvelder  |Getting Started with Software  | AGU |
 
 
-
-Contact [Data Help](mailto:DataHelp@agu.org) with questions!
+Contact [Brian Sedora](mailto:bsedora@agu.org) with questions!
