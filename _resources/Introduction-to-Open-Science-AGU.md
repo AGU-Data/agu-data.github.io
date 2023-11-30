@@ -6,6 +6,8 @@ img: "assets/img/resources/OSJ-english-logo.png"
 date: November 2023
 tags: [AGU, Resources, Open Science, Workshop]
 ---
+
+
 # Mentoring365 Course: Introduction to Open Science
 
 This circle, held in November 2023 in the weeks leading up to AGU23 in San Francisco through AGU's [Mentoring365 program](https://www.agu.org/learn-and-develop/learn/mentoring-programs/mentoringprograms), introduced our Circle members to the basics of Open Science and its benefits for individual researchers.
