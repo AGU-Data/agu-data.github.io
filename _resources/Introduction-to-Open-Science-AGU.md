@@ -2,7 +2,7 @@
 layout: post
 title: Course – Introduction to Open Science
 feature-img: "assets/img/pexels/AGU-space-mountains-atmospherel-1314x739.jpg"
-img: "assets/img/resources/OSJ-english-logo.png"
+img: "assets/img/resources/mentoring-365.png"
 date: November 2023
 tags: [AGU, Resources, Open Science, Workshop]
 ---
