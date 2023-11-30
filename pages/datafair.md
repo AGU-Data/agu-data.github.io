@@ -21,7 +21,12 @@ The Open Science Pavilion at AGU23 is a bustling neighborhood of kiosks in the E
 
 
 **Open Science Discovery Kiosk**
-- Our **Open Science Discovery Kiosk** is a subsidized space at the Open Science Pavilion that offers similar benefits as full kiosks where organizations can showcase their open science efforts in 3- or 4-hour slots during Exhibit Hall hours. There are still slots available at a cost of $250 each. Contact [Brian Sedora](mailto:bsedora@agu.org) if you are interested in this opportunity!
+- Our **Open Science Discovery Kiosk** is a subsidized space at the Open Science Pavilion where organizations can showcase their open science efforts in 3- or 4-hour slots during Exhibit Hall hours. There are still slots available at a cost of $250 each. Contact [Brian Sedora](mailto:bsedora@agu.org) if you are interested in this opportunity!
+
+| Date     | Time         | Organization |  
+| ------------- | ------------- |------------- | 
+| Tues 12 Dec | 14:00-18:00  | Geological Society/AGU |  
+| Thurs 14 Dec  | 10:00-13:00  |Curvenote | 
 
 
 **Presentations at the Open Science & Data Help Desk**
