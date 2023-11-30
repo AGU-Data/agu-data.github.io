@@ -8,7 +8,7 @@ tags: [Open Science Pavilion, AGU23]
 
 # Come explore the Open Science Pavilion at AGU23! 
 
-The Open Science Pavilion at AGU23 is a bustling neighborhood of kiosks in the Exhibit Hall centered around the **Open Science & Data Help Desk**, which provides researchers with opportunities to engage with informatics experts in their domains. Through the Open Science & Data Help Desk, researchers can learn about skills and techniques that will help further their research and make their data and software more open and FAIR. Also in this space you will find the **AGU Publications** booth. Come talk to AGU staff to learn about AGU’s open science efforts, journals and books programs, and ESS Open Archive, AGU’s preprint server. 
+The Open Science Pavilion at AGU23 is a bustling neighborhood of kiosks in the Exhibit Hall centered around the **[Open Science & Data Help Desk](https://www.esipfed.org/data-help-desk)**, which provides researchers with opportunities to engage with informatics experts in their domains. Through the Open Science & Data Help Desk, researchers can learn about skills and techniques that will help further their research and make their data and software more open and FAIR. Also in this space you will find the **[AGU Publications](https://www.agu.org/publish)** booth. Come talk to AGU staff to learn about AGU’s open science efforts, journals and books programs, and ESS Open Archive, AGU’s preprint server. 
 
 **Pavilion Exhibitors**
 - **[Wiley](https://www.wiley.com/en-us)**    
