@@ -8,14 +8,14 @@ tags: [AGU, Resources, Open Science, Workshop]
 ---
 
 
-# Mentoring365 Course: Introduction to Open Science
+# Introduction to Open Science
 
-This circle, held in November 2023 in the weeks leading up to AGU23 in San Francisco through AGU's [Mentoring365 program](https://www.agu.org/learn-and-develop/learn/mentoring-programs/mentoringprograms), introduced our Circle members to the basics of Open Science and its benefits for individual researchers.
-Our participants, largely early-career researchers and students, got a grounding in managing their digital presence, getting started with data and software, and our AGU Publishing policy on sharing and citing data and software.
-We also held weekly Office Hours for Q&As with participants on topics covered by the circle. 
+These materials are based off a Mentoring365 circle, held in November 2023 in the weeks leading up to AGU23 in San Francisco through AGU's [Mentoring365 program](https://www.agu.org/learn-and-develop/learn/mentoring-programs/mentoringprograms). 
+
+The content here will provide an introduction to the basics of Open Science and its benefits for individual researchers, particularly  early-career researchers and students, and a grounding in managing your digital presence, getting started with data and software, and our AGU Publishing policy on sharing and citing data and software.
 
 **Circle Leads:**  
-[Kristina Vrouwenvelder](https://orcid.org/0000-0002-5862-2502) (Open Science Leadership); [Brian Sedora](https://orcid.org/0000-0003-0825-5967) and Sophie Hanson (Open Science Leadership and Publications)
+[Kristina Vrouwenvelder](https://orcid.org/0000-0002-5862-2502) (Open Science Leadership); [Brian Sedora](https://orcid.org/0000-0003-0825-5967) and [Sophie Hanson](https://orcid.org/0009-0003-6021-8466) (Publications)
 
 **Circle Agenda:**  
 
