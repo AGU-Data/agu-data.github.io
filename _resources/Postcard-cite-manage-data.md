@@ -35,4 +35,4 @@ tags: [AGU, Resources, Open Science, Workshop]
 **Find more guidance for the steps above as well as data backup, version control, and electronic lab notebooks in the checklist linked below!**
 
 ---
-***See the full checklist for more tips [here](https://doi.org/10.5281/zenodo.4706118)!***
+***See the full checklist for more tips [here](https://zenodo.org/doi/10.5281/zenodo.7062402)!***
