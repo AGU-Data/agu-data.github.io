@@ -29,5 +29,6 @@ If you enabled automatic updates, your ORCID profile will automatically keep you
 > This includes the DOI of your paper citing the data or of the software used to analyze the data!
 
 * **Cite your data and software** in the references section of your publications to link your work, support reproducibility and transparency, AND get credit for your data and software. Learn how [here](https://www.agu.org/publish-with-agu/publish/author-resources/data-and-software-for-authors#guidance).
+
 ---
 ***See the full checklist for more tips [here](https://doi.org/10.5281/zenodo.4706118)!***
