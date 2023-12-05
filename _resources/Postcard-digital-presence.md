@@ -2,7 +2,7 @@
 layout: post
 title: Postcard – Building Your Digital Presence
 feature-img: "assets/img/pexels/AGU-space-mountains-atmospherel-1314x739.jpg"
-img: "assets/img/resources/mentoring-365.png"
+img: "assets/img/resources/building your digital presence_logo.jpg"
 date: December 2023
 tags: [AGU, Resources, Open Science, Workshop]
 ---
