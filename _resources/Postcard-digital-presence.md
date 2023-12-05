@@ -32,3 +32,7 @@ If you enabled automatic updates, your ORCID profile will automatically keep you
 
 ---
 ***See the full checklist for more tips [here](https://doi.org/10.5281/zenodo.4706118)!***
+
+To cite or reuse this postcard, use:  
+> Vrouwenvelder, K., & Raia, N. (2023). Postcard: Building Your Digital Presence. Zenodo. https://doi.org/10.5281/zenodo.10264989
+
