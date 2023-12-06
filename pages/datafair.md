@@ -17,11 +17,10 @@ The Open Science Pavilion at AGU23 is a bustling neighborhood of kiosks in the E
 - **[MathWorks](https://www.mathworks.com/)**
 - **[GO FAIR US](https://www.gofair.us/)**
 - **[Dryad](https://datadryad.org/stash)**
-- **[IEDA](https://www.iedadata.org/),[AstroMat](https://www.astromat.org/) &  Internet of Samples**
+- **[IEDA](https://www.iedadata.org/), [AstroMat](https://www.astromat.org/) &  Internet of Samples**
 
 
 **Open Science Discovery Kiosk**
-- Our **Open Science Discovery Kiosk** is a subsidized space at the Open Science Pavilion where organizations can showcase their open science efforts in 3- or 4-hour slots during Exhibit Hall hours. There are still slots available at a cost of $250 each. Contact [Brian Sedora](mailto:bsedora@agu.org) if you are interested in this opportunity!
 
 | Date     | Time         | Organization |  
 | ------------- | ------------- |------------- | 
