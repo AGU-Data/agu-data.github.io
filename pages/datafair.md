@@ -35,7 +35,7 @@ The Open Science Pavilion at AGU23 is a bustling neighborhood of kiosks in the E
 | ------------- | ------------- |------------- | ------------- |
 | Mon 11 Dec |   |  |   |
 | 15:30  | Karen Stocks,<br> Yuhan Douglas Rao,<br> Matt Jones  |Implementing FAIR for AI: towards a community roadmap  | GO FAIR US |
-| 16:00  | David Boyt,<br>Jenny Lunn |How do I publish an Open Access book? | The Geological Society/AGU  |
+| 16:00  | David Boyt,<br>Jenny Lunn |[How do I publish an Open Access book?](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220417) | The Geological Society/AGU  |
 | 17:00  | Rowan Cockett,<br>Steve Purves  |MyST Markdown  | Curvenote  |
 | 17:30  | Pranoti Asher  |Data Management and my Career  | AGU  |
 | Tues 12 Dec |   |  |   |
