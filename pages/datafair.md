@@ -12,7 +12,7 @@ The Open Science Pavilion at AGU23 is a bustling neighborhood of kiosks in the E
 
 
 AGU23 Exhibit Hall             |  Open Science Pavilion Map
-:-------------------------:|:-------------------------:
+-------------------------|-------------------------
 <img src="https://agu-data.github.io/assets/img/pexels/help-desk-map.png" width="500" height="305">  |  <img src="https://agu-data.github.io/assets/img/pexels/pavilion_map.jpg" width="500" height="281">
 
 ## Pavilion Exhibitors ##
