@@ -36,29 +36,29 @@ The Open Science Pavilion at AGU23 is a bustling neighborhood of kiosks in the E
 | Time     | Presenter         | Title | Organization | 
 | ------------- | ------------- |------------- | ------------- |
 |  Mon 11 Dec  |   |  |   |
-| 15:30  | Karen Stocks,<br> Yuhan Douglas Rao,<br> Matt Jones  |Implementing FAIR for AI: towards a community roadmap  | GO FAIR US |
+| 15:30  | Yuhan Douglas Rao,<br> Matt Jones,<br>Reyna Jenkyns |[Implementing FAIR for AI: towards a community roadmap](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/221044)  | GO FAIR US |
 | 16:00  | David Boyt,<br>Jenny Lunn |[How do I publish an Open Access book?](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220417) | The Geological Society/AGU  |
-| 17:00  | Rowan Cockett,<br>Steve Purves  |MyST Markdown  | Curvenote  |
+| 17:00  | Rowan Cockett,<br>Steve Purves  |[Write your next paper in MyST Markdown: data, code & notebooks](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220421)  | Curvenote  |
 | 17:30  | Pranoti Asher  |[Data Management and my Career](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220425)  | AGU  |
 | Tues 12 Dec |   |  |   |
 | 10:00  | Brian Sedora,<br> Kristina Vrouwenvelder  |[Publishing with AGU: Citing Your Data and Software](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220427)  | AGU |
 | 10:30  | Kathryn Corcoran,<br> Jennifer Satten,<br>Hannah Qualtrough,<br>Wenbai Yang  |[The Future of Science is Open: How to Embrace Open Science Principles and Practices in Your Research](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220428)  | Wiley |
-| 11:00  | Laura Bowman  |What's a README and why do I need one?  | Dryad |
+| 11:00  | Laura Bowman  |[What's a README and why do I need one?](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220429)  | Dryad |
 | 11:30  | Brittany Webster  |[AGU Position Statements – The Bedrock of AGU’s Policy Work](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220432)  | AGU |
 | 13:00  | Jenny Dissen  |[NODD Open Data Dissemination Program](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220436)  | NCICS/NC State/ NOAA Cooperative Institute for Satellite Earth System Studies |
-| 13:30  | David Boyt,<br>Jenny Lunn |How do I publish an Open Access book? | The Geological Society/AGU  |
+| 13:30  | David Boyt,<br>Jenny Lunn |[How do I publish an Open Access book?](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220439) | The Geological Society/AGU  |
 | 14:00  | Lisa Kempler  |[Open, Reusable and Impactful Geoscience Research with MATLAB](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220440)  | MathWorks |
-| 15:30  | Rowan Cockett,<br>Steve Purves  |Computational articles  | Curvenote |
-| 16:30  | Kerstin Lehnert  |Opening the Treasure Trove of Physical Samples Data in the Earth & Planetary Sciences  |  |
+| 15:30  | Rowan Cockett,<br>Steve Purves  |[Computational articles](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220443)  | Curvenote |
+| 16:30  | Kerstin Lehnert  |[Opening the Treasure Trove of Physical Samples Data in the Earth & Planetary Sciences](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220444)  |  |
 | Wed 13 Dec |   |  |   |
 | 11:00  | Kristina Vrouwenvelder  |[Managing Your Digital Presence](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220446)  | AGU |
 | 11:30  |Kristina Vrouwenvelder  |[Getting Started with Data](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220449)  | AGU |
-| 13:00  | Rowan Cockett,<br>Steve Purves  | Publishing Computational Notebooks | Curvenote |
+| 13:00  | Rowan Cockett,<br>Steve Purves  | [Publishing Computational Notebooks](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220451) | Curvenote |
 | 14:00  | Satish Sankaran, <br>Lorraine Tighe |[Driving Open Science Through the Power of Open Standards](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220454) | Esri  |
 | 14:30  | Susan Shingledecker,<br>Shelley Stall  |[Open Science Stumbles](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220456)  | ESIP/AGU |
 | 15:00  | Susan Shingledecker, Shelley Stall  |[Open Science Stumbles](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220456), continued  | ESIP/AGU |
 | Thurs 14 Dec |   |  |   |
-| 10:00  | Billy M. Williams  |DEI in the Earth and Space Sciences: Progress and Opportunities – Perspective from the Front-Lines  | AGU |
+| 10:00  | Billy M. Williams  |[DEI in the Earth and Space Sciences: Progress and Opportunities – Perspective from the Front-Lines](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/221045)  | AGU |
 | 12:30  |Kristina Vrouwenvelder  |[Getting Started with Software](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220458)  | AGU |
 
 
