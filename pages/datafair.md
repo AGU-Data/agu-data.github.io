@@ -49,6 +49,7 @@ The Open Science Pavilion at AGU23 is a bustling neighborhood of kiosks in the E
 | 13:30  | David Boyt,<br>Jenny Lunn |[How do I publish an Open Access book?](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220439) | The Geological Society/AGU  |
 | 14:00  | Lisa Kempler  |[Open, Reusable and Impactful Geoscience Research with MATLAB](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220440)  | MathWorks |
 | 15:30  | Rowan Cockett,<br>Steve Purves  |[Computational articles](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220443)  | Curvenote |
+| 16:00  | David Boyt,<br>Jenny Lunn |[How do I publish an Open Access book?](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220439) | The Geological Society/AGU  |
 | 16:30  | Kerstin Lehnert  |[Opening the Treasure Trove of Physical Samples Data in the Earth & Planetary Sciences](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220444)  |  |
 | Wed 13 Dec |   |  |   |
 | 11:00  | Kristina Vrouwenvelder  |[Managing Your Digital Presence](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220446)  | AGU |
