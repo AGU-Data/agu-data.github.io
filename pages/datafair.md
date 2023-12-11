@@ -19,7 +19,7 @@ The Open Science Pavilion at AGU23 is a bustling neighborhood of kiosks in the E
 - **[MathWorks](https://www.mathworks.com/)**
 - **[GO FAIR US](https://www.gofair.us/)**
 - **[Dryad](https://datadryad.org/stash)**
-- **[IEDA](https://www.iedadata.org/), [AstroMat](https://www.astromat.org/) &  Internet of Samples**
+- **[IEDA](https://www.iedadata.org/), [Astromat](https://www.astromat.org/) &  [Internet of samples](https://isamplesorg.github.io/home/)**
 
 
 ## Open Science Discovery Kiosk ##
@@ -60,6 +60,7 @@ The Open Science Pavilion at AGU23 is a bustling neighborhood of kiosks in the E
 | 15:00  | Susan Shingledecker, Shelley Stall  |[Open Science Stumbles](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220456), continued  | ESIP/AGU |
 | Thurs 14 Dec |   |  |   |
 | 10:00  | Billy M. Williams  |[DEI in the Earth and Space Sciences: Progress and Opportunities – Perspective from the Front-Lines](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/221045)  | AGU |
+| 10:30  | Eric Olson  | Enabling Your Wide Open Science with the Open Science Framework (OSF) | Center for Open Science |
 | 12:30  |Kristina Vrouwenvelder  |[Getting Started with Software](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220458)  | AGU |
 
 
