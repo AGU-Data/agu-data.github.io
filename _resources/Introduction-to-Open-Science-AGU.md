@@ -175,6 +175,16 @@ Write a sample Data Availability Statement for your own dataset or a paper in yo
 
 ***
 
+### Example Data and Software Citations: 
+
+### Data:   
+> Edmunds, P. J., Didden, C., & Frank, K. (2021). Mean percentage cover of corals and Porites astreoides at each site by year at St. John, VI from 1992 to 2019 (Version 1) [Dataset]. Biological and Chemical Oceanography Data Management Office (BCO-DMO). [https://doi.org/10.26008/1912/BCO-DMO.843284.1​](https://doi.org/10.26008/1912/BCO-DMO.843284.1​)
+
+
+### Software:​
+
+> Shobe, C. (2023). Code and data for "The uncertain future of mountaintop-removal-mined landscapes 1: How mining changes erosion processes and variables" (v1.0) [Software]. Zenodo. [https://doi.org/10.5281/zenodo.10059514](https://doi.org/10.5281/zenodo.10059514)
+
 ## Comments, Suggestions and Contact: 
 Thanks for visiting our Open Science course!
 
