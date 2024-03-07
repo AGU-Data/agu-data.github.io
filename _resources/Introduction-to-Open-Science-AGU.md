@@ -99,7 +99,7 @@ This week, we’ll focus on your data and software, why sharing is important, an
 
 [List of Useful Domain Repositories by AGU Journal](https://data.agu.org/resources/useful-domain-repositories)
 
-[Data and Software Sharing Guidance for AGU Authors](https://data.agu.org/resources/agu-data-software-sharing-guidance)
+[Data and Software Sharing Guidance for AGU Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors)
 
 What kind of data do you use? Does your funder or publisher require you to share your data? Start planning early for data sharing!
 
