@@ -191,4 +191,7 @@ Thanks for visiting our Open Science course!
 
 If you have comments, suggestions, or questions, email [Kristina Vrouwenvelder](mailto:kvrouwenvelder@agu.org). 
 
+### Cite these materials:
+
+> Vrouwenvelder, K., Hanson, S., & Sedora, B. (2023, November 29). Lesson Materials: Introduction to Open Science. Zenodo. https://doi.org/10.5281/zenodo.10795413
 
