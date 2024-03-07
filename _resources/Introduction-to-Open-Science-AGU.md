@@ -118,8 +118,9 @@ However, if your work depends on scripting in **Python**, **R**, or another scie
 
 ### Developing and Documenting Your Code  
 A lot has been written about good practices for developing software and code, and we won’t repeat them all here. However, there are some resources we’d like to share that can help make sure your code and software are ready to share with others:
-1. _Version control_: when developing code, you’ll quickly find out that it’s an iterative process – sometimes you’ll break something and need to roll back your changes, or maybe you’ll add on something for one project that’s not relevant for another project. In these situations, and in particular if you’re working on code collaboratively with your team, you’ll find it very useful to employ a system for tracking changes in your code. Many researchers use [Github](https://github.com/) as a platform for this. We recommend the [Software Carpentries lesson on getting started with Git](https://swcarpentry.github.io/git-novice/) for an introduction to version control.
-2. _Documentation_: writing code that works is one thing – but you’ll quickly find that to share your work effectively with others, and even to go back to your own old code and understand it, you’ll need to add textual documentation. This often takes the form of headers, in-text comments, and README files that explain important information about how your code works. Conventions for documenting code can depend on the programming language, but a good rule of thumb is to imagine you’re explaining how your code works to a colleague. Get started with more resources in [this guide](https://guides.library.jhu.edu/c.php?g=1096705&p=8066729).
+
+1. _Version control_: When developing code, you’ll quickly find out that it’s an iterative process – sometimes you’ll break something and need to roll back your changes, or maybe you’ll add on something for one project that’s not relevant for another project. In these situations, and in particular if you’re working on code collaboratively with your team, you’ll find it very useful to employ a system for tracking changes in your code. Many researchers use [Github](https://github.com/) as a platform for this. We recommend the [Software Carpentries lesson on getting started with Git](https://swcarpentry.github.io/git-novice/) for an introduction to version control.
+2. _Documentation_: Writing code that works is one thing – but you’ll quickly find that to share your work effectively with others, and even to go back to your own old code and understand it, you’ll need to add textual documentation. This often takes the form of headers, in-text comments, and README files that explain important information about how your code works. Conventions for documenting code can depend on the programming language, but a good rule of thumb is to imagine you’re explaining how your code works to a colleague. Get started with more resources in [this guide](https://guides.library.jhu.edu/c.php?g=1096705&p=8066729).
 3. _Sharing_: Documenting your code explains the technicalities of your programming, but to share your code with other scientists, you may need to include other information alongside your code,  like scenarios when your model can be applied or conditions for initial parameters. Once you’re ready to publish your code – likely because you’re ready to publish the scientific article that code was for –  we recommend sharing your code in a repository such as Zenodo. If you’re using Github for code development, you can issue a DOI (persistent identifier) to your repository [directly using Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content). Check out [this tutorial](https://coderefinery.github.io/github-without-command-line/doi/) for more information.
 
 For more tips on best practices on sharing your software, check out the following resources:  
@@ -140,11 +141,11 @@ Additionally, authors should make available software that has a significant impa
 
 This is achieved by following three requirements: 
 
-* Depositing the data and software in a community accepted, trusted repository, as appropriate, and preferably with a DOI 
+* Depositing the data and software in a **community accepted, trusted repository**, as appropriate, and preferably with a DOI 
 
-* Including an Availability Statement as a separate paragraph in the Open Research section explaining to the reader where and how to access the data and software 
+* Including an **Availability Statement** as a separate paragraph in the Open Research section explaining to the reader where and how to access the data and software 
 
-* Including citation(s) to the deposited data and software, in the Reference Section. 
+* **Including citation(s)** to the deposited data and software, in the Reference Section. 
 
 Next, you’ll craft a sample Data Availability Statement for your own dataset or a paper in your field using AGU guidance.  
 
