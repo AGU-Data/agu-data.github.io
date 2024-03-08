@@ -193,5 +193,5 @@ If you have comments, suggestions, or questions, email [Kristina Vrouwenvelder](
 
 ### Cite these materials:
 
-> Vrouwenvelder, K., Hanson, S., & Sedora, B. (2023, November 29). Lesson Materials: Introduction to Open Science. Zenodo. https://doi.org/10.5281/zenodo.10795413
+> Vrouwenvelder, K., Hanson, S., & Sedora, B. (2023, November 29). Lesson Materials: Introduction to Open Science. Zenodo. [https://doi.org/10.5281/zenodo.10795413](https://doi.org/10.5281/zenodo.10795413)
 
