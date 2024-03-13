@@ -12,11 +12,16 @@ AGU’s Open Science Leadership Program (FKA Data Leadership) website provides t
 **Shelley Stall**  
 Vice President, [0000-0003-2926-8353](https://orcid.org/0000-0003-2926-8353)
 
-**Kristina Vrouwenvelder**
-Program Manager, [0000-0002-5862-2502](https://orcid.org/0000-0002-5862-2502)
-
 **Brian Sedora**
 Sr. Program Manager (Open Science and Publications), [0000-0003-0825-5967](https://orcid.org/0000-0003-0825-5967)
+
+### Open Science Team Members Across AGU:
+
+**Kristina Vrouwenvelder**
+Assistant Director, Publications, [0000-0002-5862-2502](https://orcid.org/0000-0002-5862-2502)
+
+**Sophie Hanson**
+Program and Data Specialist, Publications, [0009-0003-6021-8466](https://orcid.org/0009-0003-6021-8466)
 
 ### Helpful Links:
 [Learn about Open Science at AGU](https://www.agu.org/open-science)  
