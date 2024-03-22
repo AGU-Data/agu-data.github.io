@@ -1,5 +1,7 @@
 # AGU Open Science Leadership Team/Maintainers
 
+[![awesome_bot](https://github.com/AGU-Data/agu-data.github.io/actions/workflows/awesome_bot.yml/badge.svg)](https://github.com/AGU-Data/agu-data.github.io/actions/workflows/awesome_bot.yml)
+
 - [Shelley Stall](https://github.com/ShelleyStall)
 - [Kristina Vrouwenvelder](https://github.com/kvrouwenvelder)
 - [Brian Sedora](https://github.com/BSedora)
