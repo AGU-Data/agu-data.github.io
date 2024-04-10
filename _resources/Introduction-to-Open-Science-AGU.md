@@ -21,11 +21,11 @@ The content here will provide an introduction to the basics of Open Science and 
 
 Week 1: Creating your Digital Presence
 
-Week 2: Tips for Handling your Data and Software
+Week 2: Getting Started with Data in Your Research
 
-Week 3: Get Credit for your Data and Software in Your Paper
+Week 3: Getting Started with Software in Your Research
 
-Week 4: How to Share your Work so it’s Findable, Accessible, and Reusable!
+Week 4: Get Credit for Your Work: Sharing Your Data and Software Alongside Your Publications
 
 ## Week 1: Why Open Science?; Managing Your Digital Presence
 
