@@ -176,16 +176,23 @@ This is an advanced topic and we can’t cover everything there is to know about
 ### More Resources:
 
 **General:** 
+
 [Better Scientific Software](https://bssw.io/)
+
 [Python code packaging for scientific software](https://pythonpackaging.info/index.html)
+
 [Scientific Computing in Practice](https://scicomp.aalto.fi/training/)
 
 **Good Documentation:**
+
 General: [Documentation – Better Scientific Software](https://bssw.io/items?topic=documentation)
+
 Python-specific: [Documentation](https://pythonpackaging.info/04-Documentation.html) 
+
 R-specific: [Documentation manual](https://r-pkgs.org/man.html) 
 
 **Software Packaging:**
+
 [Python Packaging User Guide](https://packaging.python.org/en/latest/overview/)
 
 
