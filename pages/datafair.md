@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Open Science Pavilion at AGU23
+title: Open Science Pavilion at AGU24
 permalink: /OSDHD/
 feature-img: assets/img/pexels/OSDHD_3850x1138.jpg
-tags: [Open Science Pavilion, AGU23]
+tags: [Open Science Pavilion, AGU24]
 ---
 
 # Come explore the Open Science Pavilion at AGU23! 
