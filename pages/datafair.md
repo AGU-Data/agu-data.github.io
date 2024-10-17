@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coming Soon-Open Science Pavilion at AGU24
+title: Open Science Pavilion at AGU24
 permalink: /OSDHD/
 feature-img: assets/img/pexels/OSDHD_3850x1138.jpg
 tags: [Open Science Pavilion, AGU24]
