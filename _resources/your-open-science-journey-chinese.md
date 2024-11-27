@@ -28,7 +28,7 @@ Optimize your digital presence, increase discovery of your work to potential col
 2. How to use your [ORCID](https://orcid.org).
 3. How to connect your research work [including articles, data, software, and any digital object] to you, using your [ORCID](https://orcid.org).
 
-Use this checklist for guidance on managing [Your Digital Presence](https://doi.org/10.5281/zenodo.4706118).[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4706118.svg)](https://doi.org/10.5281/zenodo.4706118)[Video - 15 minutes](https://youtu.be/bftzPnFdtHk)
+Use this checklist for guidance on managing [Your Digital Presence](https://doi.org/10.5281/zenodo.4706118).[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4706118.svg)](https://doi.org/10.5281/zenodo.4706118)
 
 
 ### 2. Data Documentation and Citation Checklist
