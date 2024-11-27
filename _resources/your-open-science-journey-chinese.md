@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Your Open Science Journey - Chinese
-feature-img: "assets/img/resources/OSJ-English-banner.jpeg"
-img: "assets/img/resources/OSJ-english-logo.png"
+feature-img: "assets/img/resources/OSJ-Chinese.png"
+img: "assets/img/resources/OSJ-Chinese-logo.png"
 date: November 2024
 tags: [AGU, Resources, PARSEC, Open Science]
 ---
