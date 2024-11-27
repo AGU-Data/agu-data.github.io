@@ -28,7 +28,7 @@ Optimize your digital presence, increase discovery of your work to potential col
 2. How to use your [ORCID](https://orcid.org).
 3. How to connect your research work [including articles, data, software, and any digital object] to you, using your [ORCID](https://orcid.org).
 
-Use this checklist for guidance on managing [Your Digital Presence](https://doi.org/10.5281/zenodo.4706118).[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4706118.svg)](https://doi.org/10.5281/zenodo.4706118)
+Use this checklist for guidance on managing [Your Digital Presence](https://doi.org/10.5281/zenodo.13896732).[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13896732.svg)](https://doi.org/10.5281/zenodo.13896732)
 
 
 ### 2. Data Documentation and Citation Checklist
@@ -41,7 +41,7 @@ Plan, manage and share your data.
 2. How to share your data as openly as possible: determining which data, which repository, which license.
 3. How to cite data and help others cite your data. 
 
-Use this [Data Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.7062402) to improve your data management and sharing practices.[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7062402.svg)](https://doi.org/10.5281/zenodo.7062402)
+Use this [Data Documentation and Citation Checklist](https://doi.org/10.5281/zenodo.13897203) to improve your data management and sharing practices.[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13897203.svg)](https://doi.org/10.5281/zenodo.13897203)
 
 ## Developed by the PARSEC Project Team
 ![image](https://user-images.githubusercontent.com/113625013/206821607-d5ad3f16-cc73-44fe-87c3-9df3ea68fe38.png)
