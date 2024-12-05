@@ -6,7 +6,7 @@ feature-img: assets/img/pexels/OSDHD_3850x1138.jpg
 tags: [Open Science Pavilion, AGU24]
 ---
 
-# Come explore the Open Science Pavilion at AGU24!  
+# Explore the Open Science Pavilion at AGU24!  
 
  
 
