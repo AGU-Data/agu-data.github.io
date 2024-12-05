@@ -16,19 +16,18 @@ The Open Science Pavilion at AGU24 is a bustling neighborhood of kiosks in the E
 
 
 ## Pavilion Exhibitors ## 
-Come learn how our exhibitors are making science more open!
-
-  **[San Diego Super Computer](https://www.sdsc.edu//)**
+Explore how our exhibitors are driving innovation and making science more accessible, transparent, and inclusive. Discover the cutting-edge ways they are breaking down barriers and fostering collaboration, ensuring that knowledge and discoveries are open to all. 
+  - **[San Diego Super Computer](https://www.sdsc.edu//)**
   
-  **[IBM](https://www.ibm.com)**
+  - **[IBM](https://www.ibm.com)**
   
-  **[MathWorks](https://www.mathworks.com/)**
+  - **[MathWorks](https://www.mathworks.com/)**
   
-  **[Wiley](https://www.wiley.com/en-us)**
+  - **[Wiley](https://www.wiley.com/en-us)**
   
-  **[Taylor & Francis](https://www.tandfonline.com/)**
+ - **[Taylor & Francis](https://www.tandfonline.com/)**
   
-  **[Center for Open Science](https://www.cos.io/)**
+ - **[Center for Open Science](https://www.cos.io/)**
 
 <!--  [image](/assets/img/pexels/help-desk-map.png)![image](/assets/img/pexels/pavilion_map.jpg) -->
 
