@@ -16,6 +16,8 @@ The Open Science Pavilion at AGU24 is a bustling neighborhood of kiosks in the E
 
 
 ## Pavilion Exhibitors ## 
+Come learn how our exhibitors are making science more open!
+
   **[San Diego Super Computer](https://www.sdsc.edu//)**
   
   **[IBM](https://www.ibm.com)**
@@ -33,7 +35,7 @@ The Open Science Pavilion at AGU24 is a bustling neighborhood of kiosks in the E
 
 ## Presentations at the Open Science Pavilion ## 
 
-- Catch 15 to 20 minute presentations followed by a chance to ask questions and engage with experts 
+Catch short presentations followed by a chance to ask questions and engage with experts! 
 
  
 | Time     | Presenter         | Title | Organization |  
@@ -62,6 +64,10 @@ The Open Science Pavilion at AGU24 is a bustling neighborhood of kiosks in the E
 | **Thurs 14 Dec** |   |  |   | 
 | 11:00  | AGU Editors | [AGU Editor Rapid Reviews](https://agu.confex.com/agu/agu24/meetingapp.cgi/Search/0?sort=Relevance&size=10&page=1&searchterm=Rapid%20Reviews) | AGU | 
 
-
+**Open Science Pavilion Hours**<br>
+Monday, 9 December, 3-6pm<br>
+Tuesday, 10 December, 10am-6pm<br>
+Wednesday, 11 December, 10am-6pm<br>
+Thursday, 12 December, 10am-1pm
 
 Contact [Brian Sedora](mailto:bsedora@agu.org) with questions!
