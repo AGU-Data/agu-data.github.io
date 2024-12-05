@@ -42,8 +42,7 @@ The Open Science Pavilion at AGU24 is a bustling neighborhood of kiosks in the E
 | 15:00  | Rowan Cockett | Publishing Computational Research <!-- [Implementing FAIR for AI: towards a community roadmap](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/221044) --> | Curvenote | 
 | 15:30  | Shelley Stall | Your Digital Presence <!-- [Implementing FAIR for AI: towards a community roadmap](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/221044) --> | AGU | 
 | 16:00  | David Boyt | How do I publish an Open Access book? <!--[How do I publish an Open Access book?](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220417) --> | The Geological Society/AGU  | 
-| 16:30  | Natalie Raia  | IGSNs for Physical Samples: Archiving Sample Metadata, Linking Data and Papers, and Citing Samples with
-SESAR <!--  [Write your next paper in MyST Markdown: data, code & notebooks](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220421) --> | University of Arizona  | 
+| 16:30  | Natalie Raia  | IGSNs for Physical Samples: Archiving Sample Metadata, Linking Data and Papers, and Citing Samples with SESAR <!--  [Write your next paper in MyST Markdown: data, code & notebooks](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220421) --> | University of Arizona  | 
 | **Tues 12 Dec** |   |  |   | 
 | 10:30  | Eric Olson,<br> Daniel Steger,<br>Blaine Butler  | Open Earth and Space Sciences: A Case Study Through User Stories <!-- [The Future of Science is Open: How to Embrace Open Science Principles and Practices in Your Research](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220428) --> | Center for Open Science | 
 | 11:00  | Karen Stocks,<br> Daniel Katz,<br>Douglas Yuhan Rao,<br>Reyna Jenkyns | How AI-ready are you? FAIR tools that can help <!-- [The Future of Science is Open: How to Embrace Open Science Principles and Practices in Your Research](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220428) --> | SDSC | 
