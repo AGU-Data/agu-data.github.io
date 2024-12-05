@@ -47,7 +47,7 @@ The Open Science Pavilion at AGU24 is a bustling neighborhood of kiosks in the E
 | 10:30  | Eric Olson,<br> Daniel Steger,<br>Blaine Butler  | Open Earth and Space Sciences: A Case Study Through User Stories <!-- [The Future of Science is Open: How to Embrace Open Science Principles and Practices in Your Research](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220428) --> | Center for Open Science | 
 | 11:00  | Karen Stocks,<br> Daniel Katz,<br>Douglas Yuhan Rao,<br>Reyna Jenkyns | How AI-ready are you? FAIR tools that can help <!-- [The Future of Science is Open: How to Embrace Open Science Principles and Practices in Your Research](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220428) --> | SDSC | 
 | 11:30  | Kenton McHenry  | From Simulations to Data Science: How Supercomputing Centers Enable Geoscience Innovations  <!--[AGU Position Statements – The Bedrock of AGU’s Policy Work](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220432)  -->| NCSA | 
-| 12:00  | AGU Editors | Rapid Reviews <!--[NODD Open Data Dissemination Program](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220436) --> | AGU | 
+| 12:00  | AGU Editors | [AGU Editor Rapid Reviews](https://agu.confex.com/agu/agu24/meetingapp.cgi/Search/0?sort=Relevance&size=10&page=1&searchterm=Rapid%20Reviews) | AGU | 
 | 14:00  | Matthew Warke  | Open up! Creating innovative platforms <!-- [Open, Reusable and Impactful Geoscience Research with MATLAB](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220440) --> | Taylor & Francis | 
 | 15:00  | Lisa Kempler | Partnering on Effective Research with MATLAB <!-- [Computational articles](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220443) --> | MathWorks | 
 | 15:30  | Steve Purves | Revolutionize Scientific Communication with MyST Markdown <!-- [Computational articles](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220443) --> | Curvenote | 
@@ -56,11 +56,11 @@ The Open Science Pavilion at AGU24 is a bustling neighborhood of kiosks in the E
 | 10:30  | Shelley Stall  | Publishing Soon?  Three key things to get your data ready! <!-- [Managing Your Digital Presence](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220446)  --> | AGU | 
 | 11:00  | Sari Friedman,<br> Fiona Sarne,<br>Hannah Qualtrough, <br>Wenbai Yang  | The Future of Science is Open: How to Embrace Open Science Principles and Practices in Your Research <!-- [Managing Your Digital Presence](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220446) --> | Wiley | 
 | 11:30  | Shelley Stall  | Publishing Soon?  Three key things to get your code/software ready! <!-- [Managing Your Digital Presence](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220446)  --> | AGU | 
-| 13:00  | AGU Editors | Rapid Reviews <!--[NODD Open Data Dissemination Program](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220436) --> | AGU | 
+| 13:00  | AGU Editors | [AGU Editor Rapid Reviews](https://agu.confex.com/agu/agu24/meetingapp.cgi/Search/0?sort=Relevance&size=10&page=1&searchterm=Rapid%20Reviews) | AGU | 
 | 15:00  | Steve Purves  | Showcase your Lab’s Open Access Work with Curvenote <!-- [Getting Started with Data](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220449) --> | Curvenote | 
 | 15:30  | Kate Draper,<br>Harini Srinivasan  | forthcoming <!-- [Publishing Computational Notebooks](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220451) -->| IBM |  
 | **Thurs 14 Dec** |   |  |   | 
-| 11:00  | AGU Editors | Rapid Reviews <!--[NODD Open Data Dissemination Program](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220436) --> | AGU | 
+| 11:00  | AGU Editors | [AGU Editor Rapid Reviews](https://agu.confex.com/agu/agu24/meetingapp.cgi/Search/0?sort=Relevance&size=10&page=1&searchterm=Rapid%20Reviews) | AGU | 
 
 
 
