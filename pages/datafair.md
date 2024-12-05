@@ -47,8 +47,7 @@ SESAR <!--  [Write your next paper in MyST Markdown: data, code & notebooks](htt
 | Tues 12 Dec |   |  |   | 
 | 10:30  | Eric Olson,<br> Daniel Steger,<br>Blaine Butler  | Open Earth and Space Sciences: A Case Study Through User Stories <!-- [The Future of Science is Open: How to Embrace Open Science Principles and Practices in Your Research](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220428) --> | Center for Open Science | 
 | 11:00  | Karen Stocks,<br> Daniel Katz,<br>Douglas Yuhan Rao,<br>Reyna Jenkyns | How AI-ready are you? FAIR tools that can help <!-- [The Future of Science is Open: How to Embrace Open Science Principles and Practices in Your Research](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220428) --> | SDSC | 
-| 11:30  | Kenton McHenry  | From Simulations to Data Science: How Supercomputing Centers Enable
-Geoscience Innovations  <!--[AGU Position Statements – The Bedrock of AGU’s Policy Work](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220432)  -->| NCSA | 
+| 11:30  | Kenton McHenry  | From Simulations to Data Science: How Supercomputing Centers Enable Geoscience Innovations  <!--[AGU Position Statements – The Bedrock of AGU’s Policy Work](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220432)  -->| NCSA | 
 | 12:00  | AGU Editors | Rapid Reviews <!--[NODD Open Data Dissemination Program](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220436) --> | AGU | 
 | 14:00  | Matthew Warke  | Open up! Creating innovative platforms <!-- [Open, Reusable and Impactful Geoscience Research with MATLAB](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220440) --> | Taylor & Francis | 
 | 15:00  | Lisa Kempler | Partnering on Effective Research with MATLAB <!-- [Computational articles](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220443) --> | MathWorks | 
