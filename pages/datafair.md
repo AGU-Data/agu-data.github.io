@@ -59,7 +59,7 @@ The Open Science Pavilion at AGU24 is a bustling neighborhood of kiosks in the E
 | 13:00  | AGU Editors | Rapid Reviews <!--[NODD Open Data Dissemination Program](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220436) --> | AGU | 
 | 15:00  | Steve Purves  | Showcase your Lab’s Open Access Work with Curvenote <!-- [Getting Started with Data](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220449) --> | Curvenote | 
 | 15:30  | Kate Draper,<br>Harini Srinivasan  | forthcoming <!-- [Publishing Computational Notebooks](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220451) -->| IBM |  
-| Thurs 14 Dec |   |  |   | 
+| **Thurs 14 Dec** |   |  |   | 
 | 11:00  | AGU Editors | Rapid Reviews <!--[NODD Open Data Dissemination Program](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220436) --> | AGU | 
 
 
