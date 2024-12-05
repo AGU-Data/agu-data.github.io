@@ -12,8 +12,8 @@ tags: [Open Science Pavilion, AGU24]
 
 The Open Science Pavilion at AGU24 is a bustling neighborhood of kiosks in the Exhibit Hall centered around the **[Open Science & Data Help Desk](https://www.esipfed.org/data-help-desk)**, which provides researchers with opportunities to engage with informatics experts in their domains. Through the Open Science & Data Help Desk, researchers can learn about skills and techniques that will help further their research and make their data and software more open and FAIR. Also in this space you will find the **[AGU Publications](https://www.agu.org/publish)** booth. Come talk to AGU staff to learn about AGU’s open science efforts, journals and books programs, and ESS Open Archive, AGU’s preprint server.  
 
+![image](/assets/img/pexels/DHD_logo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](/assets/img/pexels/AGUPubs.png) 
 
- 
 
 ## Pavilion Exhibitors ## 
   **[San Diego Super Computer](https://www.sdsc.edu//)**
