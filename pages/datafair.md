@@ -31,7 +31,7 @@ The Open Science Pavilion at AGU24 is a bustling neighborhood of kiosks in the E
 <!--  [image](/assets/img/pexels/help-desk-map.png)![image](/assets/img/pexels/pavilion_map.jpg) -->
 
 
-## Presentations at the Open Science & Data Help Desk ## 
+## Presentations at the Open Science Pavilion ## 
 
 - Catch 15 to 20 minute presentations followed by a chance to ask questions and engage with experts 
 
