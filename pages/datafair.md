@@ -12,7 +12,7 @@ tags: [Open Science Pavilion, AGU24]
 
 The Open Science Pavilion at AGU24 is a bustling neighborhood of kiosks in the Exhibit Hall centered around the **[Open Science & Data Help Desk](https://www.esipfed.org/data-help-desk)**, which provides researchers with opportunities to engage with informatics experts in their domains. Through the Open Science & Data Help Desk, researchers can learn about skills and techniques that will help further their research and make their data and software more open and FAIR. Also in this space you will find the **[AGU Publications](https://www.agu.org/publish)** booth. Come talk to AGU staff to learn about AGU’s open science efforts, journals and books programs, and ESS Open Archive, AGU’s preprint server.  
 
-![image](/assets/img/pexels/DHD_logo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](/assets/img/pexels/AGUPubs.png) 
+![image](/assets/img/pexels/DHDlogo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](/assets/img/pexels/AGUPubs.png) 
 
 
 ## Pavilion Exhibitors ## 
@@ -46,7 +46,7 @@ Catch short presentations followed by a chance to ask questions and engage with 
 | 16:30  | Natalie Raia  | IGSNs for Physical Samples: Archiving Sample Metadata, Linking Data and Papers, and Citing Samples with SESAR <!--  [Write your next paper in MyST Markdown: data, code & notebooks](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220421) --> | University of Arizona  | 
 | **Tues 12 Dec** |   |  |   | 
 | 10:30  | Eric Olson,<br> Daniel Steger,<br>Blaine Butler  | Open Earth and Space Sciences: A Case Study Through User Stories <!-- [The Future of Science is Open: How to Embrace Open Science Principles and Practices in Your Research](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220428) --> | Center for Open Science | 
-| 11:00  | Karen Stocks,<br> Daniel Katz,<br>Douglas Yuhan Rao,<br>Reyna Jenkyns | How AI-ready are you? FAIR tools that can help <!-- [The Future of Science is Open: How to Embrace Open Science Principles and Practices in Your Research](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220428) --> | SDSC | 
+| 11:00  | Karen Stocks,<br> Daniel S. Katz,<br>Douglas Yuhan Rao,<br>Reyna Jenkyns | How AI-ready are you? FAIR tools that can help <!-- [The Future of Science is Open: How to Embrace Open Science Principles and Practices in Your Research](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220428) --> | NCSA, SIO, NCSU & WDS | 
 | 11:30  | Kenton McHenry  | From Simulations to Data Science: How Supercomputing Centers Enable Geoscience Innovations  <!--[AGU Position Statements – The Bedrock of AGU’s Policy Work](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220432)  -->| NCSA | 
 | 12:00  | AGU Editors | [AGU Editor Rapid Reviews](https://agu.confex.com/agu/agu24/meetingapp.cgi/Search/0?sort=Relevance&size=10&page=1&searchterm=Rapid%20Reviews) | AGU | 
 | 14:00  | Matthew Warke  | Open up! Creating innovative platforms <!-- [Open, Reusable and Impactful Geoscience Research with MATLAB](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/220440) --> | Taylor & Francis | 
