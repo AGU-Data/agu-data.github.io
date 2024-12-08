@@ -17,7 +17,7 @@ The Open Science Pavilion at AGU24 is a bustling neighborhood of kiosks in the E
 
 ## Pavilion Exhibitors ## 
 Explore how our exhibitors are driving innovation and making science more accessible, transparent, and inclusive. Discover the cutting-edge ways they are breaking down barriers and fostering collaboration, ensuring that knowledge and discoveries are open to all. 
-  - **[San Diego Supercomputer Center (SDSC)](https://www.sdsc.edu//) / [National Center for Supercomputing Application (NCSA)](https://www.ncsa.illinois.edu/)**
+  - **[San Diego Supercomputer Center (SDSC)](https://www.sdsc.edu//) / [National Center for Supercomputing Applications (NCSA)](https://www.ncsa.illinois.edu/)**
   
   - **[IBM](https://www.ibm.com)**
   
