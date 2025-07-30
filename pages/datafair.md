@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Open Science Pavilion at AGU24
+title: Open Science Pavilion at AGU25
 permalink: /OSDHD/
 feature-img: assets/img/pexels/OSDHD_3850x1138.jpg
-tags: [Open Science Pavilion, AGU24]
+tags: [Open Science Pavilion, AGU25]
 ---
 
-# Explore the Open Science Pavilion at AGU24!  
+# Be a part of the Open Science Pavilion at AGU25!  
 
- 
+Is your organization a leader in open science practices and principles and looking for a high-profile space to demonstrate your efforts? The Open Science Pavilion returns again at AGU25  and will be a neighborhood of kiosks in the exhibit hall centered around AGU’s and Earth Science Information Partners (ESIP)’s**[Open Science & Data Help Desk](https://www.esipfed.org/data-help-desk)**, which provides researchers with opportunities to engage with informatics experts in their domains. Through the Open Science and Data Help Desk, researchers can learn about skills and techniques that will help further their research and make their data and software more open and FAIR.  We invite companies doing this exciting work to be a part of the Open Science Pavilion in the **[AGU25 Exhibit Hall](https://www.agu.org/annual-meeting/exhibit#prospect-exhibitors), an ideal location to showcase your leadership in open science.   
 
 The Open Science Pavilion at AGU24 is a bustling neighborhood of kiosks in the Exhibit Hall centered around the **[Open Science & Data Help Desk](https://www.esipfed.org/data-help-desk)**, which provides researchers with opportunities to engage with informatics experts in their domains. Through the Open Science & Data Help Desk, researchers can learn about skills and techniques that will help further their research and make their data and software more open and FAIR. Also in this space you will find the **[AGU Publications](https://www.agu.org/publish)** booth. Come talk to AGU staff to learn about AGU’s open science efforts, journals and books programs, and ESS Open Archive, AGU’s preprint server.  
 
