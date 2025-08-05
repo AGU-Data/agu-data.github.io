@@ -16,7 +16,7 @@ Is your organization a leader in open science practices and principles and looki
 - **Ease of Participation:** Booth Design is Aligned to Open Science Pavilion Theme with opportunity to include your own branding. (Booth furniture / theme pre-determined)
 - **Engagement:** Opportunity to sign up to give a talk at the Open Science Pavilion Presentation Space, with your choice of time slot, and advertised in the AGU25 program and app.   
 
-**Spaces in the Open Science Pavilion are turnkey kiosks (pricing coming soon) and include:**
+**Spaces in the Open Science Pavilion are turnkey kiosks and include:**
 
 - One (1) custom-branded kiosk  Must meet graphics deadline or a late fee will be incurred for production costs. 
 - One 30-minute open science-focused presentation at the presentation area (topic must be approved by AGU) 
