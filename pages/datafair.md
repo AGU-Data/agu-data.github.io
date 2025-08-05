@@ -12,25 +12,25 @@ Is your organization a leader in open science practices and principles and looki
  
 **Benefits**
 
- **Location, location, location:** Close proximity to the ESIP/AGU Open Science and Data Help Desk (and therefore potential customers of your organization)  
- **Marketing:** Your logo and custom branding featured prominently in Open Science Pavilion neighborhood   
- **Ease of Participation:** Booth Design is Aligned to Open Science Pavilion Theme with opportunity to include your own branding. (Booth furniture / theme pre-determined)
- **Engagement:** Opportunity to sign up to give a talk at the Open Science and Data Help Desk, with your choice of time slot   
+-**Location, location, location:** Close proximity to the ESIP/AGU Open Science and Data Help Desk (and therefore potential customers of your organization)  
+-**Marketing:** Your logo and custom branding featured prominently in Open Science Pavilion neighborhood   
+-**Ease of Participation:** Booth Design is Aligned to Open Science Pavilion Theme with opportunity to include your own branding. (Booth furniture / theme pre-determined)
+-**Engagement:** Opportunity to sign up to give a talk at the Open Science and Data Help Desk, with your choice of time slot   
 
 **Spaces in the Open Science Pavilion are turnkey kiosks (pricing coming soon) and include:**
 
- One (1) custom-branded kiosk  Must meet graphics deadline or a late fee will be incurred for production costs. 
- One 30-minute open science-focused presentation at the presentation area (topic must be approved by AGU) 
- Stool (1) 
- Wastebasket (1) 
- 40-inch monitor 
- Dedicated Wifi Zone (private wifi network for the zone) 
- Power 
- Carpeting 
- Two (2) complimentary Full Conference registrations 
+- One (1) custom-branded kiosk  Must meet graphics deadline or a late fee will be incurred for production costs. 
+- One 30-minute open science-focused presentation at the presentation area (topic must be approved by AGU) 
+- Stool (1) 
+- Wastebasket (1) 
+- 40-inch monitor 
+- Dedicated Wifi Zone (private wifi network for the zone) 
+- Power 
+- Carpeting 
+- Two (2) complimentary Full Conference registrations 
 
 
-
+Contact [Brian Sedora](mailto:bsedora@agu.org) with questions!
 
 ![image](/assets/img/pexels/DHDlogo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](/assets/img/pexels/AGUPubs.png) 
 
