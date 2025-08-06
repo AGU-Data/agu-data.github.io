@@ -8,7 +8,7 @@ tags: [Open Science Pavilion, AGU25]
 
 # Be a part of the Open Science Pavilion at AGU25!  
 
-Is your organization a leader in open science practices and principles and looking for a high-profile space to demonstrate your efforts? The Open Science Pavilion returns again at AGU25  and will be a neighborhood of kiosks in the exhibit hall centered around AGU’s and Earth Science Information Partners (ESIP)’s **[Open Science & Data Help Desk](https://www.esipfed.org/data-help-desk)**, which provides researchers with opportunities to engage with informatics experts in their domains. Through the Open Science and Data Help Desk, researchers can learn about skills and techniques that will help further their research and make their data and software more open and FAIR.  We invite companies doing this exciting work to be a part of the Open Science Pavilion in the **[AGU25 Exhibit Hall](https://www.agu.org/annual-meeting/exhibit#prospect-exhibitors)**, an ideal location to showcase your leadership in open science.   
+Is your organization a leader in open science practices and principles and looking for a high-profile space to demonstrate your efforts? The Open Science Pavilion returns again at AGU25  and will be a neighborhood of kiosks in the exhibit hall centered around AGU’s and Earth Science Information Partners (ESIP)’s **[Open Science & Data Help Desk](https://www.esipfed.org/data-help-desk)**, which provides researchers with opportunities to engage with informatics experts in their domains. Through the Open Science & Data Help Desk, researchers can learn about skills and techniques that will help further their research and make their data and software more open and FAIR.  We invite companies doing this exciting work to be a part of the Open Science Pavilion in the **[AGU25 Exhibit Hall](https://www.agu.org/annual-meeting/exhibit#prospect-exhibitors)**, an ideal location to showcase your leadership in open science.   
  
 **Benefits**
 - **Location, location, location:** Close proximity to the ESIP/AGU Open Science & Data Help Desk (and therefore potential customers of your organization)  
@@ -29,7 +29,7 @@ Is your organization a leader in open science practices and principles and looki
 - Two (2) complimentary Full Conference registrations 
 
 For more details, see the **[AGU25 Exhibit Hall](https://www.agu.org/annual-meeting/exhibit#prospect-exhibitors)** website.
-For specific questions about the Open Science Pavilion, contact [Brian Sedora](mailto:bsedora@agu.org) with questions!
+For specific questions about the Open Science Pavilion, contact [Brian Sedora](mailto:bsedora@agu.org).
 
 ![image](/assets/img/pexels/DHDlogo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](/assets/img/pexels/AGUPubs.png) 
 
