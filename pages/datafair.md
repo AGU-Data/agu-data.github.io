@@ -12,8 +12,8 @@ The Open Science Pavilion at AGU25 is a bustling neighborhood of kiosks in the E
  
 
 ![image](/assets/img/pexels/DHDlogo.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](/assets/img/pexels/AGUPubs.png) 
-
-
+![image](/assets/img/pexels/DHD-AGU_800x184.png)
+DHD-AGU_800x184.png
 ## 2025 Pavilion Exhibitors ## 
 Explore how our exhibitors are driving innovation and making science more accessible, transparent, and inclusive. Discover the cutting-edge ways they are breaking down barriers and fostering collaboration, ensuring that knowledge and discoveries are open to all. 
  
