@@ -26,6 +26,7 @@ Explore how our exhibitors are driving innovation and making science more access
 
 ## Presentations and Exhibit Hall Tours at the Open Science Pavilion ## 
 Catch short presentations followed by a chance to ask questions and engage with experts! New for AGU25: Sign up for expert-guided tours of the AGU25 Exhibit Hall. 
+
 | Time     | Presenter         | Title | Organization |  
 | ------------- | ------------- |------------- | ------------- | 
 |  **Mon 15 Dec**  |   |  |   | 
