@@ -34,10 +34,10 @@ Catch short presentations followed by a chance to ask questions and engage with 
 | 17:00  | Sandeep Chittimalli | [A Free, Open-Access Tool for Remote Sensing Field Campaign Planning Using Satellite Overpass and Calibration Site]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277573)  | Synectics for Management Decision Inc | 
 | **Tues 12 Dec** |   |  |   | 
 | 11:00  | Stephen Moysey, Tour Leader  | [Tour: Creating Opportunities for Learners by Integrating Research, Education, Outreach, and Professional Development in a Science Career](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277575) | East Carolina University | 
-| 12:30  | Cian B. Dawson | [Tour: Drone-Mounted Sensors for Geoscience Studies](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/244706)  | | 
+| 12:30  | Cian B. Dawson, Tour Leader | [Tour: Drone-Mounted Sensors for Geoscience Studies](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/244706)  | | 
 | 13:00  | Amanda Staller | [From Research Planning to Research Outputs: How OSF Connects Data Management Plans, Study Registrations, Projects, and Preprints]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277581) | Center for Open Science | 
-| 14:00  | Lisa Kempler | [Increasing Your Research and Teaching Impact with MATLAB: GenAI and Best Practices for Coding and Simulation] (https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/27781) | MathWorks | 
-| 16:00  | Chet Udell | [Tour: Open Source Environmental Sensing](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/24416)  | Oregon State University | 
+| 14:00  | Lisa Kempler | [Increasing Your Research and Teaching Impact with MATLAB: GenAI and Best Practices for Coding and Simulation](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/27781](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277581) | MathWorks | 
+| 16:00  | Chet Udell, Tour Leader | [Tour: Open Source Environmental Sensing](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/24416)  | Oregon State University | 
 
 
 
