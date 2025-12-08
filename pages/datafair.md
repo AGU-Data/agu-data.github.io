@@ -24,6 +24,16 @@ Explore how our exhibitors are driving innovation and making science more access
 
 <!--  [image](/assets/img/pexels/help-desk-map.png)![image](/assets/img/pexels/pavilion_map.jpg) -->
 
+## Presentations and Exhibit Hall Tours at the Open Science Pavilion ## 
+Catch short presentations followed by a chance to ask questions and engage with experts! New for AGU25: Sign up for expert-guided tours of the AGU25 Exhibit Hall. 
+| Time     | Presenter         | Title | Organization |  
+| ------------- | ------------- |------------- | ------------- | 
+|  **Mon 15 Dec**  |   |  |   | 
+| 16:00  | Elnaz Pezeshki | [Tour: Smart Hydrology, Cloud-Connected Sensors & Data Platforms for Remote Water Monitoring]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277573) | East Carolina University | 
+| 17:00  | Sandeep Chittimalli | [A Free, Open-Access Tool for Remote Sensing Field Campaign Planning Using Satellite Overpass and Calibration Site]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277573)  |  | 
+| 16:00  | name | [Title](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/244691)| Affiliation  | 
+| 16:30  | name  | [Title](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/244696) | Affiliation  | 
+
 
 **Open Science Pavilion Hours**<br>
 Monday, 15 December, 3-6pm<br>
