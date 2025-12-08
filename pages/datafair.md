@@ -42,8 +42,8 @@ Catch short presentations followed by a chance to ask questions and engage with 
 | 10:30  | Alex Manda  | [Tour: Coastal Dynamics Sensing](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277618)  | East Carolina University | 
 | 11:00  | Kostas Leptokaropoulos  | [Streamlining Open Data Workflows: Geospatial Access and Visualization in MATLAB](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/244731) | MathWorks | 
 | 14:00  | Kyra Selina Hagge | [Tour: Science for social and community change]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277622)  | East Carolina University | 
-
-
+| **Thurs 14 Dec** |   |  |   | 
+| 11:00  | Ge (Jeff) Pu | [Tour: Distributed Hydrological Sensing - From Sensors to Data Sharing]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277625) | Large Lakes Observatory, University of Minnesota Duluth | 
 
 
 **Open Science Pavilion Hours**<br>
