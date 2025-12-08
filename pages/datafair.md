@@ -38,6 +38,9 @@ Catch short presentations followed by a chance to ask questions and engage with 
 | 13:00  | Amanda Staller | [From Research Planning to Research Outputs: How OSF Connects Data Management Plans, Study Registrations, Projects, and Preprints]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277581) | Center for Open Science | 
 | 14:00  | Lisa Kempler | [Increasing Your Research and Teaching Impact with MATLAB: GenAI and Best Practices for Coding and Simulation](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277581) | MathWorks | 
 | 16:00  | Chet Udell, Tour Leader | [Tour: Open Source Environmental Sensing](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/24416)  | Oregon State University | 
+| **Wed 13 Dec** |   |  |   | 
+| 10:30  | Alex Manda  | [Tour: Coastal Dynamics Sensing](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277618)  | East Carolina University | 
+
 
 
 
