@@ -14,6 +14,7 @@ Catch short presentations followed by a chance to ask questions and engage with 
 | Time     | Presenter         | Title | Organization |  
 | ------------- | ------------- |------------- | ------------- | 
 |  **Mon 15 Dec**  |   |  |   | 
+| 13:00  | Douglas Rao | Title forthcoming | NC Institute for Climate Studies | 
 | 16:00  | Elnaz Pezeshki, Tour Leader | [Tour: Smart Hydrology, Cloud-Connected Sensors & Data Platforms for Remote Water Monitoring]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277573) | East Carolina University | 
 | 17:00  | Sandeep Chittimalli | [A Free, Open-Access Tool for Remote Sensing Field Campaign Planning Using Satellite Overpass and Calibration Site](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277762)  | Synectics for Management Decision Inc | 
 | **Tues 16 Dec** |   |  |   | 
