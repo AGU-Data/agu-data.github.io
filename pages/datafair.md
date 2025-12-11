@@ -20,7 +20,6 @@ Explore how our exhibitors are driving innovation and making science more access
   
  - **[Center for Open Science](https://www.cos.io/)**
 
-<!--  [image](/assets/img/pexels/help-desk-map.png)![image](/assets/img/pexels/pavilion_map.jpg) -->
 
 ## Presentations and Exhibit Hall Tours at the Open Science Pavilion ## 
 Catch short presentations followed by a chance to ask questions and engage with experts! New for AGU25: Sign up for expert-guided tours of the AGU25 Exhibit Hall. 
@@ -41,10 +40,24 @@ Catch short presentations followed by a chance to ask questions and engage with 
 | 11:00  | Kostas Leptokaropoulos  | [Streamlining Open Data Workflows: Geospatial Access and Visualization in MATLAB](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277625) | MathWorks | 
 | 13:00  | Karen Stocks | Title forthcoming | UC San Diego | 
 | 12:00  | Joseph Gum | A Look at Some Research Data Resiliency Efforts: Repository Crisis Scorecards and AGU Impactful Datasets |  |
-| 11:30  | Kerstin Lehnert | Resilience of Data Infrastructure: Challenges and Opportunities in Time of Crisis | Lamont-Doherty Earth Observatory |
+| 13:00  | Kerstin Lehnert | Resilience of Data Infrastructure: Challenges and Opportunities in Time of Crisis | Lamont-Doherty Earth Observatory |
 | 14:00  | Kyra Selina Hagge | [Tour: Science for social and community change]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277622)  | East Carolina University | 
 | **Thurs 18 Dec** |   |  |   | 
 | 11:00  | Ge (Jeff) Pu | [Tour: Distributed Hydrological Sensing - From Sensors to Data Sharing]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277625) | Large Lakes Observatory, University of Minnesota Duluth | 
+
+# Explore the Open Science Pavilion at AGU25!  
+
+The Open Science Pavilion at AGU25 is a bustling neighborhood of kiosks in the Exhibit Hall centered around the **[Open Science & Data Help Desk](https://www.esipfed.org/data-help-desk)**, which provides researchers with opportunities to engage with informatics experts in their domains. Through the Open Science & Data Help Desk, researchers can learn about skills and techniques that will help further their research and make their data and software more open and FAIR. Also in this space you will find the **[AGU Publications](https://www.agu.org/publish)** booth. Come talk to AGU staff to learn about AGU’s open science efforts, journals and books programs, and ESS Open Archive, AGU’s preprint server.  
+ 
+![image](/assets/img/pexels/DHD-AGU_800x184.png)
+
+## 2025 Pavilion Exhibitors ## 
+Explore how our exhibitors are driving innovation and making science more accessible, transparent, and inclusive. Discover the cutting-edge ways they are breaking down barriers and fostering collaboration, ensuring that knowledge and discoveries are open to all. 
+ 
+
+  - **[MathWorks](https://www.mathworks.com/)**
+  
+ - **[Center for Open Science](https://www.cos.io/)**
 
 
 **Open Science Pavilion Hours**<br>
