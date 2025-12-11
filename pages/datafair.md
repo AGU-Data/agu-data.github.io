@@ -8,20 +8,7 @@ tags: [Open Science Pavilion, AGU25]
 
 # Explore the Open Science Pavilion at AGU25!  
 
-The Open Science Pavilion at AGU25 is a bustling neighborhood of kiosks in the Exhibit Hall centered around the **[Open Science & Data Help Desk](https://www.esipfed.org/data-help-desk)**, which provides researchers with opportunities to engage with informatics experts in their domains. Through the Open Science & Data Help Desk, researchers can learn about skills and techniques that will help further their research and make their data and software more open and FAIR. Also in this space you will find the **[AGU Publications](https://www.agu.org/publish)** booth. Come talk to AGU staff to learn about AGU’s open science efforts, journals and books programs, and ESS Open Archive, AGU’s preprint server.  
- 
-![image](/assets/img/pexels/DHD-AGU_800x184.png)
-
-## 2025 Pavilion Exhibitors ## 
-Explore how our exhibitors are driving innovation and making science more accessible, transparent, and inclusive. Discover the cutting-edge ways they are breaking down barriers and fostering collaboration, ensuring that knowledge and discoveries are open to all. 
- 
-
-  - **[MathWorks](https://www.mathworks.com/)**
-  
- - **[Center for Open Science](https://www.cos.io/)**
-
-
-## Presentations and Exhibit Hall Tours at the Open Science Pavilion ## 
+## Schedule: Presentations and Exhibit Hall Tours at the Open Science Pavilion ## 
 Catch short presentations followed by a chance to ask questions and engage with experts! New for AGU25: Sign up for expert-guided tours of the AGU25 Exhibit Hall. 
 
 | Time     | Presenter         | Title | Organization |  
