@@ -15,21 +15,22 @@ Catch short presentations followed by a chance to ask questions and engage with 
 | ------------- | ------------- |------------- | ------------- | 
 |  **Mon 15 Dec**  |   |  |   | 
 | 15:00  | Douglas Rao | Title forthcoming | NC Institute for Climate Studies | 
-| 16:00  | Elnaz Pezeshki, Tour Leader | [Tour: Smart Hydrology, Cloud-Connected Sensors & Data Platforms for Remote Water Monitoring]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277573) | East Carolina University | 
-| 17:00  | Sandeep Chittimalli | [A Free, Open-Access Tool for Remote Sensing Field Campaign Planning Using Satellite Overpass and Calibration Site](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277762)  | Synectics for Management Decision Inc | 
+| 16:00  | Elnaz Pezeshki, Tour Leader | [Tour: Smart Hydrology, Cloud-Connected Sensors & Data Platforms for Remote Water Monitoring]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277573) | East Carolina University |  
 | **Tues 16 Dec** |   |  |   | 
 | 11:00  | Stephen Moysey, Tour Leader  | [Tour: Creating Opportunities for Learners by Integrating Research, Education, Outreach, and Professional Development in a Science Career](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277575) | East Carolina University | 
 | 12:30  | Cian B. Dawson, Tour Leader | [Tour: Drone-Mounted Sensors for Geoscience Studies](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/244706)  | | 
 | 13:00  | Amanda Staller | [From Research Planning to Research Outputs: How OSF Connects Data Management Plans, Study Registrations, Projects, and Preprints]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277581) | Center for Open Science | 
 | 14:00  | Lisa Kempler | [Increasing Your Research and Teaching Impact with MATLAB: GenAI and Best Practices for Coding and Simulation](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277766) | MathWorks | 
+| 15:00  | Sandeep Chittimalli | [A Free, Open-Access Tool for Remote Sensing Field Campaign Planning Using Satellite Overpass and Calibration Site](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277762)  | Synectics for Management Decision Inc |
 | 16:00  | Chet Udell, Tour Leader | [Tour: Open Source Environmental Sensing](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/24416)  | Oregon State University | 
 | **Wed 17 Dec** |   |  |   | 
 | 10:30  | Alex Manda  | [Tour: Coastal Dynamics Sensing](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277618)  | East Carolina University | 
 | 11:00  | Kostas Leptokaropoulos  | [Streamlining Open Data Workflows: Geospatial Access and Visualization in MATLAB](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277625) | MathWorks | 
-| 13:00  | Karen Stocks | Title forthcoming | UC San Diego | 
+| 13:00  | Karen Stocks | Looking for Ocean Data? Here are some resources | UC San Diego | 
 | 12:00  | Joseph Gum | A Look at Some Research Data Resiliency Efforts: Repository Crisis Scorecards and AGU Impactful Datasets |  |
 | 13:00  | Kerstin Lehnert | Resilience of Data Infrastructure: Challenges and Opportunities in Time of Crisis | Lamont-Doherty Earth Observatory |
 | 14:00  | Kyra Selina Hagge | [Tour: Science for social and community change]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277622)  | East Carolina University | 
+| 15:00  | Rosemary Knight | Earth Imaging for Groundwater Science and Management | Stanford University |
 | **Thurs 18 Dec** |   |  |   | 
 | 11:00  | Ge (Jeff) Pu | [Tour: Distributed Hydrological Sensing - From Sensors to Data Sharing]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277625) | Large Lakes Observatory, University of Minnesota Duluth | 
 
