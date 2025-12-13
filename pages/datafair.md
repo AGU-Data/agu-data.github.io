@@ -14,7 +14,7 @@ Catch short presentations followed by a chance to ask questions and engage with 
 | Time     | Presenter         | Title | Organization |  
 | ------------- | ------------- |------------- | ------------- | 
 |  **Mon 15 Dec**  |   |  |   | 
-| 15:00  | Douglas Rao | Title forthcoming | NC Institute for Climate Studies | 
+| 15:00  | Douglas Rao | FAIR Open Science for AI in Geosciences | NC Institute for Climate Studies | 
 | 16:00  | Elnaz Pezeshki, Tour Leader | [Tour: Smart Hydrology, Cloud-Connected Sensors & Data Platforms for Remote Water Monitoring]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277573) | East Carolina University |  
 | **Tues 16 Dec** |   |  |   | 
 | 11:00  | Stephen Moysey, Tour Leader  | [Tour: Creating Opportunities for Learners by Integrating Research, Education, Outreach, and Professional Development in a Science Career](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277575) | East Carolina University | 
