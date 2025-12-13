@@ -49,6 +49,32 @@ Explore how our exhibitors are driving innovation and making science more access
  - **[Center for Open Science](https://www.cos.io/)**
 
 
+## Full Session and Tour Descriptions ## 
+**Date** Monday, 15 December
+**Time** 15:00 
+**Title** FAIR Open Science for AI in Geosciences
+**Description** AI and machine learning applications in geoscience relies on open data and open models. FAIR principles can help! This presentation will discuss how AI-ready data has empowered geoscience AI applications. Presenter: Douglas Rao, NC Institute for Climate Studies
+**Presenter** Douglas Rao, NC Institute for Climate Studies
+
+**Date**
+**Time** 15:00 
+**Title**
+**Description**
+**Presenter**
+
+**Date**
+**Time** 15:00 
+**Title**
+**Description**
+**Presenter**
+
+**Date**
+**Time** 15:00 
+**Title**
+**Description**
+**Presenter**
+
+
 **Open Science Pavilion Hours**<br>
 Monday, 15 December, 3-6pm<br>
 Tuesday, 16 December, 10am-6pm<br>
