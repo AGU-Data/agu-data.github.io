@@ -30,7 +30,7 @@ Catch short presentations followed by a chance to ask questions and engage with 
 | 12:00  | Joseph Gum | A Look at Some Research Data Resiliency Efforts: Repository Crisis Scorecards and AGU Impactful Datasets |  |
 | 13:00  | Kerstin Lehnert | Resilience of Data Infrastructure: Challenges and Opportunities in Time of Crisis | Lamont-Doherty Earth Observatory |
 | 14:00  | Kyra Selina Hagge | [Tour: Science for social and community change]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277622)  | East Carolina University | 
-| 15:00  | Rosemary Knight | Earth Imaging for Groundwater Science and Management | Stanford University |
+| 15:00  | Rosemary Knight | Taking the Pulse of the Watershed | Stanford University |
 | **Thurs 18 Dec** |   |  |   | 
 | 11:00  | Ge (Jeff) Pu | [Tour: Distributed Hydrological Sensing - From Sensors to Data Sharing]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277625) | Large Lakes Observatory, University of Minnesota Duluth | 
 
