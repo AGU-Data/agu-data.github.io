@@ -51,7 +51,7 @@ Explore how our exhibitors are driving innovation and making science more access
 
 ## Full Session and Tour Descriptions ## 
 **Date** Monday, 15 December\
-**Time** 15:00\ 
+**Time** 15:00\
 **Title** FAIR Open Science for AI in Geosciences\
 **Description** AI and machine learning applications in geoscience relies on open data and open models. FAIR principles can help! This presentation will discuss how AI-ready data has empowered geoscience AI applications. Presenter: Douglas Rao, NC Institute for Climate Studies\
 **Presenter** Douglas Rao, NC Institute for Climate Studies\
