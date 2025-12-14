@@ -98,17 +98,34 @@ Explore how our exhibitors are driving innovation and making science more access
 **Presenters:** Daniel Steger, Technical Community Manager, Center for Open Science (COS), Blaine Butler, Product Manager, Center for Open Science (COS)
 
 **Date:** Tuesday, 16 December\
-**Time:** 15:00\
-**Title:** A Free, Open-Access Tool for Remote Sensing Field Campaign Planning Using Satellite Overpass and Calibration Site Data\
+**Time:** 14:00\
+**Title:** Increasing Your Research and Teaching Impact with MATLAB: GenAI and Best Practices for Coding and Simulation\
 **Description:** AI, GenAI, Mapping, Image Processing, Radar . . . so much to learn!
 Learn how to ramp up on new technology areas while getting your project work done faster.
 This talk will cover the components required to conduct effective open research (and teaching), including sensor use, automated coding, true-to-life simulation, and sharing and reuse.
 During the talk, Lisa Kempler will demonstrate new ways to speed up coding and simulation, including through the use of MATLAB Copilot and MATLAB GPT (aka “GenAI”) and how you can apply the same tools to your work.\
 **Presenter:** Lisa Kempler, MathWorks
 
+**Date:** Tuesday, 16 December\
+**Time:** 15:00\
+**Title:** A Free, Open-Access Tool for Remote Sensing Field Campaign Planning Using Satellite Overpass and Calibration Site Data\
+**Description:** FieldAssist-Cal is an open-source, web-based application designed to support the remote sensing community in planning field campaigns for vicarious calibration, cross-calibrations, ground sampling, and environmental monitoring. The tool provides an integrated environment that combines multi-sensor satellite overpass predictions, local weather forecasts, and site-specific metadata to help researchers align field activities with optimal observational conditions.
+Users can select a Region of Interest (ROI) or specify a location, then explore upcoming pass times, solar geometry, sensor viewing angles, and associated weather parameters to optimize field readiness. For calibration-focused workflows, FieldAssist-Cal enables users to generate Top-of-Atmosphere (TOA) reflectance from Google Earth Engine for Landsat and Sentinel missions. Researchers can select date-specific windows and produce time-series plots, supporting temporal analysis and pre-campaign evaluation.
+Planned future enhancements will allow users to store generated time-series plots and associated datasets within the platform, enabling quick retrieval during ongoing research rather than regenerating results. This capability is designed to save significant time for researchers, scientists, and students working across Earth observation disciplines.
+As a community-driven, open-access tool, FieldAssist-Cal promotes time savings, effective planning, reproducibility, transparency, and overall efficiency in field campaign preparation and calibration support.\
+**Presenter:** Sandeep Chittimalli, Synectics for Management Decision Inc.
 
+**Date:** Tuesday, 16 December\
+**Time:** 16:00\
+**Title:** Tour: Open Source Environmental Sensing\
+**Description:** Embark on a sensors safari where we roam the AGU Exhibit Hall in search of organizations that work with scientists to produce open source environmental sensor systems. The tour will be lead by Director of the Openly Published Environmental Sensing Lab from Oregon State University. Sign up for this tour  Tour Leader: Chat Udell, Oregon State University. **[Sign up for this tour](https://gatherspot.org/)**\
+**Tour Leader:** Chet Udell, Oregon State University
 
-
+**Date:** Tuesday, 16 December\
+**Time:** 17:00\
+**Title:** Open Science Basics: Software\
+**Description:** Plan, manage and share your software.\
+**Presenter:** Shelley Stall, AGU
 
 
 **Open Science Pavilion Hours**<br>
