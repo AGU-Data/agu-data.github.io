@@ -26,13 +26,17 @@ New for AGU25: Sign up for expert-guided tours of the AGU25 Exhibit Hall.
 | 15:00  | Sandeep Chittimalli | [A Free, Open-Access Tool for Remote Sensing Field Campaign Planning Using Satellite Overpass and Calibration Site](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277762)  | Synectics for Management Decision Inc |
 | 16:00  | Chet Udell, Tour Leader | [Tour: Open Source Environmental Sensing](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/24416)  | Oregon State University | 
 | **Wed 17 Dec** |   |  |   | 
+| 10:00  | Shelley Stall  | Open Science How To: Code of Open Science Practice | AGU | 
 | 10:30  | Alex Manda  | [Tour: Coastal Dynamics Sensing](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277618)  | East Carolina University | 
 | 11:00  | Kostas Leptokaropoulos  | [Streamlining Open Data Workflows: Geospatial Access and Visualization in MATLAB](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277625) | MathWorks | 
-| 13:00  | Karen Stocks | Looking for Ocean Data? Here are some resources | UC San Diego | 
+| 11:30  | Karen Stocks | Looking for Ocean Data? Here are some resources | UC San Diego | 
 | 12:00  | Joseph Gum | A Look at Some Research Data Resiliency Efforts: Repository Crisis Scorecards and AGU Impactful Datasets |  |
-| 13:00  | Kerstin Lehnert | Resilience of Data Infrastructure: Challenges and Opportunities in Time of Crisis | Lamont-Doherty Earth Observatory |
 | 14:00  | Kyra Selina Hagge | [Tour: Science for social and community change]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277622)  | East Carolina University | 
+| 14:30  | Kerstin Lehnert | Resilience of Data Infrastructure: Challenges and Opportunities in Time of Crisis | Lamont-Doherty Earth Observatory |
 | 15:00  | Rosemary Knight | Taking the Pulse of the Watershed | Stanford University |
+| 16:00  | Sarah Radel | [Tour: The Power of AI--Connecting Research, Data, and Discovery](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277623)  | East Carolina University |
+| 17:00  | Shelley Stall  | Open Science How To: Build Open Science Skills with your Team | AGU | 
+
 | **Thurs 18 Dec** |   |  |   | 
 | 11:00  | Ge (Jeff) Pu | [Tour: Distributed Hydrological Sensing - From Sensors to Data Sharing]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277625) | Large Lakes Observatory, University of Minnesota Duluth | 
 
