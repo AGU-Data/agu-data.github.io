@@ -50,7 +50,7 @@ Explore how our exhibitors are driving innovation and making science more access
 
 
 # Full Session and Tour Descriptions 
-## Monday, 15 December##
+## Monday, 15 December
 **Date:** Monday, 15 December\
 **Time:** 15:00\
 **Title:** FAIR Open Science for AI in Geosciences\
@@ -70,6 +70,7 @@ Explore how our exhibitors are driving innovation and making science more access
 **[Sign up for this tour](https://gatherspot.org/)**\
 **Tour Leader:** Elnaz Pezeshki, East Carolina University
 
+## Tuesday, 16 December
 **Date:** Tuesday, 16 December\
 **Time:** 10:00\
 **Title:** Open Science Basics: Datasets\
