@@ -79,7 +79,32 @@ Explore how our exhibitors are driving innovation and making science more access
 **Time:** 11:00\
 **Title:** Tour: Creating Opportunities for Learners by Integrating Research, Education, Outreach, and Professional Development in a Science Career\
 **Description:** What novel approaches are people using to engage learners in new ways? From field work abroad to virtual research experiences - we will explore how innovative programming, technology, and public engagement can transform your career. We welcome all those interested in learning more about how science education, communication, and public outreach can transform your career regardless of experience level. **[Sign up for this tour](https://gatherspot.org/)**\
-**Tour Leader:**  Stephen Moysey, East Carolina University
+**Tour Leader:** Stephen Moysey, East Carolina University
+
+**Date:** Tuesday, 16 December\
+**Time:** 12:30\
+**Title:** Tour: Drone-Mounted Sensors for Geoscience Studies\
+**Description:** In the last decade, the use of drone-mounted sensors has become an integral part of the geoscience research toolbox. Small uncrewed aircraft systems (sUAS, or drones) are now used in almost all geoscience fields, from volcanoes to hydrology to natural hazards, and more! Just as drone platform capabilities and availability have increased, the variety of small, light-weight scientific sensors is also rapidly expanding and evolving. Join us for a short expedition to the AGU25 Exhibit Hall to visit exhibitors who provide sensors that can be mounted on small drones for low-altitude airborne surveys. We'll discuss examples of the types of sensors available, and considerations for sensor selection and drone-survey planning. Whether you are just exploring the potential application of these emerging tools to your science, or they are the backbone of your work, please join us to share knowledge and connect with other interested community members. **[Sign up for this tour](https://gatherspot.org/)**\
+**Tour Leader:** Cian Dawson
+
+**Date:** Tuesday, 16 December\
+**Time:** 13:00\
+**Title:** From Research Planning to Research Outputs: How OSF Connects Data Management Plans, Study Registrations, Projects, and Preprints\
+**Description:** This talk will walk through the narrative of beginning with a data or study management plan using OSF Registrations, and show how all resulting outputs—projects, datasets, documentation, and preprints—can be integrated and linked to create a transparent, end-to-end research story.\
+**Presenters:** Daniel Steger, Technical Community Manager, Center for Open Science (COS), Blaine Butler, Product Manager, Center for Open Science (COS)
+
+**Date:** Tuesday, 16 December\
+**Time:** 15:00\
+**Title:** A Free, Open-Access Tool for Remote Sensing Field Campaign Planning Using Satellite Overpass and Calibration Site Data\
+**Description:** AI, GenAI, Mapping, Image Processing, Radar . . . so much to learn!
+Learn how to ramp up on new technology areas while getting your project work done faster.
+This talk will cover the components required to conduct effective open research (and teaching), including sensor use, automated coding, true-to-life simulation, and sharing and reuse.
+During the talk, Lisa Kempler will demonstrate new ways to speed up coding and simulation, including through the use of MATLAB Copilot and MATLAB GPT (aka “GenAI”) and how you can apply the same tools to your work.\
+**Presenter:** Lisa Kempler, MathWorks
+
+
+
+
 
 
 **Open Science Pavilion Hours**<br>
