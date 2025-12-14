@@ -165,7 +165,7 @@ Kostas Leptokaropoulos will demonstrate MATLAB workflows for
 
 **Date:** Wednesday, 17 December\
 **Time:** 14:00\
-**Title:** Tour: Tour: Science for social and community change\
+**Title:** Tour: Science for social and community change\
 **Description:** Do you ever wonder how your scientific training can lead to lasting societal change? Whether you are wondering how to turn your science into actionable policy, how to engage the next generation or simply want to find more ways to amplify what you care about - Join us on this tour where we explore pathways from and through science into politics, communities, and society. **[Sign up for this tour](https://gatherspot.org/)**\
 **Tour Leader:** Kyra Selina Hagge, East Carolina University
 
@@ -193,7 +193,12 @@ Kostas Leptokaropoulos will demonstrate MATLAB workflows for
 **Description:** Streamline your team’s research needs with resources that ensure they are as efficient, collaborative and open as possible.\
 **Presenter:** Shelley Stall, AGU
 
-
+## Thursday, 18 December
+**Date:** Thursday, 18 December\
+**Time:** 11:00\
+**Title:** Tour: Distributed Hydrological Sensing - From Sensors to Data Sharing\
+**Description:** This tour will visit five vendors in the exhibitor's hall related to distributed hydrologic sensing subtopics, covering the entire process from sensor selection to data sharing. Subtopics will include sensor network building, data management, and data sharing/publication. Visiting booth will include Campbell Scientific, In-Situ, Xylem, Esri, and CUASHI. The main goal of this tour is to explore options for various components for building distributed hydrologic sensing networks from scratch. Exploration will be conducted by visiting industry leaders in hydrologic sensor development, data management, and data publication. **[Sign up for this tour](https://gatherspot.org/)**\
+**Tour Leader:** Ge (Jeff) Pu, Large Lakes Observatory, University of Minnesota Duluth
 
 **Open Science Pavilion Hours**<br>
 Monday, 15 December, 3-6pm<br>
