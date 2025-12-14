@@ -127,6 +127,73 @@ As a community-driven, open-access tool, FieldAssist-Cal promotes time savings, 
 **Description:** Plan, manage and share your software.\
 **Presenter:** Shelley Stall, AGU
 
+## Wednesday, 17 December
+**Date:** Wednesday, 17 December\
+**Time:** 10:00\
+**Title:** Open Science How To: Code of Open Science Practice\
+**Description:** Improve your team’s open practices. Codify these practices in your team’s Code of Open Science Practice.\
+**Presenter:** Shelley Stall, AGU
+
+**Date:** Wednesday, 17 December\
+**Time:** 10:30\
+**Title:** Tour: Coastal Dynamics Sensing Solutions\
+**Description:** This tour explores emerging technologies that empower researchers to monitor water across the full hydrologic cycle - from precipitation and surface water flow to groundwater and estuarine systems. With a focus on saltwater intrusion and coastal dynamics, the tour will spotlight rugged, field-ready sensing solutions designed for long-term deployment in remote and variable environments.  **[Sign up for this tour](https://gatherspot.org/)**\
+**Tour Leader:** Alex Manda, East Carolina University
+
+**Date:** Wednesday, 17 December\
+**Time:** 11:00\
+**Title:** Streamlining Open Data Workflows: Geospatial Access and Visualization in MATLAB\
+**Description:** Open Geoscience data is more accessible than ever, but working with it efficiently is often challenging and requires the right tools. In this session, we’ll explore how MATLAB can streamline access, preprocessing, filtering and visualization of geospatial datasets from widely used open resources. Through practical examples, participants will learn how to work with open datasets to create reproducible workflows. 
+Kostas Leptokaropoulos will demonstrate MATLAB workflows for
+•        Retrieving climate data via OPeNDAP
+•        Working with EuroSat satellite imagery 
+•        Accessing earthquake catalogs with the ISC Earthquake Toolbox and
+•        Analyzing/visualizing anthropogenic hazard data from EPOS.\
+**Presenter:** Kostas Leptokaropoulos, MathWorks
+
+**Date:** Wednesday, 17 December\
+**Time:** 11:30\
+**Title:** Looking for Ocean Data? Here are some resources\
+**Description:** This talk will introduce several ocean data repositories, including CCHDO and the Rolling Deck to Repository, provide links to additional ocean data sources, and describe current efforts related to cross-repository data search tools.\
+**Presenter:** Karen Stocks, Scripps Institution of Oceanography
+
+**Date:** Wednesday, 17 December\
+**Time:** 12:00\
+**Title:** A Look at Some Research Data Resiliency Efforts: Repository Crisis Scorecards and AGU Impactful Datasets\
+**Description:** A lot has been said about the stability of science today and the systems that support it. We'll discuss a couple of efforts started in 2025 to address research data resiliency, specifically the Repository Crisis Scorecards which is a tool to measure repository/archive organizational resiliency and AGU's Impactful Datasets, a democratic look at identifying important datasets in the Earth and Space Sciences.\
+**Presenter:** Joseph Gum
+
+**Date:** Wednesday, 17 December\
+**Time:** 14:00\
+**Title:** Tour: Tour: Science for social and community change\
+**Description:** Do you ever wonder how your scientific training can lead to lasting societal change? Whether you are wondering how to turn your science into actionable policy, how to engage the next generation or simply want to find more ways to amplify what you care about - Join us on this tour where we explore pathways from and through science into politics, communities, and society. **[Sign up for this tour](https://gatherspot.org/)**\
+**Tour Leader:** Kyra Selina Hagge, East Carolina University
+
+**Date:** Wednesday, 17 December\
+**Time:** 14:30\
+**Title:** Resilience of Data Infrastructure: Challenges and Opportunities in Time of Crisis\
+**Description:** This presentation will report on activities at the IEDA2 data facility to increase resilience of EarthChem and SESAR as two data systems that the community relies on for sharing data and sample metadata.\
+**Presenter:** Kerstin Lehnert, Lamont-Doherty Earth Observatory
+
+**Date:** Wednesday, 17 December\
+**Time:** 15:00\
+**Title:** Taking the Pulse of the Watershed\
+**Description:** Through a recently launched Open Science project, Taking the Pulse of the Watershed, with a field area in California’s Central Valley, we are developing a sensor-informed framework to advance groundwater science and management. With a commitment to effective communication within the scientific community, with those in local and state agencies, and with the farming community and other stakeholders, we are exploring new platforms for collaboration and publication that enhance impact on both science and society.\
+**Presenter:** Rosemary Knight, Stanford University
+
+**Date:** Wednesday, 17 December\
+**Time:** 16:00\
+**Title:** Tour: The Power of AI--Connecting Research, Data, and Discovery\
+**Description:** This tour explores how artificial intelligence is transforming the entire scientific workflow, from open research to real-world applications. Participants will visit arXiv, CoCalc, Mathworks, and Esri to see how AI supports collaboration, modeling analytics, and geospatial intelligence. Together, these vendors demonstrate how AI tools are advancing data-driven discovery, environmental insights, and applied solutions to connect research innovation with societal impact. **[Sign up for this tour](https://gatherspot.org/)**\
+**Tour Leader:** Sarah Radel, East Carolina University
+
+**Date:** Wednesday, 17 December\
+**Time:** 17:00\
+**Title:** Open Science How To: Build Open Science Skills with your Team\
+**Description:** Streamline your team’s research needs with resources that ensure they are as efficient, collaborative and open as possible.\
+**Presenter:** Shelley Stall, AGU
+
+
 
 **Open Science Pavilion Hours**<br>
 Monday, 15 December, 3-6pm<br>
