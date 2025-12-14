@@ -9,7 +9,9 @@ tags: [Open Science Pavilion, AGU25]
 # Explore the Open Science Pavilion at AGU25!  
 
 ## Schedule: Presentations and Exhibit Hall Tours at the Open Science Pavilion ## 
-Catch short presentations followed by a chance to ask questions and engage with experts! New for AGU25: Sign up for expert-guided tours of the AGU25 Exhibit Hall. 
+Catch short presentations followed by a chance to ask questions and engage with experts!
+New for AGU25: Sign up for expert-guided tours of the AGU25 Exhibit Hall. 
+**Scroll down for full session details** 
 
 | Time     | Presenter         | Title | Organization |  
 | ------------- | ------------- |------------- | ------------- | 
