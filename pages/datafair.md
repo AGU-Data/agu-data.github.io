@@ -50,6 +50,7 @@ Explore how our exhibitors are driving innovation and making science more access
 
 
 ## Full Session and Tour Descriptions ## 
+# Monday, 15 December#
 **Date:** Monday, 15 December\
 **Time:** 15:00\
 **Title:** FAIR Open Science for AI in Geosciences\
