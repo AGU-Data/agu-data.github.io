@@ -49,8 +49,8 @@ Explore how our exhibitors are driving innovation and making science more access
  - **[Center for Open Science](https://www.cos.io/)**
 
 
-## Full Session and Tour Descriptions ## 
-# Monday, 15 December#
+# Full Session and Tour Descriptions 
+## Monday, 15 December##
 **Date:** Monday, 15 December\
 **Time:** 15:00\
 **Title:** FAIR Open Science for AI in Geosciences\
