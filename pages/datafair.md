@@ -54,7 +54,7 @@ Explore how our exhibitors are driving innovation and making science more access
 **Time:** 15:00\
 **Title:** FAIR Open Science for AI in Geosciences\
 **Description:** AI and machine learning applications in geoscience relies on open data and open models. FAIR principles can help! This presentation will discuss how AI-ready data has empowered geoscience AI applications. Presenter: Douglas Rao, NC Institute for Climate Studies\
-**Presenter:** Douglas Rao, NC Institute for Climate Studies\
+**Presenter:** Douglas Rao, NC Institute for Climate Studies
 
 **Date:** Monday, 15 December\
 **Time:** 15:30\
@@ -67,19 +67,19 @@ Explore how our exhibitors are driving innovation and making science more access
 **Title:** Tour: Smart Hydrology, Cloud-Connected Sensors & Data Platforms for Remote Water Monitoring\
 **Description:** This tour highlights new wireless and cloud-connected technologies for hydrology and water-quality monitoring. We will explore vendors offering low-power sensors, remote data platforms, and tools that reduce field labor while improving spatial and temporal coverage. 
 **[Sign up for this tour](https://gatherspot.org/)**\
-**Tour Leader:** Elnaz Pezeshki, East Carolina University\
+**Tour Leader:** Elnaz Pezeshki, East Carolina University
 
-**Date:**
-**Time:** 
-**Title:**
-**Description:**
-**Presenter:**
+**Date:** Tuesday, 16 December\
+**Time:** 10:00\
+**Title:** Open Science Basics: Datasets\
+**Description:** Plan, manage and share your data.\
+**Presenter:** Shelley Stall, AGU
 
-**Date:**
-**Time:** 
-**Title:**
-**Description:**
-**Presenter:**
+**Date:** Tuesday, 16 December\
+**Time:** 11:00\
+**Title:** Tour: Creating Opportunities for Learners by Integrating Research, Education, Outreach, and Professional Development in a Science Career\
+**Description:** What novel approaches are people using to engage learners in new ways? From field work abroad to virtual research experiences - we will explore how innovative programming, technology, and public engagement can transform your career. We welcome all those interested in learning more about how science education, communication, and public outreach can transform your career regardless of experience level. **[Sign up for this tour](https://gatherspot.org/)**\
+**Tour Leader:**  Stephen Moysey, East Carolina University
 
 
 **Open Science Pavilion Hours**<br>
