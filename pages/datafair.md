@@ -50,29 +50,36 @@ Explore how our exhibitors are driving innovation and making science more access
 
 
 ## Full Session and Tour Descriptions ## 
-**Date** Monday, 15 December\
-**Time** 15:00\
-**Title** FAIR Open Science for AI in Geosciences\
-**Description** AI and machine learning applications in geoscience relies on open data and open models. FAIR principles can help! This presentation will discuss how AI-ready data has empowered geoscience AI applications. Presenter: Douglas Rao, NC Institute for Climate Studies\
-**Presenter** Douglas Rao, NC Institute for Climate Studies\
+**Date:** Monday, 15 December\
+**Time:** 15:00\
+**Title:** FAIR Open Science for AI in Geosciences\
+**Description:** AI and machine learning applications in geoscience relies on open data and open models. FAIR principles can help! This presentation will discuss how AI-ready data has empowered geoscience AI applications. Presenter: Douglas Rao, NC Institute for Climate Studies\
+**Presenter:** Douglas Rao, NC Institute for Climate Studies\
 
-**Date**
-**Time** 15:00 
-**Title**
-**Description**
-**Presenter**
+**Date:** Monday, 15 December\
+**Time:** 15:30\
+**Title:** Open Science Basics: Digital Presence\
+**Description:** Optimize your digital presence, increase discovery of your work to potential collaborators and partners, and receive credit when others use your work.\
+**Presenter:** Shelley Stall, AGU
 
-**Date**
-**Time** 15:00 
-**Title**
-**Description**
-**Presenter**
+**Date:** Monday, 15 December\
+**Time:** 16:00\
+**Title:** Tour: Smart Hydrology, Cloud-Connected Sensors & Data Platforms for Remote Water Monitoring\
+**Description:** This tour highlights new wireless and cloud-connected technologies for hydrology and water-quality monitoring. We will explore vendors offering low-power sensors, remote data platforms, and tools that reduce field labor while improving spatial and temporal coverage. 
+**[Sign up for this tour](https://gatherspot.org/)**\
+**Tour Leader:** Elnaz Pezeshki, East Carolina University\
 
-**Date**
-**Time** 15:00 
-**Title**
-**Description**
-**Presenter**
+**Date:**
+**Time:** 
+**Title:**
+**Description:**
+**Presenter:**
+
+**Date:**
+**Time:** 
+**Title:**
+**Description:**
+**Presenter:**
 
 
 **Open Science Pavilion Hours**<br>
