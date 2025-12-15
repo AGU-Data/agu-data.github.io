@@ -26,7 +26,7 @@ New for AGU25: Sign up for expert-guided tours of the AGU25 Exhibit Hall.
 | 15:00  | Sandeep Chittimalli | [A Free, Open-Access Tool for Remote Sensing Field Campaign Planning Using Satellite Overpass and Calibration Site](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277762)  | Synectics for Management Decision Inc |
 | 16:00  | Chet Udell, Tour Leader | [Tour: Open Source Environmental Sensing](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/24416)  | Oregon State University | 
 | **Wed 17 Dec** |   |  |   | 
-| 10:00  | Natalie Raia  | Looking for information or resources on digital records for physical samples?  Join us for a community deep dive. | University of Arizona | 
+| 10:00  | Natalie Raia  | Data Deep Dive: Physical Samples | University of Arizona | 
 | 10:30  | Alex Manda  | [Tour: Coastal Dynamics Sensing](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277618)  | East Carolina University | 
 | 11:00  | Kostas Leptokaropoulos  | [Streamlining Open Data Workflows: Geospatial Access and Visualization in MATLAB](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277625) | MathWorks | 
 | 11:30  | Karen Stocks | Looking for Ocean Data? Here are some resources | UC San Diego | 
