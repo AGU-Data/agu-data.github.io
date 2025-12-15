@@ -26,7 +26,7 @@ New for AGU25: Sign up for expert-guided tours of the AGU25 Exhibit Hall.
 | 15:00  | Sandeep Chittimalli | [A Free, Open-Access Tool for Remote Sensing Field Campaign Planning Using Satellite Overpass and Calibration Site](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277762)  | Synectics for Management Decision Inc |
 | 16:00  | Chet Udell, Tour Leader | [Tour: Open Source Environmental Sensing](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/24416)  | Oregon State University | 
 | **Wed 17 Dec** |   |  |   | 
-| 10:00  | Shelley Stall  | Open Science How To: Code of Open Science Practice | AGU | 
+| 10:00  | Natalie Raia  | Looking for information or resources on digital records for physical samples?  Join us for a community deep dive. | University of Arizona | 
 | 10:30  | Alex Manda  | [Tour: Coastal Dynamics Sensing](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277618)  | East Carolina University | 
 | 11:00  | Kostas Leptokaropoulos  | [Streamlining Open Data Workflows: Geospatial Access and Visualization in MATLAB](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277625) | MathWorks | 
 | 11:30  | Karen Stocks | Looking for Ocean Data? Here are some resources | UC San Diego | 
@@ -35,6 +35,7 @@ New for AGU25: Sign up for expert-guided tours of the AGU25 Exhibit Hall.
 | 14:30  | Kerstin Lehnert | Resilience of Data Infrastructure: Challenges and Opportunities in Time of Crisis | Lamont-Doherty Earth Observatory |
 | 15:00  | Rosemary Knight | Taking the Pulse of the Watershed | Stanford University |
 | 16:00  | Sarah Radel | [Tour: The Power of AI--Connecting Research, Data, and Discovery](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277623)  | East Carolina University |
+| 16:30  | Shelley Stall  | Open Science How To: Code of Open Science Practice | AGU | 
 | 17:00  | Shelley Stall  | Open Science How To: Build Open Science Skills with your Team | AGU | 
 
 | **Thurs 18 Dec** |   |  |   | 
@@ -134,9 +135,9 @@ As a community-driven, open-access tool, FieldAssist-Cal promotes time savings, 
 ## Wednesday, 17 December
 **Date:** Wednesday, 17 December\
 **Time:** 10:00\
-**Title:** Open Science How To: Code of Open Science Practice\
-**Description:** Improve your team’s open practices. Codify these practices in your team’s Code of Open Science Practice.\
-**Presenter:** Shelley Stall, AGU
+**Title:** Data Deep Dive: Physical Samples\
+**Description:** Looking for information or resources on digital records for physical samples?  Join us for a community deep dive.\
+**Presenter:** Natalie Raia, University of Arizona
 
 **Date:** Wednesday, 17 December\
 **Time:** 10:30\
@@ -190,6 +191,12 @@ Kostas Leptokaropoulos will demonstrate MATLAB workflows for
 **Title:** Tour: The Power of AI--Connecting Research, Data, and Discovery\
 **Description:** This tour explores how artificial intelligence is transforming the entire scientific workflow, from open research to real-world applications. Participants will visit arXiv, CoCalc, Mathworks, and Esri to see how AI supports collaboration, modeling analytics, and geospatial intelligence. Together, these vendors demonstrate how AI tools are advancing data-driven discovery, environmental insights, and applied solutions to connect research innovation with societal impact. **[Sign up for this tour](https://gatherspot.org/)**\
 **Tour Leader:** Sarah Radel, East Carolina University
+
+**Date:** Wednesday, 17 December\
+**Time:** 16:30\
+**Title:** Open Science How To: Code of Open Science Practice\
+**Description:** Improve your team’s open practices. Codify these practices in your team’s Code of Open Science Practice.\
+**Presenter:** Shelley Stall, AGU
 
 **Date:** Wednesday, 17 December\
 **Time:** 17:00\
