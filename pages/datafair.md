@@ -172,6 +172,12 @@ Kostas Leptokaropoulos will demonstrate MATLAB workflows for
 **Presenter:** Joseph Gum
 
 **Date:** Wednesday, 17 December\
+**Time:** 12:30\
+**Title:** Data Deep Dive: Ocean Sciences\
+**Description:** Data, Looking for information or resources on data supporting Ocean Sciences?  Join us for a community deep dive.\
+**Presenter:** Danie Kinkade, WHOI
+
+**Date:** Wednesday, 17 December\
 **Time:** 14:00\
 **Title:** Tour: Science for social and community change\
 **Description:** Do you ever wonder how your scientific training can lead to lasting societal change? Whether you are wondering how to turn your science into actionable policy, how to engage the next generation or simply want to find more ways to amplify what you care about - Join us on this tour where we explore pathways from and through science into politics, communities, and society. **[Sign up for this tour](https://gatherspot.org/)**\
