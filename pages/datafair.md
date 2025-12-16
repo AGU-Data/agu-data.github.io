@@ -172,12 +172,6 @@ Kostas Leptokaropoulos will demonstrate MATLAB workflows for
 **Presenter:** Joseph Gum
 
 **Date:** Wednesday, 17 December\
-**Time:** 12:30\
-**Title:** Data Deep Dive: Ocean Sciences\
-**Description:** Data, Looking for information or resources on data supporting Ocean Sciences?  Join us for a community deep dive.\
-**Presenter:** Danie Kinkade, WHOI
-
-**Date:** Wednesday, 17 December\
 **Time:** 13:30\
 **Title:** Exposing your datasets for discovery via Google Dataset Search\
 **Description:** Some Basics on Science on Schema.\
