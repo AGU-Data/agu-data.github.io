@@ -33,7 +33,7 @@ New for AGU25: Sign up for expert-guided tours of the AGU25 Exhibit Hall.
 | 11:00  | Kostas Leptokaropoulos  | [Streamlining Open Data Workflows: Geospatial Access and Visualization in MATLAB](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277625) | MathWorks | 
 | 11:30  | Karen Stocks | Looking for Ocean Data? Here are some resources | UC San Diego | 
 | 12:00  | Joseph Gum | A Look at Some Research Data Resiliency Efforts: Repository Crisis Scorecards and AGU Impactful Datasets |  |
-| 12:30  | Danie Kincade | Data Deep Dive: Ocean Sciences | WHOI |
+| 12:30  | Danie KinKade | Data Deep Dive: Ocean Sciences | WHOI |
 | 14:00  | Kyra Selina Hagge | [Tour: Science for social and community change]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277622)  | East Carolina University | 
 | 14:30  | Kerstin Lehnert | Resilience of Data Infrastructure: Challenges and Opportunities in Time of Crisis | Lamont-Doherty Earth Observatory |
 | 15:00  | Rosemary Knight | Taking the Pulse of the Watershed | Stanford University |
