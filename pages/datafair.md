@@ -32,8 +32,8 @@ New for AGU25: Sign up for expert-guided tours of the AGU25 Exhibit Hall.
 | 10:30  | Alex Manda  | [Tour: Coastal Dynamics Sensing](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277618)  | East Carolina University | 
 | 11:00  | Kostas Leptokaropoulos  | [Streamlining Open Data Workflows: Geospatial Access and Visualization in MATLAB](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277625) | MathWorks | 
 | 11:30  | Karen Stocks | Looking for Ocean Data? Here are some resources | UC San Diego | 
-| 12:00  | Joseph Gum | A Look at Some Research Data Resiliency Efforts: Repository Crisis Scorecards and AGU Impactful Datasets |  |
-| 12:30  | Alberto Accomazzi| Title forthcoming |  |
+| 12:00  | Joseph Gum | A Look at Some Research Data Resiliency Efforts: Repository Crisis Scorecards and AGU Impactful Datasets | |
+| 12:30  | Alberto Accomazzi| The Science Explorer: Accelerating Discovery in the Earth and Space Sciences | Center for Astrophysics |
 | 13:30  | David Valentine | Exposing your datasets for discovery via Google Dataset Search | San Diego Supercomputer Center |
 | 14:00  | Kyra Selina Hagge | [Tour: Science for social and community change]( https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/277622)  | East Carolina University | 
 | 14:30  | Kerstin Lehnert | Resilience of Data Infrastructure: Challenges and Opportunities in Time of Crisis | Lamont-Doherty Earth Observatory |
@@ -171,6 +171,12 @@ Kostas Leptokaropoulos will demonstrate MATLAB workflows for
 **Title:** A Look at Some Research Data Resiliency Efforts: Repository Crisis Scorecards and AGU Impactful Datasets\
 **Description:** A lot has been said about the stability of science today and the systems that support it. We'll discuss a couple of efforts started in 2025 to address research data resiliency, specifically the Repository Crisis Scorecards which is a tool to measure repository/archive organizational resiliency and AGU's Impactful Datasets, a democratic look at identifying important datasets in the Earth and Space Sciences.\
 **Presenter:** Joseph Gum
+
+**Date:** Wednesday, 17 December\
+**Time:** 12:30\
+**Title:** The Science Explorer: Accelerating Discovery in the Earth and Space Sciences\
+**Description:** This presentation will provide an overview and demo of the Science Explorer, a NASA-funded digital library platform supporting open science efforts in the Earth and space research disciplines.\
+**Presenter:** Alberto Accomazzi, Center for Astrophysics | Harvard & Smithsonian
 
 **Date:** Wednesday, 17 December\
 **Time:** 13:30\
