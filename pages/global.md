@@ -5,9 +5,9 @@ permalink: /global/
 feature-img: "assets/img/pexels/triangular.jpeg"
 tags: [Gloabal Data Convening, GeoFAIR]
 ---
-# The Earth, Space, and Environmental Sciences Global Data Convening
+**Participants** | **Agenda** | **Read Ahead List** | [links forthcoming]
 
-**Participants** | **Agenda** | **Read Ahead List** [links forthcoming]
+# The Earth, Space, and Environmental Sciences Global Data Convening
 
 Earth, space and environmental science global research communities rely on the accessibility and continuity of critical datasets and data systems in the scientific ecosystem. However, natural hazards, funding changes, geopolitical actions, and other factors can create disruptions that hinder scientific research and application.
 
