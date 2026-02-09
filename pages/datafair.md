@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Science Pavilion at AGU25
+title: Open Science Pavilion
 permalink: /OSDHD/
 feature-img: assets/img/pexels/OSDHD_3850x1138.jpg
 tags: [Open Science Pavilion, AGU25]
