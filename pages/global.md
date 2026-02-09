@@ -5,7 +5,7 @@ permalink: /global/
 feature-img: "assets/img/pexels/triangular.jpeg"
 tags: [Gloabal Data Convening, GeoFAIR]
 ---
-**Participants** | **Agenda** | **Read Ahead List** | [links forthcoming]
+**Participants**       **Agenda**       **Read Ahead List**   [links forthcoming]
 
 # The Earth, Space, and Environmental Sciences Global Data Convening
 
