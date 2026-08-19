@@ -3,7 +3,6 @@
 - [Shelley Stall](https://github.com/ShelleyStall)
 - [Kristina Vrouwenvelder](https://github.com/kvrouwenvelder)
 - [Brian Sedora](https://github.com/BSedora)
-- [Laura Lyon](https://github.com/llion1)
 
 ## Data Leadership Program Website
 
@@ -37,7 +36,7 @@ AGU Open Science Leadership Program website is authored and maintained by the AG
 
 Cite as:
 
-AGU Open Science Leadership Program Website. 2022. https://data.agu.org/
+AGU Open Science Leadership Program Website. 2026. https://data.agu.org/
 
 
 
