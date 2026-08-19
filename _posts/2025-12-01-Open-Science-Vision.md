@@ -8,7 +8,7 @@ tags: [Posts]
 # AGU Open Science Vision 
 ### Evolving Data / Open Science Leadership at AGU into its second decade. 
 
-The AGU Data / Open Science Leadership Program is moving into its second decade. Over this time we have expanded from a data focus to include other research digital objects in context of the various types of openness in the research ecosystem. 
+The AGU Data / Open Science Leadership Program is moving into its second decade. Over this time we have expanded from a data focus to include other research digital objects in the context of various types of openness in the research ecosystem. 
 
 ***How does this vision compare to your own work in Open Science?***
 
