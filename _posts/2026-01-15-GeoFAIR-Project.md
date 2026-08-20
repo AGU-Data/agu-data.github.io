@@ -27,7 +27,7 @@ A volunteer leadership position within a disciplinary section or committee of a 
 
 Shelley Stall (AGU), Danie Kinkade (WHOI), Natalie Raia (U of AZ) 
 
-### Society Partners ### (not limited to):
+### Society Partners (not limited to):
 
 > * American Geophysical Union (AGU)
 > * European Geophysical Union (EGU)
@@ -45,7 +45,6 @@ Shelley Stall (AGU), Danie Kinkade (WHOI), Natalie Raia (U of AZ)
 > * Helle Pederson, Université Grenoble-Alpes (Seismology)
 > * Lesley Wyborn, Australian National University (Cross-domain)
 > * Peter Pissierssens, (Former) Head, IOC Project Office for IODE and IOC CD coordinator at UNESCO (Ocean Sciences)
-
 
 ### Ocean Liaisons ###
 
