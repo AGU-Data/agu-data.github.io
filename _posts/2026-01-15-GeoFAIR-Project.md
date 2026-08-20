@@ -23,9 +23,11 @@ To support the discipline communities, the project will provide an easy-to-custo
 ### Open Science Ambassador
 A volunteer leadership position within a disciplinary section or committee of a partner geoscience society (e.g., an American Geophysical Union Section, European Geophysical Union Division, or equivalent body within other participating societies). The Ambassador serves as the primary point of contact for the  discipline leadership and members providing support and council on: collaborative data stewardship, development and usage of data and metadata standards, the benefits of domain data repositories and curation, and advancing incentives and recognition for research data and software stewardship. The Ambassador will serve as a steward for their discipline's Resource Hub content, working with cross-society counterparts to keep the Hub updated and to solicit contributions from the community. 
 
-Co-PIs: Shelley Stall (AGU), Danie Kinkade (WHOI), Natalie Raia (U of AZ) 
+### Project Leads ###
 
-Society partners:
+Shelley Stall (AGU), Danie Kinkade (WHOI), Natalie Raia (U of AZ) 
+
+### Society Partners ### (not limited to):
 
 > * American Geophysical Union (AGU)
 > * European Geophysical Union (EGU)
@@ -33,7 +35,7 @@ Society partners:
 > * Association for the Sciences of Limnology and Oceanography (ASLO)
 > * The Oceanography Society (TOS)
 
-Network Collaboration Committee, advising and connecting: 
+### Network Collaboration Committee, advising and connecting: ###
 
 > * Reyna Broadhurst, World Data System (Cross-domain)
 > * Jordan Read, Consortium of Universities for the Advancement of Hydrologic Science (Hydrology)
@@ -42,12 +44,11 @@ Network Collaboration Committee, advising and connecting:
 > * Justin Buck, British Oceanographic Data Center (Ocean Sciences)
 > * Helle Pederson, Université Grenoble-Alpes (Seismology)
 > * Lesley Wyborn, Australian National University (Cross-domain)
+> * Peter Pissierssens, (Former) Head, IOC Project Office for IODE and IOC CD coordinator at UNESCO (Ocean Sciences)
 
 
-Organizations represented via Discipline Liaisons:
-Plymouth Marine Laboratory
-Japan Hydrographic Association
-Your Ocean Consulting, LLC
-Deep Ocean Observing Strategy
+### Ocean Liaisons ###
 
-. 
+> * Tom Mansfield, Plymouth Marine Laboratory
+> * Leslie Smith, Your Ocean Consulting, LLC and Deep Ocean Observing Strategy
+> * Toru Suzuki, Marine Information Research Center, Japan 
