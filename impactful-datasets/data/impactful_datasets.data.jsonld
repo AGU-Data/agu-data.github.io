@@ -26,8 +26,24 @@
         "name": "American Geophysical Union",
         "url": "https://www.agu.org/"
       },
+      "creator": {
+        "@type": "Person",
+        "@id": "https://orcid.org/0000-0003-4486-9448",
+        "name": "Adam Shepherd",
+        "email": "adam@harborlight.tech",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "ORCID",
+          "value": "https://orcid.org/0000-0003-4486-9448"
+        },
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Harbor Light Technologies",
+          "url": "https://harborlight.tech"
+        }
+      },
       "license": "https://creativecommons.org/licenses/by/4.0/",
-      "dateModified": "2026-09-03",
+      "dateModified": "2026-09-15",
       "dataset": [
         {
           "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0001"
@@ -565,7 +581,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0001",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0001",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0001",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -662,7 +678,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0002",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0002",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0002",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -768,7 +784,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0003",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0003",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0003",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -893,7 +909,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0117",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0117",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0117",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -955,7 +971,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0107",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0107",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0107",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -1041,7 +1057,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0115",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0115",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0115",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -1167,7 +1183,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0004",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0004",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0004",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -1252,7 +1268,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0005",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0005",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0005",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -1337,7 +1353,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0026",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0026",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0026",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -1402,7 +1418,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0006",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0006",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0006",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -1445,7 +1461,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0007",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0007",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0007",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -1590,7 +1606,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0012",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0012",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0012",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -1671,7 +1687,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0008",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0008",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0008",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -1741,7 +1757,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0009",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0009",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0009",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -1801,7 +1817,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0010",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0010",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0010",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -1865,7 +1881,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0011",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0011",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0011",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -1933,7 +1949,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0013",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0013",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0013",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -1982,7 +1998,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0014",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0014",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0014",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -2048,7 +2064,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0015",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0015",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0015",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -2093,7 +2109,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0016",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0016",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0016",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -2148,7 +2164,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0017",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0017",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0017",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -2229,7 +2245,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0018",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0018",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0018",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -2293,7 +2309,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0019",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0019",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0019",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -2358,7 +2374,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0020",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0020",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0020",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -2396,7 +2412,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0021",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0021",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0021",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -2466,7 +2482,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0022",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0022",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0022",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -2516,7 +2532,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0023",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0023",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0023",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -2554,7 +2570,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0024",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0024",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0024",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -2609,7 +2625,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0025",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0025",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0025",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -2673,7 +2689,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0027",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0027",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0027",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -2764,7 +2780,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0028",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0028",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0028",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -2963,7 +2979,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0029",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0029",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0029",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -3151,7 +3167,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0030",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0030",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0030",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -3229,7 +3245,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0031",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0031",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0031",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -3291,7 +3307,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0032",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0032",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0032",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -3373,7 +3389,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0033",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0033",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0033",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -3411,7 +3427,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0034",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0034",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0034",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -3466,7 +3482,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0035",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0035",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0035",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -3510,7 +3526,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0036",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0036",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0036",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -3573,7 +3589,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0037",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0037",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0037",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -3624,7 +3640,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0038",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0038",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0038",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -3696,7 +3712,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0039",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0039",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0039",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -3757,7 +3773,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0040",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0040",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0040",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -3869,7 +3885,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0041",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0041",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0041",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -3913,7 +3929,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0042",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0042",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0042",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -3995,7 +4011,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0043",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0043",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0043",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -4087,7 +4103,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0044",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0044",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0044",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -4137,7 +4153,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0045",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0045",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0045",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -4175,7 +4191,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0046",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0046",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0046",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -4230,7 +4246,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0047",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0047",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0047",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -4338,7 +4354,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0048",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0048",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0048",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -4445,7 +4461,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0049",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0049",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0049",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -4510,7 +4526,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0050",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0050",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0050",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -4572,7 +4588,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0051",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0051",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0051",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -4633,7 +4649,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0052",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0052",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0052",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -4715,7 +4731,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0053",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0053",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0053",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -4824,7 +4840,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0054",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0054",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0054",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -4907,7 +4923,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0055",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0055",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0055",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -4945,7 +4961,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0056",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0056",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0056",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -5002,7 +5018,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0057",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0057",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0057",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -5068,7 +5084,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0058",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0058",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0058",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -5106,7 +5122,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0059",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0059",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0059",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -5171,7 +5187,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0060",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0060",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0060",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -5245,7 +5261,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0061",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0061",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0061",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -5302,7 +5318,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0062",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0062",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0062",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -5347,7 +5363,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0063",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0063",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0063",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -5487,7 +5503,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0064",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0064",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0064",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -5604,7 +5620,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0065",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0065",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0065",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -5704,7 +5720,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0066",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0066",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0066",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -5760,7 +5776,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0067",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0067",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0067",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -5838,7 +5854,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0068",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0068",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0068",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -5904,7 +5920,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0069",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0069",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0069",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -5960,7 +5976,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0070",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0070",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0070",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -6024,7 +6040,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0071",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0071",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0071",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -6114,7 +6130,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0072",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0072",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0072",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -6214,7 +6230,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0073",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0073",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0073",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -6300,7 +6316,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0074",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0074",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0074",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -6359,7 +6375,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0075",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0075",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0075",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -6429,7 +6445,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0076",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0076",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0076",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -6519,7 +6535,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0077",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0077",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0077",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -6557,7 +6573,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0078",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0078",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0078",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -6614,7 +6630,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0079",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0079",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0079",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -6665,7 +6681,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0080",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0080",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0080",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -6754,7 +6770,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0081",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0081",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0081",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -6819,7 +6835,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0082",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0082",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0082",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -6874,7 +6890,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0083",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0083",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0083",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -6941,7 +6957,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0084",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0084",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0084",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -6991,7 +7007,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0085",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0085",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0085",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -7046,7 +7062,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0086",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0086",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0086",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -7090,7 +7106,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0087",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0087",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0087",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -7163,7 +7179,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0088",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0088",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0088",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -7260,7 +7276,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0089",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0089",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0089",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -7326,7 +7342,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0090",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0090",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0090",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -7388,7 +7404,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0091",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0091",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0091",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -7436,7 +7452,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0092",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0092",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0092",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -7480,7 +7496,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0093",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0093",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0093",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -7558,7 +7574,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0094",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0094",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0094",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -7603,7 +7619,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0095",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0095",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0095",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -7651,7 +7667,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0096",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0096",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0096",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -7716,7 +7732,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0097",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0097",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0097",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -7771,7 +7787,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0098",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0098",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0098",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -7892,7 +7908,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0099",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0099",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0099",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -7963,7 +7979,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0100",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0100",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0100",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -8001,7 +8017,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0101",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0101",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0101",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -8052,7 +8068,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0102",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0102",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0102",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -8230,7 +8246,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0103",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0103",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0103",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -8275,7 +8291,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0104",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0104",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0104",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -8326,7 +8342,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0105",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0105",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0105",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -8371,7 +8387,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0106",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0106",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0106",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -8498,7 +8514,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0108",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0108",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0108",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -8565,7 +8581,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0109",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0109",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0109",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -8615,7 +8631,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0110",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0110",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0110",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -8702,7 +8718,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0111",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0111",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0111",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -8772,7 +8788,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0112",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0112",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0112",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -8834,7 +8850,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0113",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0113",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0113",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -8924,7 +8940,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0114",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0114",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0114",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -8978,7 +8994,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0116",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0116",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0116",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -9023,7 +9039,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0118",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0118",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0118",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -9184,7 +9200,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0119",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0119",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0119",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -9253,7 +9269,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0120",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0120",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0120",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -9309,7 +9325,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0121",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0121",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0121",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -9366,7 +9382,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0122",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0122",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0122",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -9410,7 +9426,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0123",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0123",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0123",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -9482,7 +9498,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0124",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0124",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0124",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -9564,7 +9580,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0125",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0125",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0125",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -9609,7 +9625,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0126",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0126",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0126",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -9666,7 +9682,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0127",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0127",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0127",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -9717,7 +9733,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0128",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0128",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0128",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -9762,7 +9778,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0129",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0129",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0129",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -9813,7 +9829,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0130",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0130",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0130",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -9960,7 +9976,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0131",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0131",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0131",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -10018,7 +10034,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0132",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0132",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0132",
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -10068,7 +10084,7 @@
     {
       "@type": "Dataset",
       "@id": "urn:org:agu:data:impactful-datasets:id:dataset:agu-0133",
-      "mainEntityOfPage": "https://impactfuldatasets.agu.org/#/dataset/agu-0133",
+      "mainEntityOfPage": "https://data.agu.org/impactful-datasets/#/dataset/agu-0133",
       "identifier": [
         {
           "@type": "PropertyValue",
