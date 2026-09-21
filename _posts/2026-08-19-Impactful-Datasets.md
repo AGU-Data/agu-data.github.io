@@ -35,6 +35,6 @@ The Impactful Datasets in Earth, Space, and Environmental Sciences Special Colle
 ### Ways to be involved
 [Submit to the Special Collection](https://agupubs.onlinelibrary.wiley.com/hub/journal/23335084/call-for-papers/si-2026-000577)<br>
 [Nominate an Impactful Dataset](https://docs.google.com/forms/d/e/1FAIpQLSf0Tlb1a29C2I-lNyl8qf_1oG1tFBosYW5qGBBj70D42Nhn_w/viewform)<br>
-[Read the Commentary]
+[Read the Commentary](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002623)
 
 
