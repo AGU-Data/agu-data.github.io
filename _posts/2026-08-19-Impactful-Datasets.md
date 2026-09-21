@@ -22,12 +22,17 @@ The dimensions of impact are intended to be broad. The description below interpr
 **Planet Dimension** - Positive impact on physical systems: geophysical phenomena, conservation, climate, environmental indicators<br>
 **Prosperity Dimension** - Positive impact on socioeconomic systems: economic good, social equity, humanitarian relief, community resilience<br>
 
-A commentary published in *AGU Advances* officially launches AGU’s new special collection of data papers called Impactful Datasets in Earth, Space, and Environmental Sciences, hosted by the journal *Earth and Space Science.* This special collection provides an opportunity to celebrate and highlight the people, methods, and ongoing dedication necessary to ensure the best possible data are available and ready for use.
+A commentary published in *AGU Advances* officially launches AGU’s new special collection of data papers called **Impactful Datasets in Earth, Space, and Environmental Sciences**, hosted by the journal *Earth and Space Science.* This special collection provides an opportunity to celebrate and highlight the people, methods, and ongoing dedication necessary to ensure the best possible data are available and ready for use.
 
-The new special collection follows on the effort initiated in 2025 to encourage the AGU community to nominate impactful datasets. The idea was sparked by Joseph Gum, an atmospheric data expert, and co-developed with the Earth Science Information Partners community. Research impact is commonly measured through the number of times a paper is cited by others.
+The new special collection follows on the effort initiated in 2025 to encourage the AGU community to nominate impactful datasets. The idea was sparked by Joseph Gum, an atmospheric data expert, and co-developed with the Earth Science Information Partners community. 
 
-For datasets, measuring impact is multi-dimensional. Data are used for research, but also in everyday lives through apps on your phone, the decision to carry your umbrella, real time driving prompts, and changes to the costs of your insurance policy. We encourage dataset nominators to use three sustainability dimensions from “Geoscience in Action: Advancing Sustainable Development”: People, Planet and Prosperity. We welcome you to read the personal narratives describing all aspects of impactful dataset. 
+Research impact is commonly measured through the number of times a paper is cited by others. For datasets, measuring impact is multi-dimensional. Data are used for research, but also in everyday lives through apps on your phone, the decision to carry your umbrella, real time driving prompts, and changes to the costs of your insurance policy. We encourage dataset nominators to use three sustainability dimensions from “Geoscience in Action: Advancing Sustainable Development”: People, Planet and Prosperity. We welcome you to read the personal narratives describing all aspects of impactful dataset. 
 
 The Impactful Datasets in Earth, Space, and Environmental Sciences Special Collection invites those at the forefront of data stewardship to consider submitting a technical data paper inclusive of those who collected, curated, managed and used the impactful dataset.
+
+### Ways to be involved
+[Submit to the Special Collection](https://agupubs.onlinelibrary.wiley.com/hub/journal/23335084/call-for-papers/si-2026-000577)<br>
+[Nominate an Impactful Dataset](https://docs.google.com/forms/d/e/1FAIpQLSf0Tlb1a29C2I-lNyl8qf_1oG1tFBosYW5qGBBj70D42Nhn_w/viewform)<br>
+[Read the Commentary]
 
 
