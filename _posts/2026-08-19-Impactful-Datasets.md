@@ -18,9 +18,9 @@ An impactful dataset is not measured simply by usage or citation. Instead, we ar
 
 The dimensions of impact are intended to be broad. The description below interprets them for datasets and is intended to inspire. 
 
-**People Dimension** - Positive impact on Individuals: education, training, disaster response and prediction
-**Planet Dimension** - Positive impact on physical systems: geophysical phenomena, conservation, climate, environmental indicators
-**Prosperity Dimension** - Positive impact on socioeconomic systems: economic good, social equity, humanitarian relief, community resilience
+**People Dimension** - Positive impact on Individuals: education, training, disaster response and prediction<br>
+**Planet Dimension** - Positive impact on physical systems: geophysical phenomena, conservation, climate, environmental indicators<br>
+**Prosperity Dimension** - Positive impact on socioeconomic systems: economic good, social equity, humanitarian relief, community resilience<br>
 
 A commentary published in *AGU Advances* officially launches AGU’s new special collection of data papers called Impactful Datasets in Earth, Space, and Environmental Sciences, hosted by the journal *Earth and Space Science.* This special collection provides an opportunity to celebrate and highlight the people, methods, and ongoing dedication necessary to ensure the best possible data are available and ready for use.
 
