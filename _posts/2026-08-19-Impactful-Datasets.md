@@ -22,6 +22,8 @@ The dimensions of impact are intended to be broad. The description below interpr
 **Planet Dimension** - Positive impact on physical systems: geophysical phenomena, conservation, climate, environmental indicators<br>
 **Prosperity Dimension** - Positive impact on socioeconomic systems: economic good, social equity, humanitarian relief, community resilience<br>
 
+### The Special Collection
+
 A commentary published in *AGU Advances* officially launches AGU’s new special collection of data papers called **Impactful Datasets in Earth, Space, and Environmental Sciences**, hosted by the journal *Earth and Space Science.* This special collection provides an opportunity to celebrate and highlight the people, methods, and ongoing dedication necessary to ensure the best possible data are available and ready for use.
 
 The new special collection follows on the effort initiated in 2025 to encourage the AGU community to nominate impactful datasets. The idea was sparked by Joseph Gum, an atmospheric data expert, and co-developed with the Earth Science Information Partners community. 
