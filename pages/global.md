@@ -24,15 +24,15 @@ We have invited representatives from across the broad research infrastructure co
  
 # Global Data Resilience
 
-**All impactful Earth, space, and environmental sciences data, available through and beyond periods of disruption.**
+**Preserving data as a world heritage to secure our future.**
 
 Global Data Resilience (GDR) is building a consortium of repositories, repository networks, and supporting organizations that share capacity, coordinate effort, and act as a collective safety net for scientific data.
 
 [Get involved](#how-to-get-involved) · [Read the roadmap](#roadmap)
 
-| ~100 | 10 | 4 | 5 |
+| 100+ | 11 | 4 | 5 |
 | :---: | :---: | :---: | :---: |
-| experts at the Berlin convening | task groups shaping the plan | tracks of work | phases over several years |
+| experts at the March convening in Berlin | task groups shaping the plan | tracks of work | phases over several years |
 
 ---
 
@@ -48,7 +48,7 @@ Scientific data face threats on several fronts: U.S. repository closures, lost E
 
 - **A cascading problem.** A funding cut leads to lost staff and expertise, which leaves infrastructure unmaintained, which deepens institutional fragility. Fixing one link in that chain leaves repositories exposed.
 - **A global response.** AGU launched the Data Resilience Project in summer 2025. In March 2026, it brought nearly 100 experts from around the world to Berlin, with support from the William and Flora Hewlett Foundation.
-- **A shared roadmap.** Ten task groups formed at the convening. Their work became the GDR roadmap, which lays out four tracks of work across five phases. Coordination starts within the Research Data Alliance (RDA).
+- **A shared roadmap.** Eleven task groups formed at the convening. Their work became the GDR roadmap, which lays out four tracks of work across five phases. The first set of pilots have launched in Oct/Nov 2026. 
 
 > "Data resilience is not a plan. Data resilience is skilled people, tested specifications, and repositories that already know each other."
 >
@@ -59,8 +59,8 @@ Scientific data face threats on several fronts: U.S. repository closures, lost E
 - **A governance body:** Lightweight coordination that guides the roadmap, links related efforts, and advocates for support.
 - **A mutual support network:** A global network of networks for backup support, replication, and continuity help when a repository is in trouble.
 - **Crisis preparedness guidance:** A Crisis Preparedness Kit, data delivery package specs, risk assessment tools, and scenario playbooks.
-- **An interoperability recommendation:** Common standards and vocabulary mappings so data can move between very different repositories.
-- **An ethics and sovereignty advisory body:** Expert advice on the legal and ethical side of moving data, including Indigenous data sovereignty.
+- **An interoperability recommendation:** Common standards and vocabulary mappings so data can move between different repositories.
+- **An ethics and sovereignty guidance:** Expert advice on the legal and ethical side of moving data, including Indigenous data sovereignty.
 - **A sustainability model:** A coalition-based financial structure that doesn't depend solely on government funding.
 - **Outreach and education:** Growing the community of practice and delivering training so the guidance gets used.
 
@@ -85,13 +85,17 @@ Scientific data face threats on several fronts: U.S. repository closures, lost E
 
 The approach is to build the guidance by putting it into practice. Pilots test structures and standards in real repositories, and what we learn shapes each next phase.
 
+
+**Read the current version of the Roadmap.** 
+   [Link](https://doi.org/10.5281/zenodo.23740218)
+
 ### How we got here
 
 | When | Milestone |
 | --- | --- |
-| Summer 2025 | **Project launches.** AGU creates the Data Resilience Project. |
-| March 2026, Berlin | **Global convening.** Nearly 100 experts draft the first roadmap and form 10 task groups. |
-| Spring–Fall 2026 | **Task group work.** Task groups develop plans for interoperability, governance, rights, and more. |
+| September 2025 | **Project launches.** AGU creates the Data Resilience Project. |
+| March 2026, Berlin | **Global convening.** Over 100 experts draft the first roadmap and form 11 task groups. |
+| April-September 2026 | **Task group work.** Task groups develop plans for interoperability, governance, rights, and more. |
 | October 2026 | **Roadmap compiled.** The GDR Consortium roadmap brings the task group plans together. |
 
 ### Five phases ahead
@@ -202,7 +206,7 @@ GDR depends on repositories, data stewards, researchers, funders, and partners w
    [Sign up](https://forms.monday.com/forms/2a6eb70c887134ae3d333b2360e186cd?r=use1)
 
 2. **Watch the RDA webinar.** Learn how GDR came together, how coordination works within the Research Data Alliance, and where the consortium is headed.
-   [Watch the webinar](#) <!-- TODO: add RDA webinar URL -->
+   [Watch the webinar](https://doi.org/10.5281/zenodo.24119005) 
 
 Questions? Email [DataHelp@agu.org](mailto:DataHelp@agu.org).
 
