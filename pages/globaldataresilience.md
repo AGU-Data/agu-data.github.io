@@ -160,8 +160,9 @@ Track 1 includes a pilot to build a repeatable way to assess and prioritize data
 Example Datasets: GHCN-Daily · CoCoRaHS · US Climate Reference Network · GPCP · IMERG
 
 <details>
-<summary><strong>Task groups and cochairs that contributed to the roadmap</strong></summary>
+<summary><strong>Information on the 11 Task groups and cochairs (click)</strong></summary>
 
+### Task groups established after the March 2026 meeting along with the co-chairs. They convened their teams to develop project plans that were incorporated into the roadmap.
 | Group | Focus | Cochairs |
 | --- | --- | --- |
 | TG1 | Data Interoperability and User Understanding | Lou Darroch, Doug Fils |
@@ -170,7 +171,7 @@ Example Datasets: GHCN-Daily · CoCoRaHS · US Climate Reference Network · GPCP
 | TG4 | Governance | Hilary Hanahoe, Tim Rawling |
 | TG5 | Mid- to Long-Term Technical Solutions | Andrew Padilla, Francisca Muñoz Bravo |
 | TG6 | Sovereignty and Ethics | Gaby Pino, Louise Bezuidenhout |
-| TG7 | Indigenous Data Sovereignty | Cas Sedran Price, Maui Hudson |
+| TG7 | Indigenous Data Sovereignty | Cas Sedran-Price, Maui Hudson |
 | TG8 | Adoption and Implementation | everyone |
 | TG9 | Repository Crisis Preparedness Kit | Amy Nurnberger, Doug Schuster, Riley Conroy |
 | TG10 | Building Mutual Support Networks of Repositories | Reyna Broadhurst, Lesley Wyborn |
