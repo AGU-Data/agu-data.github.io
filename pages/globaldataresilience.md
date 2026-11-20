@@ -81,6 +81,7 @@ The approach is to build the guidance by putting it into practice. Pilots test s
 | March 2026, Berlin | **Global convening.** Over 100 experts draft the first roadmap and form 11 task groups. |
 | April-September 2026 | **Task group work.** Task groups develop plans for interoperability, governance, rights, and more. |
 | October 2026 | **Roadmap compiled.** The GDR Consortium roadmap brings the task group plans together. |
+| November 2026 | **Roadmap v1 published.** The GDR Consortium roadmap published for broad distribution, comment, and a catalyst for expanding engagement. |
 
 ### Five phases ahead
 
