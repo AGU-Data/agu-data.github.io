@@ -2,7 +2,7 @@
 layout: page
 title: Global Data Resilience
 permalink: /globaldataresilience/
-feature-img: "assets/img/pexels/triangular.jpeg"
+feature-img: "assets/img/pexels/GDR-March-Data.png"
 tags: [Gloabal Data Resilience]
 ---
 
