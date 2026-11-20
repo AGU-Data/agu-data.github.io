@@ -84,15 +84,15 @@ The approach is to build the guidance by putting it into practice. Pilots test s
 
 ### Five phases ahead
 
-| Phase | Timing | Key work |
-| --- | --- | --- |
-| 1. Build Foundation | ~Months 1–3 | Confirm core collaborators and teams; choose first pilot participants; inventory existing standards; hire a community manager and form an advisory board |
-| 2. Pilot and Refine | ~Months 4–12 | ★ Crisis Preparedness Guideline v1.0; ★ Interoperability framework v1.0; pilots with three or more repositories; coordination set up within RDA |
-| 3. Operate | ~Year 2 | ★ Operational governance body; ★ Mirroring and matching between repositories; ★ Replication built into preparedness guidance; open enrollment in the network |
-| 4. Assess and Revise | ~3 months | Midterm review of every product; community assessment workshop; a new roadmap for the years ahead |
-| 5. Grow and Maintain | ~Years 3–5 | Sustain, maintain, and grow the consortium; Guideline and framework v2.0 updates |
+| Phase | Key work |
+| --- | --- |
+| 1. Build Foundation | Confirm core collaborators and teams; choose first pilot participants; inventory existing standards; hire a community manager and form an advisory board |
+| 2. Pilot and Refine | ★ Crisis Preparedness Guideline v1.0; ★ Interoperability framework v1.0; pilots with three or more repositories; establish global coordination with the help of RDA and others |
+| 3. Operate | ★ Operational governance body; ★ Mirroring and matching between repositories; ★ Replication built into preparedness guidance; open enrollment in the network |
+| 4. Assess and Revise | Midterm review of every product; community assessment workshop; a new roadmap for the years ahead |
+| 5. Grow and Maintain | Sustain, maintain, and grow the consortium; Guideline and framework v2.0 updates |
 
-★ Major milestone. Timing is approximate and phases overlap; the roadmap keeps evolving as we learn.
+★ Major milestone. The roadmap keeps evolving as we learn.
 
 ---
 
@@ -140,7 +140,7 @@ Guidance and support on legal, ethical, and sovereignty issues so data can be sa
 - Indigenous advisory structure, building on CARE principles
 - Organizational interoperability work with CODATA and RDA
 
-*Working group: Rights WG*
+*Working group: Rights WG, Legal WG*
 
 ### Initial pilots
 
@@ -150,17 +150,13 @@ Guidance and support on legal, ethical, and sovereignty issues so data can be sa
 | Global seismologic data | Track 1: Mutual support | Testing mutual support and resilience specifications across seismology networks. |
 | Oceanographic data | Track 3: Business models | Exploring a range of business and organizational models for ocean data repositories. |
 | Environmental data | Track 3: Business models | Exploring a range of business and organizational models for environmental data repositories. |
+| Hydrologic data | Track 3: Business models | Exploring a range of business and organizational models for hydrologic data repositories. |
 
 ### Now: Dataset risk assessment for precipitation
 
 Track 1 includes a pilot to build a repeatable way to assess and prioritize datasets by risk. AGU and the New York Climate Exchange, in cooperation with the Keeling Curve Foundation, are testing it on precipitation, a field where many records feed one another. Experts will score datasets at a workshop on December 15 and 16, 2026.
 
-Datasets: GHCN-Daily · CoCoRaHS · US Climate Reference Network · GPCP · IMERG
-
-**The Ensemble tools**
-
-- **R\*** gives a quick risk score across data, people, repository, and infrastructure risk.
-- **UReDI** weighs risk against value: how urgent a loss would be, how hard recovery would be, and how widely the data are used.
+Example Datasets: GHCN-Daily · CoCoRaHS · US Climate Reference Network · GPCP · IMERG
 
 <details>
 <summary><strong>Task groups and cochairs</strong></summary>
@@ -174,6 +170,7 @@ Datasets: GHCN-Daily · CoCoRaHS · US Climate Reference Network · GPCP · IMER
 | TG5 | Mid- to Long-Term Technical Solutions | Andrew Padilla, Francisca Muñoz Bravo |
 | TG6 | Sovereignty and Ethics | Gaby Pino, Louise Bezuidenhout |
 | TG7 | Indigenous Data Sovereignty | Cas Sedran Price, Maui Hudson |
+| TG8 | Adoption and Implementation | everyone |
 | TG9 | Repository Crisis Preparedness Kit | Amy Nurnberger, Doug Schuster, Riley Conroy |
 | TG10 | Building Mutual Support Networks of Repositories | Reyna Broadhurst, Lesley Wyborn |
 | TG11 | Legal Consultation | Jens Klump |
