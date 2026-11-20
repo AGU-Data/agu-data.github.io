@@ -186,7 +186,7 @@ Example Datasets: GHCN-Daily · CoCoRaHS · US Climate Reference Network · GPCP
 GDR depends on repositories, data stewards, researchers, funders, and partners who show up before a crisis. Start here.
 
 1. **Sign up for the newsletter.** Get updates on pilots, new guidance, open enrollment in the mutual support network, and calls for volunteers to test and review products.
-   [Sign up](https://forms.monday.com/forms/2a6eb70c887134ae3d333b2360e186cd?r=use1)
+   [Sign up](https://www.rd-alliance.org/global-data-resilience-initiative-form/)
 
 2. **Watch the RDA webinar.** Learn how GDR came together, how coordination works within the Research Data Alliance, and where the consortium is headed.
    [Watch the webinar](https://doi.org/10.5281/zenodo.24119005) 
