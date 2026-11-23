@@ -159,7 +159,8 @@ Track 1 includes a pilot to build a repeatable way to assess and prioritize data
 
 Example Datasets: GHCN-Daily · CoCoRaHS · US Climate Reference Network · GPCP · IMERG
 
-### Task groups established after the March 2026 meeting along with the co-chairs. They convened their teams to develop project plans that were incorporated into the roadmap.
+### Task groups established -- March 2026 meeting along with the co-chairs
+
 | Group | Focus | Cochairs |
 | --- | --- | --- |
 | TG1 | Data Interoperability and User Understanding | Lou Darroch, Doug Fils |
