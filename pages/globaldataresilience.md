@@ -159,28 +159,6 @@ Track 1 includes a pilot to build a repeatable way to assess and prioritize data
 
 Example Datasets: GHCN-Daily · CoCoRaHS · US Climate Reference Network · GPCP · IMERG
 
-<details>
-<summary><strong>Task groups and co-chairs - shaped the roadmap</strong></summary>
-
-### Task groups and co-chairs - established March 2026 
-
-| Group | Focus | Cochairs |
-| --- | --- | --- |
-| TG1 | Data Interoperability and User Understanding | Lou Darroch, Doug Fils |
-| TG2 | Process Resilience and Asset Transfer Planning | Adam Leadbetter, Graham Parton |
-| TG3 | Mid- to Long-Term Business Models | Katherine Skinner, Matt Harrison |
-| TG4 | Governance | Hilary Hanahoe, Tim Rawling |
-| TG5 | Mid- to Long-Term Technical Solutions | Andrew Padilla, Francisca Muñoz Bravo |
-| TG6 | Sovereignty and Ethics | Gaby Pino, Louise Bezuidenhout |
-| TG7 | Indigenous Data Sovereignty | Cas Sedran-Price, Maui Hudson |
-| TG8 | Adoption and Implementation | everyone |
-| TG9 | Repository Crisis Preparedness Kit | Amy Nurnberger, Doug Schuster, Riley Conroy |
-| TG10 | Building Mutual Support Networks of Repositories | Reyna Broadhurst, Lesley Wyborn |
-| TG11 | Legal Consultation | Jens Klump |
-
-</details>
-
-
 ---
 
 ## How to get involved
