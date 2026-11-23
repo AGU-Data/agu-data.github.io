@@ -160,7 +160,7 @@ Track 1 includes a pilot to build a repeatable way to assess and prioritize data
 Example Datasets: GHCN-Daily · CoCoRaHS · US Climate Reference Network · GPCP · IMERG
 
 <details>
-<summary><strong></strong>Task groups and co-chairs - shaped the roadmap</strong></summary>
+<summary><strong>Task groups and co-chairs - shaped the roadmap</strong></summary>
 
 ### Task groups and co-chairs - established March 2026 
 
