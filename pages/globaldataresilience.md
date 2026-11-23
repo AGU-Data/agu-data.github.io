@@ -159,7 +159,10 @@ Track 1 includes a pilot to build a repeatable way to assess and prioritize data
 
 Example Datasets: GHCN-Daily · CoCoRaHS · US Climate Reference Network · GPCP · IMERG
 
-### Task groups established -- March 2026 meeting along with the co-chairs
+<details>
+<summary><strong></strong>Task groups and co-chairs - shaped the roadmap</strong></summary>
+
+### Task groups and co-chairs - established March 2026 
 
 | Group | Focus | Cochairs |
 | --- | --- | --- |
@@ -174,6 +177,8 @@ Example Datasets: GHCN-Daily · CoCoRaHS · US Climate Reference Network · GPCP
 | TG9 | Repository Crisis Preparedness Kit | Amy Nurnberger, Doug Schuster, Riley Conroy |
 | TG10 | Building Mutual Support Networks of Repositories | Reyna Broadhurst, Lesley Wyborn |
 | TG11 | Legal Consultation | Jens Klump |
+
+</details>
 
 
 ---
