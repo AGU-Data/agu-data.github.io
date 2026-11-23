@@ -159,9 +159,6 @@ Track 1 includes a pilot to build a repeatable way to assess and prioritize data
 
 Example Datasets: GHCN-Daily · CoCoRaHS · US Climate Reference Network · GPCP · IMERG
 
-<details>
-<summary><strong>Information on the 11 Task groups and cochairs (click)</strong></summary>
-
 ### Task groups established after the March 2026 meeting along with the co-chairs. They convened their teams to develop project plans that were incorporated into the roadmap.
 | Group | Focus | Cochairs |
 | --- | --- | --- |
@@ -177,7 +174,6 @@ Example Datasets: GHCN-Daily · CoCoRaHS · US Climate Reference Network · GPCP
 | TG10 | Building Mutual Support Networks of Repositories | Reyna Broadhurst, Lesley Wyborn |
 | TG11 | Legal Consultation | Jens Klump |
 
-</details>
 
 ---
 
